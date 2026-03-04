@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<realStateWivaiProductListData>
+    <fileGenerationDate>2025-11-11 13:01:49</fileGenerationDate>
+    <products>
+        <product>
+            <code>00116595</code>
+            <livingPlaceType>VALUE_02</livingPlaceType>
+            <name>Local en San cristóbal de la laguna</name>
+            <targetCommercialization>VALUE_03</targetCommercialization>
+            <currentSalePrice>1411000.0</currentSalePrice>
+            <bedrooms>1</bedrooms>
+            <country>ES</country>
+            <province>ES-38</province>
+            <population>SAN CRISTÓBAL DE LA LAGUNA</population>
+            <district>ISLA DE TENERIFE</district>
+            <postalCode>38201</postalCode>
+            <bathrooms>1</bathrooms>
+            <buildedSurface>532.88</buildedSurface>
+            <address>
+                <streetType>VALUE_00007</streetType>
+                <street>OBISPO REY REDONDO</street>
+            </address>
+            <medias>
+                <media>
+                    <mediaUrl>
+                        https://apifrontend.buildingcenter.es/medias/?context=bWFzdGVyfGltYWdlc3wyMzE4OTh8aW1hZ2UvanBlZ3xhREJqTDJnNVlpOHhORFF4T1RJeU5UVXdPVGt4T0F8Mjc2ODVjMDkxNmNmODE3ZWYxMjcyZjVhNzBjZTk5NjVlNjQ4M2NjNTRmNzk0MzVjZDYwZGU5ZDVjYzQ0ZDlmNQ</mediaUrl>
+                    <mediaOrder>1</mediaOrder>
+                </media>
+                <media>
+                    <mediaUrl>
+                        https://apifrontend.buildingcenter.es/medias/?context=bWFzdGVyfGltYWdlc3w1NDk2N3xpbWFnZS9qcGVnfGFESmhMMmd6WlM4eE5EUXlNRFUzTnpZNE1UUXpPQXwxZDMzYzRhOTA3NTQzMjFlYWNkOWE5MmMyY2U2NWMxNWEwYmMwZDI5ZTRiOTgzMDkwMzBlODdmM2Q3NGFhZDYw</mediaUrl>
+                    <mediaOrder>2</mediaOrder>
+                </media>
+                <media>
+                    <mediaUrl>
+                        https://apifrontend.buildingcenter.es/medias/?context=bWFzdGVyfGltYWdlc3w1MTc3M3xpbWFnZS9qcGVnfGFESmpMMmd6WWk4eE5EUXlNRFUzTnpjME5qazNOQXwzZWQzNTE3YmNkNjBlMGY0OTkyM2I4MTJkZDhjMGFiMWRkN2UzNjg3Mzc0MDQzNTU5M2I2ZWZjNmM3YWU3ZDEw</mediaUrl>
+                    <mediaOrder>3</mediaOrder>
+                </media>
+                <media>
+                    <mediaUrl>
+                        https://apifrontend.buildingcenter.es/medias/?context=bWFzdGVyfGltYWdlc3wzOTQzNXxpbWFnZS9qcGVnfGFEVmpMMmd6TkM4eE5EUXlNRFUzTnprME16VTRNZ3w0NjY5NjAyZDIyMTAxZGIzOTM5OTYzMmMwMGU0OTNkNjg5ODJhYjQ3NjljY2NjZGI3MDJkNmQ1YWEzY2FmODA5</mediaUrl>
+                    <mediaOrder>4</mediaOrder>
+                </media>
+                <media>
+                    <mediaUrl>
+                        https://apifrontend.buildingcenter.es/medias/?context=bWFzdGVyfGltYWdlc3w1MjE1MXxpbWFnZS9qcGVnfGFEUmtMMmd4Tmk4eE5EUXlNRFUzT0RBd09URXhPQXwxZTI5NGY4OTc5ZTE5MDUxOTMyNDNkZTA2ZmVlMTM4ZDVjY2ViMmNmMWRjNDdiMjFkMmNlNzEzMWJhNjQwOWRm</mediaUrl>
+                    <mediaOrder>5</mediaOrder>
+                </media>
+                <media>
+                    <mediaUrl>
+                        https://apifrontend.buildingcenter.es/medias/?context=bWFzdGVyfGltYWdlc3w1MTMwMnxpbWFnZS9qcGVnfGFERmlMMmd6T0M4eE5EUXlNRFUzTnpneE1qVXhNQXwwMmZiMTdjZDQxODY4NTFlOWQzZTI1N2IyYWQxMmRhNDc2ZDY4MGE4YTAzZjg5ODAyNzI3OTY1MjhjMjc0YmQx</mediaUrl>
+                    <mediaOrder>6</mediaOrder>
+                </media>
+                <media>
+                    <mediaUrl>
+                        https://apifrontend.buildingcenter.es/medias/?context=bWFzdGVyfGltYWdlc3w1NTU1OHxpbWFnZS9qcGVnfGFHSTVMMmcwT0M4eE5EUXlNRFUzTnpNMU16YzFPQXw0MjI0NzI4NGQ4Mzc0YmM0NDRlMjM3MWYxNjNjNmI5NThlZTBmZGU0YjA3ODgwNDNhZThmMzhhNmY1ODEyOWU4</mediaUrl>
+                    <mediaOrder>7</mediaOrder>
+                </media>
+                <media>
+                    <mediaUrl>
+                        https://apifrontend.buildingcenter.es/medias/?context=bWFzdGVyfGltYWdlc3w2MjE0OHxpbWFnZS9qcGVnfGFEQmxMMmd4Tnk4eE5EUXlNRFUzT0RBM05EWTFOQXxmNjRmZTIzYjc4YWViN2RmZWU4ODY4MzlhYThlMGZlZWMzM2Y1ZjA4ZjFkOWM4ZTk2Y2Y1OWE0MWUzZWUzMjI4</mediaUrl>
+                    <mediaOrder>8</mediaOrder>
+                </media>
+                <media>
+                    <mediaUrl>
+                        https://apifrontend.buildingcenter.es/medias/?context=bWFzdGVyfGltYWdlc3w0NTYyMHxpbWFnZS9qcGVnfGFHSmlMMmcwTlM4eE5EUXlNRFUzTnpReE9USTVOQXxhOTRiZWNiYWQyMmYyNmMyYjY3YjUxMzhjOWU0ZjE3ZWFiZTE3Y2ZkNWYzYmNjODVlNzAyODg0OTdmYWJiNzI1</mediaUrl>
+                    <mediaOrder>9</mediaOrder>
+                </media>
+                <media>
+                    <mediaUrl>
+                        https://apifrontend.buildingcenter.es/medias/?context=bWFzdGVyfGltYWdlc3w0NzY5M3xpbWFnZS9qcGVnfGFEWmpMMmd6Tnk4eE5EUXlNRFUzTnpnM09EQTBOZ3xlOGNhMzAzYTJiMjJmYmJiYmU1Y2U3YzI1NTgyZTE2Y2M4NmQ3OGFhNjc1ODBjNjdlMjhhZDMxMjdiMDFiYzA0</mediaUrl>
+                    <mediaOrder>10</mediaOrder>
+                </media>
+                <media>
+                    <mediaUrl>
+                        https://apifrontend.buildingcenter.es/medias/?context=bWFzdGVyfGltYWdlc3w0OTI1OXxpbWFnZS9qcGVnfGFHTmhMMmcwWWk4eE5EUXlNRFUzTnpJNE9ESXlNZ3xmNTAwYTJjY2MyZTZhNWM4ZDAxZmVmYjcxZDcwOWYzMjA0ZjJlZDRlYzVlMTE4MTA3YWQxYzc0MjQyYzg3Yjgy</mediaUrl>
+                    <mediaOrder>11</mediaOrder>
+                </media>
+                <media>
+                    <mediaUrl>
+                        https://apifrontend.buildingcenter.es/medias/?context=bWFzdGVyfGltYWdlc3w2Mzc0N3xpbWFnZS9qcGVnfGFESXdMMmd4WVM4eE5EUXlNRFUzT0RFME1ERTVNQXxhZjQ2N2VhNTg0ODE4MzQ1YjljNDE3NGFhZmU5MDFiMzhmODA4NjM2NmZjMmI0YzgwMWY0ZjgyODI2MTM3Y2Zl</mediaUrl>
+                    <mediaOrder>12</mediaOrder>
+                </media>
+                <media>
+                    <mediaUrl>
+                        https://apifrontend.buildingcenter.es/medias/?context=bWFzdGVyfGltYWdlc3w1OTI2OXxpbWFnZS9qcGVnfGFHWmhMMmcwTkM4eE5EUXlNRFUzTnpRNE5EZ3pNQXxkZjhiOTk3NWNlOGZmZWQ0YTE3MmFkMzk1ZTE0NDZjMWU4NTk4MGI1OGE1N2YxMWM5OGZkNmE4NDY1ZDA4YjZm</mediaUrl>
+                    <mediaOrder>13</mediaOrder>
+                </media>
+                <media>
+                    <mediaUrl>
+                        https://apifrontend.buildingcenter.es/medias/?context=bWFzdGVyfGltYWdlc3w0MjczM3xpbWFnZS9qcGVnfGFHVTVMMmcwTVM4eE5EUXlNRFUzTnpVMU1ETTJOZ3xiYjg0MDhmNzBhNDEyZDdmMTViMDgzZWRjODZjNGIyMDgwMDM2YjIzNzk4NjMxOWY0NDRkNzgzZDI2MGU5NTVl</mediaUrl>
+                    <mediaOrder>14</mediaOrder>
+                </media>
+                <media>
+                    <mediaUrl>
+                        https://apifrontend.buildingcenter.es/medias/?context=bWFzdGVyfGltYWdlc3w0OTYzOHxpbWFnZS9qcGVnfGFHVmlMMmd6WlM4eE5EUXlNRFUzTnpZeE5Ua3dNZ3w4MGFiMmI3ODM3OTdmMGQ0M2Q3ZTZmZmQwMDc3NWZiZjY0NDVlZTdjZTU1ZDJhMzNhNWNhMzY2NTJlNDMzNWE4</mediaUrl>
+                    <mediaOrder>15</mediaOrder>
+                </media>
+            </medias>
+            <airConditioning>false</airConditioning>
+            <lift>false</lift>
+            <parking>false</parking>
+            <pool>false</pool>
+            <heating>false</heating>
+            <garden>false</garden>
+            <terrace>false</terrace>
+            <description>
+                <advertisingTextType>Local comercial de 500 m² ubicado en San Cristóbal de la
+                    Laguna, Santa Cruz de Tenerife. Se trata de un local comercial de 500 m²
+                    distribuidos en varias dependencias, con 1 baño. Cuenta con acceso directo desde
+                    calle, lo que facilita la entrada y salida de clientes y proveedores. El local
+                    comercial se sitúa en el núcleo urbano de San Cristóbal de la Laguna, en una de
+                    las principales zonas comerciales y de servicios de la ciudad, con excelentes
+                    accesos a través de la TF-5 y la Avenida Trinidad. La zona dispone de una amplia
+                    red de transporte público, con varias líneas de autobús urbano e interurbano
+                    (TITSA) y paradas de tranvía cercanas, que conectan con Santa Cruz de Tenerife y
+                    otros puntos de interés de la isla. Además, la estación de tren más cercana se
+                    encuentra en Santa Cruz, y el Aeropuerto de Tenerife Norte está a pocos minutos
+                    en coche. En el entorno inmediato se pueden encontrar supermercados,
+                    restaurantes, instalaciones deportivas, centros educativos, oficinas bancarias y
+                    una variada oferta de comercios. Entre los puntos de interés cercanos destacan
+                    el Hospital Universitario de Canarias, el centro comercial Alcampo La Laguna, el
+                    Parque La Vega, la Catedral de La Laguna y el Museo de Historia y Antropología
+                    de Tenerife. La zona cuenta también con servicios de salud, farmacias y otras
+                    infraestructuras necesarias para cualquier actividad comercial. Con nuestros
+                    servicios podrá encontrar el local comercial que necesita y asegurar su
+                    inversión con el mejor de los asesoramientos especializados. Empiece ahora mismo
+                    pidiendo más información. Un responsable cercano a usted le atenderá
+                    personalmente.</advertisingTextType>
+            </description>
+            <conservationStatus>VALUE_01</conservationStatus>
+            <realStateType>VALUE_02</realStateType>
+            <longitude>-016.3158849</longitude>
+            <latitude>+028.4881678</latitude>
+            <storageRoom>true</storageRoom>
+            <ppubUrl>
+                https://www.buildingcenter.es/es/compra/antiguas oficinas
+                cxb/sta-cruz-de-tenerife/isla-de-tenerife/san-cristobal-de-la-laguna/00116595?invitation=dTbFOZ7ZQwIH5pcwVYX4HuBVetwkFRCaiCX8m68EEE7hcFgdSq7itZJNF%2F8gBvO3oTQ3nYBMBYktQY8vUG0CPKu2S1MBOl3UrSXAmNHLrwciMHVY04mbc4nXkIc%2Bx69Ln0D66uNzd0Mr%2BFQanmtmkLLwAMNNFQswFV8cHpaXC5SiOg4rzhx1sK8IQtND6WyqKhF93xOx5zZ3mINkan71HytVhvHG20sVZspXTNdsDRB0lwNgHO6tjhA0vQRMBaaS0oIO87o271VmSy8%2FjswBLejLpol2sVFJ</ppubUrl>
+            <builtPercentage>100.0</builtPercentage>
+            <energyCertificateRequestDate>Tue Mar 05 00:00:00 CET 2024</energyCertificateRequestDate>
+            <endDateEnergyCertificate>Sun Mar 05 00:00:00 CET 2034</endDateEnergyCertificate>
+            <labelXEmissions>B</labelXEmissions>
+            <labelXConsumptions>B</labelXConsumptions>
+            <provenance>VALUE_02</provenance>
+            <registerReference>1119210CS7511N0001LZ</registerReference>
+            <servicer>SOL</servicer>
+            <society>0001</society>
+            <emissionValues>23.0</emissionValues>
+            <energyValue>92.0</energyValue>
+            <cadastralSurface>612.0</cadastralSurface>
+            <builtRegistryArea>303.94</builtRegistryArea>
+            <builtAppraisalArea>0.0</builtAppraisalArea>
+            <usefulAppraisalArea>479.59</usefulAppraisalArea>
+            <airConditioningBdc>false</airConditioningBdc>
+            <garret>false</garret>
+            <corner>false</corner>
+            <gasCity>false</gasCity>
+            <smokeOutlet>false</smokeOutlet>
+            <cellar>false</cellar>
+            <coast>false</coast>
+            <mountain>false</mountain>
+            <exclusive>false</exclusive>
+            <sublease>false</sublease>
+            <stockTakingState>VALUE_02</stockTakingState>
+            <constructionYear>1880</constructionYear>
+            <yearReform>1995</yearReform>
+            <energyRating>VALUE_B</energyRating>
+            <energyLetter>VALUE_E</energyLetter>
+            <letterEmissions>VALUE_D</letterEmissions>
+            <freeHeight>4.1</freeHeight>
+            <floorHeighAboveGrade>0.0</floorHeighAboveGrade>
+            <metersDeep>25.33</metersDeep>
+            <facadeMeters>12.0</facadeMeters>
+            <storageArea>306.01</storageArea>
+            <elevatorsNumber>0</elevatorsNumber>
+            <numberAccesses>1</numberAccesses>
+            <buildable>0.0</buildable>
+            <buildabilitySurface>0.0</buildabilitySurface>
+            <timestamp>Wed Jan 20 12:48:15 CET 2021</timestamp>
+        </product>
+    </products>
+</realStateWivaiProductListData>

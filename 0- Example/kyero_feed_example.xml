@@ -13,7 +13,7 @@
 		<part_ownership>0</part_ownership>
 		<leasehold>0</leasehold>
 		<new_build>0</new_build>
-		<type>garaje</type>
+		<type>villa</type>
 		<town>almunecar</town>
 		<province>granada</province>
 		<country>spain</country>
@@ -21,6 +21,7 @@
 			<latitude>36.728807</latitude>
 			<longitude>-3.693466</longitude>
 		</location>
+		<postal_code>18690</postal_code>
 		<location_detail>optional location detail</location_detail>
 		<beds>3</beds>
 		<baths>2</baths>
@@ -30,8 +31,11 @@
 			<plot>500</plot>
 		</surface_area>
 		<energy_rating>
-			<consumption>D</consumption>
-			<emissions>X</emissions>
+			<consumption>E</consumption>
+			<consumption_value>191</consumption_value>
+			<emissions>E</emissions>
+			<emissions_value>37</emissions_value>
+			<efficiency_grade>E</efficiency_grade>
 		</energy_rating>
 		<url>
 			<ca>http://catalan.website.com/property/123456.htm</ca>

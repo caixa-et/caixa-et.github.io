@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <propiedades>
 	<propiedad>
-		<id>395378</id>
+		<id>0001</id>
 		<numagencia>2</numagencia>
 		<calidades />
 		<destacado>1</destacado>
@@ -38,7 +38,7 @@
 		<suelo />
 		<precioinmo>212736.842105263</precioinmo>
 		<precioalq>0</precioalq>
-		<ref>00060</ref>
+		<ref>ILL01TEST</ref>
 		<accion>Vender</accion>
 		<ciudad>Madrid</ciudad>
 		<cp>25023</cp>
@@ -104,7 +104,7 @@
 		<emisionesletra>G</emisionesletra>
 		<energiarecibido>0</energiarecibido>
 		<descrip1><![CDATA[Piso en Madrid zona Atocha, 2 habitaciones dobles y  una habitacion sencilla,  un baño (exelente),  un aseo (reforma muy bonitos los acabados), propiedad reformada, suelo de parquet, carpinteria exterior de aluminio.~Extras de la vivienda: aacc split, agua, altillo, ascensor, balcon, bomba frio calor, calefaccion, cocina indep., colegios, descalcificador, despensa, diafano, electrodomesticos, garaje, gimnasio, hospitales, linea telefonica, luminoso, luz, montacargas, muebles, nuevo, ojos de buey, para extranjeros, puerta blindada, t.v., terraza, arboles, autobuses, centros comerciales, metro, zonas infantiles~~]]></descrip1>
-		<titulo1><![CDATA[piso en venta en barcelona]]></titulo1>
+		<titulo1><![CDATA[Piso en venta en Madrid muy bonito]]></titulo1>
 		<titulo2><![CDATA[]]></titulo2>
 		<descrip2><![CDATA[]]></descrip2>
 		<numpanos>0</numpanos>

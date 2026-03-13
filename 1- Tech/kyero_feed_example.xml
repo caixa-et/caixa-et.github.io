@@ -289,4 +289,94 @@
 		<whatsapp_number>0034666555444</whatsapp_number>
 		<contact_number>0034666555444</contact_number>
 	</property>
+	<property>
+		<id>00003</id>
+		<date>2018-10-27 12:00:10</date>
+		<ref>K03TEST</ref>
+		<price>123666</price>
+		<currency>EUR</currency>
+		<price_freq>sale</price_freq>
+		<part_ownership>0</part_ownership>
+		<leasehold>0</leasehold>
+		<new_build>1</new_build>
+		<type>apartamento</type>
+		<town>madrid</town>
+		<province>madrid</province>
+		<country>spain</country>
+		<location>
+			<latitude>40.728807</latitude>
+			<longitude>-3.693466</longitude>
+		</location>
+		<postal_code>18697</postal_code>
+		<location_detail>optional location detail</location_detail>
+		<beds>AA</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<surface_area>
+			<built>150</built>
+			<plot>500</plot>
+		</surface_area>
+		<energy_rating>
+			<consumption>E</consumption>
+			<consumption_value>187</consumption_value>
+			<emissions>E</emissions>
+			<emissions_value>37</emissions_value>
+			<efficiency_grade>E</efficiency_grade>
+		</energy_rating>
+		<url>
+			<ca>http://catalan.website.com/property/123456.htm</ca>
+		</url>
+		<video_url>https://www.youtube.com/watch?v=dQw4w9WgXcQ</video_url>
+		<virtual_tour_url>https://my.matterport.com/show/?m=eUuz64WjuQe</virtual_tour_url>
+		<catastral>1234567AB1234C0001DE</catastral>
+		<desc>
+			<ca>Catalan property description</ca>
+			<de>German property description</de>
+			<da>Danish property description</da>
+			<en>English property description</en>
+			<es>Spanish property description</es>
+			<fi>Finnish property description</fi>
+			<fr>French property description</fr>
+			<it>Italian property description</it>
+			<nl>Dutch property description</nl>
+			<no>Norwegian property description</no>
+			<pt>Portuguese property description</pt>
+			<ru>Russian property description</ru>
+			<sv>Swedish property description</sv>
+		</desc>
+		<features>
+			<feature>good rental potential</feature>
+			<feature>near beach</feature>
+			<feature>water possible</feature>
+			<feature>air condition</feature>
+		</features>
+		<notes>Private property notes</notes>
+		<images>
+			<image id="1">
+				<url>https://images.homify.com/v1448129217/p/photo/image/1135013/7.jpg</url>
+			</image>
+			<image id="2">
+				<tags>
+					<tag>floorplan</tag>
+				</tags>
+				<url>https://planner5d.com/blog/content/images/2025/05/construir.casa.moderna.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://planner5d.com/blog/content/images/size/w2000/2025/06/medidas.dormitorio.estandar.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://www.innboutiqueleon.com/wp-content/uploads/2021/11/habitacion_doble_Alojamiento-con-encanto-Inn-Boutique-Leon_14.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://tarraula.com/wp-content/uploads/2025/07/decoracion-de-banos.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://reformasamatriain.es/wp-content/uploads/2024/01/IMG_0894-1-1024x683.jpg</url>
+			</image>
+		</images>
+		<prime>1</prime>
+		<email>john.smith@sandbox.com</email>
+		<whatsapp_number>0034666555444</whatsapp_number>
+		<contact_number>0034666555444</contact_number>
+	</property>
 </root>

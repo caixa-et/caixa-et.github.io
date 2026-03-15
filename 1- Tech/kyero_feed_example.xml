@@ -379,4 +379,281 @@
 		<whatsapp_number>0034666555444</whatsapp_number>
 		<contact_number>0034666555444</contact_number>
 	</property>
+	<property>
+		<id>0004</id>
+		<date>2026-02-02 11:21:17</date>
+		<agencia>Adelante Inversiones</agencia>
+		<email>i.adelanteinversiones.9951@inmovilla.com</email>
+		<telefono>649680295</telefono>
+		<ref>K04TEST</ref>
+		<state>Free</state>
+		<operation_type>For sale</operation_type>
+		<price>109500</price>
+		<currency>EUR</currency>
+		<price_freq>sale</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>0</leasehold>
+		<type>country house</type>
+		<country>España</country>
+		<province>HUESCA</province>
+		<town>Montanuy</town>
+		<location_detail>Montanuy</location_detail>
+		<cp>22474</cp>
+		<postal_code>22474</postal_code>
+		<location>
+			<latitude>42.469956</latitude>
+			<longitude>0.657844</longitude>
+		</location>
+		<beds>5</beds>
+		<baths>2</baths>
+		<estado_propiedad>5</estado_propiedad>
+		<antiguedad>1894</antiguedad>
+		<pool>0</pool>
+		<surface_area>
+			<built>1019</built>
+			<plot>1500</plot>
+		</surface_area>
+		<energy_rating>
+			<status>Exempt</status>
+		</energy_rating>
+		<url>
+			<es>http://adelanteinversiones.es/ficha/index.php?codigo=9951_21637891</es>
+		</url>
+		<desc>
+			<es>
+				<![CDATA[ Os presentamos una casa de pueblo con terreno a la venta, ideal para casa de Turismo Rural, Hotel con encanto, Viviendas de alquiler, o si te gusta vivir en espacios grandes se puede destinar a vivienda.~~Te podemos ayudar en todo lo que necesites para rehabilitar la casa, facilitarte los técnicos y profesiones de la zona que sin duda te podrán aconsejar y sugerir las mejores soluciones. ~~Al ser una edificación muy grande se puede dividir en varias partes, con lo que seguro que podemos adaptarlo a tus necesidades, dependiendo de tu presupuesto y preferencias. ~~No dejes pasar ésta gran oportunidad y reserva una cita para visitarla. Estás muy cerca de tomar la mejor decisión de tu vida. ~~ ]]>
+			</es>
+			<en>
+				<![CDATA[ ]]>
+			</en>
+			<de>
+				<![CDATA[ ]]>
+			</de>
+			<da>
+				<![CDATA[ ]]>
+			</da>
+			<fr>
+				<![CDATA[ ]]>
+			</fr>
+			<it>
+				<![CDATA[ ]]>
+			</it>
+			<nl>
+				<![CDATA[ ]]>
+			</nl>
+			<ru>
+				<![CDATA[ ]]>
+			</ru>
+			<fi>
+				<![CDATA[ ]]>
+			</fi>
+			<ca>
+				<![CDATA[ ]]>
+			</ca>
+			<no>
+				<![CDATA[ ]]>
+			</no>
+			<pt>
+				<![CDATA[ ]]>
+			</pt>
+			<sv>
+				<![CDATA[ ]]>
+			</sv>
+			<eu>
+				<![CDATA[ ]]>
+			</eu>
+			<cn>
+				<![CDATA[ ]]>
+			</cn>
+			<gl>
+				<![CDATA[ ]]>
+			</gl>
+			<lt>
+				<![CDATA[ ]]>
+			</lt>
+			<cs>
+				<![CDATA[ ]]>
+			</cs>
+			<bg>
+				<![CDATA[ ]]>
+			</bg>
+			<pl>
+				<![CDATA[ ]]>
+			</pl>
+		</desc>
+		<title_extra/>
+		<desc_extra/>
+		<features>
+			<feature>Balcon</feature>
+			<feature>porch</feature>
+			<feature>Wardrobes cupboard</feature>
+			<feature>Light</feature>
+			<feature>Water</feature>
+			<feature>Ceilings</feature>
+			<feature>Pergola</feature>
+			<feature>All Foreign</feature>
+			<feature>Mirador</feature>
+			<feature>Terrace</feature>
+			<feature>Garage</feature>
+			<feature>Heating</feature>
+			<feature>Garden</feature>
+			<feature>Appliances</feature>
+			<feature>Solarium</feature>
+			<feature>Storeroom</feature>
+			<feature>Barbecue</feature>
+		</features>
+		<images>
+			<image id="1">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-1.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-2.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-3.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-4.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-5.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-6.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-7.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-8.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-9.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-10.jpg</url>
+			</image>
+			<image id="11">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-11.jpg</url>
+			</image>
+			<image id="12">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-12.jpg</url>
+			</image>
+			<image id="13">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-13.jpg</url>
+			</image>
+			<image id="14">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-14.jpg</url>
+			</image>
+			<image id="15">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-15.jpg</url>
+			</image>
+			<image id="16">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-16.jpg</url>
+			</image>
+			<image id="17">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-17.jpg</url>
+			</image>
+			<image id="18">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-18.jpg</url>
+			</image>
+			<image id="19">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-19.jpg</url>
+			</image>
+			<image id="20">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-20.jpg</url>
+			</image>
+			<image id="21">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-21.jpg</url>
+			</image>
+			<image id="22">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-22.jpg</url>
+			</image>
+			<image id="23">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-23.jpg</url>
+			</image>
+			<image id="24">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-24.jpg</url>
+			</image>
+			<image id="25">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-25.jpg</url>
+			</image>
+			<image id="26">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-26.jpg</url>
+			</image>
+			<image id="27">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-27.jpg</url>
+			</image>
+			<image id="28">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-28.jpg</url>
+			</image>
+			<image id="29">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-29.jpg</url>
+			</image>
+			<image id="30">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-30.jpg</url>
+			</image>
+			<image id="31">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-31.jpg</url>
+			</image>
+			<image id="32">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-32.jpg</url>
+			</image>
+			<image id="33">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-33.jpg</url>
+			</image>
+			<image id="34">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-34.jpg</url>
+			</image>
+			<image id="35">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-35.jpg</url>
+			</image>
+			<image id="36">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-36.jpg</url>
+			</image>
+			<image id="37">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-37.jpg</url>
+			</image>
+			<image id="38">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-38.jpg</url>
+			</image>
+			<image id="39">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-39.jpg</url>
+			</image>
+			<image id="40">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-40.jpg</url>
+			</image>
+			<image id="41">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-41.jpg</url>
+			</image>
+			<image id="42">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-42.jpg</url>
+			</image>
+			<image id="43">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-43.jpg</url>
+			</image>
+			<image id="44">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-44.jpg</url>
+			</image>
+			<image id="45">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-45.jpg</url>
+			</image>
+			<image id="46">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-46.jpg</url>
+			</image>
+			<image id="47">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-47.jpg</url>
+			</image>
+			<image id="48">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-48.jpg</url>
+			</image>
+			<image id="49">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-49.jpg</url>
+			</image>
+			<image id="50">
+				<url>https://fotos15.apinmo.com/9951/21637891/3-50.jpg</url>
+			</image>
+		</images>
+	</property>
 </root>

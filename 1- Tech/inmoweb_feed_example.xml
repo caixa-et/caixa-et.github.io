@@ -89,39 +89,17 @@
             </descripcion>
         </descripciones>
         <imagenes>
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a3eeef30.jpg"
-                principal="1" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a427b2a1.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a452c996.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a479ae33.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4a25bc9.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4d19d59.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4fc13ed.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a5269110.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a5516b73.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a58de46e.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a5b7e144.jpg"
-                principal="0" />
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a3eeef30.jpg" principal="1" />
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a427b2a1.jpg" principal="0" />
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a452c996.jpg" principal="0" />
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a479ae33.jpg" principal="0" />
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4a25bc9.jpg" principal="0" />
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4d19d59.jpg" principal="0" />
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4fc13ed.jpg" principal="0" />
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a5269110.jpg" principal="0" />
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a5516b73.jpg" principal="0" />
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a58de46e.jpg" principal="0" />
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a5b7e144.jpg" principal="0" />
         </imagenes>
         <documentos />
         <enlaces>
@@ -144,31 +122,31 @@
         <fecha_alta>21/11/2024 15:57</fecha_alta>
         <fecha_modificacion>27/02/2026 10:33</fecha_modificacion>
         <referencia>IW01TEST</referencia>
-        <ref_catastral>6253526QE0565S0001HE</ref_catastral>
+        <ref_catastral>6253526QE0565S0001HE </ref_catastral>
         <familia id="21">Casa adosada</familia>
         <operacion id="1">Venta</operacion>
         <estado id="SM" />
         <status_id>activo</status_id>
         <interior>0</interior>
         <dormitorios>4</dormitorios>
-        <banos>2</banos>
-        <banos_reformados />
-        <aseos>1</aseos>
+        <banos>3</banos>
+        <banos_reformados/>
+        <aseos>2</aseos>
         <localizacion>
-            <provincia>Cáceres</provincia>
-            <poblacion id="4724">Torre de Don Miguel</poblacion>
-            <cp>10864</cp>
-            <zona />
+            <provincia>HUESCA</provincia>
+            <poblacion id="4724">Montanuy</poblacion>
+            <cp>22474</cp>
+            <zona>Montanuy</zona>
             <pais>ES</pais>
         </localizacion>
         <superficies>
-            <habitable />
-            <construida>141</construida>
-            <parcela>47</parcela>
-            <cocina />
-            <salon />
-            <jardin />
-            <terraza />
+            <habitable>423</habitable>
+            <construida>541</construida>
+            <parcela>400</parcela>
+            <cocina>30</cocina>
+            <salon>30</salon>
+            <jardin>100</jardin>
+            <terraza>20</terraza>
         </superficies>
         <precio divisa="EUR">60000</precio>
         <precio_anterior divisa="EUR">69000</precio_anterior>
@@ -187,25 +165,24 @@
             <caracteristica id="cocina_equipada">1</caracteristica>
             <caracteristica id="cocina_reformada">1</caracteristica>
             <caracteristica id="jardin" />
-            <caracteristica id="garaje" />
+            <caracteristica id="garaje">1</caracteristica>
             <caracteristica id="garaje_incluido" />
-            <caracteristica id="parking" />
+            <caracteristica id="parking">1</caracteristica>
             <caracteristica id="material_ventanas">PVC</caracteristica>
             <caracteristica id="pisos_edificio">3</caracteristica>
             <caracteristica id="estado_edificio">En buen estado</caracteristica>
             <caracteristica id="contraventanas" />
             <caracteristica id="tipo_suelo" />
-            <caracteristica id="certificacion_energetica_letra">TA</caracteristica>
-            <caracteristica id="certificacion_energetica_valor" />
-            <caracteristica id="certificacion_emisiones_letra">TA</caracteristica>
-            <caracteristica id="certificacion_emisiones_valor" />
+            <caracteristica id="certificacion_energetica_letra">b</caracteristica>
+            <caracteristica id="certificacion_energetica_valor">178.78</caracteristica>
+            <caracteristica id="certificacion_emisiones_letra">e</caracteristica>
+            <caracteristica id="certificacion_emisiones_valor">123.89</caracteristica>
             <caracteristica id="trastero" />
             <caracteristica id="puerta_blindada" />
-            <caracteristica id="aa" />
             <caracteristica id="chimenea" />
-            <caracteristica id="ascensor" />
+            <caracteristica id="ascensor">1</caracteristica>
             <caracteristica id="amarre" />
-            <caracteristica id="num_planta" />
+            <caracteristica id="num_planta">3</caracteristica>
             <caracteristica id="de_entidad_financiera" />
             <caracteristica id="primera_linea" />
             <caracteristica id="sotano" />
@@ -219,7 +196,7 @@
         <etiquetas />
         <descripciones>
             <descripcion idioma="es">
-                <titulo>CASA TORRE DE DON MIGUEL</titulo>
+                <titulo>CASA Montanuy</titulo>
                 <descripcion>Vivienda, totalmente reformada en 2017, de 141 metros cuadrados situada
                     en el centro de la población de Torre de Don Miguel. Consta de dos salones,
                     cocina totalmente equipada, dos baños y cuatro dormitorios. Tiene trastero.En la
@@ -229,40 +206,16 @@
             </descripcion>
         </descripciones>
         <imagenes>
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a3eeef30.jpg"
-                principal="1" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a427b2a1.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a452c996.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a479ae33.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4a25bc9.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4d19d59.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4fc13ed.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a5269110.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a5516b73.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a58de46e.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a5b7e144.jpg"
-                principal="0" />
-        </imagenes>
+            <imagen url="https://caixa-et.github.io/Images/exterior-casa.jpeg" principal="1" />
+            <imagen url="https://caixa-et.github.io/Images/exterior-casa-2.jpeg" principal="0" />
+            <imagen url="https://caixa-et.github.io/Images/habitacion.jpg" principal="0" />
+            <imagen url="https://caixa-et.github.io/Images/habitacion-2.jpg" principal="0" />
+            <imagen url="https://caixa-et.github.io/Images/habitacion-3.jpg" principal="0" />
+            <imagen url="https://caixa-et.github.io/Images/comedor.jpg" principal="0" />
+            <imagen url="https://caixa-et.github.io/Images/cocina-2.jpg" principal="0" />
+            <imagen url="https://caixa-et.github.io/Images/ba%C3%B1o.jpg" principal="0" />
+            <imagen url="https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg" principal="0" />
+            </imagenes>
         <documentos />
         <enlaces>
             <enlace idioma="cat">http://www.ft10459.inmoweb.page/details-cat1424346.html?lan=cat</enlace>
@@ -284,40 +237,40 @@
         <fecha_alta>21/11/2024 15:57</fecha_alta>
         <fecha_modificacion>27/02/2026 10:33</fecha_modificacion>
         <referencia>IW02TEST</referencia>
-        <ref_catastral>6253526QE0565S0001HE</ref_catastral>
-        <familia id="9">Finca rústica</familia>
-        <operacion id="1">Venta</operacion>
+        <ref_catastral>6253526QE0565S0001HE </ref_catastral>
+        <familia id="21">Casa adosada</familia>
+        <operacion id="2">Alquiler</operacion>
         <estado id="SM" />
         <status_id>activo</status_id>
         <interior>0</interior>
         <dormitorios>4</dormitorios>
-        <banos>2</banos>
-        <banos_reformados />
-        <aseos>1</aseos>
+        <banos>3</banos>
+        <banos_reformados/>
+        <aseos>2</aseos>
         <localizacion>
-            <provincia>Madrid</provincia>
-            <poblacion id="4724">Madrid</poblacion>
-            <cp>25023</cp>
-            <zona>Atocha</zona>
+            <provincia>HUESCA</provincia>
+            <poblacion id="4724">Montanuy</poblacion>
+            <cp>22474</cp>
+            <zona>Montanuy</zona>
             <pais>ES</pais>
         </localizacion>
         <superficies>
-            <habitable />
-            <construida>141</construida>
-            <parcela>47</parcela>
-            <cocina />
-            <salon />
-            <jardin />
-            <terraza />
+            <habitable>423</habitable>
+            <construida>541</construida>
+            <parcela>400</parcela>
+            <cocina>30</cocina>
+            <salon>30</salon>
+            <jardin>100</jardin>
+            <terraza>20</terraza>
         </superficies>
-        <precio divisa="EUR">60000</precio>
-        <precio_anterior divisa="EUR">69000</precio_anterior>
+        <precio divisa="EUR">600</precio>
+        <precio_anterior divisa="EUR">690</precio_anterior>
         <caracteristicas>
             <caracteristica id="ano_construccion" />
             <caracteristica id="amueblado">amueblado</caracteristica>
             <caracteristica id="terraza" />
             <caracteristica id="reformado">si</caracteristica>
-            <caracteristica id="ano_reforma">2021</caracteristica>
+            <caracteristica id="ano_reforma">2017</caracteristica>
             <caracteristica id="vistas" />
             <caracteristica id="piscina" />
             <caracteristica id="calefaccion" />
@@ -327,25 +280,24 @@
             <caracteristica id="cocina_equipada">1</caracteristica>
             <caracteristica id="cocina_reformada">1</caracteristica>
             <caracteristica id="jardin" />
-            <caracteristica id="garaje" />
+            <caracteristica id="garaje">1</caracteristica>
             <caracteristica id="garaje_incluido" />
-            <caracteristica id="parking" />
+            <caracteristica id="parking">1</caracteristica>
             <caracteristica id="material_ventanas">PVC</caracteristica>
             <caracteristica id="pisos_edificio">3</caracteristica>
             <caracteristica id="estado_edificio">En buen estado</caracteristica>
             <caracteristica id="contraventanas" />
             <caracteristica id="tipo_suelo" />
-            <caracteristica id="certificacion_energetica_letra">TA</caracteristica>
-            <caracteristica id="certificacion_energetica_valor" />
-            <caracteristica id="certificacion_emisiones_letra">TA</caracteristica>
-            <caracteristica id="certificacion_emisiones_valor" />
+            <caracteristica id="certificacion_energetica_letra">b</caracteristica>
+            <caracteristica id="certificacion_energetica_valor">178.78</caracteristica>
+            <caracteristica id="certificacion_emisiones_letra">e</caracteristica>
+            <caracteristica id="certificacion_emisiones_valor">123.89</caracteristica>
             <caracteristica id="trastero" />
             <caracteristica id="puerta_blindada" />
-            <caracteristica id="aa" />
             <caracteristica id="chimenea" />
-            <caracteristica id="ascensor" />
+            <caracteristica id="ascensor">1</caracteristica>
             <caracteristica id="amarre" />
-            <caracteristica id="num_planta" />
+            <caracteristica id="num_planta">3</caracteristica>
             <caracteristica id="de_entidad_financiera" />
             <caracteristica id="primera_linea" />
             <caracteristica id="sotano" />
@@ -359,7 +311,7 @@
         <etiquetas />
         <descripciones>
             <descripcion idioma="es">
-                <titulo>CASA TORRE DE DON MIGUEL</titulo>
+                <titulo>CASA Montanuy</titulo>
                 <descripcion>Vivienda, totalmente reformada en 2017, de 141 metros cuadrados situada
                     en el centro de la población de Torre de Don Miguel. Consta de dos salones,
                     cocina totalmente equipada, dos baños y cuatro dormitorios. Tiene trastero.En la
@@ -369,40 +321,16 @@
             </descripcion>
         </descripciones>
         <imagenes>
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a3eeef30.jpg"
-                principal="1" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a427b2a1.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a452c996.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a479ae33.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4a25bc9.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4d19d59.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4fc13ed.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a5269110.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a5516b73.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a58de46e.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a5b7e144.jpg"
-                principal="0" />
-        </imagenes>
+            <imagen url="https://caixa-et.github.io/Images/exterior-casa.jpeg" principal="1" />
+            <imagen url="https://caixa-et.github.io/Images/exterior-casa-2.jpeg" principal="0" />
+            <imagen url="https://caixa-et.github.io/Images/habitacion.jpg" principal="0" />
+            <imagen url="https://caixa-et.github.io/Images/habitacion-2.jpg" principal="0" />
+            <imagen url="https://caixa-et.github.io/Images/habitacion-3.jpg" principal="0" />
+            <imagen url="https://caixa-et.github.io/Images/comedor.jpg" principal="0" />
+            <imagen url="https://caixa-et.github.io/Images/cocina-2.jpg" principal="0" />
+            <imagen url="https://caixa-et.github.io/Images/ba%C3%B1o.jpg" principal="0" />
+            <imagen url="https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg" principal="0" />
+            </imagenes>
         <documentos />
         <enlaces>
             <enlace idioma="cat">http://www.ft10459.inmoweb.page/details-cat1424346.html?lan=cat</enlace>

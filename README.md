@@ -35,4 +35,18 @@
 * [Kyero Feed](/5-%20Amanda/kyero_feed_example.xml)
 * [Inmovilla Feed](/5-%20Amanda/inmovilla_feed_example.xml)
 * [Inmoweb Feed](/5-%20Amanda/inmoweb_feed_example.xml)
-* [Caixa XML Feed](/5-%20Amanda/caixa_feed_example.xml) 
+* [Caixa XML Feed](/5-%20Amanda/caixa_feed_example.xml)
+
+## Imágenes
+* [Exterior](/Images/exterior-casa.jpeg)
+* [Exterior](/Images/exterior-casa-2.jpeg)
+* [Habitación](/Images/habitacion.jpg)
+* [Habitación](/Images/habitacion-2.jpg)
+* [Habitación](/Images/habitacion-3.jpg)
+* [Comedor](/Images/comedor.jpg)
+* [Comedor](/Images/comedor-2.jpeg)
+* [Cocina](/Images/cocina.jpg)
+* [Cocina](/Images/cocina-2.jpg)
+* [Baño](/Images/baño.jpg)
+* [Baño](/Images/baño-2.jpg)
+

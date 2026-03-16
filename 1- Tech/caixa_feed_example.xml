@@ -267,6 +267,7 @@
         <sale_rent>for_rent</sale_rent>
         <state>Madrid</state>
         <street>Las Lomas</street>
+        <post_code>28053</post_code>
         <total_area_amount>4809</total_area_amount>
         <plot_area_amount>4500</plot_area_amount>
         <internal_area_amount>3000</internal_area_amount>-

@@ -8,7 +8,7 @@
         <state>Madrid</state>
         <property_type>apartment</property_type>
         <property_subtype>standard_apartment</property_subtype>
-        <ref>960119</ref>
+        <ref>Anna_imgMatricula</ref>
         <air_condition>0</air_condition>
         <bathrooms>1</bathrooms>
         <bedrooms>1</bedrooms>
@@ -101,8 +101,212 @@
             <img>
                 https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260224-9tC8iEWqNR-1200x800.jpg</img>
             <img>
-                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260224-Z5Ywmt0MQr-1200x800.jpg</img>
+                https://fotografias-2.larazon.es/clipping/cmsimages02/2023/11/08/6D8931DB-AF69-4D50-9105-8F5AD1A96232/coches-camiones-aparcados-acera-calle-pizarro_98.jpg</img>
         </media>
-        <list_selling_price_amount>750000</list_selling_price_amount>
+        <list_selling_price_amount>250000</list_selling_price_amount>
+    </property>
+    <property last_update="2026-03-04 14:47:50">
+        <name>Maravilloso piso en Centro</name>
+        <state>Madrid</state>
+        <property_type>apartment</property_type>
+        <property_subtype>standard_apartment</property_subtype>
+        <ref>Anna_imgMatricula2</ref>
+        <air_condition>0</air_condition>
+        <bathrooms>1</bathrooms>
+        <bedrooms>1</bedrooms>
+        <city>Madrid</city>
+        <municipality>Chamartin</municipality>
+        <common_swimming_pool>0</common_swimming_pool>
+        <price_field_amount>890</price_field_amount>
+        <cadastral_reference></cadastral_reference>
+        <constructor_year>1905</constructor_year>
+        <coordinates>40.40862983,-3.70888144</coordinates>
+        <country>ES</country>
+        <custom_es_garden>0</custom_es_garden>
+        <custom_es_orientation>Sur</custom_es_orientation>
+        <custom_es_parking>0</custom_es_parking>
+        <custom_es_piso>01</custom_es_piso>
+        <custom_es_portal>14</custom_es_portal>
+        <custom_es_puerta>03</custom_es_puerta>
+        <custom_es_status_of_conservation>good_condition</custom_es_status_of_conservation>
+        <custom_es_subsidized_housing>0</custom_es_subsidized_housing>
+        <custom_es_terrace>0</custom_es_terrace>
+        <custom_es_trastero_superficie_util>0</custom_es_trastero_superficie_util>
+        <description>Housfy alquila 🏡 piso en El Rastro, en Madrid. La propiedad cuenta con 33 m²
+            de superficie útil (verificados con la Dirección General de Catastro). Distribución de
+            estancias: -1 Dormitorio -1 Baño -Salón-comedor -Cocina AMUEBLADO y CON
+            ELECTRODOMESTICOS Características específicas: -Posibilidad de incluir muebles -Exterior
+            IBI, comunidad, tasa de basuras incluida en precio! Condiciones adicionales: 1 mes de
+            fianza + 2 meses de garantía adicional Forma de actualización de la renta: IPC y, en su
+            defecto el que sea aplicable según normativa vigente (a día de hoy, IRAV). Plazo del
+            arrendamiento: 1 año prorrogable obligatoriamente por plazos anuales hasta que el
+            arrendamiento alcance una duración mínima de 5 años, de conformidad con el art.9 LAU (7
+            años en caso de que el arrendador sea persona jurídica) Sobre la zona: Ubicado en el
+            barrio de Lavapiés-Embajadores, en el distrito Centro de Madrid. ¿Quieres visitarlo?
+            Contacta con Housfy y agenda tu visita sin compromiso. Más información en: housfy.com
+            Housfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios
+            necesarios para que pueda alquilar la propiedad por su cuenta. Para tu seguridad, nunca
+            cobramos honorarios ni reservas de inmuebles en alquiler antes de la firma del contrato
+            de reserva. Para más información, visítanos en housfy.com. AICAT número: 7922.</description>
+        <elevator>0</elevator>
+        <energy_efficiency_grade>d</energy_efficiency_grade>
+        <energy_consumption_rating />
+        <energy_consumption_value>0</energy_consumption_value>
+        <energy_emission_rating />
+        <energy_emission_value />
+        <floor_number>1</floor_number>
+        <floors_building>0</floors_building>
+        <internal_area_amount>33</internal_area_amount>
+        <mountain_view>0</mountain_view>
+        <new_build>0</new_build>
+        <pets_allowed>0</pets_allowed>
+        <plot_area_amount>0</plot_area_amount>
+        <post_code>28005</post_code>
+        <private_swimming_pool>0</private_swimming_pool>
+        <sea_view>0</sea_view>
+        <secure_door>0</secure_door>
+        <short_description>Maravilloso piso en Centro</short_description>
+        <status>available</status>
+        <store_room>0</store_room>
+        <street>Calle del Carnero</street>
+        <total_area_amount>33</total_area_amount>
+        <verandas>0</verandas>
+        <wc_bathrooms>1</wc_bathrooms>
+        <sale_rent>for_sale</sale_rent>
+        <media>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260210-PsBIPw5pIz-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260210-mNVCb5DkMg-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260210-rHUxOI5kxJ-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260130-Xc3xJJmoq6-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260210-BDYAKWP7uW-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260210-oUB3KWF7bh-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260210-JFAEqvmaX9-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260130-yJTBH4tQ0X-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260130-Wci2OwOxJe-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260130-QxF3la4CO3-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260130-FqMAb4VsFv-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260130-5Qzk1u4qf6-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260224-oaG8TZ0Ktq-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260224-9tC8iEWqNR-1200x800.jpg</img>
+            <img>
+                https://estaticos-cdn.prensaiberica.es/clip/c8b14747-84b5-4f4a-931d-c3fac4d496d4_16-9-discover-aspect-ratio_default_0.webp</img>
+        </media>
+        <list_selling_price_amount>251000</list_selling_price_amount>
+    </property>
+    <property last_update="2026-03-04 14:47:50">
+        <name>Maravilloso piso en Centro</name>
+        <state>Madrid</state>
+        <property_type>apartment</property_type>
+        <property_subtype>standard_apartment</property_subtype>
+        <ref>Anna_imgPersones</ref>
+        <air_condition>0</air_condition>
+        <bathrooms>1</bathrooms>
+        <bedrooms>1</bedrooms>
+        <city>Madrid</city>
+        <municipality>Chamartin</municipality>
+        <common_swimming_pool>0</common_swimming_pool>
+        <price_field_amount>890</price_field_amount>
+        <cadastral_reference></cadastral_reference>
+        <constructor_year>1905</constructor_year>
+        <coordinates>40.40862983,-3.70888144</coordinates>
+        <country>ES</country>
+        <custom_es_garden>0</custom_es_garden>
+        <custom_es_orientation>Sur</custom_es_orientation>
+        <custom_es_parking>0</custom_es_parking>
+        <custom_es_piso>01</custom_es_piso>
+        <custom_es_portal>14</custom_es_portal>
+        <custom_es_puerta>03</custom_es_puerta>
+        <custom_es_status_of_conservation>good_condition</custom_es_status_of_conservation>
+        <custom_es_subsidized_housing>0</custom_es_subsidized_housing>
+        <custom_es_terrace>0</custom_es_terrace>
+        <custom_es_trastero_superficie_util>0</custom_es_trastero_superficie_util>
+        <description>Housfy alquila 🏡 piso en El Rastro, en Madrid. La propiedad cuenta con 33 m²
+            de superficie útil (verificados con la Dirección General de Catastro). Distribución de
+            estancias: -1 Dormitorio -1 Baño -Salón-comedor -Cocina AMUEBLADO y CON
+            ELECTRODOMESTICOS Características específicas: -Posibilidad de incluir muebles -Exterior
+            IBI, comunidad, tasa de basuras incluida en precio! Condiciones adicionales: 1 mes de
+            fianza + 2 meses de garantía adicional Forma de actualización de la renta: IPC y, en su
+            defecto el que sea aplicable según normativa vigente (a día de hoy, IRAV). Plazo del
+            arrendamiento: 1 año prorrogable obligatoriamente por plazos anuales hasta que el
+            arrendamiento alcance una duración mínima de 5 años, de conformidad con el art.9 LAU (7
+            años en caso de que el arrendador sea persona jurídica) Sobre la zona: Ubicado en el
+            barrio de Lavapiés-Embajadores, en el distrito Centro de Madrid. ¿Quieres visitarlo?
+            Contacta con Housfy y agenda tu visita sin compromiso. Más información en: housfy.com
+            Housfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios
+            necesarios para que pueda alquilar la propiedad por su cuenta. Para tu seguridad, nunca
+            cobramos honorarios ni reservas de inmuebles en alquiler antes de la firma del contrato
+            de reserva. Para más información, visítanos en housfy.com. AICAT número: 7922.</description>
+        <elevator>0</elevator>
+        <energy_efficiency_grade>d</energy_efficiency_grade>
+        <energy_consumption_rating />
+        <energy_consumption_value>0</energy_consumption_value>
+        <energy_emission_rating />
+        <energy_emission_value />
+        <floor_number>1</floor_number>
+        <floors_building>0</floors_building>
+        <internal_area_amount>33</internal_area_amount>
+        <mountain_view>0</mountain_view>
+        <new_build>0</new_build>
+        <pets_allowed>0</pets_allowed>
+        <plot_area_amount>0</plot_area_amount>
+        <post_code>28005</post_code>
+        <private_swimming_pool>0</private_swimming_pool>
+        <sea_view>0</sea_view>
+        <secure_door>0</secure_door>
+        <short_description>Maravilloso piso en Centro</short_description>
+        <status>available</status>
+        <store_room>0</store_room>
+        <street>Calle del Carnero</street>
+        <total_area_amount>33</total_area_amount>
+        <verandas>0</verandas>
+        <wc_bathrooms>1</wc_bathrooms>
+        <sale_rent>for_sale</sale_rent>
+        <media>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260210-PsBIPw5pIz-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260210-mNVCb5DkMg-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260210-rHUxOI5kxJ-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260130-Xc3xJJmoq6-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260210-BDYAKWP7uW-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260210-oUB3KWF7bh-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260210-JFAEqvmaX9-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260130-yJTBH4tQ0X-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260130-Wci2OwOxJe-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260130-QxF3la4CO3-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260130-FqMAb4VsFv-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260130-5Qzk1u4qf6-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260224-oaG8TZ0Ktq-1200x800.jpg</img>
+            <img>
+                https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/960119/960119-housfy-20260224-9tC8iEWqNR-1200x800.jpg</img>
+            <img>
+                https://www.lacasa.net/blog/wp-content/uploads/2021/12/1240x600visia-para-vender-piso-rapido-1080x600.png</img>
+        </media>
+        <list_selling_price_amount>252000</list_selling_price_amount>
     </property>
 </properties>

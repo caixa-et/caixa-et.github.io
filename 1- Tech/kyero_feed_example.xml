@@ -699,4 +699,102 @@
 			</image>
 		</images>
 	</property>
+	<property>
+		<id>00007</id>
+		<date>2026-03-17 16:39:10</date>
+		<ref>DavidTest</ref>
+		<price>270000</price>
+		<currency>EUR</currency>
+		<price_freq>sale</price_freq>
+		<part_ownership>0</part_ownership>
+		<leasehold>0</leasehold>
+		<new_build>0</new_build>
+		<type>villa</type>
+		<town>santa perpetua de mogoda</town>
+		<province>barcelona</province>
+		<country>spain</country>
+		<location>
+			<latitude>41.534712</latitude>
+			<longitude>2.181917</longitude>
+		</location>
+		<postal_code>08130</postal_code>
+		<location_detail>optional location detail</location_detail>
+		<beds>3</beds>
+		<baths>3</baths>
+		<pool>1</pool>
+		<surface_area>
+			<built>150</built>
+			<plot>500</plot>
+		</surface_area>
+		<energy_rating>
+			<consumption>E</consumption>
+			<consumption_value>191</consumption_value>
+			<emissions>E</emissions>
+			<emissions_value>37</emissions_value>
+			<efficiency_grade>E</efficiency_grade>
+		</energy_rating>
+		<url>
+			<ca>http://catalan.website.com/property/123456.htm</ca>
+			<de>http://german.website.com/property/123456.htm</de>
+			<da>http://danish.website.com/property/123456.htm</da>
+			<en>http://english.website.com/property/123456.htm</en>
+			<es>http://spanish.website.com/property/123456.htm</es>
+			<fi>http://finnish.website.com/property/123456.htm</fi>
+			<fr>http://french.website.com/property/123456.htm</fr>
+			<it>http://italian.website.com/property/123456.htm</it>
+			<nl>http://dutch.website.com/property/123456.htm</nl>
+			<no>http://norwegian.website.com/property/123456.htm</no>
+			<pt>http://portuguese.website.com/property/123456.htm</pt>
+			<ru>http://russian.website.com/property/123456.htm</ru>
+			<sv>http://swedish.website.com/property/123456.htm</sv>
+		</url>
+		<video_url>https://www.youtube.com/watch?v=dQw4w9WgXcQ</video_url>
+		<virtual_tour_url>https://my.matterport.com/show/?m=eUuz64WjuQe</virtual_tour_url>
+		<catastral>1234567AB1234C0001DE</catastral>
+		<desc>
+			<ca>Catalan property description</ca>
+			<de>German property description</de>
+			<da>Danish property description</da>
+			<en>English property description</en>
+			<es>Spanish property description</es>
+			<fi>Finnish property description</fi>
+			<fr>French property description</fr>
+			<it>Italian property description</it>
+			<nl>Dutch property description</nl>
+			<no>Norwegian property description</no>
+			<pt>Portuguese property description</pt>
+			<ru>Russian property description</ru>
+			<sv>Swedish property description</sv>
+		</desc>
+		<features>
+			<feature>good rental potential</feature>
+			<feature>near beach</feature>
+			<feature>water possible</feature>
+		</features>
+		<notes>Private property notes</notes>
+		<images>
+			<image id="1">
+				<url>https://picsum.photos/1200/800</url>
+			</image>
+			<image id="2">
+				<tags>
+					<tag>floorplan</tag>
+				</tags>
+				<url>https://picsum.photos/1200/800</url>
+			</image>
+			<image id="3">
+				<url>https://picsum.photos/1200/800</url>
+			</image>
+			<image id="4">
+				<url>https://picsum.photos/1200/800</url>
+			</image>
+			<image id="50">
+				<url>https://picsum.photos/1200/800</url>
+			</image>
+		</images>
+		<prime>1</prime>
+		<email>john.smith@sandbox.com</email>
+		<whatsapp_number>0034666555444</whatsapp_number>
+		<contact_number>0034666555444</contact_number>
+	</property>
 </root>

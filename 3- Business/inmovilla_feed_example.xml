@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <propiedades>
 	<propiedad>
-		<id>0002</id>
+		<id>Anna_imgMatricula</id>
 		<numagencia>2</numagencia>
 		<calidades/>
 		<provincia>TOLEDO</provincia>
@@ -46,7 +46,7 @@
 		<numplanta>3</numplanta>
 		<orientacion/>
 		<salon>1</salon>
-		<precioinmo>215000</precioinmo>
+		<precioinmo>250000</precioinmo>
 		<preciotraspaso>0</preciotraspaso>
 		<precioalq>0</precioalq>
 		<outlet>231750</outlet>
@@ -173,8 +173,363 @@
 		<foto6>https://caixa-et.github.io/Images/comedor.jpg</foto6>
 		<foto7>https://caixa-et.github.io/Images/cocina-2.jpg</foto7>
 		<foto8>https://caixa-et.github.io/Images/ba%C3%B1o.jpg</foto8>
-		<foto9>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</foto9>
+		<foto9>https://fotografias-2.larazon.es/clipping/cmsimages02/2023/11/08/6D8931DB-AF69-4D50-9105-8F5AD1A96232/coches-camiones-aparcados-acera-calle-pizarro_98.jpg</foto9>
 		<numpanos>0</numpanos>
 	</propiedad>
+
+	<propiedad>
+		<id>Anna_imgMatricula2</id>
+		<numagencia>2</numagencia>
+		<calidades/>
+		<provincia>TOLEDO</provincia>
+		<key_loca>693799</key_loca>
+		<key_tipo>499</key_tipo>
+		<tipovpo>6</tipovpo>
+		<vpo_name>Libre</vpo_name>
+		<destacado>0</destacado>
+		<antiguedad>1992</antiguedad>
+		<tipo_ofer>Chalet</tipo_ofer>
+		<fecha>2021-07-07 10:56:59</fecha>
+		<fechaact>2025-03-21 19:13:05</fechaact>
+		<keypromo>0</keypromo>
+		<opcioncompra>0</opcioncompra>
+		<aconsultar>0</aconsultar>
+		<latitud>39.9821549424602</latitud>
+		<altitud>-4.28891372541304</altitud>
+		<aseos>0</aseos>
+		<banyos>3</banyos>
+		<carpint/>
+		<carpext/>
+		<comunidadincluida>0</comunidadincluida>
+		<tfachada/>
+		<tcocina/>
+		<tpostigo/>
+		<tbano/>
+		<tinterior>
+			<![CDATA[ ]]>
+		</tinterior>
+		<distmar>0</distmar>
+		<planta>2</planta>
+		<conservacion>Buen estado</conservacion>
+		<gastos_com>0</gastos_com>
+		<habdobles>8</habdobles>
+		<habitaciones>4</habitaciones>
+		<m_cons>357.00</m_cons>
+		<m_parcela>400.00</m_parcela>
+		<m_uties>325.00</m_uties>
+		<m_cocina>20.00</m_cocina>
+		<m_comedor>30.00</m_comedor>
+		<m_terraza>110.00</m_terraza>
+		<numplanta>3</numplanta>
+		<orientacion/>
+		<salon>1</salon>
+		<precioinmo>251000</precioinmo>
+		<preciotraspaso>0</preciotraspaso>
+		<precioalq>0</precioalq>
+		<outlet>231750</outlet>
+		<ref>ILL02TEST</ref>
+		<accion>Vender</accion>
+		<ciudad>Torrijos</ciudad>
+		<cp>45500</cp>
+		<zona>TORRIJOS</zona>
+		<adaptadominus>0</adaptadominus>
+		<airecentral>0</airecentral>
+		<aire_con>1</aire_con>
+		<alarma>0</alarma>
+		<alarmaincendio>0</alarmaincendio>
+		<alarmarobo>0</alarmarobo>
+		<arma_empo>0</arma_empo>
+		<ascensor>1</ascensor>
+		<balcon>1</balcon>
+		<bar>0</bar>
+		<jardin>1</jardin>
+		<barbacoa>0</barbacoa>
+		<cajafuerte>0</cajafuerte>
+		<keycalefa>7</keycalefa>
+		<keysuelo>0</keysuelo>
+		<calefacentral>0</calefacentral>
+		<calefaccion>1</calefaccion>
+		<chimenea>0</chimenea>
+		<depoagua>0</depoagua>
+		<descalcificador>0</descalcificador>
+		<despensa>1</despensa>
+		<diafano>0</diafano>
+		<electro>3</electro>
+		<esquina>0</esquina>
+		<galeria>0</galeria>
+		<plaza_gara>2</plaza_gara>
+		<garajedoble>0</garajedoble>
+		<gasciudad>0</gasciudad>
+		<gimnasio>0</gimnasio>
+		<habjuegos>0</habjuegos>
+		<tipomensual>MES</tipomensual>
+		<hidromasaje>0</hidromasaje>
+		<jacuzzi>0</jacuzzi>
+		<lavanderia>0</lavanderia>
+		<linea_tlf>0</linea_tlf>
+		<luminoso>0</luminoso>
+		<ibi>0.00</ibi>
+		<luz>0</luz>
+		<muebles>0</muebles>
+		<ojobuey>0</ojobuey>
+		<parking>2</parking>
+		<patio>0</patio>
+		<piscina_com>0</piscina_com>
+		<piscina_prop>0</piscina_prop>
+		<preinstaacc>0</preinstaacc>
+		<primera_line>0</primera_line>
+		<puerta_blin>1</puerta_blin>
+		<satelite>0</satelite>
+		<sauna>0</sauna>
+		<solarium>0</solarium>
+		<sotano>0</sotano>
+		<mirador>0</mirador>
+		<apartseparado>0</apartseparado>
+		<bombafriocalor>1</bombafriocalor>
+		<buhardilla>0</buhardilla>
+		<pergola>0</pergola>
+		<tv>0</tv>
+		<terraza>0</terraza>
+		<terrazaacris>0</terrazaacris>
+		<todoext>0</todoext>
+		<trastero>0</trastero>
+		<urbanizacion>0</urbanizacion>
+		<nplazasparking>4</nplazasparking>
+		<vestuarios>0</vestuarios>
+		<precioparking/>
+		<preciogaraje/>
+		<vistasalmar>0</vistasalmar>
+		<energialetra>E</energialetra>
+		<energiarecibido>1</energiarecibido>
+		<energiavalor>270.41</energiavalor>
+		<emisionesletra>G</emisionesletra>
+		<emisionesvalor>56.33</emisionesvalor>
+		<cocina_inde>0</cocina_inde>
+		<keyelectricidad>0</keyelectricidad>
+		<keyfachada>0</keyfachada>
+		<keyagua>0</keyagua>
+		<keyvista>0</keyvista>
+		<keytecho>0</keytecho>
+		<montana>0</montana>
+		<rural>0</rural>
+		<costa>0</costa>
+		<vallado>0</vallado>
+		<autobuses>0</autobuses>
+		<centros_comerciales>0</centros_comerciales>
+		<tranvia>0</tranvia>
+		<zonas_infantiles>0</zonas_infantiles>
+		<colegios>0</colegios>
+		<arboles>0</arboles>
+		<hospitales>0</hospitales>
+		<tren>0</tren>
+		<metro>0</metro>
+		<golf>0</golf>
+		<descrip1>
+			<![CDATA[ ¡El hogar de tus sueños te espera en el centro de Torrijos! Este chalet adosado de tres plantas cuenta con una distribución perfecta para tu comodidad. En la planta baja, encontrarás un garaje de más de 100 metros cuadrados con servicios incluidos. En la primera planta, un amplio salón con dos balcones, un dormitorio con ventana a la calle y cuatro dormitorios con salida a dos patios interiores, dos baños y una gran cocina amueblada con despensa y salida a una terraza interior con dependencia cubierta. En la segunda planta, un baño completo y tres dormitorios más.~ ~La vivienda cuenta con excelentes calidades en toda la casa, desde las escaleras de madera hasta los baños solados y alicatados con gres de primera calidad y sanitarios de la marca Roca. También dispone de bombas de calor y frío para una climatización perfecta en cualquier época del año.~ ~Con 375 m² construidos esta vivienda es perfecta para ti y tu familia. Además, tiene plaza de garaje y se encuentra en buen estado, con una antigüedad de 1992. ~ ~¡No dejes pasar esta oportunidad única! Llama ahora para concertar una visita y descubre todo lo que esta vivienda puede ofrecerte. ~ ~ LLAMANOS Y COCIERTA TU VISITA,¡~ ]]>
+		</descrip1>
+		<titulo1>
+			<![CDATA[ Titulo de la propiedad ]]>
+		</titulo1>
+		<estadoficha>1</estadoficha>
+		<exclu>0</exclu>
+		<tour/>
+		<keyagente>99626</keyagente>
+		<agente>
+			<![CDATA[ MONICA PANADERO MUÑOZ ]]>
+		</agente>
+		<email_agente/>
+		<prefijo_tlf_agente>34</prefijo_tlf_agente>
+		<tlf_agente>925764106</tlf_agente>
+		<numpanos>0</numpanos>
+		<numfotos>9</numfotos>
+		<foto1>https://caixa-et.github.io/Images/exterior-casa.jpeg</foto1>
+		<foto2>https://caixa-et.github.io/Images/exterior-casa-2.jpeg</foto2>
+		<foto3>https://caixa-et.github.io/Images/habitacion.jpg</foto3>
+		<foto4>https://caixa-et.github.io/Images/habitacion-2.jpg</foto4>
+		<foto5>https://caixa-et.github.io/Images/habitacion-3.jpg</foto5>
+		<foto6>https://caixa-et.github.io/Images/comedor.jpg</foto6>
+		<foto7>https://caixa-et.github.io/Images/cocina-2.jpg</foto7>
+		<foto8>https://caixa-et.github.io/Images/ba%C3%B1o.jpg</foto8>
+		<foto9>https://estaticos-cdn.prensaiberica.es/clip/c9191a0a-21b8-4ec0-a29c-9bb7ec8eb223_16-9-discover-aspect-ratio_default_0.webp</foto9>
+		<numpanos>0</numpanos>
+	</propiedad>
+
+	<propiedad>
+		<id>Anna_imgPersona</id>
+		<numagencia>2</numagencia>
+		<calidades/>
+		<provincia>TOLEDO</provincia>
+		<key_loca>693799</key_loca>
+		<key_tipo>499</key_tipo>
+		<tipovpo>6</tipovpo>
+		<vpo_name>Libre</vpo_name>
+		<destacado>0</destacado>
+		<antiguedad>1992</antiguedad>
+		<tipo_ofer>Chalet</tipo_ofer>
+		<fecha>2021-07-07 10:56:59</fecha>
+		<fechaact>2025-03-21 19:13:05</fechaact>
+		<keypromo>0</keypromo>
+		<opcioncompra>0</opcioncompra>
+		<aconsultar>0</aconsultar>
+		<latitud>39.9821549424602</latitud>
+		<altitud>-4.28891372541304</altitud>
+		<aseos>0</aseos>
+		<banyos>3</banyos>
+		<carpint/>
+		<carpext/>
+		<comunidadincluida>0</comunidadincluida>
+		<tfachada/>
+		<tcocina/>
+		<tpostigo/>
+		<tbano/>
+		<tinterior>
+			<![CDATA[ ]]>
+		</tinterior>
+		<distmar>0</distmar>
+		<planta>2</planta>
+		<conservacion>Buen estado</conservacion>
+		<gastos_com>0</gastos_com>
+		<habdobles>8</habdobles>
+		<habitaciones>4</habitaciones>
+		<m_cons>357.00</m_cons>
+		<m_parcela>400.00</m_parcela>
+		<m_uties>325.00</m_uties>
+		<m_cocina>20.00</m_cocina>
+		<m_comedor>30.00</m_comedor>
+		<m_terraza>110.00</m_terraza>
+		<numplanta>3</numplanta>
+		<orientacion/>
+		<salon>1</salon>
+		<precioinmo>252000</precioinmo>
+		<preciotraspaso>0</preciotraspaso>
+		<precioalq>0</precioalq>
+		<outlet>231750</outlet>
+		<ref>ILL02TEST</ref>
+		<accion>Vender</accion>
+		<ciudad>Torrijos</ciudad>
+		<cp>45500</cp>
+		<zona>TORRIJOS</zona>
+		<adaptadominus>0</adaptadominus>
+		<airecentral>0</airecentral>
+		<aire_con>1</aire_con>
+		<alarma>0</alarma>
+		<alarmaincendio>0</alarmaincendio>
+		<alarmarobo>0</alarmarobo>
+		<arma_empo>0</arma_empo>
+		<ascensor>1</ascensor>
+		<balcon>1</balcon>
+		<bar>0</bar>
+		<jardin>1</jardin>
+		<barbacoa>0</barbacoa>
+		<cajafuerte>0</cajafuerte>
+		<keycalefa>7</keycalefa>
+		<keysuelo>0</keysuelo>
+		<calefacentral>0</calefacentral>
+		<calefaccion>1</calefaccion>
+		<chimenea>0</chimenea>
+		<depoagua>0</depoagua>
+		<descalcificador>0</descalcificador>
+		<despensa>1</despensa>
+		<diafano>0</diafano>
+		<electro>3</electro>
+		<esquina>0</esquina>
+		<galeria>0</galeria>
+		<plaza_gara>2</plaza_gara>
+		<garajedoble>0</garajedoble>
+		<gasciudad>0</gasciudad>
+		<gimnasio>0</gimnasio>
+		<habjuegos>0</habjuegos>
+		<tipomensual>MES</tipomensual>
+		<hidromasaje>0</hidromasaje>
+		<jacuzzi>0</jacuzzi>
+		<lavanderia>0</lavanderia>
+		<linea_tlf>0</linea_tlf>
+		<luminoso>0</luminoso>
+		<ibi>0.00</ibi>
+		<luz>0</luz>
+		<muebles>0</muebles>
+		<ojobuey>0</ojobuey>
+		<parking>2</parking>
+		<patio>0</patio>
+		<piscina_com>0</piscina_com>
+		<piscina_prop>0</piscina_prop>
+		<preinstaacc>0</preinstaacc>
+		<primera_line>0</primera_line>
+		<puerta_blin>1</puerta_blin>
+		<satelite>0</satelite>
+		<sauna>0</sauna>
+		<solarium>0</solarium>
+		<sotano>0</sotano>
+		<mirador>0</mirador>
+		<apartseparado>0</apartseparado>
+		<bombafriocalor>1</bombafriocalor>
+		<buhardilla>0</buhardilla>
+		<pergola>0</pergola>
+		<tv>0</tv>
+		<terraza>0</terraza>
+		<terrazaacris>0</terrazaacris>
+		<todoext>0</todoext>
+		<trastero>0</trastero>
+		<urbanizacion>0</urbanizacion>
+		<nplazasparking>4</nplazasparking>
+		<vestuarios>0</vestuarios>
+		<precioparking/>
+		<preciogaraje/>
+		<vistasalmar>0</vistasalmar>
+		<energialetra>E</energialetra>
+		<energiarecibido>1</energiarecibido>
+		<energiavalor>270.41</energiavalor>
+		<emisionesletra>G</emisionesletra>
+		<emisionesvalor>56.33</emisionesvalor>
+		<cocina_inde>0</cocina_inde>
+		<keyelectricidad>0</keyelectricidad>
+		<keyfachada>0</keyfachada>
+		<keyagua>0</keyagua>
+		<keyvista>0</keyvista>
+		<keytecho>0</keytecho>
+		<montana>0</montana>
+		<rural>0</rural>
+		<costa>0</costa>
+		<vallado>0</vallado>
+		<autobuses>0</autobuses>
+		<centros_comerciales>0</centros_comerciales>
+		<tranvia>0</tranvia>
+		<zonas_infantiles>0</zonas_infantiles>
+		<colegios>0</colegios>
+		<arboles>0</arboles>
+		<hospitales>0</hospitales>
+		<tren>0</tren>
+		<metro>0</metro>
+		<golf>0</golf>
+		<descrip1>
+			<![CDATA[ ¡El hogar de tus sueños te espera en el centro de Torrijos! Este chalet adosado de tres plantas cuenta con una distribución perfecta para tu comodidad. En la planta baja, encontrarás un garaje de más de 100 metros cuadrados con servicios incluidos. En la primera planta, un amplio salón con dos balcones, un dormitorio con ventana a la calle y cuatro dormitorios con salida a dos patios interiores, dos baños y una gran cocina amueblada con despensa y salida a una terraza interior con dependencia cubierta. En la segunda planta, un baño completo y tres dormitorios más.~ ~La vivienda cuenta con excelentes calidades en toda la casa, desde las escaleras de madera hasta los baños solados y alicatados con gres de primera calidad y sanitarios de la marca Roca. También dispone de bombas de calor y frío para una climatización perfecta en cualquier época del año.~ ~Con 375 m² construidos esta vivienda es perfecta para ti y tu familia. Además, tiene plaza de garaje y se encuentra en buen estado, con una antigüedad de 1992. ~ ~¡No dejes pasar esta oportunidad única! Llama ahora para concertar una visita y descubre todo lo que esta vivienda puede ofrecerte. ~ ~ LLAMANOS Y COCIERTA TU VISITA,¡~ ]]>
+		</descrip1>
+		<titulo1>
+			<![CDATA[ Titulo de la propiedad ]]>
+		</titulo1>
+		<estadoficha>1</estadoficha>
+		<exclu>0</exclu>
+		<tour/>
+		<keyagente>99626</keyagente>
+		<agente>
+			<![CDATA[ MONICA PANADERO MUÑOZ ]]>
+		</agente>
+		<email_agente/>
+		<prefijo_tlf_agente>34</prefijo_tlf_agente>
+		<tlf_agente>925764106</tlf_agente>
+		<numpanos>0</numpanos>
+		<numfotos>9</numfotos>
+		<foto1>https://caixa-et.github.io/Images/exterior-casa.jpeg</foto1>
+		<foto2>https://caixa-et.github.io/Images/exterior-casa-2.jpeg</foto2>
+		<foto3>https://caixa-et.github.io/Images/habitacion.jpg</foto3>
+		<foto4>https://caixa-et.github.io/Images/habitacion-2.jpg</foto4>
+		<foto5>https://caixa-et.github.io/Images/habitacion-3.jpg</foto5>
+		<foto6>https://caixa-et.github.io/Images/comedor.jpg</foto6>
+		<foto7>https://caixa-et.github.io/Images/cocina-2.jpg</foto7>
+		<foto8>https://caixa-et.github.io/Images/ba%C3%B1o.jpg</foto8>
+		<foto9>https://www.lacasa.net/blog/wp-content/uploads/2021/12/1240x600visia-para-vender-piso-rapido-1080x600.png</foto9>
+		<numpanos>0</numpanos>
+	</propiedad>
+
 </propiedades>
 <!-- Fecha Creacion: 23-01-2025 1:01:47 -->

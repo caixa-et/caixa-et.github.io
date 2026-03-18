@@ -1,60 +1,59 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <propiedades>
 	<propiedad>
-		<id>Anna_imgMatricula</id>
-		<numagencia>2</numagencia>
+		<id>Anna_img_CCEE</id>
+		<numagencia>3433</numagencia>
 		<calidades/>
-		<provincia>TOLEDO</provincia>
-		<key_loca>693799</key_loca>
-		<key_tipo>499</key_tipo>
+		<provincia>SEVILLA</provincia>
+		<key_loca>609899</key_loca>
+		<key_tipo>3399</key_tipo>
 		<tipovpo>6</tipovpo>
 		<vpo_name>Libre</vpo_name>
 		<destacado>0</destacado>
-		<antiguedad>1992</antiguedad>
-		<tipo_ofer>Chalet</tipo_ofer>
-		<fecha>2021-07-07 10:56:59</fecha>
-		<fechaact>2025-03-21 19:13:05</fechaact>
+		<antiguedad>1930</antiguedad>
+		<tipo_ofer>Piso</tipo_ofer>
+		<fecha>2026-03-16 19:53:51</fecha>
+		<fechaact>2026-03-16 20:14:25</fechaact>
 		<keypromo>0</keypromo>
 		<opcioncompra>0</opcioncompra>
 		<aconsultar>0</aconsultar>
-		<latitud>39.9821549424602</latitud>
-		<altitud>-4.28891372541304</altitud>
+		<latitud>37.402405509</latitud>
+		<altitud>-5.990765815</altitud>
 		<aseos>0</aseos>
-		<banyos>3</banyos>
-		<carpint/>
-		<carpext/>
+		<banyos>1</banyos>
+		<carpint>Madera</carpint>
+		<carpext>Aluminio Lacado</carpext>
 		<comunidadincluida>0</comunidadincluida>
 		<tfachada/>
 		<tcocina/>
 		<tpostigo/>
 		<tbano/>
 		<tinterior>
-			<![CDATA[ ]]>
+		<![CDATA[ ]]>
 		</tinterior>
 		<distmar>0</distmar>
-		<planta>2</planta>
+		<planta>1</planta>
 		<conservacion>Buen estado</conservacion>
 		<gastos_com>0</gastos_com>
-		<habdobles>8</habdobles>
-		<habitaciones>4</habitaciones>
-		<m_cons>357.00</m_cons>
-		<m_parcela>400.00</m_parcela>
-		<m_uties>325.00</m_uties>
-		<m_cocina>20.00</m_cocina>
-		<m_comedor>30.00</m_comedor>
-		<m_terraza>110.00</m_terraza>
-		<numplanta>3</numplanta>
+		<habdobles>2</habdobles>
+		<habitaciones>0</habitaciones>
+		<m_cons>43.00</m_cons>
+		<m_parcela>0</m_parcela>
+		<m_uties>0.00</m_uties>
+		<m_cocina>0.00</m_cocina>
+		<m_comedor>0.00</m_comedor>
+		<m_terraza>0.00</m_terraza>
+		<numplanta>0</numplanta>
 		<orientacion/>
 		<salon>1</salon>
-		<precioinmo>250000</precioinmo>
+		<precioinmo>185000</precioinmo>
 		<preciotraspaso>0</preciotraspaso>
 		<precioalq>0</precioalq>
-		<outlet>231750</outlet>
-		<ref>ILL02TEST</ref>
+		<outlet>135000</outlet>
+		<ref>1712026</ref>
 		<accion>Vender</accion>
-		<ciudad>Torrijos</ciudad>
-		<cp>45500</cp>
-		<zona>TORRIJOS</zona>
+		<ciudad>Sevilla</ciudad>
+		<cp>41002</cp>
+		<zona>Parlamento - Torneo</zona>
 		<adaptadominus>0</adaptadominus>
 		<airecentral>0</airecentral>
 		<aire_con>1</aire_con>
@@ -62,25 +61,25 @@
 		<alarmaincendio>0</alarmaincendio>
 		<alarmarobo>0</alarmarobo>
 		<arma_empo>0</arma_empo>
-		<ascensor>1</ascensor>
-		<balcon>1</balcon>
+		<ascensor>0</ascensor>
+		<balcon>0</balcon>
 		<bar>0</bar>
-		<jardin>1</jardin>
+		<jardin>0</jardin>
 		<barbacoa>0</barbacoa>
 		<cajafuerte>0</cajafuerte>
-		<keycalefa>7</keycalefa>
-		<keysuelo>0</keysuelo>
+		<keycalefa>25</keycalefa>
+		<keysuelo>1</keysuelo>
 		<calefacentral>0</calefacentral>
-		<calefaccion>1</calefaccion>
+		<calefaccion>0</calefaccion>
 		<chimenea>0</chimenea>
 		<depoagua>0</depoagua>
 		<descalcificador>0</descalcificador>
-		<despensa>1</despensa>
+		<despensa>0</despensa>
 		<diafano>0</diafano>
-		<electro>3</electro>
+		<electro>1</electro>
 		<esquina>0</esquina>
 		<galeria>0</galeria>
-		<plaza_gara>2</plaza_gara>
+		<plaza_gara>0</plaza_gara>
 		<garajedoble>0</garajedoble>
 		<gasciudad>0</gasciudad>
 		<gimnasio>0</gimnasio>
@@ -89,175 +88,308 @@
 		<hidromasaje>0</hidromasaje>
 		<jacuzzi>0</jacuzzi>
 		<lavanderia>0</lavanderia>
-		<linea_tlf>0</linea_tlf>
-		<luminoso>0</luminoso>
+		<linea_tlf>1</linea_tlf>
+		<luminoso>1</luminoso>
 		<ibi>0.00</ibi>
-		<luz>0</luz>
+		<luz>1</luz>
 		<muebles>0</muebles>
 		<ojobuey>0</ojobuey>
-		<parking>2</parking>
+		<parking>0</parking>
 		<patio>0</patio>
 		<piscina_com>0</piscina_com>
 		<piscina_prop>0</piscina_prop>
 		<preinstaacc>0</preinstaacc>
 		<primera_line>0</primera_line>
-		<puerta_blin>1</puerta_blin>
+		<puerta_blin>0</puerta_blin>
 		<satelite>0</satelite>
 		<sauna>0</sauna>
 		<solarium>0</solarium>
 		<sotano>0</sotano>
 		<mirador>0</mirador>
 		<apartseparado>0</apartseparado>
-		<bombafriocalor>1</bombafriocalor>
+		<bombafriocalor>0</bombafriocalor>
 		<buhardilla>0</buhardilla>
 		<pergola>0</pergola>
-		<tv>0</tv>
+		<tv>1</tv>
 		<terraza>0</terraza>
 		<terrazaacris>0</terrazaacris>
-		<todoext>0</todoext>
+		<todoext>3</todoext>
 		<trastero>0</trastero>
 		<urbanizacion>0</urbanizacion>
-		<nplazasparking>4</nplazasparking>
+		<nplazasparking>0</nplazasparking>
 		<vestuarios>0</vestuarios>
 		<precioparking/>
 		<preciogaraje/>
 		<vistasalmar>0</vistasalmar>
-		<energialetra>E</energialetra>
-		<energiarecibido>1</energiarecibido>
-		<energiavalor>270.41</energiavalor>
+		<energialetra>G</energialetra>
+		<energiarecibido>0</energiarecibido>
+		<energiavalor>0</energiavalor>
 		<emisionesletra>G</emisionesletra>
-		<emisionesvalor>56.33</emisionesvalor>
-		<cocina_inde>0</cocina_inde>
+		<emisionesvalor>0</emisionesvalor>
+		<cocina_inde>4</cocina_inde>
 		<keyelectricidad>0</keyelectricidad>
 		<keyfachada>0</keyfachada>
-		<keyagua>0</keyagua>
-		<keyvista>0</keyvista>
+		<keyagua>3</keyagua>
+		<keyvista>7</keyvista>
 		<keytecho>0</keytecho>
 		<montana>0</montana>
 		<rural>0</rural>
 		<costa>0</costa>
 		<vallado>0</vallado>
-		<autobuses>0</autobuses>
-		<centros_comerciales>0</centros_comerciales>
+		<autobuses>1</autobuses>
+		<centros_comerciales>1</centros_comerciales>
 		<tranvia>0</tranvia>
-		<zonas_infantiles>0</zonas_infantiles>
-		<colegios>0</colegios>
-		<arboles>0</arboles>
-		<hospitales>0</hospitales>
+		<zonas_infantiles>1</zonas_infantiles>
+		<colegios>1</colegios>
+		<arboles>1</arboles>
+		<hospitales>1</hospitales>
 		<tren>0</tren>
 		<metro>0</metro>
 		<golf>0</golf>
 		<descrip1>
-			<![CDATA[ ¡El hogar de tus sueños te espera en el centro de Torrijos! Este chalet adosado de tres plantas cuenta con una distribución perfecta para tu comodidad. En la planta baja, encontrarás un garaje de más de 100 metros cuadrados con servicios incluidos. En la primera planta, un amplio salón con dos balcones, un dormitorio con ventana a la calle y cuatro dormitorios con salida a dos patios interiores, dos baños y una gran cocina amueblada con despensa y salida a una terraza interior con dependencia cubierta. En la segunda planta, un baño completo y tres dormitorios más.~ ~La vivienda cuenta con excelentes calidades en toda la casa, desde las escaleras de madera hasta los baños solados y alicatados con gres de primera calidad y sanitarios de la marca Roca. También dispone de bombas de calor y frío para una climatización perfecta en cualquier época del año.~ ~Con 375 m² construidos esta vivienda es perfecta para ti y tu familia. Además, tiene plaza de garaje y se encuentra en buen estado, con una antigüedad de 1992. ~ ~¡No dejes pasar esta oportunidad única! Llama ahora para concertar una visita y descubre todo lo que esta vivienda puede ofrecerte. ~ ~ LLAMANOS Y COCIERTA TU VISITA,¡~ ]]>
+		<![CDATA[ PISO DE 2 DORMITORIOS EN EL BARRIO DE FERIA, EN MUY BUEN ESTADO~~Fantástico piso situado en una de las zonas con más encanto y vida del barrio de Feria. Una vivienda acogedora, funcional y en muy buen estado de conservación, ideal tanto para vivir como para inversión.~~La vivienda se distribuye en dos dormitorios, salón-comedor con cocina americana, que aporta amplitud y luminosidad al espacio, y un baño completo con placa de ducha. Su distribución está muy bien aprovechada, ofreciendo estancias cómodas y prácticas para el día a día.~~Entre sus calidades destacan suelos de mármol, carpintería exterior de aluminio y puertas interiores de madera, elementos que aportan elegancia y durabilidad. Además, la vivienda cuenta con aire acondicionado tipo split, garantizando confort durante todo el año.~~Ubicado en el barrio de Feria, una zona muy demandada del casco histórico por su ambiente, su cercanía a comercios, mercados tradicionales, restauración y todo tipo de servicios. Perfectamente conectado y a pocos minutos de los principales puntos de interés de la ciudad.~~Una excelente oportunidad para quienes buscan vivir en una zona con carácter o para invertir en una de las áreas con mayor demanda de Sevilla.~~Honorarios no incluidos en el P. V. P. Gastos de Notaría, Registro e Impuestos no incluidos. D. I. A (Documento informativo abreviado) a disposición del consumidor RD 258/05 Junta de Andalucía.~ ~ ]]>
 		</descrip1>
 		<titulo1>
-			<![CDATA[ Titulo de la propiedad ]]>
+		<![CDATA[ PISO DE 2 DORMITORIOS EN EL BARRIO DE FERIA, EN MUY BUEN ESTADO ]]>
 		</titulo1>
+		<titulo2>
+		<![CDATA[ ]]>
+		</titulo2>
+		<descrip2>
+		<![CDATA[ ]]>
+		</descrip2>
+		<titulo3>
+		<![CDATA[ ]]>
+		</titulo3>
+		<descrip3>
+		<![CDATA[ ]]>
+		</descrip3>
+		<titulo4>
+		<![CDATA[ ]]>
+		</titulo4>
+		<descrip4>
+		<![CDATA[ ]]>
+		</descrip4>
+		<titulo5>
+		<![CDATA[ ]]>
+		</titulo5>
+		<descrip5>
+		<![CDATA[ ]]>
+		</descrip5>
+		<titulo6>
+		<![CDATA[ ]]>
+		</titulo6>
+		<descrip6>
+		<![CDATA[ ]]>
+		</descrip6>
+		<titulo7>
+		<![CDATA[ ]]>
+		</titulo7>
+		<descrip7>
+		<![CDATA[ ]]>
+		</descrip7>
+		<titulo8>
+		<![CDATA[ ]]>
+		</titulo8>
+		<descrip8>
+		<![CDATA[ ]]>
+		</descrip8>
+		<titulo9>
+		<![CDATA[ ]]>
+		</titulo9>
+		<descrip9>
+		<![CDATA[ ]]>
+		</descrip9>
+		<titulo10>
+		<![CDATA[ ]]>
+		</titulo10>
+		<descrip10>
+		<![CDATA[ ]]>
+		</descrip10>
+		<titulo11>
+		<![CDATA[ ]]>
+		</titulo11>
+		<descrip11>
+		<![CDATA[ ]]>
+		</descrip11>
+		<titulo12>
+		<![CDATA[ ]]>
+		</titulo12>
+		<descrip12>
+		<![CDATA[ ]]>
+		</descrip12>
+		<titulo15>
+		<![CDATA[ ]]>
+		</titulo15>
+		<descrip15>
+		<![CDATA[ ]]>
+		</descrip15>
+		<titulo16>
+		<![CDATA[ ]]>
+		</titulo16>
+		<descrip16>
+		<![CDATA[ ]]>
+		</descrip16>
+		<titulo17>
+		<![CDATA[ ]]>
+		</titulo17>
+		<descrip17>
+		<![CDATA[ ]]>
+		</descrip17>
+		<titulo18>
+		<![CDATA[ ]]>
+		</titulo18>
+		<descrip18>
+		<![CDATA[ ]]>
+		</descrip18>
+		<titulo19>
+		<![CDATA[ ]]>
+		</titulo19>
+		<descrip19>
+		<![CDATA[ ]]>
+		</descrip19>
+		<titulo22>
+		<![CDATA[ ]]>
+		</titulo22>
+		<descrip22>
+		<![CDATA[ ]]>
+		</descrip22>
+		<titulo23>
+		<![CDATA[ ]]>
+		</titulo23>
+		<descrip23>
+		<![CDATA[ ]]>
+		</descrip23>
+		<titulo24>
+		<![CDATA[ ]]>
+		</titulo24>
+		<descrip24>
+		<![CDATA[ ]]>
+		</descrip24>
+		<titulo25>
+		<![CDATA[ ]]>
+		</titulo25>
+		<descrip25>
+		<![CDATA[ ]]>
+		</descrip25>
 		<estadoficha>1</estadoficha>
 		<exclu>0</exclu>
 		<tour/>
-		<keyagente>99626</keyagente>
+		<keyagente>138888</keyagente>
 		<agente>
-			<![CDATA[ MONICA PANADERO MUÑOZ ]]>
+		<![CDATA[ Macarena ]]>
 		</agente>
-		<email_agente/>
+		<email_agente>macarenagarcia@grupoezeda.com</email_agente>
 		<prefijo_tlf_agente>34</prefijo_tlf_agente>
-		<tlf_agente>925764106</tlf_agente>
+		<tlf_agente>954915480</tlf_agente>
 		<numpanos>0</numpanos>
-		<numfotos>9</numfotos>
-		<foto1>https://caixa-et.github.io/Images/exterior-casa.jpeg</foto1>
-		<foto2>https://caixa-et.github.io/Images/exterior-casa-2.jpeg</foto2>
-		<foto3>https://caixa-et.github.io/Images/habitacion.jpg</foto3>
-		<foto4>https://caixa-et.github.io/Images/habitacion-2.jpg</foto4>
-		<foto5>https://caixa-et.github.io/Images/habitacion-3.jpg</foto5>
-		<foto6>https://caixa-et.github.io/Images/comedor.jpg</foto6>
-		<foto7>https://caixa-et.github.io/Images/cocina-2.jpg</foto7>
-		<foto8>https://caixa-et.github.io/Images/ba%C3%B1o.jpg</foto8>
-		<foto9>https://fotografias-2.larazon.es/clipping/cmsimages02/2023/11/08/6D8931DB-AF69-4D50-9105-8F5AD1A96232/coches-camiones-aparcados-acera-calle-pizarro_98.jpg</foto9>
+		<numfotos>12</numfotos>
+		<foto1>https://fotos15.apinmo.com/3433/9434565/10-1.jpg</foto1>
+		<foto2>https://fotos15.apinmo.com/3433/9434565/10-2.jpg</foto2>
+		<foto3>https://fotos15.apinmo.com/3433/9434565/10-3.jpg</foto3>
+		<foto4>https://fotos15.apinmo.com/3433/9434565/10-4.jpg</foto4>
+		<foto5>https://fotos15.apinmo.com/3433/9434565/10-5.jpg</foto5>
+		<foto6>https://fotos15.apinmo.com/3433/9434565/10-6.jpg</foto6>
+		<foto7>https://fotos15.apinmo.com/3433/9434565/10-7.jpg</foto7>
+		<foto8>https://fotos15.apinmo.com/3433/9434565/10-8.jpg</foto8>
+		<foto9>https://fotos15.apinmo.com/3433/9434565/10-9.jpg</foto9>
+		<foto10>https://fotos15.apinmo.com/3433/9434565/10-10.jpg</foto10>
+		<foto11>https://fotos15.apinmo.com/3433/9434565/10-11.jpg</foto11>
+		<foto12>https://fotos15.apinmo.com/3433/9434565/10-12.jpg</foto12>
+		<foto13>
+
+
+			
+		</foto13>
+		
 		<numpanos>0</numpanos>
+		<videos/>
 	</propiedad>
 
+
+
+	
 	<propiedad>
-		<id>Anna_imgMatricula2</id>
-		<numagencia>2</numagencia>
+		<id>Anna_img_Contacto</id>
+		<numagencia>3433</numagencia>
 		<calidades/>
-		<provincia>TOLEDO</provincia>
-		<key_loca>693799</key_loca>
-		<key_tipo>499</key_tipo>
+		<provincia>SEVILLA</provincia>
+		<key_loca>609899</key_loca>
+		<key_tipo>3099</key_tipo>
 		<tipovpo>6</tipovpo>
 		<vpo_name>Libre</vpo_name>
 		<destacado>0</destacado>
-		<antiguedad>1992</antiguedad>
-		<tipo_ofer>Chalet</tipo_ofer>
-		<fecha>2021-07-07 10:56:59</fecha>
-		<fechaact>2025-03-21 19:13:05</fechaact>
+		<antiguedad>2009</antiguedad>
+		<tipo_ofer>Estudio</tipo_ofer>
+		<fecha>2025-02-11 11:13:27</fecha>
+		<fechaact>2026-02-09 11:06:09</fechaact>
 		<keypromo>0</keypromo>
 		<opcioncompra>0</opcioncompra>
 		<aconsultar>0</aconsultar>
-		<latitud>39.9821549424602</latitud>
-		<altitud>-4.28891372541304</altitud>
+		<latitud>37.3999456218679</latitud>
+		<altitud>-5.99105476282949</altitud>
 		<aseos>0</aseos>
-		<banyos>3</banyos>
-		<carpint/>
-		<carpext/>
-		<comunidadincluida>0</comunidadincluida>
+		<banyos>1</banyos>
+		<carpint>PVC</carpint>
+		<carpext>PVC</carpext>
+		<comunidadincluida>1</comunidadincluida>
 		<tfachada/>
 		<tcocina/>
 		<tpostigo/>
 		<tbano/>
 		<tinterior>
-			<![CDATA[ ]]>
+		<![CDATA[ ]]>
 		</tinterior>
 		<distmar>0</distmar>
-		<planta>2</planta>
+		<planta>0</planta>
 		<conservacion>Buen estado</conservacion>
-		<gastos_com>0</gastos_com>
-		<habdobles>8</habdobles>
-		<habitaciones>4</habitaciones>
-		<m_cons>357.00</m_cons>
-		<m_parcela>400.00</m_parcela>
-		<m_uties>325.00</m_uties>
-		<m_cocina>20.00</m_cocina>
-		<m_comedor>30.00</m_comedor>
-		<m_terraza>110.00</m_terraza>
-		<numplanta>3</numplanta>
+		<gastos_com>30</gastos_com>
+		<habdobles>1</habdobles>
+		<habitaciones>0</habitaciones>
+		<m_cons>52.00</m_cons>
+		<m_parcela>0</m_parcela>
+		<m_uties>0.00</m_uties>
+		<m_cocina>0.00</m_cocina>
+		<m_comedor>0.00</m_comedor>
+		<m_terraza>0.00</m_terraza>
+		<numplanta>0</numplanta>
 		<orientacion/>
 		<salon>1</salon>
-		<precioinmo>251000</precioinmo>
+		<precioinmo>0</precioinmo>
 		<preciotraspaso>0</preciotraspaso>
-		<precioalq>0</precioalq>
-		<outlet>231750</outlet>
-		<ref>ILL02TEST</ref>
-		<accion>Vender</accion>
-		<ciudad>Torrijos</ciudad>
-		<cp>45500</cp>
-		<zona>TORRIJOS</zona>
-		<adaptadominus>0</adaptadominus>
-		<airecentral>0</airecentral>
+		<precioalq>800</precioalq>
+		<outlet>0</outlet>
+		<ref>11219</ref>
+		<accion>Alquilar</accion>
+		<ciudad>Sevilla</ciudad>
+		<cp>41003</cp>
+		<zona>Centro</zona>
+		<adaptadominus>1</adaptadominus>
+		<airecentral>1</airecentral>
 		<aire_con>1</aire_con>
 		<alarma>0</alarma>
 		<alarmaincendio>0</alarmaincendio>
 		<alarmarobo>0</alarmarobo>
-		<arma_empo>0</arma_empo>
+		<arma_empo>1</arma_empo>
 		<ascensor>1</ascensor>
-		<balcon>1</balcon>
+		<balcon>0</balcon>
 		<bar>0</bar>
-		<jardin>1</jardin>
+		<jardin>0</jardin>
 		<barbacoa>0</barbacoa>
 		<cajafuerte>0</cajafuerte>
-		<keycalefa>7</keycalefa>
-		<keysuelo>0</keysuelo>
+		<keycalefa>9</keycalefa>
+		<keysuelo>2</keysuelo>
 		<calefacentral>0</calefacentral>
 		<calefaccion>1</calefaccion>
 		<chimenea>0</chimenea>
 		<depoagua>0</depoagua>
 		<descalcificador>0</descalcificador>
-		<despensa>1</despensa>
+		<despensa>0</despensa>
 		<diafano>0</diafano>
-		<electro>3</electro>
+		<electro>1</electro>
 		<esquina>0</esquina>
 		<galeria>0</galeria>
-		<plaza_gara>2</plaza_gara>
+		<plaza_gara>0</plaza_gara>
 		<garajedoble>0</garajedoble>
 		<gasciudad>0</gasciudad>
 		<gimnasio>0</gimnasio>
@@ -267,13 +399,13 @@
 		<jacuzzi>0</jacuzzi>
 		<lavanderia>0</lavanderia>
 		<linea_tlf>0</linea_tlf>
-		<luminoso>0</luminoso>
+		<luminoso>1</luminoso>
 		<ibi>0.00</ibi>
-		<luz>0</luz>
-		<muebles>0</muebles>
+		<luz>1</luz>
+		<muebles>1</muebles>
 		<ojobuey>0</ojobuey>
-		<parking>2</parking>
-		<patio>0</patio>
+		<parking>0</parking>
+		<patio>1</patio>
 		<piscina_com>0</piscina_com>
 		<piscina_prop>0</piscina_prop>
 		<preinstaacc>0</preinstaacc>
@@ -285,96 +417,224 @@
 		<sotano>0</sotano>
 		<mirador>0</mirador>
 		<apartseparado>0</apartseparado>
-		<bombafriocalor>1</bombafriocalor>
+		<bombafriocalor>0</bombafriocalor>
 		<buhardilla>0</buhardilla>
 		<pergola>0</pergola>
-		<tv>0</tv>
+		<tv>1</tv>
 		<terraza>0</terraza>
 		<terrazaacris>0</terrazaacris>
-		<todoext>0</todoext>
+		<todoext>3</todoext>
 		<trastero>0</trastero>
 		<urbanizacion>0</urbanizacion>
-		<nplazasparking>4</nplazasparking>
+		<nplazasparking>0</nplazasparking>
 		<vestuarios>0</vestuarios>
 		<precioparking/>
 		<preciogaraje/>
 		<vistasalmar>0</vistasalmar>
-		<energialetra>E</energialetra>
-		<energiarecibido>1</energiarecibido>
-		<energiavalor>270.41</energiavalor>
+		<energialetra>G</energialetra>
+		<energiarecibido>0</energiarecibido>
+		<energiavalor>0</energiavalor>
 		<emisionesletra>G</emisionesletra>
-		<emisionesvalor>56.33</emisionesvalor>
-		<cocina_inde>0</cocina_inde>
+		<emisionesvalor>0</emisionesvalor>
+		<cocina_inde>4</cocina_inde>
 		<keyelectricidad>0</keyelectricidad>
 		<keyfachada>0</keyfachada>
-		<keyagua>0</keyagua>
-		<keyvista>0</keyvista>
+		<keyagua>3</keyagua>
+		<keyvista>17</keyvista>
 		<keytecho>0</keytecho>
 		<montana>0</montana>
 		<rural>0</rural>
 		<costa>0</costa>
 		<vallado>0</vallado>
-		<autobuses>0</autobuses>
-		<centros_comerciales>0</centros_comerciales>
+		<autobuses>1</autobuses>
+		<centros_comerciales>1</centros_comerciales>
 		<tranvia>0</tranvia>
-		<zonas_infantiles>0</zonas_infantiles>
-		<colegios>0</colegios>
-		<arboles>0</arboles>
-		<hospitales>0</hospitales>
+		<zonas_infantiles>1</zonas_infantiles>
+		<colegios>1</colegios>
+		<arboles>1</arboles>
+		<hospitales>1</hospitales>
 		<tren>0</tren>
 		<metro>0</metro>
 		<golf>0</golf>
 		<descrip1>
-			<![CDATA[ ¡El hogar de tus sueños te espera en el centro de Torrijos! Este chalet adosado de tres plantas cuenta con una distribución perfecta para tu comodidad. En la planta baja, encontrarás un garaje de más de 100 metros cuadrados con servicios incluidos. En la primera planta, un amplio salón con dos balcones, un dormitorio con ventana a la calle y cuatro dormitorios con salida a dos patios interiores, dos baños y una gran cocina amueblada con despensa y salida a una terraza interior con dependencia cubierta. En la segunda planta, un baño completo y tres dormitorios más.~ ~La vivienda cuenta con excelentes calidades en toda la casa, desde las escaleras de madera hasta los baños solados y alicatados con gres de primera calidad y sanitarios de la marca Roca. También dispone de bombas de calor y frío para una climatización perfecta en cualquier época del año.~ ~Con 375 m² construidos esta vivienda es perfecta para ti y tu familia. Además, tiene plaza de garaje y se encuentra en buen estado, con una antigüedad de 1992. ~ ~¡No dejes pasar esta oportunidad única! Llama ahora para concertar una visita y descubre todo lo que esta vivienda puede ofrecerte. ~ ~ LLAMANOS Y COCIERTA TU VISITA,¡~ ]]>
+		<![CDATA[ Estupendo estudio en alquiler de 52 m² construidos, distribuido en dormitorio independiente, salón-comedor con cocina integrada y baño completo. La vivienda cuenta además con un patio interior privado de 10 m², ideal para disfrutar de un espacio exterior tranquilo.~~Entre sus calidades destacan aire acondicionado centralizado, armarios empotrados, puerta blindada, ventanas Climalit, tarima flotante y termo eléctrico.~~La vivienda ofrece vistas al amplio patio central del edificio, aportando luminosidad y un ambiente silencioso.~~Situado en el Barrio de Feria, una de las zonas más demandadas por su carácter tradicional y su excelente ubicación, con todos los servicios a su alcance: supermercados, comercios, colegios, centros médicos, instalaciones deportivas y transporte público.~~Ideal para una persona o pareja que busque comodidad y tranquilidad en una ubicación privilegiada.~~~ ]]>
 		</descrip1>
 		<titulo1>
-			<![CDATA[ Titulo de la propiedad ]]>
+		<![CDATA[ MAGNÍFICO ESTUDIO CON PATIO – BARRIO DE FERIA ]]>
 		</titulo1>
+		<titulo2>
+		<![CDATA[ ]]>
+		</titulo2>
+		<descrip2>
+		<![CDATA[ ]]>
+		</descrip2>
+		<titulo3>
+		<![CDATA[ ]]>
+		</titulo3>
+		<descrip3>
+		<![CDATA[ ]]>
+		</descrip3>
+		<titulo4>
+		<![CDATA[ ]]>
+		</titulo4>
+		<descrip4>
+		<![CDATA[ ]]>
+		</descrip4>
+		<titulo5>
+		<![CDATA[ ]]>
+		</titulo5>
+		<descrip5>
+		<![CDATA[ ]]>
+		</descrip5>
+		<titulo6>
+		<![CDATA[ ]]>
+		</titulo6>
+		<descrip6>
+		<![CDATA[ ]]>
+		</descrip6>
+		<titulo7>
+		<![CDATA[ ]]>
+		</titulo7>
+		<descrip7>
+		<![CDATA[ ]]>
+		</descrip7>
+		<titulo8>
+		<![CDATA[ ]]>
+		</titulo8>
+		<descrip8>
+		<![CDATA[ ]]>
+		</descrip8>
+		<titulo9>
+		<![CDATA[ ]]>
+		</titulo9>
+		<descrip9>
+		<![CDATA[ ]]>
+		</descrip9>
+		<titulo10>
+		<![CDATA[ ]]>
+		</titulo10>
+		<descrip10>
+		<![CDATA[ ]]>
+		</descrip10>
+		<titulo11>
+		<![CDATA[ ]]>
+		</titulo11>
+		<descrip11>
+		<![CDATA[ ]]>
+		</descrip11>
+		<titulo12>
+		<![CDATA[ ]]>
+		</titulo12>
+		<descrip12>
+		<![CDATA[ ]]>
+		</descrip12>
+		<titulo15>
+		<![CDATA[ ]]>
+		</titulo15>
+		<descrip15>
+		<![CDATA[ ]]>
+		</descrip15>
+		<titulo16>
+		<![CDATA[ ]]>
+		</titulo16>
+		<descrip16>
+		<![CDATA[ ]]>
+		</descrip16>
+		<titulo17>
+		<![CDATA[ ]]>
+		</titulo17>
+		<descrip17>
+		<![CDATA[ ]]>
+		</descrip17>
+		<titulo18>
+		<![CDATA[ ]]>
+		</titulo18>
+		<descrip18>
+		<![CDATA[ ]]>
+		</descrip18>
+		<titulo19>
+		<![CDATA[ ]]>
+		</titulo19>
+		<descrip19>
+		<![CDATA[ ]]>
+		</descrip19>
+		<titulo22>
+		<![CDATA[ ]]>
+		</titulo22>
+		<descrip22>
+		<![CDATA[ ]]>
+		</descrip22>
+		<titulo23>
+		<![CDATA[ ]]>
+		</titulo23>
+		<descrip23>
+		<![CDATA[ ]]>
+		</descrip23>
+		<titulo24>
+		<![CDATA[ ]]>
+		</titulo24>
+		<descrip24>
+		<![CDATA[ ]]>
+		</descrip24>
+		<titulo25>
+		<![CDATA[ ]]>
+		</titulo25>
+		<descrip25>
+		<![CDATA[ ]]>
+		</descrip25>
 		<estadoficha>1</estadoficha>
 		<exclu>0</exclu>
 		<tour/>
-		<keyagente>99626</keyagente>
+		<keyagente>138888</keyagente>
 		<agente>
-			<![CDATA[ MONICA PANADERO MUÑOZ ]]>
+		<![CDATA[ Macarena ]]>
 		</agente>
-		<email_agente/>
+		<email_agente>macarenagarcia@grupoezeda.com</email_agente>
 		<prefijo_tlf_agente>34</prefijo_tlf_agente>
-		<tlf_agente>925764106</tlf_agente>
+		<tlf_agente>954915480</tlf_agente>
 		<numpanos>0</numpanos>
-		<numfotos>9</numfotos>
-		<foto1>https://caixa-et.github.io/Images/exterior-casa.jpeg</foto1>
-		<foto2>https://caixa-et.github.io/Images/exterior-casa-2.jpeg</foto2>
-		<foto3>https://caixa-et.github.io/Images/habitacion.jpg</foto3>
-		<foto4>https://caixa-et.github.io/Images/habitacion-2.jpg</foto4>
-		<foto5>https://caixa-et.github.io/Images/habitacion-3.jpg</foto5>
-		<foto6>https://caixa-et.github.io/Images/comedor.jpg</foto6>
-		<foto7>https://caixa-et.github.io/Images/cocina-2.jpg</foto7>
-		<foto8>https://caixa-et.github.io/Images/ba%C3%B1o.jpg</foto8>
-		<foto9>https://estaticos-cdn.prensaiberica.es/clip/c9191a0a-21b8-4ec0-a29c-9bb7ec8eb223_16-9-discover-aspect-ratio_default_0.webp</foto9>
+		<numfotos>15</numfotos>
+		<foto1>https://fotos15.apinmo.com/3433/18262214/17-1.jpg</foto1>
+		<foto2>https://fotos15.apinmo.com/3433/18262214/17-2.jpg</foto2>
+		<foto3>https://fotos15.apinmo.com/3433/18262214/17-3.jpg</foto3>
+		<foto4>https://fotos15.apinmo.com/3433/18262214/17-4.jpg</foto4>
+		<foto5>https://fotos15.apinmo.com/3433/18262214/17-5.jpg</foto5>
+		<foto6>https://fotos15.apinmo.com/3433/18262214/17-6.jpg</foto6>
+		<foto7>https://fotos15.apinmo.com/3433/18262214/17-7.jpg</foto7>
+		<foto8>https://fotos15.apinmo.com/3433/18262214/17-8.jpg</foto8>
+		<foto9>https://fotos15.apinmo.com/3433/18262214/17-9.jpg</foto9>
+		<foto10>https://fotos15.apinmo.com/3433/18262214/17-10.jpg</foto10>
+		<foto11>https://fotos15.apinmo.com/3433/18262214/17-11.jpg</foto11>
+		<foto12>https://fotos15.apinmo.com/3433/18262214/17-12.jpg</foto12>
+		<foto13>https://fotos15.apinmo.com/3433/18262214/17-13.jpg</foto13>
+		<foto14>https://fotos15.apinmo.com/3433/18262214/17-14.jpg</foto14>
+		<foto15>https://fotos15.apinmo.com/3433/18262214/17-15.jpg</foto15>
 		<numpanos>0</numpanos>
+		<videos/>
 	</propiedad>
 
+	
 	<propiedad>
-		<id>Anna_imgPersona</id>
-		<numagencia>2</numagencia>
+		<id>Anna_img_Publi</id>
+		<numagencia>3433</numagencia>
 		<calidades/>
-		<provincia>TOLEDO</provincia>
-		<key_loca>693799</key_loca>
-		<key_tipo>499</key_tipo>
+		<provincia>SEVILLA</provincia>
+		<key_loca>609899</key_loca>
+		<key_tipo>2699</key_tipo>
 		<tipovpo>6</tipovpo>
 		<vpo_name>Libre</vpo_name>
 		<destacado>0</destacado>
-		<antiguedad>1992</antiguedad>
-		<tipo_ofer>Chalet</tipo_ofer>
-		<fecha>2021-07-07 10:56:59</fecha>
-		<fechaact>2025-03-21 19:13:05</fechaact>
+		<antiguedad>0</antiguedad>
+		<tipo_ofer>Trastero</tipo_ofer>
+		<fecha>2024-03-14 18:59:49</fecha>
+		<fechaact>2025-12-13 09:37:17</fechaact>
 		<keypromo>0</keypromo>
 		<opcioncompra>0</opcioncompra>
 		<aconsultar>0</aconsultar>
-		<latitud>39.9821549424602</latitud>
-		<altitud>-4.28891372541304</altitud>
+		<latitud>37.4011657</latitud>
+		<altitud>-5.98835833</altitud>
 		<aseos>0</aseos>
-		<banyos>3</banyos>
+		<banyos>0</banyos>
 		<carpint/>
 		<carpext/>
 		<comunidadincluida>0</comunidadincluida>
@@ -383,58 +643,58 @@
 		<tpostigo/>
 		<tbano/>
 		<tinterior>
-			<![CDATA[ ]]>
+		<![CDATA[ ]]>
 		</tinterior>
 		<distmar>0</distmar>
-		<planta>2</planta>
+		<planta>-1</planta>
 		<conservacion>Buen estado</conservacion>
 		<gastos_com>0</gastos_com>
-		<habdobles>8</habdobles>
-		<habitaciones>4</habitaciones>
-		<m_cons>357.00</m_cons>
-		<m_parcela>400.00</m_parcela>
-		<m_uties>325.00</m_uties>
-		<m_cocina>20.00</m_cocina>
-		<m_comedor>30.00</m_comedor>
-		<m_terraza>110.00</m_terraza>
-		<numplanta>3</numplanta>
+		<habdobles>0</habdobles>
+		<habitaciones>0</habitaciones>
+		<m_cons>6.00</m_cons>
+		<m_parcela>0</m_parcela>
+		<m_uties>0.00</m_uties>
+		<m_cocina>0.00</m_cocina>
+		<m_comedor>0.00</m_comedor>
+		<m_terraza>0.00</m_terraza>
+		<numplanta>0</numplanta>
 		<orientacion/>
-		<salon>1</salon>
-		<precioinmo>252000</precioinmo>
+		<salon>0</salon>
+		<precioinmo>12000</precioinmo>
 		<preciotraspaso>0</preciotraspaso>
 		<precioalq>0</precioalq>
-		<outlet>231750</outlet>
-		<ref>ILL02TEST</ref>
+		<outlet>0</outlet>
+		<ref>11302</ref>
 		<accion>Vender</accion>
-		<ciudad>Torrijos</ciudad>
-		<cp>45500</cp>
-		<zona>TORRIJOS</zona>
+		<ciudad>Sevilla</ciudad>
+		<cp>41003</cp>
+		<zona>Centro</zona>
 		<adaptadominus>0</adaptadominus>
 		<airecentral>0</airecentral>
-		<aire_con>1</aire_con>
+		<aire_con>0</aire_con>
 		<alarma>0</alarma>
 		<alarmaincendio>0</alarmaincendio>
 		<alarmarobo>0</alarmarobo>
 		<arma_empo>0</arma_empo>
-		<ascensor>1</ascensor>
-		<balcon>1</balcon>
+		<ascensor>0</ascensor>
+		<balcon>0</balcon>
 		<bar>0</bar>
-		<jardin>1</jardin>
+		<jardin>0</jardin>
 		<barbacoa>0</barbacoa>
 		<cajafuerte>0</cajafuerte>
-		<keycalefa>7</keycalefa>
+		<keycalefa>0</keycalefa>
 		<keysuelo>0</keysuelo>
 		<calefacentral>0</calefacentral>
-		<calefaccion>1</calefaccion>
+		<calefaccion>0</calefaccion>
 		<chimenea>0</chimenea>
 		<depoagua>0</depoagua>
 		<descalcificador>0</descalcificador>
-		<despensa>1</despensa>
+		<despensa>0</despensa>
 		<diafano>0</diafano>
-		<electro>3</electro>
+		<electro>0</electro>
 		<esquina>0</esquina>
 		<galeria>0</galeria>
-		<plaza_gara>2</plaza_gara>
+		<plaza_gara>0</plaza_gara>
 		<garajedoble>0</garajedoble>
 		<gasciudad>0</gasciudad>
 		<gimnasio>0</gimnasio>
@@ -449,7 +709,315 @@
 		<luz>0</luz>
 		<muebles>0</muebles>
 		<ojobuey>0</ojobuey>
-		<parking>2</parking>
+		<parking>0</parking>
+		<patio>0</patio>
+		<piscina_com>0</piscina_com>
+		<piscina_prop>0</piscina_prop>
+		<preinstaacc>0</preinstaacc>
+		<primera_line>0</primera_line>
+		<puerta_blin>0</puerta_blin>
+		<satelite>0</satelite>
+		<sauna>0</sauna>
+		<solarium>0</solarium>
+		<sotano>0</sotano>
+		<mirador>0</mirador>
+		<apartseparado>0</apartseparado>
+		<bombafriocalor>0</bombafriocalor>
+		<buhardilla>0</buhardilla>
+		<pergola>0</pergola>
+		<tv>0</tv>
+		<terraza>0</terraza>
+		<terrazaacris>0</terrazaacris>
+		<todoext>0</todoext>
+		<trastero>0</trastero>
+		<urbanizacion>0</urbanizacion>
+		<nplazasparking>0</nplazasparking>
+		<vestuarios>0</vestuarios>
+		<precioparking/>
+		<preciogaraje/>
+		<vistasalmar>0</vistasalmar>
+		<energialetra/>
+		<energiarecibido>3</energiarecibido>
+		<energiavalor>0</energiavalor>
+		<emisionesletra/>
+		<emisionesvalor>0</emisionesvalor>
+		<cocina_inde>0</cocina_inde>
+		<keyelectricidad>0</keyelectricidad>
+		<keyfachada>0</keyfachada>
+		<keyagua>0</keyagua>
+		<keyvista>0</keyvista>
+		<keytecho>0</keytecho>
+		<montana>0</montana>
+		<rural>0</rural>
+		<costa>0</costa>
+		<vallado>0</vallado>
+		<autobuses>1</autobuses>
+		<centros_comerciales>1</centros_comerciales>
+		<tranvia>0</tranvia>
+		<zonas_infantiles>0</zonas_infantiles>
+		<colegios>1</colegios>
+		<arboles>0</arboles>
+		<hospitales>1</hospitales>
+		<tren>0</tren>
+		<metro>0</metro>
+		<golf>0</golf>
+		<descrip1>
+		<![CDATA[ TRASTERO EN BUENA UBICACION Y CON ALTURA~~Trastero en planta sótano, con 2,40 de largo x 1,87 de ancho y 3,70 de altura.~~Se encuentra en buen estado y tiene una entrada/salida cómoda~~Actualmente alquilado en 65€ al mes ~~Ubicado en el barrio de San Julián, junto a la Ronda, se encuentra cerca de supermercados, mercado de abastos, bancos, colegios públicos y privados, centros médicos y deportivos, así como paradas de transporte público.~~Honorarios no incluidos en el P. V. P. Gastos de Notaría, Registro e Impuestos no incluidos. D. I. A (Documento informativo abreviado) a disposición del consumidor RD 258/05 Junta de Andalucía.~ ]]>
+		</descrip1>
+		<titulo1>
+		<![CDATA[ TRASTERO EN BUENA UBICACION Y CON ALTURA ]]>
+		</titulo1>
+		<titulo2>
+		<![CDATA[ ]]>
+		</titulo2>
+		<descrip2>
+		<![CDATA[ ]]>
+		</descrip2>
+		<titulo3>
+		<![CDATA[ ]]>
+		</titulo3>
+		<descrip3>
+		<![CDATA[ ]]>
+		</descrip3>
+		<titulo4>
+		<![CDATA[ ]]>
+		</titulo4>
+		<descrip4>
+		<![CDATA[ ]]>
+		</descrip4>
+		<titulo5>
+		<![CDATA[ ]]>
+		</titulo5>
+		<descrip5>
+		<![CDATA[ ]]>
+		</descrip5>
+		<titulo6>
+		<![CDATA[ ]]>
+		</titulo6>
+		<descrip6>
+		<![CDATA[ ]]>
+		</descrip6>
+		<titulo7>
+		<![CDATA[ ]]>
+		</titulo7>
+		<descrip7>
+		<![CDATA[ ]]>
+		</descrip7>
+		<titulo8>
+		<![CDATA[ ]]>
+		</titulo8>
+		<descrip8>
+		<![CDATA[ ]]>
+		</descrip8>
+		<titulo9>
+		<![CDATA[ ]]>
+		</titulo9>
+		<descrip9>
+		<![CDATA[ ]]>
+		</descrip9>
+		<titulo10>
+		<![CDATA[ ]]>
+		</titulo10>
+		<descrip10>
+		<![CDATA[ ]]>
+		</descrip10>
+		<titulo11>
+		<![CDATA[ ]]>
+		</titulo11>
+		<descrip11>
+		<![CDATA[ ]]>
+		</descrip11>
+		<titulo12>
+		<![CDATA[ ]]>
+		</titulo12>
+		<descrip12>
+		<![CDATA[ ]]>
+		</descrip12>
+		<titulo15>
+		<![CDATA[ ]]>
+		</titulo15>
+		<descrip15>
+		<![CDATA[ ]]>
+		</descrip15>
+		<titulo16>
+		<![CDATA[ ]]>
+		</titulo16>
+		<descrip16>
+		<![CDATA[ ]]>
+		</descrip16>
+		<titulo17>
+		<![CDATA[ ]]>
+		</titulo17>
+		<descrip17>
+		<![CDATA[ ]]>
+		</descrip17>
+		<titulo18>
+		<![CDATA[ ]]>
+		</titulo18>
+		<descrip18>
+		<![CDATA[ ]]>
+		</descrip18>
+		<titulo19>
+		<![CDATA[ ]]>
+		</titulo19>
+		<descrip19>
+		<![CDATA[ ]]>
+		</descrip19>
+		<titulo22>
+		<![CDATA[ ]]>
+		</titulo22>
+		<descrip22>
+		<![CDATA[ ]]>
+		</descrip22>
+		<titulo23>
+		<![CDATA[ ]]>
+		</titulo23>
+		<descrip23>
+		<![CDATA[ ]]>
+		</descrip23>
+		<titulo24>
+		<![CDATA[ ]]>
+		</titulo24>
+		<descrip24>
+		<![CDATA[ ]]>
+		</descrip24>
+		<titulo25>
+		<![CDATA[ ]]>
+		</titulo25>
+		<descrip25>
+		<![CDATA[ ]]>
+		</descrip25>
+		<estadoficha>1</estadoficha>
+		<exclu>0</exclu>
+		<tour/>
+		<keyagente>41040</keyagente>
+		<agente>
+		<![CDATA[ Gerente Grupo Ezeda ]]>
+		</agente>
+		<email_agente>info@grupoezeda.com</email_agente>
+		<prefijo_tlf_agente>34</prefijo_tlf_agente>
+		<tlf_agente>954915480</tlf_agente>
+		<numpanos>0</numpanos>
+		<numfotos>17</numfotos>
+		<foto1>https://fotos15.apinmo.com/3433/21289855/1-1.jpg</foto1>
+		<foto2>https://fotos15.apinmo.com/3433/21289855/1-2.jpg</foto2>
+		<foto3>https://fotos15.apinmo.com/3433/21289855/1-3.jpg</foto3>
+		<foto4>https://fotos15.apinmo.com/3433/21289855/1-4.jpg</foto4>
+		<foto5>https://fotos15.apinmo.com/3433/21289855/1-5.jpg</foto5>
+		<foto6>https://fotos15.apinmo.com/3433/21289855/1-6.jpg</foto6>
+		<foto7>https://fotos15.apinmo.com/3433/21289855/1-7.jpg</foto7>
+		<foto8>https://fotos15.apinmo.com/3433/21289855/1-8.jpg</foto8>
+		<foto9>https://fotos15.apinmo.com/3433/21289855/1-9.jpg</foto9>
+		<foto10>https://fotos15.apinmo.com/3433/21289855/1-10.jpg</foto10>
+		<foto11>https://fotos15.apinmo.com/3433/21289855/1-11.jpg</foto11>
+		<foto12>https://fotos15.apinmo.com/3433/21289855/1-12.jpg</foto12>
+		<foto13>https://fotos15.apinmo.com/3433/21289855/1-13.jpg</foto13>
+		<foto14>https://fotos15.apinmo.com/3433/21289855/1-14.jpg</foto14>
+		<foto15>https://fotos15.apinmo.com/3433/21289855/1-15.jpg</foto15>
+		<foto16>https://fotos15.apinmo.com/3433/21289855/1-16.jpg</foto16>
+		<foto17>https://fotos15.apinmo.com/3433/21289855/1-17.jpg</foto17>
+		<numpanos>0</numpanos>
+		<videos/>
+	</propiedad>
+
+	
+	
+	<propiedad>
+		<id>Anna_img_Portales</id>
+		<numagencia>3433</numagencia>
+		<calidades/>
+		<provincia>SEVILLA</provincia>
+		<key_loca>609899</key_loca>
+		<key_tipo>3399</key_tipo>
+		<tipovpo>6</tipovpo>
+		<vpo_name>Libre</vpo_name>
+		<destacado>0</destacado>
+		<antiguedad>2001</antiguedad>
+		<tipo_ofer>Piso</tipo_ofer>
+		<fecha>2024-04-26 13:35:44</fecha>
+		<fechaact>2026-02-26 19:58:49</fechaact>
+		<keypromo>0</keypromo>
+		<opcioncompra>0</opcioncompra>
+		<aconsultar>0</aconsultar>
+		<latitud>37.39820584</latitud>
+		<altitud>-5.9813874</altitud>
+		<aseos>0</aseos>
+		<banyos>2</banyos>
+		<carpint>Lacado Blanco</carpint>
+		<carpext>Aluminio/Climalit</carpext>
+		<comunidadincluida>0</comunidadincluida>
+		<tfachada/>
+		<tcocina/>
+		<tpostigo/>
+		<tbano/>
+		<tinterior>
+		<![CDATA[ ]]>
+		</tinterior>
+		<distmar>0</distmar>
+		<planta>3</planta>
+		<conservacion>Entrar a vivir</conservacion>
+		<gastos_com>110</gastos_com>
+		<habdobles>4</habdobles>
+		<habitaciones>0</habitaciones>
+		<m_cons>131.00</m_cons>
+		<m_parcela>0</m_parcela>
+		<m_uties>112.00</m_uties>
+		<m_cocina>0.00</m_cocina>
+		<m_comedor>0.00</m_comedor>
+		<m_terraza>0.00</m_terraza>
+		<numplanta>5</numplanta>
+		<orientacion>Suroeste</orientacion>
+		<salon>1</salon>
+		<precioinmo>550000</precioinmo>
+		<preciotraspaso>0</preciotraspaso>
+		<precioalq>0</precioalq>
+		<outlet>500000</outlet>
+		<ref>104716632</ref>
+		<accion>Vender</accion>
+		<ciudad>Sevilla</ciudad>
+		<cp>41008</cp>
+		<zona>Centro</zona>
+		<adaptadominus>0</adaptadominus>
+		<airecentral>1</airecentral>
+		<aire_con>1</aire_con>
+		<alarma>0</alarma>
+		<alarmaincendio>0</alarmaincendio>
+		<alarmarobo>0</alarmarobo>
+		<arma_empo>1</arma_empo>
+		<ascensor>1</ascensor>
+		<balcon>0</balcon>
+		<bar>0</bar>
+		<jardin>0</jardin>
+		<barbacoa>0</barbacoa>
+		<cajafuerte>0</cajafuerte>
+		<keycalefa>9</keycalefa>
+		<keysuelo>1</keysuelo>
+		<calefacentral>0</calefacentral>
+		<calefaccion>1</calefaccion>
+		<chimenea>0</chimenea>
+		<depoagua>0</depoagua>
+		<descalcificador>0</descalcificador>
+		<despensa>0</despensa>
+		<diafano>0</diafano>
+		<electro>1</electro>
+		<esquina>0</esquina>
+		<galeria>0</galeria>
+		<plaza_gara>2</plaza_gara>
+		<garajedoble>0</garajedoble>
+		<gasciudad>1</gasciudad>
+		<gimnasio>0</gimnasio>
+		<habjuegos>0</habjuegos>
+		<tipomensual>MES</tipomensual>
+		<hidromasaje>0</hidromasaje>
+		<jacuzzi>0</jacuzzi>
+		<lavanderia>0</lavanderia>
+		<linea_tlf>0</linea_tlf>
+		<luminoso>0</luminoso>
+		<ibi>0.00</ibi>
+		<luz>1</luz>
+		<muebles>0</muebles>
+		<ojobuey>0</ojobuey>
+		<parking>0</parking>
 		<patio>0</patio>
 		<piscina_com>0</piscina_com>
 		<piscina_prop>0</piscina_prop>
@@ -462,74 +1030,1788 @@
 		<sotano>0</sotano>
 		<mirador>0</mirador>
 		<apartseparado>0</apartseparado>
-		<bombafriocalor>1</bombafriocalor>
+		<bombafriocalor>0</bombafriocalor>
 		<buhardilla>0</buhardilla>
 		<pergola>0</pergola>
 		<tv>0</tv>
 		<terraza>0</terraza>
 		<terrazaacris>0</terrazaacris>
-		<todoext>0</todoext>
+		<todoext>2</todoext>
 		<trastero>0</trastero>
-		<urbanizacion>0</urbanizacion>
-		<nplazasparking>4</nplazasparking>
+		<urbanizacion>1</urbanizacion>
+		<nplazasparking>0</nplazasparking>
 		<vestuarios>0</vestuarios>
 		<precioparking/>
 		<preciogaraje/>
 		<vistasalmar>0</vistasalmar>
 		<energialetra>E</energialetra>
 		<energiarecibido>1</energiarecibido>
-		<energiavalor>270.41</energiavalor>
+		<energiavalor>0</energiavalor>
+		<emisionesletra>E</emisionesletra>
+		<emisionesvalor>0</emisionesvalor>
+		<cocina_inde>1</cocina_inde>
+		<keyelectricidad>0</keyelectricidad>
+		<keyfachada>0</keyfachada>
+		<keyagua>5</keyagua>
+		<keyvista>18</keyvista>
+		<keytecho>0</keytecho>
+		<montana>0</montana>
+		<rural>0</rural>
+		<costa>0</costa>
+		<vallado>0</vallado>
+		<autobuses>1</autobuses>
+		<centros_comerciales>1</centros_comerciales>
+		<tranvia>0</tranvia>
+		<zonas_infantiles>1</zonas_infantiles>
+		<colegios>1</colegios>
+		<arboles>1</arboles>
+		<hospitales>1</hospitales>
+		<tren>0</tren>
+		<metro>0</metro>
+		<golf>0</golf>
+		<descrip1>
+		<![CDATA[ EXCELENTE PISO DE GRANDES DIMENSIONES CON GARAJE Y ASCENSOR EN UBICACIÓN PRIVILEGIADA~~Se ofrece magnífica vivienda de 131 m² construidos, situada en una tercera planta con ascensor, que destaca por su amplitud, luminosidad y excelente estado de conservación. Un piso ideal tanto para familias como para quienes buscan espacio y comodidad en una de las zonas mejor comunicadas de la ciudad.~~La vivienda se distribuye en cuatro amplias habitaciones, todas ellas con buena ventilación y luz natural, dos baños completos, un espacioso y acogedor salón-comedor con grandes ventanales que aportan una agradable sensación de amplitud, y una cocina independiente, totalmente equipada y con gran capacidad de almacenaje. Incluye además plaza de garaje en el mismo edificio, un valor añadido muy importante en la zona.~~El inmueble se encuentra en muy buen estado, listo para entrar a vivir, y dispone de suelos de mármol, techos altos, armarios empotrados, ventanas de Climalit que garantizan un excelente aislamiento térmico y acústico, puerta de entrada blindada, así como aire acondicionado centralizado y calefacción eléctrica, asegurando el máximo confort durante todo el año. Se entrega totalmente amueblado, lo que facilita una mudanza rápida y sin complicaciones.~~Ubicado en la Ronda de Capuchinos, una de las principales arterias de la ciudad, goza de una ubicación inmejorable, rodeado de todo tipo de servicios: centros de salud, colegios, institutos, supermercados, pequeños comercios, zonas de restauración y ocio. Además, cuenta con excelentes comunicaciones mediante varias líneas de autobús, que conectan de forma rápida y cómoda con el centro histórico y comercial de Sevilla.~~Situado en una tercera planta, el piso disfruta de vistas despejadas, buena orientación y una magnífica entrada de luz natural durante gran parte del día, creando un ambiente cálido y agradable en todas las estancias.~~Una oportunidad única de adquirir una vivienda amplia, cómoda y perfectamente ubicada, con garaje incluido, en una zona consolidada y muy demandada~~~Honorarios no incluidos en el P. V. P. Gastos de Notaría, Registro e Impuestos no incluidos. D. I. A (Documento informativo abreviado) a disposición del consumidor RD 258/05 Junta de Andalucía.~ ]]>
+		</descrip1>
+		<titulo1>
+		<![CDATA[ EXCELENTE PISO DE GRANDES DIMENSIONES CON GARAJE Y ASCENSOR EN UBICACIÓN PRIVILEGIADA ]]>
+		</titulo1>
+		<titulo2>
+		<![CDATA[ ]]>
+		</titulo2>
+		<descrip2>
+		<![CDATA[ ]]>
+		</descrip2>
+		<titulo3>
+		<![CDATA[ ]]>
+		</titulo3>
+		<descrip3>
+		<![CDATA[ ]]>
+		</descrip3>
+		<titulo4>
+		<![CDATA[ ]]>
+		</titulo4>
+		<descrip4>
+		<![CDATA[ ]]>
+		</descrip4>
+		<titulo5>
+		<![CDATA[ ]]>
+		</titulo5>
+		<descrip5>
+		<![CDATA[ ]]>
+		</descrip5>
+		<titulo6>
+		<![CDATA[ ]]>
+		</titulo6>
+		<descrip6>
+		<![CDATA[ ]]>
+		</descrip6>
+		<titulo7>
+		<![CDATA[ ]]>
+		</titulo7>
+		<descrip7>
+		<![CDATA[ ]]>
+		</descrip7>
+		<titulo8>
+		<![CDATA[ ]]>
+		</titulo8>
+		<descrip8>
+		<![CDATA[ ]]>
+		</descrip8>
+		<titulo9>
+		<![CDATA[ ]]>
+		</titulo9>
+		<descrip9>
+		<![CDATA[ ]]>
+		</descrip9>
+		<titulo10>
+		<![CDATA[ ]]>
+		</titulo10>
+		<descrip10>
+		<![CDATA[ ]]>
+		</descrip10>
+		<titulo11>
+		<![CDATA[ ]]>
+		</titulo11>
+		<descrip11>
+		<![CDATA[ ]]>
+		</descrip11>
+		<titulo12>
+		<![CDATA[ ]]>
+		</titulo12>
+		<descrip12>
+		<![CDATA[ ]]>
+		</descrip12>
+		<titulo15>
+		<![CDATA[ ]]>
+		</titulo15>
+		<descrip15>
+		<![CDATA[ ]]>
+		</descrip15>
+		<titulo16>
+		<![CDATA[ ]]>
+		</titulo16>
+		<descrip16>
+		<![CDATA[ ]]>
+		</descrip16>
+		<titulo17>
+		<![CDATA[ ]]>
+		</titulo17>
+		<descrip17>
+		<![CDATA[ ]]>
+		</descrip17>
+		<titulo18>
+		<![CDATA[ ]]>
+		</titulo18>
+		<descrip18>
+		<![CDATA[ ]]>
+		</descrip18>
+		<titulo19>
+		<![CDATA[ ]]>
+		</titulo19>
+		<descrip19>
+		<![CDATA[ ]]>
+		</descrip19>
+		<titulo22>
+		<![CDATA[ ]]>
+		</titulo22>
+		<descrip22>
+		<![CDATA[ ]]>
+		</descrip22>
+		<titulo23>
+		<![CDATA[ ]]>
+		</titulo23>
+		<descrip23>
+		<![CDATA[ ]]>
+		</descrip23>
+		<titulo24>
+		<![CDATA[ ]]>
+		</titulo24>
+		<descrip24>
+		<![CDATA[ ]]>
+		</descrip24>
+		<titulo25>
+		<![CDATA[ ]]>
+		</titulo25>
+		<descrip25>
+		<![CDATA[ ]]>
+		</descrip25>
+		<estadoficha>1</estadoficha>
+		<exclu>0</exclu>
+		<tour/>
+		<keyagente>83372</keyagente>
+		<agente>
+		<![CDATA[ Enrique Porrua ]]>
+		</agente>
+		<email_agente>enriqueporrua@grupoezeda.com</email_agente>
+		<prefijo_tlf_agente>34</prefijo_tlf_agente>
+		<tlf_agente>629584595</tlf_agente>
+		<numpanos>0</numpanos>
+		<numfotos>38</numfotos>
+		<foto1>https://fotos15.apinmo.com/3433/21572166/3-1.jpg</foto1>
+		<foto2>https://fotos15.apinmo.com/3433/21572166/3-2.jpg</foto2>
+		<foto3>https://fotos15.apinmo.com/3433/21572166/3-3.jpg</foto3>
+		<foto4>https://fotos15.apinmo.com/3433/21572166/3-4.jpg</foto4>
+		<foto5>https://fotos15.apinmo.com/3433/21572166/3-5.jpg</foto5>
+		<foto6>https://fotos15.apinmo.com/3433/21572166/3-6.jpg</foto6>
+		<foto7>https://fotos15.apinmo.com/3433/21572166/3-7.jpg</foto7>
+		<foto8>https://fotos15.apinmo.com/3433/21572166/3-8.jpg</foto8>
+		<foto9>https://fotos15.apinmo.com/3433/21572166/3-9.jpg</foto9>
+		<foto10>https://fotos15.apinmo.com/3433/21572166/3-10.jpg</foto10>
+		<foto11>https://fotos15.apinmo.com/3433/21572166/3-11.jpg</foto11>
+		<foto12>https://fotos15.apinmo.com/3433/21572166/3-12.jpg</foto12>
+		<foto13>https://fotos15.apinmo.com/3433/21572166/3-13.jpg</foto13>
+		<foto14>https://fotos15.apinmo.com/3433/21572166/3-14.jpg</foto14>
+		<foto15>https://fotos15.apinmo.com/3433/21572166/3-15.jpg</foto15>
+		<foto16>https://fotos15.apinmo.com/3433/21572166/3-16.jpg</foto16>
+		<foto17>https://fotos15.apinmo.com/3433/21572166/3-17.jpg</foto17>
+		<foto18>https://fotos15.apinmo.com/3433/21572166/3-18.jpg</foto18>
+		<foto19>https://fotos15.apinmo.com/3433/21572166/3-19.jpg</foto19>
+		<foto20>https://fotos15.apinmo.com/3433/21572166/3-20.jpg</foto20>
+		<foto21>https://fotos15.apinmo.com/3433/21572166/3-21.jpg</foto21>
+		<foto22>https://fotos15.apinmo.com/3433/21572166/3-22.jpg</foto22>
+		<foto23>https://fotos15.apinmo.com/3433/21572166/3-23.jpg</foto23>
+		<foto24>https://fotos15.apinmo.com/3433/21572166/3-24.jpg</foto24>
+		<foto25>https://fotos15.apinmo.com/3433/21572166/3-25.jpg</foto25>
+		<foto26>https://fotos15.apinmo.com/3433/21572166/3-26.jpg</foto26>
+		<foto27>https://fotos15.apinmo.com/3433/21572166/3-27.jpg</foto27>
+		<foto28>https://fotos15.apinmo.com/3433/21572166/3-28.jpg</foto28>
+		<foto29>https://fotos15.apinmo.com/3433/21572166/3-29.jpg</foto29>
+		<foto30>https://fotos15.apinmo.com/3433/21572166/3-30.jpg</foto30>
+		<foto31>https://fotos15.apinmo.com/3433/21572166/3-31.jpg</foto31>
+		<foto32>https://fotos15.apinmo.com/3433/21572166/3-32.jpg</foto32>
+		<foto33>https://fotos15.apinmo.com/3433/21572166/3-33.jpg</foto33>
+		<foto34>https://fotos15.apinmo.com/3433/21572166/3-34.jpg</foto34>
+		<foto35>https://fotos15.apinmo.com/3433/21572166/3-35.jpg</foto35>
+		<foto36>https://fotos15.apinmo.com/3433/21572166/3-36.jpg</foto36>
+		<foto37>https://fotos15.apinmo.com/3433/21572166/3-37.jpg</foto37>
+		<foto38>https://fotos15.apinmo.com/3433/21572166/3-38.jpg</foto38>
+		<numpanos>0</numpanos>
+		<videos/>
+	</propiedad>
+
+	
+	<propiedad>
+		<id>Anna_img_Ruina</id>
+		<numagencia>3433</numagencia>
+		<calidades/>
+		<provincia>SEVILLA</provincia>
+		<key_loca>609899</key_loca>
+		<key_tipo>3399</key_tipo>
+		<tipovpo>6</tipovpo>
+		<vpo_name>Libre</vpo_name>
+		<destacado>0</destacado>
+		<antiguedad>1972</antiguedad>
+		<tipo_ofer>Piso</tipo_ofer>
+		<fecha>2024-12-03 12:09:41</fecha>
+		<fechaact>2026-02-27 12:00:00</fechaact>
+		<keypromo>0</keypromo>
+		<opcioncompra>0</opcioncompra>
+		<aconsultar>0</aconsultar>
+		<latitud>37.405813805443</latitud>
+		<altitud>-5.9862461241751</altitud>
+		<aseos>0</aseos>
+		<banyos>1</banyos>
+		<carpint>Aluminio</carpint>
+		<carpext>Aluminio Lacado</carpext>
+		<comunidadincluida>0</comunidadincluida>
+		<tfachada/>
+		<tcocina/>
+		<tpostigo/>
+		<tbano/>
+		<tinterior>
+		<![CDATA[ ]]>
+		</tinterior>
+		<distmar>0</distmar>
+		<planta>2</planta>
+		<conservacion>Buen estado</conservacion>
+		<gastos_com>0</gastos_com>
+		<habdobles>3</habdobles>
+		<habitaciones>0</habitaciones>
+		<m_cons>74.00</m_cons>
+		<m_parcela>0</m_parcela>
+		<m_uties>0.00</m_uties>
+		<m_cocina>0.00</m_cocina>
+		<m_comedor>0.00</m_comedor>
+		<m_terraza>5.00</m_terraza>
+		<numplanta>0</numplanta>
+		<orientacion/>
+		<salon>0</salon>
+		<precioinmo>166000</precioinmo>
+		<preciotraspaso>0</preciotraspaso>
+		<precioalq>0</precioalq>
+		<outlet>176000</outlet>
+		<ref>106727731</ref>
+		<accion>Vender</accion>
+		<ciudad>Sevilla</ciudad>
+		<cp>41009</cp>
+		<zona>Parlamento - Torneo</zona>
+		<adaptadominus>1</adaptadominus>
+		<airecentral>0</airecentral>
+		<aire_con>1</aire_con>
+		<alarma>0</alarma>
+		<alarmaincendio>0</alarmaincendio>
+		<alarmarobo>0</alarmarobo>
+		<arma_empo>1</arma_empo>
+		<ascensor>1</ascensor>
+		<balcon>0</balcon>
+		<bar>0</bar>
+		<jardin>0</jardin>
+		<barbacoa>0</barbacoa>
+		<cajafuerte>0</cajafuerte>
+		<keycalefa>0</keycalefa>
+		<keysuelo>6</keysuelo>
+		<calefacentral>0</calefacentral>
+		<calefaccion>0</calefaccion>
+		<chimenea>0</chimenea>
+		<depoagua>0</depoagua>
+		<descalcificador>0</descalcificador>
+		<despensa>0</despensa>
+		<diafano>0</diafano>
+		<electro>1</electro>
+		<esquina>0</esquina>
+		<galeria>0</galeria>
+		<plaza_gara>0</plaza_gara>
+		<garajedoble>0</garajedoble>
+		<gasciudad>0</gasciudad>
+		<gimnasio>0</gimnasio>
+		<habjuegos>0</habjuegos>
+		<tipomensual>MES</tipomensual>
+		<hidromasaje>0</hidromasaje>
+		<jacuzzi>0</jacuzzi>
+		<lavanderia>0</lavanderia>
+		<linea_tlf>0</linea_tlf>
+		<luminoso>1</luminoso>
+		<ibi>0.00</ibi>
+		<luz>1</luz>
+		<muebles>0</muebles>
+		<ojobuey>0</ojobuey>
+		<parking>0</parking>
+		<patio>0</patio>
+		<piscina_com>0</piscina_com>
+		<piscina_prop>0</piscina_prop>
+		<preinstaacc>0</preinstaacc>
+		<primera_line>0</primera_line>
+		<puerta_blin>0</puerta_blin>
+		<satelite>0</satelite>
+		<sauna>0</sauna>
+		<solarium>0</solarium>
+		<sotano>0</sotano>
+		<mirador>0</mirador>
+		<apartseparado>0</apartseparado>
+		<bombafriocalor>0</bombafriocalor>
+		<buhardilla>0</buhardilla>
+		<pergola>0</pergola>
+		<tv>1</tv>
+		<terraza>1</terraza>
+		<terrazaacris>0</terrazaacris>
+		<todoext>2</todoext>
+		<trastero>0</trastero>
+		<urbanizacion>0</urbanizacion>
+		<nplazasparking>0</nplazasparking>
+		<vestuarios>0</vestuarios>
+		<precioparking/>
+		<preciogaraje/>
+		<vistasalmar>0</vistasalmar>
+		<energialetra>G</energialetra>
+		<energiarecibido>0</energiarecibido>
+		<energiavalor>0</energiavalor>
 		<emisionesletra>G</emisionesletra>
-		<emisionesvalor>56.33</emisionesvalor>
+		<emisionesvalor>0</emisionesvalor>
+		<cocina_inde>1</cocina_inde>
+		<keyelectricidad>0</keyelectricidad>
+		<keyfachada>0</keyfachada>
+		<keyagua>0</keyagua>
+		<keyvista>6</keyvista>
+		<keytecho>0</keytecho>
+		<montana>0</montana>
+		<rural>0</rural>
+		<costa>0</costa>
+		<vallado>0</vallado>
+		<autobuses>1</autobuses>
+		<centros_comerciales>1</centros_comerciales>
+		<tranvia>0</tranvia>
+		<zonas_infantiles>1</zonas_infantiles>
+		<colegios>1</colegios>
+		<arboles>1</arboles>
+		<hospitales>1</hospitales>
+		<tren>0</tren>
+		<metro>0</metro>
+		<golf>0</golf>
+		<descrip1>
+		<![CDATA[ BONITO PISO CON ASCENSOR Y TERRAZA EN BARRIADA DEL ROCIO~~Este encantador piso te ofrece la comodidad y el estilo que buscas. Ubicado en una segunda planta con ascensor, cuenta con tres amplias habitaciones y un baño completo.~~La cocina independiente, equipada con lavadero, es perfecta para los amantes de la gastronomía. El salón comedor, luminoso y acogedor, se abre a una terraza ideal para disfrutar de momentos al aire libre.~~El piso está en buen estado, con suelos porcelánicos y ventanas de aluminio lacado en blanco que aseguran una estética moderna y fácil mantenimiento.~~Los armarios empotrados ofrecen espacio de almacenamiento adicional, mientras que el sistema de calefacción y aire acondicionado garantiza confort en cualquier estación. Además, los ventiladores de techo proporcionan una brisa refrescante durante los meses más cálidos.~~Ubicada en una zona residencial que se caracteriza por ser tranquila y muy bien conectada con el resto de la ciudad, tanto por transporte público como por su proximidad a importantes vías de acceso.~~Honorarios no incluidos en el P. V. P. Gastos de Notaría, Registro e Impuestos no incluidos. D. I. A (Documento informativo abreviado) a disposición del consumidor RD 258/05 Junta de Andalucía.~ ]]>
+		</descrip1>
+		<titulo1>
+		<![CDATA[ BONITO PISO CON ASCENSOR Y TERRAZA EN BARRIADA DEL ROCIO ]]>
+		</titulo1>
+		<titulo2>
+		<![CDATA[ ]]>
+		</titulo2>
+		<descrip2>
+		<![CDATA[ ]]>
+		</descrip2>
+		<titulo3>
+		<![CDATA[ ]]>
+		</titulo3>
+		<descrip3>
+		<![CDATA[ ]]>
+		</descrip3>
+		<titulo4>
+		<![CDATA[ ]]>
+		</titulo4>
+		<descrip4>
+		<![CDATA[ ]]>
+		</descrip4>
+		<titulo5>
+		<![CDATA[ ]]>
+		</titulo5>
+		<descrip5>
+		<![CDATA[ ]]>
+		</descrip5>
+		<titulo6>
+		<![CDATA[ ]]>
+		</titulo6>
+		<descrip6>
+		<![CDATA[ ]]>
+		</descrip6>
+		<titulo7>
+		<![CDATA[ ]]>
+		</titulo7>
+		<descrip7>
+		<![CDATA[ ]]>
+		</descrip7>
+		<titulo8>
+		<![CDATA[ ]]>
+		</titulo8>
+		<descrip8>
+		<![CDATA[ ]]>
+		</descrip8>
+		<titulo9>
+		<![CDATA[ ]]>
+		</titulo9>
+		<descrip9>
+		<![CDATA[ ]]>
+		</descrip9>
+		<titulo10>
+		<![CDATA[ ]]>
+		</titulo10>
+		<descrip10>
+		<![CDATA[ ]]>
+		</descrip10>
+		<titulo11>
+		<![CDATA[ ]]>
+		</titulo11>
+		<descrip11>
+		<![CDATA[ ]]>
+		</descrip11>
+		<titulo12>
+		<![CDATA[ ]]>
+		</titulo12>
+		<descrip12>
+		<![CDATA[ ]]>
+		</descrip12>
+		<titulo15>
+		<![CDATA[ ]]>
+		</titulo15>
+		<descrip15>
+		<![CDATA[ ]]>
+		</descrip15>
+		<titulo16>
+		<![CDATA[ ]]>
+		</titulo16>
+		<descrip16>
+		<![CDATA[ ]]>
+		</descrip16>
+		<titulo17>
+		<![CDATA[ ]]>
+		</titulo17>
+		<descrip17>
+		<![CDATA[ ]]>
+		</descrip17>
+		<titulo18>
+		<![CDATA[ ]]>
+		</titulo18>
+		<descrip18>
+		<![CDATA[ ]]>
+		</descrip18>
+		<titulo19>
+		<![CDATA[ ]]>
+		</titulo19>
+		<descrip19>
+		<![CDATA[ ]]>
+		</descrip19>
+		<titulo22>
+		<![CDATA[ ]]>
+		</titulo22>
+		<descrip22>
+		<![CDATA[ ]]>
+		</descrip22>
+		<titulo23>
+		<![CDATA[ ]]>
+		</titulo23>
+		<descrip23>
+		<![CDATA[ ]]>
+		</descrip23>
+		<titulo24>
+		<![CDATA[ ]]>
+		</titulo24>
+		<descrip24>
+		<![CDATA[ ]]>
+		</descrip24>
+		<titulo25>
+		<![CDATA[ ]]>
+		</titulo25>
+		<descrip25>
+		<![CDATA[ ]]>
+		</descrip25>
+		<estadoficha>1</estadoficha>
+		<exclu>0</exclu>
+		<tour/>
+		<keyagente>180916</keyagente>
+		<agente>
+		<![CDATA[ Jesus Morilla ]]>
+		</agente>
+		<email_agente>jesusmorilla@grupoezeda.com</email_agente>
+		<prefijo_tlf_agente>34</prefijo_tlf_agente>
+		<tlf_agente>954915480</tlf_agente>
+		<numpanos>0</numpanos>
+		<numfotos>20</numfotos>
+		<foto1>https://fotos15.apinmo.com/3433/23290791/5-1.jpg</foto1>
+		<foto2>https://fotos15.apinmo.com/3433/23290791/5-2.jpg</foto2>
+		<foto3>https://fotos15.apinmo.com/3433/23290791/5-3.jpg</foto3>
+		<foto4>https://fotos15.apinmo.com/3433/23290791/5-4.jpg</foto4>
+		<foto5>https://fotos15.apinmo.com/3433/23290791/5-5.jpg</foto5>
+		<foto6>https://fotos15.apinmo.com/3433/23290791/5-6.jpg</foto6>
+		<foto7>https://fotos15.apinmo.com/3433/23290791/5-7.jpg</foto7>
+		<foto8>https://fotos15.apinmo.com/3433/23290791/5-8.jpg</foto8>
+		<foto9>https://fotos15.apinmo.com/3433/23290791/5-9.jpg</foto9>
+		<foto10>https://fotos15.apinmo.com/3433/23290791/5-10.jpg</foto10>
+		<foto11>https://fotos15.apinmo.com/3433/23290791/5-11.jpg</foto11>
+		<foto12>https://fotos15.apinmo.com/3433/23290791/5-12.jpg</foto12>
+		<foto13>https://fotos15.apinmo.com/3433/23290791/5-13.jpg</foto13>
+		<foto14>https://fotos15.apinmo.com/3433/23290791/5-14.jpg</foto14>
+		<foto15>https://fotos15.apinmo.com/3433/23290791/5-15.jpg</foto15>
+		<foto16>https://fotos15.apinmo.com/3433/23290791/5-16.jpg</foto16>
+		<foto17>https://fotos15.apinmo.com/3433/23290791/5-17.jpg</foto17>
+		<foto18>https://fotos15.apinmo.com/3433/23290791/5-18.jpg</foto18>
+		<foto19>https://fotos15.apinmo.com/3433/23290791/5-19.jpg</foto19>
+		<foto20>https://fotos15.apinmo.com/3433/23290791/5-20.jpg</foto20>
+		<numpanos>0</numpanos>
+		<videos/>
+	</propiedad>
+
+	
+	<propiedad>
+		<id>Anna_img_Tapiado</id>
+		<numagencia>3433</numagencia>
+		<calidades/>
+		<provincia>SEVILLA</provincia>
+		<key_loca>609899</key_loca>
+		<key_tipo>399</key_tipo>
+		<tipovpo>6</tipovpo>
+		<vpo_name>Libre</vpo_name>
+		<destacado>0</destacado>
+		<antiguedad>1955</antiguedad>
+		<tipo_ofer>Casa</tipo_ofer>
+		<fecha>2025-02-19 13:48:29</fecha>
+		<fechaact>2026-03-17 17:55:28</fechaact>
+		<keypromo>0</keypromo>
+		<opcioncompra>0</opcioncompra>
+		<aconsultar>0</aconsultar>
+		<latitud>37.398800688</latitud>
+		<altitud>-5.991727012</altitud>
+		<aseos>0</aseos>
+		<banyos>1</banyos>
+		<carpint>Aluminio</carpint>
+		<carpext>Aluminio</carpext>
+		<comunidadincluida>0</comunidadincluida>
+		<tfachada/>
+		<tcocina/>
+		<tpostigo/>
+		<tbano/>
+		<tinterior>
+		<![CDATA[ ]]>
+		</tinterior>
+		<distmar>0</distmar>
+		<planta>0</planta>
+		<conservacion>Para reformar</conservacion>
+		<gastos_com>0</gastos_com>
+		<habdobles>3</habdobles>
+		<habitaciones>0</habitaciones>
+		<m_cons>76.00</m_cons>
+		<m_parcela>17</m_parcela>
+		<m_uties>0.00</m_uties>
+		<m_cocina>0.00</m_cocina>
+		<m_comedor>0.00</m_comedor>
+		<m_terraza>0.00</m_terraza>
+		<numplanta>3</numplanta>
+		<orientacion/>
+		<salon>0</salon>
+		<precioinmo>185000</precioinmo>
+		<preciotraspaso>0</preciotraspaso>
+		<precioalq>0</precioalq>
+		<outlet>285000</outlet>
+		<ref>730025</ref>
+		<accion>Vender</accion>
+		<ciudad>Sevilla</ciudad>
+		<cp>41002</cp>
+		<zona>Centro</zona>
+		<adaptadominus>0</adaptadominus>
+		<airecentral>0</airecentral>
+		<aire_con>0</aire_con>
+		<alarma>0</alarma>
+		<alarmaincendio>0</alarmaincendio>
+		<alarmarobo>0</alarmarobo>
+		<arma_empo>0</arma_empo>
+		<ascensor>0</ascensor>
+		<balcon>1</balcon>
+		<bar>0</bar>
+		<jardin>0</jardin>
+		<barbacoa>0</barbacoa>
+		<cajafuerte>0</cajafuerte>
+		<keycalefa>0</keycalefa>
+		<keysuelo>5</keysuelo>
+		<calefacentral>0</calefacentral>
+		<calefaccion>0</calefaccion>
+		<chimenea>0</chimenea>
+		<depoagua>0</depoagua>
+		<descalcificador>0</descalcificador>
+		<despensa>1</despensa>
+		<diafano>0</diafano>
+		<electro>0</electro>
+		<esquina>0</esquina>
+		<galeria>0</galeria>
+		<plaza_gara>0</plaza_gara>
+		<garajedoble>0</garajedoble>
+		<gasciudad>0</gasciudad>
+		<gimnasio>0</gimnasio>
+		<habjuegos>0</habjuegos>
+		<tipomensual>MES</tipomensual>
+		<hidromasaje>0</hidromasaje>
+		<jacuzzi>0</jacuzzi>
+		<lavanderia>0</lavanderia>
+		<linea_tlf>1</linea_tlf>
+		<luminoso>1</luminoso>
+		<ibi>0.00</ibi>
+		<luz>1</luz>
+		<muebles>0</muebles>
+		<ojobuey>0</ojobuey>
+		<parking>0</parking>
+		<patio>0</patio>
+		<piscina_com>0</piscina_com>
+		<piscina_prop>0</piscina_prop>
+		<preinstaacc>0</preinstaacc>
+		<primera_line>0</primera_line>
+		<puerta_blin>0</puerta_blin>
+		<satelite>0</satelite>
+		<sauna>0</sauna>
+		<solarium>0</solarium>
+		<sotano>0</sotano>
+		<mirador>0</mirador>
+		<apartseparado>0</apartseparado>
+		<bombafriocalor>0</bombafriocalor>
+		<buhardilla>1</buhardilla>
+		<pergola>0</pergola>
+		<tv>0</tv>
+		<terraza>0</terraza>
+		<terrazaacris>0</terrazaacris>
+		<todoext>2</todoext>
+		<trastero>0</trastero>
+		<urbanizacion>0</urbanizacion>
+		<nplazasparking>0</nplazasparking>
+		<vestuarios>0</vestuarios>
+		<precioparking/>
+		<preciogaraje/>
+		<vistasalmar>0</vistasalmar>
+		<energialetra>G</energialetra>
+		<energiarecibido>1</energiarecibido>
+		<energiavalor>0</energiavalor>
+		<emisionesletra>G</emisionesletra>
+		<emisionesvalor>0</emisionesvalor>
+		<cocina_inde>0</cocina_inde>
+		<keyelectricidad>0</keyelectricidad>
+		<keyfachada>0</keyfachada>
+		<keyagua>0</keyagua>
+		<keyvista>10</keyvista>
+		<keytecho>0</keytecho>
+		<montana>0</montana>
+		<rural>0</rural>
+		<costa>0</costa>
+		<vallado>0</vallado>
+		<autobuses>1</autobuses>
+		<centros_comerciales>1</centros_comerciales>
+		<tranvia>0</tranvia>
+		<zonas_infantiles>1</zonas_infantiles>
+		<colegios>1</colegios>
+		<arboles>1</arboles>
+		<hospitales>1</hospitales>
+		<tren>0</tren>
+		<metro>0</metro>
+		<golf>0</golf>
+		<descrip1>
+		<![CDATA[ ¡Descubre el potencial de esta joya arquitectónica en el corazón del vibrante barrio de Feria!~~ Esta casa independiente, con una estructura robusta y un diseño que invita a la creatividad, es la oportunidad perfecta para aquellos que desean construir su hogar ideal desde cero. Con 76 m² distribuidos en tres plantas, albergando un local comercial en planta baja.~~Los techos altos aportan una sensación de amplitud y elegancia, mientras que los dos balcones y el amplio ventanal en la última planta inundan de luz natural cada rincón.~~Aunque necesita reformas, su estructura sólida es una base excelente para personalizar cada espacio a tu gusto. La parcela de 35 m² es ideal para quienes buscan un proyecto de renovación en una ubicación privilegiada. ~~ No dejes pasar esta oportunidad única de crear el hogar de tus sueños en uno de los barrios más emblemáticos de la ciudad.~~El barrio de Feria es un lugar lleno de encanto y autenticidad, donde la tradición y la modernidad se entrelazan de manera perfecta. Situado en una ubicación estratégica, ofrece una mezcla de tranquilidad residencial con la cercanía a centros comerciales, servicios y excelentes conexiones de transporte.~~Honorarios no incluidos en el P. V. P. Gastos de Notaría, Registro e Impuestos no incluidos. D. I. A (Documento informativo abreviado) a disposición del consumidor RD 258/05 Junta de Andalucía.~ ]]>
+		</descrip1>
+		<titulo1>
+		<![CDATA[ ¡Descubre el potencial de esta joya arquitectónica en el corazón del vibrante barrio de Feria! ]]>
+		</titulo1>
+		<titulo2>
+		<![CDATA[ ]]>
+		</titulo2>
+		<descrip2>
+		<![CDATA[ ]]>
+		</descrip2>
+		<titulo3>
+		<![CDATA[ ]]>
+		</titulo3>
+		<descrip3>
+		<![CDATA[ ]]>
+		</descrip3>
+		<titulo4>
+		<![CDATA[ ]]>
+		</titulo4>
+		<descrip4>
+		<![CDATA[ ]]>
+		</descrip4>
+		<titulo5>
+		<![CDATA[ ]]>
+		</titulo5>
+		<descrip5>
+		<![CDATA[ ]]>
+		</descrip5>
+		<titulo6>
+		<![CDATA[ ]]>
+		</titulo6>
+		<descrip6>
+		<![CDATA[ ]]>
+		</descrip6>
+		<titulo7>
+		<![CDATA[ ]]>
+		</titulo7>
+		<descrip7>
+		<![CDATA[ ]]>
+		</descrip7>
+		<titulo8>
+		<![CDATA[ ]]>
+		</titulo8>
+		<descrip8>
+		<![CDATA[ ]]>
+		</descrip8>
+		<titulo9>
+		<![CDATA[ ]]>
+		</titulo9>
+		<descrip9>
+		<![CDATA[ ]]>
+		</descrip9>
+		<titulo10>
+		<![CDATA[ ]]>
+		</titulo10>
+		<descrip10>
+		<![CDATA[ ]]>
+		</descrip10>
+		<titulo11>
+		<![CDATA[ ]]>
+		</titulo11>
+		<descrip11>
+		<![CDATA[ ]]>
+		</descrip11>
+		<titulo12>
+		<![CDATA[ ]]>
+		</titulo12>
+		<descrip12>
+		<![CDATA[ ]]>
+		</descrip12>
+		<titulo15>
+		<![CDATA[ ]]>
+		</titulo15>
+		<descrip15>
+		<![CDATA[ ]]>
+		</descrip15>
+		<titulo16>
+		<![CDATA[ ]]>
+		</titulo16>
+		<descrip16>
+		<![CDATA[ ]]>
+		</descrip16>
+		<titulo17>
+		<![CDATA[ ]]>
+		</titulo17>
+		<descrip17>
+		<![CDATA[ ]]>
+		</descrip17>
+		<titulo18>
+		<![CDATA[ ]]>
+		</titulo18>
+		<descrip18>
+		<![CDATA[ ]]>
+		</descrip18>
+		<titulo19>
+		<![CDATA[ ]]>
+		</titulo19>
+		<descrip19>
+		<![CDATA[ ]]>
+		</descrip19>
+		<titulo22>
+		<![CDATA[ ]]>
+		</titulo22>
+		<descrip22>
+		<![CDATA[ ]]>
+		</descrip22>
+		<titulo23>
+		<![CDATA[ ]]>
+		</titulo23>
+		<descrip23>
+		<![CDATA[ ]]>
+		</descrip23>
+		<titulo24>
+		<![CDATA[ ]]>
+		</titulo24>
+		<descrip24>
+		<![CDATA[ ]]>
+		</descrip24>
+		<titulo25>
+		<![CDATA[ ]]>
+		</titulo25>
+		<descrip25>
+		<![CDATA[ ]]>
+		</descrip25>
+		<estadoficha>1</estadoficha>
+		<exclu>0</exclu>
+		<tour/>
+		<keyagente>180916</keyagente>
+		<agente>
+		<![CDATA[ Jesus Morilla ]]>
+		</agente>
+		<email_agente>jesusmorilla@grupoezeda.com</email_agente>
+		<prefijo_tlf_agente>34</prefijo_tlf_agente>
+		<tlf_agente>954915480</tlf_agente>
+		<numpanos>0</numpanos>
+		<numfotos>29</numfotos>
+		<foto1>https://fotos15.apinmo.com/3433/23502046/5-1.jpg</foto1>
+		<foto2 eti="fachada">https://fotos15.apinmo.com/3433/23502046/5-2.jpg</foto2>
+		<foto3>https://fotos15.apinmo.com/3433/23502046/5-3.jpg</foto3>
+		<foto4>https://fotos15.apinmo.com/3433/23502046/5-4.jpg</foto4>
+		<foto5>https://fotos15.apinmo.com/3433/23502046/5-5.jpg</foto5>
+		<foto6>https://fotos15.apinmo.com/3433/23502046/5-6.jpg</foto6>
+		<foto7>https://fotos15.apinmo.com/3433/23502046/5-7.jpg</foto7>
+		<foto8>https://fotos15.apinmo.com/3433/23502046/5-8.jpg</foto8>
+		<foto9>https://fotos15.apinmo.com/3433/23502046/5-9.jpg</foto9>
+		<foto10>https://fotos15.apinmo.com/3433/23502046/5-10.jpg</foto10>
+		<foto11>https://fotos15.apinmo.com/3433/23502046/5-11.jpg</foto11>
+		<foto12>https://fotos15.apinmo.com/3433/23502046/5-12.jpg</foto12>
+		<foto13>https://fotos15.apinmo.com/3433/23502046/5-13.jpg</foto13>
+		<foto14>https://fotos15.apinmo.com/3433/23502046/5-14.jpg</foto14>
+		<foto15>https://fotos15.apinmo.com/3433/23502046/5-15.jpg</foto15>
+		<foto16>https://fotos15.apinmo.com/3433/23502046/5-16.jpg</foto16>
+		<foto17>https://fotos15.apinmo.com/3433/23502046/5-17.jpg</foto17>
+		<foto18>https://fotos15.apinmo.com/3433/23502046/5-18.jpg</foto18>
+		<foto19>https://fotos15.apinmo.com/3433/23502046/5-19.jpg</foto19>
+		<foto20>https://fotos15.apinmo.com/3433/23502046/5-20.jpg</foto20>
+		<foto21>https://fotos15.apinmo.com/3433/23502046/5-21.jpg</foto21>
+		<foto22 eti="alrededores">https://fotos15.apinmo.com/3433/23502046/5-22.jpg</foto22>
+		<foto23>https://fotos15.apinmo.com/3433/23502046/5-23.jpg</foto23>
+		<foto24>https://fotos15.apinmo.com/3433/23502046/5-24.jpg</foto24>
+		<foto25>https://fotos15.apinmo.com/3433/23502046/5-25.jpg</foto25>
+		<foto26>https://fotos15.apinmo.com/3433/23502046/5-26.jpg</foto26>
+		<foto27>https://fotos15.apinmo.com/3433/23502046/5-27.jpg</foto27>
+		<foto28>https://fotos15.apinmo.com/3433/23502046/5-28.jpg</foto28>
+		<foto29>https://fotos15.apinmo.com/3433/23502046/5-29.jpg</foto29>
+		<numpanos>0</numpanos>
+		<videos/>
+	</propiedad>
+
+	
+	<propiedad>
+		<id>Anna_img_Desnudo</id>
+		<numagencia>3433</numagencia>
+		<calidades/>
+		<provincia>SEVILLA</provincia>
+		<key_loca>609899</key_loca>
+		<key_tipo>3399</key_tipo>
+		<tipovpo>6</tipovpo>
+		<vpo_name>Libre</vpo_name>
+		<destacado>0</destacado>
+		<antiguedad>1960</antiguedad>
+		<tipo_ofer>Piso</tipo_ofer>
+		<fecha>2025-04-30 11:20:55</fecha>
+		<fechaact>2026-03-05 13:51:04</fechaact>
+		<keypromo>0</keypromo>
+		<opcioncompra>0</opcioncompra>
+		<aconsultar>0</aconsultar>
+		<latitud>37.40344464</latitud>
+		<altitud>-5.991134124</altitud>
+		<aseos>0</aseos>
+		<banyos>1</banyos>
+		<carpint>Aluminio</carpint>
+		<carpext>Aluminio</carpext>
+		<comunidadincluida>0</comunidadincluida>
+		<tfachada/>
+		<tcocina/>
+		<tpostigo/>
+		<tbano/>
+		<tinterior>
+		<![CDATA[ ALQUILADA ]]>
+		</tinterior>
+		<distmar>0</distmar>
+		<planta>4</planta>
+		<conservacion>Para reformar</conservacion>
+		<gastos_com>60</gastos_com>
+		<habdobles>3</habdobles>
+		<habitaciones>0</habitaciones>
+		<m_cons>73.00</m_cons>
+		<m_parcela>0</m_parcela>
+		<m_uties>0.00</m_uties>
+		<m_cocina>0.00</m_cocina>
+		<m_comedor>0.00</m_comedor>
+		<m_terraza>5.00</m_terraza>
+		<numplanta>0</numplanta>
+		<orientacion>Sureste</orientacion>
+		<salon>0</salon>
+		<precioinmo>225000</precioinmo>
+		<preciotraspaso>0</preciotraspaso>
+		<precioalq>0</precioalq>
+		<outlet>250000</outlet>
+		<ref>244</ref>
+		<accion>Vender</accion>
+		<ciudad>Sevilla</ciudad>
+		<cp>41002</cp>
+		<zona>Centro</zona>
+		<adaptadominus>0</adaptadominus>
+		<airecentral>0</airecentral>
+		<aire_con>1</aire_con>
+		<alarma>0</alarma>
+		<alarmaincendio>0</alarmaincendio>
+		<alarmarobo>0</alarmarobo>
+		<arma_empo>0</arma_empo>
+		<ascensor>0</ascensor>
+		<balcon>1</balcon>
+		<bar>0</bar>
+		<jardin>0</jardin>
+		<barbacoa>0</barbacoa>
+		<cajafuerte>0</cajafuerte>
+		<keycalefa>25</keycalefa>
+		<keysuelo>12</keysuelo>
+		<calefacentral>0</calefacentral>
+		<calefaccion>1</calefaccion>
+		<chimenea>0</chimenea>
+		<depoagua>0</depoagua>
+		<descalcificador>0</descalcificador>
+		<despensa>0</despensa>
+		<diafano>0</diafano>
+		<electro>1</electro>
+		<esquina>1</esquina>
+		<galeria>0</galeria>
+		<plaza_gara>0</plaza_gara>
+		<garajedoble>0</garajedoble>
+		<gasciudad>0</gasciudad>
+		<gimnasio>0</gimnasio>
+		<habjuegos>0</habjuegos>
+		<tipomensual>MES</tipomensual>
+		<hidromasaje>0</hidromasaje>
+		<jacuzzi>0</jacuzzi>
+		<lavanderia>0</lavanderia>
+		<linea_tlf>1</linea_tlf>
+		<luminoso>1</luminoso>
+		<ibi>0.00</ibi>
+		<luz>1</luz>
+		<muebles>0</muebles>
+		<ojobuey>0</ojobuey>
+		<parking>0</parking>
+		<patio>0</patio>
+		<piscina_com>0</piscina_com>
+		<piscina_prop>0</piscina_prop>
+		<preinstaacc>0</preinstaacc>
+		<primera_line>0</primera_line>
+		<puerta_blin>0</puerta_blin>
+		<satelite>0</satelite>
+		<sauna>0</sauna>
+		<solarium>0</solarium>
+		<sotano>0</sotano>
+		<mirador>0</mirador>
+		<apartseparado>0</apartseparado>
+		<bombafriocalor>0</bombafriocalor>
+		<buhardilla>0</buhardilla>
+		<pergola>0</pergola>
+		<tv>1</tv>
+		<terraza>1</terraza>
+		<terrazaacris>0</terrazaacris>
+		<todoext>2</todoext>
+		<trastero>0</trastero>
+		<urbanizacion>0</urbanizacion>
+		<nplazasparking>0</nplazasparking>
+		<vestuarios>0</vestuarios>
+		<precioparking/>
+		<preciogaraje/>
+		<vistasalmar>0</vistasalmar>
+		<energialetra>E</energialetra>
+		<energiarecibido>1</energiarecibido>
+		<energiavalor>0</energiavalor>
+		<emisionesletra>E</emisionesletra>
+		<emisionesvalor>0</emisionesvalor>
+		<cocina_inde>1</cocina_inde>
+		<keyelectricidad>0</keyelectricidad>
+		<keyfachada>0</keyfachada>
+		<keyagua>3</keyagua>
+		<keyvista>10</keyvista>
+		<keytecho>0</keytecho>
+		<montana>0</montana>
+		<rural>0</rural>
+		<costa>0</costa>
+		<vallado>0</vallado>
+		<autobuses>1</autobuses>
+		<centros_comerciales>1</centros_comerciales>
+		<tranvia>0</tranvia>
+		<zonas_infantiles>1</zonas_infantiles>
+		<colegios>1</colegios>
+		<arboles>1</arboles>
+		<hospitales>1</hospitales>
+		<tren>0</tren>
+		<metro>0</metro>
+		<golf>0</golf>
+		<descrip1>
+		<![CDATA[ LUMINOSO PISO EN ESQUINA CON TERRAZA EN AVENIDA RESOLANA~~Presentamos esta interesante vivienda ubicada en la cuarta planta de un edificio sin ascensor, en plena Avenida Resolana, una de las zonas más conocidas y bien comunicadas de Sevilla. Su posición en esquina le proporciona una excelente ventilación cruzada y una gran cantidad de luz natural durante todo el día, lo que la convierte en una vivienda especialmente luminosa y agradable.~~El piso cuenta con una superficie bien aprovechada distribuida en tres dormitorios, un baño completo, cocina independiente y un salón con acceso a una pequeña pero funcional terraza de aproximadamente 5 m², ideal para relajarse al aire libre o disfrutar de vistas despejadas sin edificios enfrente.~~Todas las estancias son exteriores y disponen de ventanas, lo que refuerza aún más la sensación de amplitud y luminosidad. La vivienda conserva detalles con encanto como el suelo hidráulico, además de incorporar mejoras como ventanas de aluminio y una máquina de aire acondicionado tipo split, lo que garantiza confort tanto en invierno como en verano.~~Actualmente, el piso se encuentra alquilado a estudiantes hasta el mes de septiembre, lo que lo convierte en una excelente opción tanto para quienes buscan una vivienda propia como para inversores interesados en rentabilidad inmediata. La zona es muy demandada por su cercanía a universidades, zonas comerciales, transporte público y todo tipo de servicios.~~En resumen, se trata de una vivienda con carácter, bien ubicada, muy luminosa y con gran potencial tanto para vivir como para obtener ingresos por alquiler.~~Honorarios no incluidos en el P. V. P. Gastos de Notaría, Registro e Impuestos no incluidos. D. I. A (Documento informativo abreviado) a disposición del consumidor RD 258/05 Junta de Andalucía.~ ]]>
+		</descrip1>
+		<titulo1>
+		<![CDATA[ LUMINOSO PISO EN ESQUINA CON TERRAZA EN AVENIDA RESOLANA ]]>
+		</titulo1>
+		<titulo2>
+		<![CDATA[ ]]>
+		</titulo2>
+		<descrip2>
+		<![CDATA[ ]]>
+		</descrip2>
+		<titulo3>
+		<![CDATA[ ]]>
+		</titulo3>
+		<descrip3>
+		<![CDATA[ ]]>
+		</descrip3>
+		<titulo4>
+		<![CDATA[ ]]>
+		</titulo4>
+		<descrip4>
+		<![CDATA[ ]]>
+		</descrip4>
+		<titulo5>
+		<![CDATA[ ]]>
+		</titulo5>
+		<descrip5>
+		<![CDATA[ ]]>
+		</descrip5>
+		<titulo6>
+		<![CDATA[ ]]>
+		</titulo6>
+		<descrip6>
+		<![CDATA[ ]]>
+		</descrip6>
+		<titulo7>
+		<![CDATA[ ]]>
+		</titulo7>
+		<descrip7>
+		<![CDATA[ ]]>
+		</descrip7>
+		<titulo8>
+		<![CDATA[ ]]>
+		</titulo8>
+		<descrip8>
+		<![CDATA[ ]]>
+		</descrip8>
+		<titulo9>
+		<![CDATA[ ]]>
+		</titulo9>
+		<descrip9>
+		<![CDATA[ ]]>
+		</descrip9>
+		<titulo10>
+		<![CDATA[ ]]>
+		</titulo10>
+		<descrip10>
+		<![CDATA[ ]]>
+		</descrip10>
+		<titulo11>
+		<![CDATA[ ]]>
+		</titulo11>
+		<descrip11>
+		<![CDATA[ ]]>
+		</descrip11>
+		<titulo12>
+		<![CDATA[ ]]>
+		</titulo12>
+		<descrip12>
+		<![CDATA[ ]]>
+		</descrip12>
+		<titulo15>
+		<![CDATA[ ]]>
+		</titulo15>
+		<descrip15>
+		<![CDATA[ ]]>
+		</descrip15>
+		<titulo16>
+		<![CDATA[ ]]>
+		</titulo16>
+		<descrip16>
+		<![CDATA[ ]]>
+		</descrip16>
+		<titulo17>
+		<![CDATA[ ]]>
+		</titulo17>
+		<descrip17>
+		<![CDATA[ ]]>
+		</descrip17>
+		<titulo18>
+		<![CDATA[ ]]>
+		</titulo18>
+		<descrip18>
+		<![CDATA[ ]]>
+		</descrip18>
+		<titulo19>
+		<![CDATA[ ]]>
+		</titulo19>
+		<descrip19>
+		<![CDATA[ ]]>
+		</descrip19>
+		<titulo22>
+		<![CDATA[ ]]>
+		</titulo22>
+		<descrip22>
+		<![CDATA[ ]]>
+		</descrip22>
+		<titulo23>
+		<![CDATA[ ]]>
+		</titulo23>
+		<descrip23>
+		<![CDATA[ ]]>
+		</descrip23>
+		<titulo24>
+		<![CDATA[ ]]>
+		</titulo24>
+		<descrip24>
+		<![CDATA[ ]]>
+		</descrip24>
+		<titulo25>
+		<![CDATA[ ]]>
+		</titulo25>
+		<descrip25>
+		<![CDATA[ ]]>
+		</descrip25>
+		<estadoficha>1</estadoficha>
+		<exclu>0</exclu>
+		<tour/>
+		<keyagente>41040</keyagente>
+		<agente>
+		<![CDATA[ Gerente Grupo Ezeda ]]>
+		</agente>
+		<email_agente>info@grupoezeda.com</email_agente>
+		<prefijo_tlf_agente>34</prefijo_tlf_agente>
+		<tlf_agente>954915480</tlf_agente>
+		<numpanos>0</numpanos>
+		<numfotos>20</numfotos>
+		<foto1>https://fotos15.apinmo.com/3433/24710716/7-1.jpg</foto1>
+		<foto2>https://fotos15.apinmo.com/3433/24710716/7-2.jpg</foto2>
+		<foto3>https://fotos15.apinmo.com/3433/24710716/7-3.jpg</foto3>
+		<foto4>https://fotos15.apinmo.com/3433/24710716/7-4.jpg</foto4>
+		<foto5>https://fotos15.apinmo.com/3433/24710716/7-5.jpg</foto5>
+		<foto6>https://fotos15.apinmo.com/3433/24710716/7-6.jpg</foto6>
+		<foto7>https://fotos15.apinmo.com/3433/24710716/7-7.jpg</foto7>
+		<foto8>https://fotos15.apinmo.com/3433/24710716/7-8.jpg</foto8>
+		<foto9>https://fotos15.apinmo.com/3433/24710716/7-9.jpg</foto9>
+		<foto10>https://fotos15.apinmo.com/3433/24710716/7-10.jpg</foto10>
+		<foto11>https://fotos15.apinmo.com/3433/24710716/7-11.jpg</foto11>
+		<foto12>https://fotos15.apinmo.com/3433/24710716/7-12.jpg</foto12>
+		<foto13>https://fotos15.apinmo.com/3433/24710716/7-13.jpg</foto13>
+		<foto14>https://fotos15.apinmo.com/3433/24710716/7-14.jpg</foto14>
+		<foto15>https://fotos15.apinmo.com/3433/24710716/7-15.jpg</foto15>
+		<foto16>https://fotos15.apinmo.com/3433/24710716/7-16.jpg</foto16>
+		<foto17>https://fotos15.apinmo.com/3433/24710716/7-17.jpg</foto17>
+		<foto18>https://fotos15.apinmo.com/3433/24710716/7-18.jpg</foto18>
+		<foto19>https://fotos15.apinmo.com/3433/24710716/7-19.jpg</foto19>
+		<foto20>https://fotos15.apinmo.com/3433/24710716/7-20.jpg</foto20>
+		<numpanos>0</numpanos>
+		<videos/>
+	</propiedad>
+
+	
+	<propiedad>
+		<id>Anna_img_Personas</id>
+		<numagencia>3433</numagencia>
+		<calidades/>
+		<provincia>SEVILLA</provincia>
+		<key_loca>609899</key_loca>
+		<key_tipo>1299</key_tipo>
+		<tipovpo>6</tipovpo>
+		<vpo_name>Libre</vpo_name>
+		<destacado>0</destacado>
+		<antiguedad>1950</antiguedad>
+		<tipo_ofer>Local comercial</tipo_ofer>
+		<fecha>2025-05-14 10:44:47</fecha>
+		<fechaact>2026-02-25 10:19:28</fechaact>
+		<keypromo>0</keypromo>
+		<opcioncompra>0</opcioncompra>
+		<aconsultar>0</aconsultar>
+		<latitud>37.397145135</latitud>
+		<altitud>-5.99302957</altitud>
+		<aseos>0</aseos>
+		<banyos>2</banyos>
+		<carpint/>
+		<carpext/>
+		<comunidadincluida>0</comunidadincluida>
+		<tfachada/>
+		<tcocina/>
+		<tpostigo/>
+		<tbano/>
+		<tinterior>
+		<![CDATA[ ]]>
+		</tinterior>
+		<distmar>0</distmar>
+		<planta>1</planta>
+		<conservacion>Buen estado</conservacion>
+		<gastos_com>0</gastos_com>
+		<habdobles>0</habdobles>
+		<habitaciones>2</habitaciones>
+		<m_cons>150.00</m_cons>
+		<m_parcela>50</m_parcela>
+		<m_uties>0.00</m_uties>
+		<m_cocina>0.00</m_cocina>
+		<m_comedor>0.00</m_comedor>
+		<m_terraza>30.00</m_terraza>
+		<numplanta>2</numplanta>
+		<orientacion/>
+		<salon>0</salon>
+		<precioinmo>0</precioinmo>
+		<preciotraspaso>0</preciotraspaso>
+		<precioalq>1700</precioalq>
+		<outlet>0</outlet>
+		<ref>220255</ref>
+		<accion>Alquilar</accion>
+		<ciudad>Sevilla</ciudad>
+		<cp>41002</cp>
+		<zona>Centro</zona>
+		<adaptadominus>0</adaptadominus>
+		<airecentral>0</airecentral>
+		<aire_con>0</aire_con>
+		<alarma>0</alarma>
+		<alarmaincendio>0</alarmaincendio>
+		<alarmarobo>0</alarmarobo>
+		<arma_empo>0</arma_empo>
+		<ascensor>0</ascensor>
+		<balcon>1</balcon>
+		<bar>0</bar>
+		<jardin>0</jardin>
+		<barbacoa>0</barbacoa>
+		<cajafuerte>0</cajafuerte>
+		<keycalefa>0</keycalefa>
+		<keysuelo>5</keysuelo>
+		<calefacentral>0</calefacentral>
+		<calefaccion>0</calefaccion>
+		<chimenea>0</chimenea>
+		<depoagua>0</depoagua>
+		<descalcificador>0</descalcificador>
+		<despensa>1</despensa>
+		<diafano>1</diafano>
+		<electro>0</electro>
+		<esquina>1</esquina>
+		<galeria>0</galeria>
+		<plaza_gara>0</plaza_gara>
+		<garajedoble>0</garajedoble>
+		<gasciudad>0</gasciudad>
+		<gimnasio>0</gimnasio>
+		<habjuegos>0</habjuegos>
+		<tipomensual>MES</tipomensual>
+		<hidromasaje>0</hidromasaje>
+		<jacuzzi>0</jacuzzi>
+		<lavanderia>0</lavanderia>
+		<linea_tlf>1</linea_tlf>
+		<luminoso>1</luminoso>
+		<ibi>0.00</ibi>
+		<luz>1</luz>
+		<muebles>0</muebles>
+		<ojobuey>0</ojobuey>
+		<parking>0</parking>
+		<patio>0</patio>
+		<piscina_com>0</piscina_com>
+		<piscina_prop>0</piscina_prop>
+		<preinstaacc>0</preinstaacc>
+		<primera_line>0</primera_line>
+		<puerta_blin>0</puerta_blin>
+		<satelite>0</satelite>
+		<sauna>0</sauna>
+		<solarium>0</solarium>
+		<sotano>0</sotano>
+		<mirador>0</mirador>
+		<apartseparado>0</apartseparado>
+		<bombafriocalor>0</bombafriocalor>
+		<buhardilla>0</buhardilla>
+		<pergola>0</pergola>
+		<tv>0</tv>
+		<terraza>1</terraza>
+		<terrazaacris>0</terrazaacris>
+		<todoext>2</todoext>
+		<trastero>0</trastero>
+		<urbanizacion>0</urbanizacion>
+		<nplazasparking>0</nplazasparking>
+		<vestuarios>0</vestuarios>
+		<precioparking/>
+		<preciogaraje/>
+		<vistasalmar>0</vistasalmar>
+		<energialetra>F</energialetra>
+		<energiarecibido>1</energiarecibido>
+		<energiavalor>0</energiavalor>
+		<emisionesletra>F</emisionesletra>
+		<emisionesvalor>0</emisionesvalor>
 		<cocina_inde>0</cocina_inde>
 		<keyelectricidad>0</keyelectricidad>
 		<keyfachada>0</keyfachada>
 		<keyagua>0</keyagua>
 		<keyvista>0</keyvista>
+		<keytecho>8</keytecho>
+		<montana>0</montana>
+		<rural>0</rural>
+		<costa>0</costa>
+		<vallado>0</vallado>
+		<autobuses>1</autobuses>
+		<centros_comerciales>1</centros_comerciales>
+		<tranvia>0</tranvia>
+		<zonas_infantiles>1</zonas_infantiles>
+		<colegios>1</colegios>
+		<arboles>0</arboles>
+		<hospitales>1</hospitales>
+		<tren>0</tren>
+		<metro>0</metro>
+		<golf>0</golf>
+		<descrip1>
+		<![CDATA[ ¡Edificio completo en alquiler! Excelente oportunidad comercial en esquina~~Se alquila edificio completo de uso comercial, ideal para negocios que buscan una ubicación estratégica y gran visibilidad. La propiedad se distribuye en dos plantas más una amplia terraza, ubicada en una esquina muy transitada, perfecta para atraer clientes.~~Entre sus características destacan:~~Techos altos, que aportan amplitud y luminosidad~~Suelos cerámicos, de fácil mantenimiento y estética moderna~~Dos aseos, funcionales para uso de clientes o personal~~Gran potencial para diversos rubros comerciales gracias a su diseño y ubicación~~Ideal para tiendas, showrooms, oficinas, centros de formación, estudios creativos, entre otros.~~¡No dejes pasar esta oportunidad! Contáctanos para más información o para agendar una visita.~~Honorarios no incluidos~ ]]>
+		</descrip1>
+		<titulo1>
+		<![CDATA[ EDIFICIO COMPLETO EN ALQUILER . ]]>
+		</titulo1>
+		<titulo2>
+		<![CDATA[ ]]>
+		</titulo2>
+		<descrip2>
+		<![CDATA[ ]]>
+		</descrip2>
+		<titulo3>
+		<![CDATA[ ]]>
+		</titulo3>
+		<descrip3>
+		<![CDATA[ ]]>
+		</descrip3>
+		<titulo4>
+		<![CDATA[ ]]>
+		</titulo4>
+		<descrip4>
+		<![CDATA[ ]]>
+		</descrip4>
+		<titulo5>
+		<![CDATA[ ]]>
+		</titulo5>
+		<descrip5>
+		<![CDATA[ ]]>
+		</descrip5>
+		<titulo6>
+		<![CDATA[ ]]>
+		</titulo6>
+		<descrip6>
+		<![CDATA[ ]]>
+		</descrip6>
+		<titulo7>
+		<![CDATA[ ]]>
+		</titulo7>
+		<descrip7>
+		<![CDATA[ ]]>
+		</descrip7>
+		<titulo8>
+		<![CDATA[ ]]>
+		</titulo8>
+		<descrip8>
+		<![CDATA[ ]]>
+		</descrip8>
+		<titulo9>
+		<![CDATA[ ]]>
+		</titulo9>
+		<descrip9>
+		<![CDATA[ ]]>
+		</descrip9>
+		<titulo10>
+		<![CDATA[ ]]>
+		</titulo10>
+		<descrip10>
+		<![CDATA[ ]]>
+		</descrip10>
+		<titulo11>
+		<![CDATA[ ]]>
+		</titulo11>
+		<descrip11>
+		<![CDATA[ ]]>
+		</descrip11>
+		<titulo12>
+		<![CDATA[ ]]>
+		</titulo12>
+		<descrip12>
+		<![CDATA[ ]]>
+		</descrip12>
+		<titulo15>
+		<![CDATA[ ]]>
+		</titulo15>
+		<descrip15>
+		<![CDATA[ ]]>
+		</descrip15>
+		<titulo16>
+		<![CDATA[ ]]>
+		</titulo16>
+		<descrip16>
+		<![CDATA[ ]]>
+		</descrip16>
+		<titulo17>
+		<![CDATA[ ]]>
+		</titulo17>
+		<descrip17>
+		<![CDATA[ ]]>
+		</descrip17>
+		<titulo18>
+		<![CDATA[ ]]>
+		</titulo18>
+		<descrip18>
+		<![CDATA[ ]]>
+		</descrip18>
+		<titulo19>
+		<![CDATA[ ]]>
+		</titulo19>
+		<descrip19>
+		<![CDATA[ ]]>
+		</descrip19>
+		<titulo22>
+		<![CDATA[ ]]>
+		</titulo22>
+		<descrip22>
+		<![CDATA[ ]]>
+		</descrip22>
+		<titulo23>
+		<![CDATA[ ]]>
+		</titulo23>
+		<descrip23>
+		<![CDATA[ ]]>
+		</descrip23>
+		<titulo24>
+		<![CDATA[ ]]>
+		</titulo24>
+		<descrip24>
+		<![CDATA[ ]]>
+		</descrip24>
+		<titulo25>
+		<![CDATA[ ]]>
+		</titulo25>
+		<descrip25>
+		<![CDATA[ ]]>
+		</descrip25>
+		<estadoficha>1</estadoficha>
+		<exclu>0</exclu>
+		<tour/>
+		<keyagente>180916</keyagente>
+		<agente>
+		<![CDATA[ Jesus Morilla ]]>
+		</agente>
+		<email_agente>jesusmorilla@grupoezeda.com</email_agente>
+		<prefijo_tlf_agente>34</prefijo_tlf_agente>
+		<tlf_agente>954915480</tlf_agente>
+		<numpanos>0</numpanos>
+		<numfotos>21</numfotos>
+		<foto1>https://fotos15.apinmo.com/3433/24984355/7-1.jpg</foto1>
+		<foto2>https://fotos15.apinmo.com/3433/24984355/7-2.jpg</foto2>
+		<foto3>https://fotos15.apinmo.com/3433/24984355/7-3.jpg</foto3>
+		<foto4>https://fotos15.apinmo.com/3433/24984355/7-4.jpg</foto4>
+		<foto5>https://fotos15.apinmo.com/3433/24984355/7-5.jpg</foto5>
+		<foto6>https://fotos15.apinmo.com/3433/24984355/7-6.jpg</foto6>
+		<foto7>https://fotos15.apinmo.com/3433/24984355/7-7.jpg</foto7>
+		<foto8>https://fotos15.apinmo.com/3433/24984355/7-8.jpg</foto8>
+		<foto9>https://fotos15.apinmo.com/3433/24984355/7-9.jpg</foto9>
+		<foto10>https://fotos15.apinmo.com/3433/24984355/7-10.jpg</foto10>
+		<foto11>https://fotos15.apinmo.com/3433/24984355/7-11.jpg</foto11>
+		<foto12>https://fotos15.apinmo.com/3433/24984355/7-12.jpg</foto12>
+		<foto13>https://fotos15.apinmo.com/3433/24984355/7-13.jpg</foto13>
+		<foto14>https://fotos15.apinmo.com/3433/24984355/7-14.jpg</foto14>
+		<foto15>https://fotos15.apinmo.com/3433/24984355/7-15.jpg</foto15>
+		<foto16>https://fotos15.apinmo.com/3433/24984355/7-16.jpg</foto16>
+		<foto17>https://fotos15.apinmo.com/3433/24984355/7-17.jpg</foto17>
+		<foto18>https://fotos15.apinmo.com/3433/24984355/7-18.jpg</foto18>
+		<foto19>https://fotos15.apinmo.com/3433/24984355/7-19.jpg</foto19>
+		<foto20>https://fotos15.apinmo.com/3433/24984355/7-20.jpg</foto20>
+		<foto21>https://fotos15.apinmo.com/3433/24984355/7-21.jpg</foto21>
+		<numpanos>0</numpanos>
+		<videos/>
+	</propiedad>
+
+	
+	<propiedad>
+		<id>Anna_img_Matriculas</id>
+		<numagencia>3433</numagencia>
+		<calidades/>
+		<provincia>SEVILLA</provincia>
+		<key_loca>609899</key_loca>
+		<key_tipo>2999</key_tipo>
+		<tipovpo>6</tipovpo>
+		<vpo_name>Libre</vpo_name>
+		<destacado>0</destacado>
+		<antiguedad>1940</antiguedad>
+		<tipo_ofer>Dúplex</tipo_ofer>
+		<fecha>2025-08-11 13:28:55</fecha>
+		<fechaact>2026-03-04 12:57:45</fechaact>
+		<keypromo>0</keypromo>
+		<opcioncompra>0</opcioncompra>
+		<aconsultar>0</aconsultar>
+		<latitud>37.394808664</latitud>
+		<altitud>-5.995131627</altitud>
+		<aseos>0</aseos>
+		<banyos>1</banyos>
+		<carpint>Macizas</carpint>
+		<carpext>Climalit</carpext>
+		<comunidadincluida>0</comunidadincluida>
+		<tfachada/>
+		<tcocina/>
+		<tpostigo/>
+		<tbano/>
+		<tinterior>
+		<![CDATA[ ]]>
+		</tinterior>
+		<distmar>0</distmar>
+		<planta>0</planta>
+		<conservacion>Entrar a vivir</conservacion>
+		<gastos_com>0</gastos_com>
+		<habdobles>2</habdobles>
+		<habitaciones>0</habitaciones>
+		<m_cons>58.00</m_cons>
+		<m_parcela>0</m_parcela>
+		<m_uties>0.00</m_uties>
+		<m_cocina>0.00</m_cocina>
+		<m_comedor>0.00</m_comedor>
+		<m_terraza>0.00</m_terraza>
+		<numplanta>0</numplanta>
+		<orientacion>Este</orientacion>
+		<salon>0</salon>
+		<precioinmo>200000</precioinmo>
+		<preciotraspaso>0</preciotraspaso>
+		<precioalq>0</precioalq>
+		<outlet>220000</outlet>
+		<ref>1602025</ref>
+		<accion>Vender</accion>
+		<ciudad>Sevilla</ciudad>
+		<cp>41002</cp>
+		<zona>Centro</zona>
+		<adaptadominus>0</adaptadominus>
+		<airecentral>0</airecentral>
+		<aire_con>0</aire_con>
+		<alarma>0</alarma>
+		<alarmaincendio>0</alarmaincendio>
+		<alarmarobo>0</alarmarobo>
+		<arma_empo>1</arma_empo>
+		<ascensor>0</ascensor>
+		<balcon>0</balcon>
+		<bar>0</bar>
+		<jardin>0</jardin>
+		<barbacoa>0</barbacoa>
+		<cajafuerte>0</cajafuerte>
+		<keycalefa>0</keycalefa>
+		<keysuelo>2</keysuelo>
+		<calefacentral>0</calefacentral>
+		<calefaccion>0</calefaccion>
+		<chimenea>0</chimenea>
+		<depoagua>0</depoagua>
+		<descalcificador>0</descalcificador>
+		<despensa>0</despensa>
+		<diafano>1</diafano>
+		<electro>1</electro>
+		<esquina>0</esquina>
+		<galeria>0</galeria>
+		<plaza_gara>0</plaza_gara>
+		<garajedoble>0</garajedoble>
+		<gasciudad>0</gasciudad>
+		<gimnasio>0</gimnasio>
+		<habjuegos>0</habjuegos>
+		<tipomensual>MES</tipomensual>
+		<hidromasaje>0</hidromasaje>
+		<jacuzzi>0</jacuzzi>
+		<lavanderia>0</lavanderia>
+		<linea_tlf>1</linea_tlf>
+		<luminoso>1</luminoso>
+		<ibi>0.00</ibi>
+		<luz>1</luz>
+		<muebles>0</muebles>
+		<ojobuey>0</ojobuey>
+		<parking>0</parking>
+		<patio>0</patio>
+		<piscina_com>0</piscina_com>
+		<piscina_prop>0</piscina_prop>
+		<preinstaacc>0</preinstaacc>
+		<primera_line>0</primera_line>
+		<puerta_blin>0</puerta_blin>
+		<satelite>0</satelite>
+		<sauna>0</sauna>
+		<solarium>0</solarium>
+		<sotano>0</sotano>
+		<mirador>0</mirador>
+		<apartseparado>0</apartseparado>
+		<bombafriocalor>0</bombafriocalor>
+		<buhardilla>0</buhardilla>
+		<pergola>0</pergola>
+		<tv>0</tv>
+		<terraza>0</terraza>
+		<terrazaacris>0</terrazaacris>
+		<todoext>3</todoext>
+		<trastero>0</trastero>
+		<urbanizacion>0</urbanizacion>
+		<nplazasparking>0</nplazasparking>
+		<vestuarios>0</vestuarios>
+		<precioparking/>
+		<preciogaraje/>
+		<vistasalmar>0</vistasalmar>
+		<energialetra>G</energialetra>
+		<energiarecibido>0</energiarecibido>
+		<energiavalor>0</energiavalor>
+		<emisionesletra>G</emisionesletra>
+		<emisionesvalor>1234.99</emisionesvalor>
+		<cocina_inde>3</cocina_inde>
+		<keyelectricidad>0</keyelectricidad>
+		<keyfachada>0</keyfachada>
+		<keyagua>0</keyagua>
+		<keyvista>7</keyvista>
 		<keytecho>0</keytecho>
 		<montana>0</montana>
 		<rural>0</rural>
 		<costa>0</costa>
 		<vallado>0</vallado>
 		<autobuses>0</autobuses>
-		<centros_comerciales>0</centros_comerciales>
+		<centros_comerciales>1</centros_comerciales>
 		<tranvia>0</tranvia>
-		<zonas_infantiles>0</zonas_infantiles>
-		<colegios>0</colegios>
-		<arboles>0</arboles>
-		<hospitales>0</hospitales>
+		<zonas_infantiles>1</zonas_infantiles>
+		<colegios>1</colegios>
+		<arboles>1</arboles>
+		<hospitales>1</hospitales>
 		<tren>0</tren>
 		<metro>0</metro>
 		<golf>0</golf>
 		<descrip1>
-			<![CDATA[ ¡El hogar de tus sueños te espera en el centro de Torrijos! Este chalet adosado de tres plantas cuenta con una distribución perfecta para tu comodidad. En la planta baja, encontrarás un garaje de más de 100 metros cuadrados con servicios incluidos. En la primera planta, un amplio salón con dos balcones, un dormitorio con ventana a la calle y cuatro dormitorios con salida a dos patios interiores, dos baños y una gran cocina amueblada con despensa y salida a una terraza interior con dependencia cubierta. En la segunda planta, un baño completo y tres dormitorios más.~ ~La vivienda cuenta con excelentes calidades en toda la casa, desde las escaleras de madera hasta los baños solados y alicatados con gres de primera calidad y sanitarios de la marca Roca. También dispone de bombas de calor y frío para una climatización perfecta en cualquier época del año.~ ~Con 375 m² construidos esta vivienda es perfecta para ti y tu familia. Además, tiene plaza de garaje y se encuentra en buen estado, con una antigüedad de 1992. ~ ~¡No dejes pasar esta oportunidad única! Llama ahora para concertar una visita y descubre todo lo que esta vivienda puede ofrecerte. ~ ~ LLAMANOS Y COCIERTA TU VISITA,¡~ ]]>
+		<![CDATA[ Se vende singular vivienda en planta baja con doble altura, a un paso de Plaza del Duque, en una de las zonas más céntricas y demandadas de la ciudad. Su diseño aprovecha al máximo la altura del inmueble, creando un práctico dúplex que multiplica el espacio útil y la sensación de amplitud.~~La casa cuenta con 58 m² distribuidos en la planta baja , son 2 dormitorios, salón acogedor con cocina abierta totalmente equipada y 1 baño amplio con placa de ducha. ~~Cada rincón está pensado para el confort diario: armarios empotrados en el pasillo, suelos de tarima flotante y una cuidada iluminación que potencia la calidez del conjunto.~~La ubicación es inmejorable: a escasos metros de Plaza del Duque, con comercios, servicios y transporte público al alcance de la mano, y la tranquilidad de un hogar bien cuidado donde desconectar del ritmo del centro.~~Ideal para quien busca un espacio moderno, funcional y con encanto, en pleno corazón de la ciudad.~~Honorarios no incluidos en el P. V. P. Gastos de Notaría, Registro e Impuestos no incluidos. D. I. A (Documento informativo abreviado) a disposición del consumidor RD 258/05 Junta de Andalucía.~~~ ]]>
 		</descrip1>
 		<titulo1>
-			<![CDATA[ Titulo de la propiedad ]]>
+		<![CDATA[ SINGULAR VIVIENDA JUNTO A LA PLAZA DEL DUQUE ]]>
 		</titulo1>
+		<titulo2>
+		<![CDATA[ ]]>
+		</titulo2>
+		<descrip2>
+		<![CDATA[ ]]>
+		</descrip2>
+		<titulo3>
+		<![CDATA[ ]]>
+		</titulo3>
+		<descrip3>
+		<![CDATA[ ]]>
+		</descrip3>
+		<titulo4>
+		<![CDATA[ ]]>
+		</titulo4>
+		<descrip4>
+		<![CDATA[ ]]>
+		</descrip4>
+		<titulo5>
+		<![CDATA[ ]]>
+		</titulo5>
+		<descrip5>
+		<![CDATA[ ]]>
+		</descrip5>
+		<titulo6>
+		<![CDATA[ ]]>
+		</titulo6>
+		<descrip6>
+		<![CDATA[ ]]>
+		</descrip6>
+		<titulo7>
+		<![CDATA[ ]]>
+		</titulo7>
+		<descrip7>
+		<![CDATA[ ]]>
+		</descrip7>
+		<titulo8>
+		<![CDATA[ ]]>
+		</titulo8>
+		<descrip8>
+		<![CDATA[ ]]>
+		</descrip8>
+		<titulo9>
+		<![CDATA[ ]]>
+		</titulo9>
+		<descrip9>
+		<![CDATA[ ]]>
+		</descrip9>
+		<titulo10>
+		<![CDATA[ ]]>
+		</titulo10>
+		<descrip10>
+		<![CDATA[ ]]>
+		</descrip10>
+		<titulo11>
+		<![CDATA[ ]]>
+		</titulo11>
+		<descrip11>
+		<![CDATA[ ]]>
+		</descrip11>
+		<titulo12>
+		<![CDATA[ ]]>
+		</titulo12>
+		<descrip12>
+		<![CDATA[ ]]>
+		</descrip12>
+		<titulo15>
+		<![CDATA[ ]]>
+		</titulo15>
+		<descrip15>
+		<![CDATA[ ]]>
+		</descrip15>
+		<titulo16>
+		<![CDATA[ ]]>
+		</titulo16>
+		<descrip16>
+		<![CDATA[ ]]>
+		</descrip16>
+		<titulo17>
+		<![CDATA[ ]]>
+		</titulo17>
+		<descrip17>
+		<![CDATA[ ]]>
+		</descrip17>
+		<titulo18>
+		<![CDATA[ ]]>
+		</titulo18>
+		<descrip18>
+		<![CDATA[ ]]>
+		</descrip18>
+		<titulo19>
+		<![CDATA[ ]]>
+		</titulo19>
+		<descrip19>
+		<![CDATA[ ]]>
+		</descrip19>
+		<titulo22>
+		<![CDATA[ ]]>
+		</titulo22>
+		<descrip22>
+		<![CDATA[ ]]>
+		</descrip22>
+		<titulo23>
+		<![CDATA[ ]]>
+		</titulo23>
+		<descrip23>
+		<![CDATA[ ]]>
+		</descrip23>
+		<titulo24>
+		<![CDATA[ ]]>
+		</titulo24>
+		<descrip24>
+		<![CDATA[ ]]>
+		</descrip24>
+		<titulo25>
+		<![CDATA[ ]]>
+		</titulo25>
+		<descrip25>
+		<![CDATA[ ]]>
+		</descrip25>
 		<estadoficha>1</estadoficha>
 		<exclu>0</exclu>
 		<tour/>
-		<keyagente>99626</keyagente>
+		<keyagente>180916</keyagente>
 		<agente>
-			<![CDATA[ MONICA PANADERO MUÑOZ ]]>
+		<![CDATA[ Jesus Morilla ]]>
 		</agente>
-		<email_agente/>
+		<email_agente>jesusmorilla@grupoezeda.com</email_agente>
 		<prefijo_tlf_agente>34</prefijo_tlf_agente>
-		<tlf_agente>925764106</tlf_agente>
+		<tlf_agente>954915480</tlf_agente>
 		<numpanos>0</numpanos>
-		<numfotos>9</numfotos>
-		<foto1>https://caixa-et.github.io/Images/exterior-casa.jpeg</foto1>
-		<foto2>https://caixa-et.github.io/Images/exterior-casa-2.jpeg</foto2>
-		<foto3>https://caixa-et.github.io/Images/habitacion.jpg</foto3>
-		<foto4>https://caixa-et.github.io/Images/habitacion-2.jpg</foto4>
-		<foto5>https://caixa-et.github.io/Images/habitacion-3.jpg</foto5>
-		<foto6>https://caixa-et.github.io/Images/comedor.jpg</foto6>
-		<foto7>https://caixa-et.github.io/Images/cocina-2.jpg</foto7>
-		<foto8>https://caixa-et.github.io/Images/ba%C3%B1o.jpg</foto8>
-		<foto9>https://www.lacasa.net/blog/wp-content/uploads/2021/12/1240x600visia-para-vender-piso-rapido-1080x600.png</foto9>
+		<numfotos>26</numfotos>
+		<foto1>https://fotos15.apinmo.com/3433/26275215/5-1.jpg</foto1>
+		<foto2>https://fotos15.apinmo.com/3433/26275215/5-2.jpg</foto2>
+		<foto3>https://fotos15.apinmo.com/3433/26275215/5-3.jpg</foto3>
+		<foto4>https://fotos15.apinmo.com/3433/26275215/5-4.jpg</foto4>
+		<foto5>https://fotos15.apinmo.com/3433/26275215/5-5.jpg</foto5>
+		<foto6>https://fotos15.apinmo.com/3433/26275215/5-6.jpg</foto6>
+		<foto7>https://fotos15.apinmo.com/3433/26275215/5-7.jpg</foto7>
+		<foto8>https://fotos15.apinmo.com/3433/26275215/5-8.jpg</foto8>
+		<foto9>https://fotos15.apinmo.com/3433/26275215/5-9.jpg</foto9>
+		<foto10>https://fotos15.apinmo.com/3433/26275215/5-10.jpg</foto10>
+		<foto11>https://fotos15.apinmo.com/3433/26275215/5-11.jpg</foto11>
+		<foto12>https://fotos15.apinmo.com/3433/26275215/5-12.jpg</foto12>
+		<foto13>https://fotos15.apinmo.com/3433/26275215/5-13.jpg</foto13>
+		<foto14>https://fotos15.apinmo.com/3433/26275215/5-14.jpg</foto14>
+		<foto15>https://fotos15.apinmo.com/3433/26275215/5-15.jpg</foto15>
+		<foto16>https://fotos15.apinmo.com/3433/26275215/5-16.jpg</foto16>
+		<foto17>https://fotos15.apinmo.com/3433/26275215/5-17.jpg</foto17>
+		<foto18>https://fotos15.apinmo.com/3433/26275215/5-18.jpg</foto18>
+		<foto19>https://fotos15.apinmo.com/3433/26275215/5-19.jpg</foto19>
+		<foto20>https://fotos15.apinmo.com/3433/26275215/5-20.jpg</foto20>
+		<foto21>https://fotos15.apinmo.com/3433/26275215/5-21.jpg</foto21>
+		<foto22>https://fotos15.apinmo.com/3433/26275215/5-22.jpg</foto22>
+		<foto23>https://fotos15.apinmo.com/3433/26275215/5-23.jpg</foto23>
+		<foto24>https://fotos15.apinmo.com/3433/26275215/5-24.jpg</foto24>
+		<foto25>https://fotos15.apinmo.com/3433/26275215/5-25.jpg</foto25>
+		<foto26>https://fotos15.apinmo.com/3433/26275215/5-26.jpg</foto26>
 		<numpanos>0</numpanos>
+		<videos/>
 	</propiedad>
-
 </propiedades>
-<!-- Fecha Creacion: 23-01-2025 1:01:47 -->

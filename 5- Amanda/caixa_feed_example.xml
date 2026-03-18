@@ -8,7 +8,7 @@
         <state>Madrid</state>
         <property_type>apartment</property_type>
         <property_subtype>standard_apartment</property_subtype>
-        <ref>960119</ref>
+        <ref>test/amanda</ref>
         <air_condition>0</air_condition>
         <bathrooms>1</bathrooms>
         <bedrooms>1</bedrooms>
@@ -107,12 +107,12 @@
         </media>
         <list_selling_price_amount>750000</list_selling_price_amount>
     </property>
-    <property last_update="2026-03-04 14:47:50">
+<property last_update="2026-03-04 14:47:50">
 <name>Maravilloso piso en Centro</name>
 <state>Madrid</state>
 <property_type>apartment</property_type>
 <property_subtype>standard_apartment</property_subtype>
-<ref>tc_desc_74_caixa</ref>
+<ref>tc_desc_74_amanda</ref>
 <air_condition>0</air_condition>
 <bathrooms>1</bathrooms>
 <bedrooms>1</bedrooms>

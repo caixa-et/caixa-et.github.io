@@ -1,425 +1,957 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <properties>
-    <propiedad id="1424346">
-        <fecha_alta>21/11/2024 15:57</fecha_alta>
-        <fecha_modificacion>27/02/2026 10:33</fecha_modificacion>
-        <referencia>Anna_imgMatricula</referencia>
-        <ref_catastral>6253526QE0565S0001HE </ref_catastral>
-        <familia id="21">Casa adosada</familia>
+    <propiedad id="Anna_img_CCEE">
+        <fecha_alta>18/02/2026 10:48</fecha_alta>
+        <fecha_modificacion>12/03/2026 12:18</fecha_modificacion>
+        <referencia>Anna_img_CCEE</referencia>
+        <ref_catastral/>
+        <familia id="10">Apartment</familia>
         <operacion id="1">Venta</operacion>
-        <estado id="SM" />
+        <estado id="ON"/>
         <status_id>activo</status_id>
-        <interior>0</interior>
-        <dormitorios>4</dormitorios>
-        <banos>2</banos>
-        <banos_reformados />
-        <aseos>1</aseos>
+        <interior/>
+        <dormitorios/>
+        <banos/>
+        <banos_reformados/>
+        <aseos/>
         <localizacion>
-            <provincia>Cáceres</provincia>
-            <poblacion id="4724">Torre de Don Miguel</poblacion>
-            <cp>10864</cp>
-            <zona />
-            <pais>ES</pais>
+        <provincia>Baleares</provincia>
+        <poblacion id="33">Palma</poblacion>
+        <cp/>
+        <zona>Amanecer</zona>
+        <pais>ES</pais>
         </localizacion>
         <superficies>
-            <habitable />
-            <construida>141</construida>
-            <parcela>47</parcela>
-            <cocina />
-            <salon />
-            <jardin />
-            <terraza />
+        <habitable>52</habitable>
+        <construida>57</construida>
+        <parcela/>
+        <cocina/>
+        <salon/>
+        <jardin/>
+        <terraza/>
         </superficies>
-        <precio divisa="EUR">250000</precio>
-        <precio_anterior divisa="EUR">69000</precio_anterior>
+        <precio divisa="EUR">169000</precio>
+        <precio_anterior divisa="EUR"/>
         <caracteristicas>
-            <caracteristica id="ano_construccion" />
-            <caracteristica id="amueblado">amueblado</caracteristica>
-            <caracteristica id="terraza" />
-            <caracteristica id="reformado">si</caracteristica>
-            <caracteristica id="ano_reforma">2017</caracteristica>
-            <caracteristica id="vistas" />
-            <caracteristica id="piscina" />
-            <caracteristica id="calefaccion" />
-            <caracteristica id="tipo_calefaccion" />
-            <caracteristica id="tipo_agua">individual</caracteristica>
-            <caracteristica id="tipo_cocina">americana</caracteristica>
-            <caracteristica id="cocina_equipada">1</caracteristica>
-            <caracteristica id="cocina_reformada">1</caracteristica>
-            <caracteristica id="jardin" />
-            <caracteristica id="garaje" />
-            <caracteristica id="garaje_incluido" />
-            <caracteristica id="parking" />
-            <caracteristica id="material_ventanas">PVC</caracteristica>
-            <caracteristica id="pisos_edificio">3</caracteristica>
-            <caracteristica id="estado_edificio">En buen estado</caracteristica>
-            <caracteristica id="contraventanas" />
-            <caracteristica id="tipo_suelo" />
-            <caracteristica id="certificacion_energetica_letra">TA</caracteristica>
-            <caracteristica id="certificacion_energetica_valor" />
-            <caracteristica id="certificacion_emisiones_letra">TA</caracteristica>
-            <caracteristica id="certificacion_emisiones_valor" />
-            <caracteristica id="trastero" />
-            <caracteristica id="puerta_blindada" />
-            <caracteristica id="aa" />
-            <caracteristica id="chimenea" />
-            <caracteristica id="ascensor" />
-            <caracteristica id="amarre" />
-            <caracteristica id="num_planta" />
-            <caracteristica id="de_entidad_financiera" />
-            <caracteristica id="primera_linea" />
-            <caracteristica id="sotano" />
-            <caracteristica id="lavanderia" />
-            <caracteristica id="solarium" />
-            <caracteristica id="armarios_empotrados" />
-            <caracteristica id="doble_acristalamiento" />
-            <caracteristica id="salida_humos">1</caracteristica>
-            <caracteristica id="mascotas">1</caracteristica>
+        <caracteristica id="ano_construccion"/>
+        <caracteristica id="amueblado"/>
+        <caracteristica id="terraza"/>
+        <caracteristica id="reformado"/>
+        <caracteristica id="ano_reforma"/>
+        <caracteristica id="vistas"/>
+        <caracteristica id="piscina"/>
+        <caracteristica id="calefaccion"/>
+        <caracteristica id="tipo_calefaccion"/>
+        <caracteristica id="tipo_agua"/>
+        <caracteristica id="tipo_cocina"/>
+        <caracteristica id="cocina_equipada"/>
+        <caracteristica id="cocina_reformada"/>
+        <caracteristica id="jardin"/>
+        <caracteristica id="garaje"/>
+        <caracteristica id="garaje_incluido"/>
+        <caracteristica id="parking"/>
+        <caracteristica id="contraventanas"/>
+        <caracteristica id="tipo_suelo"/>
+        <caracteristica id="certificacion_energetica_letra">TA</caracteristica>
+        <caracteristica id="certificacion_energetica_valor"/>
+        <caracteristica id="certificacion_emisiones_letra">TA</caracteristica>
+        <caracteristica id="certificacion_emisiones_valor"/>
+        <caracteristica id="trastero"/>
+        <caracteristica id="puerta_blindada"/>
+        <caracteristica id="aa"/>
+        <caracteristica id="chimenea"/>
+        <caracteristica id="ascensor"/>
+        <caracteristica id="amarre"/>
+        <caracteristica id="num_planta"/>
+        <caracteristica id="de_entidad_financiera"/>
+        <caracteristica id="primera_linea"/>
+        <caracteristica id="sotano"/>
+        <caracteristica id="lavanderia"/>
+        <caracteristica id="solarium"/>
+        <caracteristica id="armarios_empotrados"/>
+        <caracteristica id="doble_acristalamiento"/>
         </caracteristicas>
-        <etiquetas />
+        <etiquetas/>
         <descripciones>
-            <descripcion idioma="es">
-                <titulo>CASA TORRE DE DON MIGUEL</titulo>
-                <descripcion>Vivienda, totalmente reformada en 2017, de 141 metros cuadrados situada
-                    en el centro de la población de Torre de Don Miguel. Consta de dos salones,
-                    cocina totalmente equipada, dos baños y cuatro dormitorios. Tiene trastero.En la
-                    reforma se cambiaron: tuberías, instalación eléctrica, suelos, aislamiento en
-                    muros, paredes y ventanas climalit. Se vende totalmente amueblada, lista para
-                    entrar a vivir.[IW]</descripcion>
-            </descripcion>
+        <descripcion idioma="es">
+        <titulo>Local comercial de nueva construcción en zona Amanecer</titulo>
+        <descripcion>Se vende local comercial de nueva construcción en la zona de Amanecer, una de las áreas con mayor crecimiento y proyección. Cuenta con 55 m² construidos, distribuidos en un espacio diáfano que ofrece versatilidad y múltiples posibilidades de adaptación según la actividad. Local a estrenar, listo para acondicionar según necesidades. Precio: 169.000 €. Para más información o concertar una visita, contacta sin compromiso.[IW]</descripcion>
+        </descripcion>
         </descripciones>
         <imagenes>
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a3eeef30.jpg"
-                principal="1" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a427b2a1.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a452c996.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a479ae33.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4a25bc9.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4d19d59.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4fc13ed.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a5269110.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a5516b73.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a58de46e.jpg"
-                principal="0" />
-            <imagen
-                url="https://fotografias-2.larazon.es/clipping/cmsimages02/2023/11/08/6D8931DB-AF69-4D50-9105-8F5AD1A96232/coches-camiones-aparcados-acera-calle-pizarro_98.jpg"
-                principal="0" />
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1698655/image/WhatsApp%20Image%202026-02-13%20at%2008.29.20.jpg" principal="1"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1698655/image/WhatsApp%20Image%202026-02-13%20at%2008.33.51.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1698655/image/WhatsApp%20Image%202026-02-18%20at%2010.20.43.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1698655/image/WhatsApp%20Image%202026-02-18%20at%2010.37.41.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1698655/image/WhatsApp%20Image%202026-02-18%20at%2009.42.08.jpg" principal="0"/>
         </imagenes>
-        <documentos />
+        <documentos/>
         <enlaces>
-            <enlace idioma="cat">http://www.ft10459.inmoweb.page/details-cat1424346.html?lan=cat</enlace>
-            <enlace idioma="da">http://www.ft10459.inmoweb.page/details-da1424346.html?lan=da</enlace>
-            <enlace idioma="de">http://www.ft10459.inmoweb.page/details-de1424346.html?lan=de</enlace>
-            <enlace idioma="gb">http://www.ft10459.inmoweb.page/details-gb1424346.html?lan=gb</enlace>
-            <enlace idioma="es">http://www.ft10459.inmoweb.page/details-es1424346.html?lan=es</enlace>
-            <enlace idioma="fi">http://www.ft10459.inmoweb.page/details-fi1424346.html?lan=fi</enlace>
-            <enlace idioma="fr">http://www.ft10459.inmoweb.page/details-fr1424346.html?lan=fr</enlace>
-            <enlace idioma="it">http://www.ft10459.inmoweb.page/details-it1424346.html?lan=it</enlace>
-            <enlace idioma="nl">http://www.ft10459.inmoweb.page/details-nl1424346.html?lan=nl</enlace>
-            <enlace idioma="no">http://www.ft10459.inmoweb.page/details-no1424346.html?lan=no</enlace>
-            <enlace idioma="ru">http://www.ft10459.inmoweb.page/details-ru1424346.html?lan=ru</enlace>
-            <enlace idioma="se">http://www.ft10459.inmoweb.page/details-se1424346.html?lan=se</enlace>
+        <enlace idioma="cat">http://www.inmodomum.com/details-cat1698655.html?lan=cat</enlace>
+        <enlace idioma="da">http://www.inmodomum.com/details-da1698655.html?lan=da</enlace>
+        <enlace idioma="de">http://www.inmodomum.com/details-de1698655.html?lan=de</enlace>
+        <enlace idioma="gb">http://www.inmodomum.com/details-gb1698655.html?lan=gb</enlace>
+        <enlace idioma="es">http://www.inmodomum.com/details-es1698655.html?lan=es</enlace>
+        <enlace idioma="fi">http://www.inmodomum.com/details-fi1698655.html?lan=fi</enlace>
+        <enlace idioma="fr">http://www.inmodomum.com/details-fr1698655.html?lan=fr</enlace>
+        <enlace idioma="it">http://www.inmodomum.com/details-it1698655.html?lan=it</enlace>
+        <enlace idioma="nl">http://www.inmodomum.com/details-nl1698655.html?lan=nl</enlace>
+        <enlace idioma="no">http://www.inmodomum.com/details-no1698655.html?lan=no</enlace>
+        <enlace idioma="ru">http://www.inmodomum.com/details-ru1698655.html?lan=ru</enlace>
+        <enlace idioma="se">http://www.inmodomum.com/details-se1698655.html?lan=se</enlace>
         </enlaces>
-        <videos />
+        <videos/>
+    </propiedad>
+    
+    
+    <propiedad id="Anna_img_Contacto">
+        <fecha_alta>03/10/2025 10:36</fecha_alta>
+        <fecha_modificacion>26/02/2026 14:03</fecha_modificacion>
+        <referencia>Anna_img_Contacto</referencia>
+        <ref_catastral/>
+        <familia id="24">Apartment</familia>
+        <operacion id="1">Venta</operacion>
+        <estado id=""/>
+        <status_id>activo</status_id>
+        <interior>0</interior>
+        <dormitorios>3</dormitorios>
+        <banos>2</banos>
+        <banos_reformados>1</banos_reformados>
+        <aseos/>
+        <localizacion>
+        <provincia>Baleares</provincia>
+        <poblacion id="1222">Campos</poblacion>
+        <cp>07630</cp>
+        <zona/>
+        <pais>ES</pais>
+        </localizacion>
+        <superficies>
+        <habitable>118</habitable>
+        <construida>130</construida>
+        <parcela/>
+        <cocina/>
+        <salon/>
+        <jardin/>
+        <terraza/>
+        </superficies>
+        <precio divisa="EUR">378000</precio>
+        <precio_anterior divisa="EUR">385000</precio_anterior>
+        <caracteristicas>
+        <caracteristica id="ano_construccion"/>
+        <caracteristica id="amueblado"/>
+        <caracteristica id="terraza">acristalada</caracteristica>
+        <caracteristica id="reformado">no</caracteristica>
+        <caracteristica id="ano_reforma"/>
+        <caracteristica id="vistas"/>
+        <caracteristica id="piscina">Comunitaria</caracteristica>
+        <caracteristica id="calefaccion"/>
+        <caracteristica id="tipo_calefaccion"/>
+        <caracteristica id="tipo_agua"/>
+        <caracteristica id="tipo_cocina">individual</caracteristica>
+        <caracteristica id="cocina_equipada">1</caracteristica>
+        <caracteristica id="cocina_reformada"/>
+        <caracteristica id="jardin">comunitario</caracteristica>
+        <caracteristica id="garaje">si</caracteristica>
+        <caracteristica id="garaje_incluido">1</caracteristica>
+        <caracteristica id="parking">si</caracteristica>
+        <caracteristica id="contraventanas"/>
+        <caracteristica id="tipo_suelo"/>
+        <caracteristica id="certificacion_energetica_letra">TA</caracteristica>
+        <caracteristica id="certificacion_energetica_valor"/>
+        <caracteristica id="certificacion_emisiones_letra"/>
+        <caracteristica id="certificacion_emisiones_valor"/>
+        <caracteristica id="trastero">1</caracteristica>
+        <caracteristica id="puerta_blindada"/>
+        <caracteristica id="aa">1</caracteristica>
+        <caracteristica id="chimenea"/>
+        <caracteristica id="ascensor">1</caracteristica>
+        <caracteristica id="amarre"/>
+        <caracteristica id="num_planta"/>
+        <caracteristica id="de_entidad_financiera"/>
+        <caracteristica id="primera_linea"/>
+        <caracteristica id="sotano"/>
+        <caracteristica id="lavanderia"/>
+        <caracteristica id="solarium"/>
+        <caracteristica id="armarios_empotrados"/>
+        <caracteristica id="doble_acristalamiento"/>
+        <caracteristica id="persianas">1</caracteristica>
+        </caracteristicas>
+        <etiquetas/>
+        <descripciones>
+        <descripcion idioma="es">
+        <titulo>Luminoso piso en esquina con terraza, balcones, garaje y trastero incluidos</titulo>
+        <descripcion>Piso muy luminoso, en esquina, con ventanas en varias orientaciones, terraza, balcón exterior y balcón interior. La vivienda se encuentra en excelente estado, recién pintada, y con acceso cómodo mediante ascensor. El salón-comedor es amplio y muy agradable, con luz natural durante todo el día gracias a los grandes ventanales. Hay espacio de sobra para una zona de estar y un comedor amplio. Desde el salón se accede a un balcón con vistas despejadas. La cocina, de estilo actual, está completamente equipada con horno, vitrocerámica y nevera. Cuenta con tres dormitorios dobles, todos exteriores y con armarios empotrados. El dormitorio principal dispone de baño en suite. En total, la vivienda tiene dos baños completos. Forma parte de un complejo residencial con piscina comunitaria y zonas comunes. Además, dispone de una gran azotea privada con muchas posibilidades. Se incluye una amplia plaza de garaje, con un lateral completamente libre que facilita mucho el acceso, y trastero. Todo incluido en el precio. *El inmueble se vende sin amueblar.[IW]</descripcion>
+        </descripcion>
+        </descripciones>
+        <imagenes>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/WhatsApp%20Image%202025-10-22%20at%2016.10.13%20%281%29.jpg" principal="1"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/1-salon.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/2-habitacion-principal.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/3-habitacion-3.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/4-habitacion-2.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/WhatsApp%20Image%202025-10-22%20at%2008.57.31%20%281%29.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/WhatsApp%20Image%202025-10-22%20at%2008.57.31%20%282%29.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/WhatsApp%20Image%202025-10-22%20at%2008.57.31.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/WhatsApp%20Image%202025-10-22%20at%2016.10.13.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/9-edificio.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/11-lavanderia.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/12-pasillo.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/13-bano-en-suite.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/14-bano-secundario.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/15-bano-secundario-2.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/16-parking.jpg" principal="0"/>
+        </imagenes>
+        <documentos/>
+        <enlaces>
+        <enlace idioma="cat">http://www.inmodomum.com/details-cat1650496.html?lan=cat</enlace>
+        <enlace idioma="da">http://www.inmodomum.com/details-da1650496.html?lan=da</enlace>
+        <enlace idioma="de">http://www.inmodomum.com/details-de1650496.html?lan=de</enlace>
+        <enlace idioma="gb">http://www.inmodomum.com/details-gb1650496.html?lan=gb</enlace>
+        <enlace idioma="es">http://www.inmodomum.com/details-es1650496.html?lan=es</enlace>
+        <enlace idioma="fi">http://www.inmodomum.com/details-fi1650496.html?lan=fi</enlace>
+        <enlace idioma="fr">http://www.inmodomum.com/details-fr1650496.html?lan=fr</enlace>
+        <enlace idioma="it">http://www.inmodomum.com/details-it1650496.html?lan=it</enlace>
+        <enlace idioma="nl">http://www.inmodomum.com/details-nl1650496.html?lan=nl</enlace>
+        <enlace idioma="no">http://www.inmodomum.com/details-no1650496.html?lan=no</enlace>
+        <enlace idioma="ru">http://www.inmodomum.com/details-ru1650496.html?lan=ru</enlace>
+        <enlace idioma="se">http://www.inmodomum.com/details-se1650496.html?lan=se</enlace>
+        </enlaces>
+        <videos/>
     </propiedad>
 
-    <propiedad id="1424346">
-        <fecha_alta>21/11/2024 15:57</fecha_alta>
-        <fecha_modificacion>27/02/2026 10:33</fecha_modificacion>
-        <referencia>Anna_imgMatricula2</referencia>
-        <ref_catastral>6253526QE0565S0001HE </ref_catastral>
-        <familia id="21">Casa adosada</familia>
+    <propiedad id="Anna_img_Anuncio">
+        <fecha_alta>17/06/2025 11:09</fecha_alta>
+        <fecha_modificacion>18/02/2026 18:30</fecha_modificacion>
+        <referencia>Anna_img_Anuncio</referencia>
+        <ref_catastral/>
+        <familia id="10">Apartment</familia>
         <operacion id="1">Venta</operacion>
-        <estado id="SM" />
+        <estado id=""/>
+        <status_id>activo</status_id>
+        <interior>0</interior>
+        <dormitorios/>
+        <banos/>
+        <banos_reformados/>
+        <aseos/>
+        <localizacion>
+        <provincia>Baleares</provincia>
+        <poblacion id="33">Palma</poblacion>
+        <cp>07013</cp>
+        <zona>Son Espanyolet</zona>
+        <pais>ES</pais>
+        </localizacion>
+        <superficies>
+        <habitable>259</habitable>
+        <construida>260</construida>
+        <parcela/>
+        <cocina/>
+        <salon/>
+        <jardin/>
+        <terraza/>
+        </superficies>
+        <precio divisa="EUR">275000</precio>
+        <precio_anterior divisa="EUR"/>
+        <caracteristicas>
+        <caracteristica id="ano_construccion"/>
+        <caracteristica id="amueblado"/>
+        <caracteristica id="terraza"/>
+        <caracteristica id="reformado"/>
+        <caracteristica id="ano_reforma"/>
+        <caracteristica id="vistas"/>
+        <caracteristica id="piscina"/>
+        <caracteristica id="calefaccion"/>
+        <caracteristica id="tipo_calefaccion"/>
+        <caracteristica id="tipo_agua"/>
+        <caracteristica id="tipo_cocina"/>
+        <caracteristica id="cocina_equipada"/>
+        <caracteristica id="cocina_reformada"/>
+        <caracteristica id="jardin"/>
+        <caracteristica id="garaje"/>
+        <caracteristica id="garaje_incluido"/>
+        <caracteristica id="parking"/>
+        <caracteristica id="contraventanas"/>
+        <caracteristica id="tipo_suelo"/>
+        <caracteristica id="certificacion_energetica_letra">F</caracteristica>
+        <caracteristica id="certificacion_energetica_valor"/>
+        <caracteristica id="certificacion_emisiones_letra">F</caracteristica>
+        <caracteristica id="certificacion_emisiones_valor"/>
+        <caracteristica id="trastero"/>
+        <caracteristica id="puerta_blindada"/>
+        <caracteristica id="aa"/>
+        <caracteristica id="chimenea"/>
+        <caracteristica id="ascensor"/>
+        <caracteristica id="amarre"/>
+        <caracteristica id="num_planta"/>
+        <caracteristica id="de_entidad_financiera"/>
+        <caracteristica id="primera_linea"/>
+        <caracteristica id="sotano"/>
+        <caracteristica id="lavanderia"/>
+        <caracteristica id="solarium"/>
+        <caracteristica id="armarios_empotrados"/>
+        <caracteristica id="doble_acristalamiento"/>
+        </caracteristicas>
+        <etiquetas/>
+        <descripciones>
+        <descripcion idioma="es">
+        <titulo>VENTA DE DOS LOCALES - EXCELENTE OPORTUNIDAD DE INVERSION</titulo>
+        <descripcion>Se ofrece local inscrito en el Registro de la Propiedad como única finca registral, aunque consta de dos locales completamente separados e independientes. Se encuentran actualmente alquilados, lo que garantiza un ingreso inmediato. Características destacadas: Finca registral única: Seguridad jurídica y claridad en la titularidad. Dos unidades independientes: Permiten flexibilidad en el uso o la posibilidad de diversificar inquilinos. Renta inmediata: Ambos locales alquilados, ideal para inversión o para quien quiera iniciar un proyecto con ingresos desde el primer día. Metros construidos: 260m2. No deje pasar esta oportunidad para adquirir un inmueble con potencial tanto para inversión como para desarrollo comercial. Para más información, no dude en ponerse en contacto.[IW]</descripcion>
+        </descripcion>
+        </descripciones>
+        <imagenes>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1603641/image/WhatsApp%20Image%202025-06-13%20at%2012.14.57.jpg" principal="1"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1603641/image/WhatsApp%20Image%202025-06-17%20at%2010.31.01.jpg" principal="0"/>
+        </imagenes>
+        <documentos/>
+        <enlaces>
+        <enlace idioma="cat">http://www.inmodomum.com/details-cat1603641.html?lan=cat</enlace>
+        <enlace idioma="da">http://www.inmodomum.com/details-da1603641.html?lan=da</enlace>
+        <enlace idioma="de">http://www.inmodomum.com/details-de1603641.html?lan=de</enlace>
+        <enlace idioma="gb">http://www.inmodomum.com/details-gb1603641.html?lan=gb</enlace>
+        <enlace idioma="es">http://www.inmodomum.com/details-es1603641.html?lan=es</enlace>
+        <enlace idioma="fi">http://www.inmodomum.com/details-fi1603641.html?lan=fi</enlace>
+        <enlace idioma="fr">http://www.inmodomum.com/details-fr1603641.html?lan=fr</enlace>
+        <enlace idioma="it">http://www.inmodomum.com/details-it1603641.html?lan=it</enlace>
+        <enlace idioma="nl">http://www.inmodomum.com/details-nl1603641.html?lan=nl</enlace>
+        <enlace idioma="no">http://www.inmodomum.com/details-no1603641.html?lan=no</enlace>
+        <enlace idioma="ru">http://www.inmodomum.com/details-ru1603641.html?lan=ru</enlace>
+        <enlace idioma="se">http://www.inmodomum.com/details-se1603641.html?lan=se</enlace>
+        </enlaces>
+        <videos/>
+    </propiedad>
+    
+    
+    <propiedad id="Anna_img_Portal">
+        <fecha_alta>10/05/2024 14:45</fecha_alta>
+        <fecha_modificacion>16/02/2026 12:36</fecha_modificacion>
+        <referencia>Anna_img_Portal</referencia>
+        <ref_catastral/>
+        <familia id="3">house</familia>
+        <operacion id="1">Venta</operacion>
+        <estado id="ON"/>
+        <status_id>activo</status_id>
+        <interior>0</interior>
+        <dormitorios>4</dormitorios>
+        <banos>3</banos>
+        <banos_reformados/>
+        <aseos>1</aseos>
+        <localizacion>
+        <provincia>Baleares</provincia>
+        <poblacion id="6012">Pòrtol</poblacion>
+        <cp>07141</cp>
+        <zona/>
+        <pais>ES</pais>
+        </localizacion>
+        <superficies>
+        <habitable/>
+        <construida>286</construida>
+        <parcela>598</parcela>
+        <cocina/>
+        <salon/>
+        <jardin/>
+        <terraza>33</terraza>
+        </superficies>
+        <precio divisa="EUR">1400000</precio>
+        <precio_anterior divisa="EUR"/>
+        <caracteristicas>
+        <caracteristica id="ano_construccion">2024</caracteristica>
+        <caracteristica id="amueblado"/>
+        <caracteristica id="terraza">no acristalada</caracteristica>
+        <caracteristica id="reformado"/>
+        <caracteristica id="ano_reforma"/>
+        <caracteristica id="vistas"/>
+        <caracteristica id="piscina">Privada</caracteristica>
+        <caracteristica id="calefaccion">individual</caracteristica>
+        <caracteristica id="tipo_calefaccion">aerotermia</caracteristica>
+        <caracteristica id="tipo_agua">individual</caracteristica>
+        <caracteristica id="tipo_cocina">americana</caracteristica>
+        <caracteristica id="cocina_equipada">1</caracteristica>
+        <caracteristica id="cocina_reformada"/>
+        <caracteristica id="jardin">privado</caracteristica>
+        <caracteristica id="garaje">si</caracteristica>
+        <caracteristica id="no_plazas_garaje">2</caracteristica>
+        <caracteristica id="garaje_incluido">1</caracteristica>
+        <caracteristica id="parking"/>
+        <caracteristica id="no_plazas_garaje">2</caracteristica>
+        <caracteristica id="pisos_edificio">2</caracteristica>
+        <caracteristica id="contraventanas"/>
+        <caracteristica id="tipo_suelo">ceramica</caracteristica>
+        <caracteristica id="certificacion_energetica_letra">NO</caracteristica>
+        <caracteristica id="certificacion_energetica_valor"/>
+        <caracteristica id="certificacion_emisiones_letra">NO</caracteristica>
+        <caracteristica id="certificacion_emisiones_valor"/>
+        <caracteristica id="trastero">1</caracteristica>
+        <caracteristica id="puerta_blindada"/>
+        <caracteristica id="aa">1</caracteristica>
+        <caracteristica id="chimenea">1</caracteristica>
+        <caracteristica id="ascensor"/>
+        <caracteristica id="amarre"/>
+        <caracteristica id="num_planta"/>
+        <caracteristica id="de_entidad_financiera"/>
+        <caracteristica id="primera_linea"/>
+        <caracteristica id="sotano"/>
+        <caracteristica id="lavanderia">1</caracteristica>
+        <caracteristica id="solarium">1</caracteristica>
+        <caracteristica id="armarios_empotrados">1</caracteristica>
+        <caracteristica id="doble_acristalamiento">1</caracteristica>
+        <caracteristica id="domotica">1</caracteristica>
+        <caracteristica id="persianas">1</caracteristica>
+        </caracteristicas>
+        <etiquetas/>
+        <descripciones>
+        <descripcion idioma="de">
+        <titulo>Luxus und Eleganz in Pòrtol-Marratxí - Modernes Designhaus im Neubau.</titulo>
+        <descripcion>Wir laden Sie ein, dieses beeindruckende Neubauprojekt in Pòrtol zu entdecken, das mit seinem modernen Design und den zeitlosen mediterranen Details das Konzept des Wohnens neu definiert. In einer privilegierten Lage in Portol-Marratxi gelegen, bietet dieses zweigeschossige Haus nicht nur Ästhetik, sondern auch Funktionalität und Komfort. Das Herzstück der Residenz ist eine geräumige Veranda, die nahtlos in ein helles Wohnzimmer und den Swimmingpool übergeht und so den idealen Rahmen für unvergessliche Momente unter der Sonne der Insel schafft. Dieser Raum ist ideal für Familientreffen und Grillabende in einer ruhigen und einladenden Atmosphäre. Die Immobilie zeichnet sich durch eine hochwertige Ausstattung mit edlen Materialien, einem aerothermischen System, einer modernen offenen Küche und einem Kamin aus, der dem Ganzen eine warme und gemütliche Note verleiht. Ein wunderschönes Salzwasserschwimmbad, ein gepflegter Garten und eine geräumige Garage, die allesamt einen erstklassigen Lebensstil garantieren, ergänzen diese Immobilie auf besondere Weise. Nur 20 Minuten von Palma und dem Flughafen entfernt, bietet die Immobilie außergewöhnlichen Komfort mit einfachem Zugang zu unverzichtbaren Dienstleistungen wie Supermärkten und Apotheken. Portol, das für seine traditionelle Keramikkunst bekannt ist, bietet ein elegantes Ambiente und eine reiche Kultur und ist damit der ideale Ort für alle, die Modernität und Tradition miteinander verbinden möchten. Nutzen Sie die Gelegenheit, an einem exklusiven Ort zu wohnen, an dem jedes Detail so gestaltet wurde, dass es einen erhabenen Lebensstil bietet. Setzen Sie sich mit uns in Verbindung, um einen Termin zu vereinbaren, bei dem Sie weitere Einzelheiten erfahren können.[IW]</descripcion>
+        </descripcion>
+        <descripcion idioma="gb">
+        <titulo>Luxury and elegance in Pòrtol-Marratxí - Modern design house in new construction.</titulo>
+        <descripcion>We invite you to get to know this impressive New Construction Project in Pòrtol that redefines the concept of home with its modern design and timeless Mediterranean details. Located in a privileged enclave, this two-storey house offers not only aesthetics, but also functionality and comfort. The heart of the residence is a spacious porch that integrates seamlessly with a bright living room and the swimming pool, creating the ideal setting to enjoy unforgettable moments under the island's sun. This space is perfect for family gatherings and barbecues in a serene and welcoming atmosphere. The property stands out for its high quality finishes, with noble materials, aerothermal system, a modern open style kitchen and a fireplace that adds a warm and cosy touch to the whole. A beautiful salt water swimming pool, an impeccable garden and a spacious garage, all designed to guarantee a first class lifestyle, are distinctive complements to this property. Located just 20 minutes from Palma and the airport, the property ensures exceptional convenience with easy access to indispensable services such as supermarkets and pharmacies. Portol, renowned for its traditional ceramic art, offers an elegant ambience and rich culture, making it the ideal place for those looking to combine modernity with tradition. Take the opportunity to live in an exclusive place, where every detail has been designed to offer a sublime lifestyle. Contact us to arrange an appointment where you can discover more details.[IW]</descripcion>
+        </descripcion>
+        <descripcion idioma="es">
+        <titulo>Lujo y elegancia en Pòrtol-Marratxí- Casa de diseño moderno en obra nueva.</titulo>
+        <descripcion>Le invitamos a conocer este impresionante Proyecto de Nueva Construcción en Pòrtol que redefine el concepto de hogar con su diseño moderno y detalles mediterráneos atemporales. Situada en un enclave privilegiado, esta vivienda de dos plantas no solo ofrece estética, sino también funcionalidad y confort. El corazón de la residencia es un porche amplio que se integra fluidamente con un salón luminoso y la piscina, creando el entorno ideal para disfrutar de momentos inolvidables bajo el sol de la isla. Este espacio es perfecto para acoger reuniones familiares y barbacoas en un ambiente sereno y acogedor. La vivienda destaca por sus acabados de alta calidad, con materiales nobles, sistema de aerotermia, una moderna cocina de estilo abierto y una chimenea que aporta un toque cálido y acogedor al conjunto. Complementos distintivos de esta propiedad son una bonita piscina de agua salada, un jardín impecable y un espacioso garaje, todo pensado para garantizar un estilo de vida de primera clase. Ubicada a solo 20 minutos de Palma y del aeropuerto, la propiedad asegura una conveniencia excepcional con fácil acceso a servicios indispensables como supermercados y farmacias. Portol, célebre por su arte cerámico tradicional, ofrece un ambiente elegante y una cultura rica, haciéndolo el lugar ideal para quienes buscan combinar modernidad con tradición. Aproveché la oportunidad de vivir en un lugar exclusivo, donde cada detalle ha sido diseñado para ofrecer un estilo de vida sublime. Contáctenos para concertar una cita donde podrá descubrir más detalles. *Los pagos realizados a cuenta de la compraventa quedarán depositados en una cuenta avalada cumpliendo con la normativa vigente.[IW]</descripcion>
+        </descripcion>
+        </descripciones>
+        <imagenes>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.08%20%282%29.jpg" principal="1"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.05.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.06%20%281%29.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.07.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.07%20%281%29.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.04.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.07%20%282%29.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.06%20%282%29.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.06.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.08%20%281%29.jpg" principal="0"/>
+        </imagenes>
+        <documentos>
+        <documento>http://www.inmodomum.com/clients/1252/property/1220543/document/planos-portol-sin-cajetin.pdf</documento>
+        </documentos>
+        <enlaces>
+        <enlace idioma="cat">http://www.inmodomum.com/details-cat1220543.html?lan=cat</enlace>
+        <enlace idioma="da">http://www.inmodomum.com/details-da1220543.html?lan=da</enlace>
+        <enlace idioma="de">http://www.inmodomum.com/details-de1220543.html?lan=de</enlace>
+        <enlace idioma="gb">http://www.inmodomum.com/details-gb1220543.html?lan=gb</enlace>
+        <enlace idioma="es">http://www.inmodomum.com/details-es1220543.html?lan=es</enlace>
+        <enlace idioma="fi">http://www.inmodomum.com/details-fi1220543.html?lan=fi</enlace>
+        <enlace idioma="fr">http://www.inmodomum.com/details-fr1220543.html?lan=fr</enlace>
+        <enlace idioma="it">http://www.inmodomum.com/details-it1220543.html?lan=it</enlace>
+        <enlace idioma="nl">http://www.inmodomum.com/details-nl1220543.html?lan=nl</enlace>
+        <enlace idioma="no">http://www.inmodomum.com/details-no1220543.html?lan=no</enlace>
+        <enlace idioma="ru">http://www.inmodomum.com/details-ru1220543.html?lan=ru</enlace>
+        <enlace idioma="se">http://www.inmodomum.com/details-se1220543.html?lan=se</enlace>
+        </enlaces>
+        <videos/>
+    </propiedad>
+  
+    
+    <propiedad id="Anna_img_Runina">
+        <fecha_alta>11/02/2026 13:37</fecha_alta>
+        <fecha_modificacion>13/02/2026 10:51</fecha_modificacion>
+        <referencia>Anna_img_Runina</referencia>
+        <ref_catastral>0607503dd7800h0008ij </ref_catastral>
+        <familia id="24">Apartment</familia>
+        <operacion id="1">Venta</operacion>
+        <estado id="SM"/>
         <status_id>activo</status_id>
         <interior>0</interior>
         <dormitorios>4</dormitorios>
         <banos>2</banos>
-        <banos_reformados />
+        <banos_reformados/>
         <aseos>1</aseos>
         <localizacion>
-            <provincia>Cáceres</provincia>
-            <poblacion id="4724">Torre de Don Miguel</poblacion>
-            <cp>10864</cp>
-            <zona />
-            <pais>ES</pais>
+        <provincia>Baleares</provincia>
+        <poblacion id="33">Palma</poblacion>
+        <cp>07005</cp>
+        <zona/>
+        <pais>ES</pais>
         </localizacion>
         <superficies>
-            <habitable />
-            <construida>141</construida>
-            <parcela>47</parcela>
-            <cocina />
-            <salon />
-            <jardin />
-            <terraza />
+        <habitable>115</habitable>
+        <construida>130</construida>
+        <escriturada>130</escriturada>
+        <parcela/>
+        <cocina>11</cocina>
+        <salon>18</salon>
+        <jardin/>
+        <terraza>9</terraza>
         </superficies>
-        <precio divisa="EUR">251000</precio>
-        <precio_anterior divisa="EUR">69000</precio_anterior>
+        <precio divisa="EUR">520000</precio>
+        <precio_anterior divisa="EUR"/>
         <caracteristicas>
-            <caracteristica id="ano_construccion" />
-            <caracteristica id="amueblado">amueblado</caracteristica>
-            <caracteristica id="terraza" />
-            <caracteristica id="reformado">si</caracteristica>
-            <caracteristica id="ano_reforma">2017</caracteristica>
-            <caracteristica id="vistas" />
-            <caracteristica id="piscina" />
-            <caracteristica id="calefaccion" />
-            <caracteristica id="tipo_calefaccion" />
-            <caracteristica id="tipo_agua">individual</caracteristica>
-            <caracteristica id="tipo_cocina">americana</caracteristica>
-            <caracteristica id="cocina_equipada">1</caracteristica>
-            <caracteristica id="cocina_reformada">1</caracteristica>
-            <caracteristica id="jardin" />
-            <caracteristica id="garaje" />
-            <caracteristica id="garaje_incluido" />
-            <caracteristica id="parking" />
-            <caracteristica id="material_ventanas">PVC</caracteristica>
-            <caracteristica id="pisos_edificio">3</caracteristica>
-            <caracteristica id="estado_edificio">En buen estado</caracteristica>
-            <caracteristica id="contraventanas" />
-            <caracteristica id="tipo_suelo" />
-            <caracteristica id="certificacion_energetica_letra">TA</caracteristica>
-            <caracteristica id="certificacion_energetica_valor" />
-            <caracteristica id="certificacion_emisiones_letra">TA</caracteristica>
-            <caracteristica id="certificacion_emisiones_valor" />
-            <caracteristica id="trastero" />
-            <caracteristica id="puerta_blindada" />
-            <caracteristica id="aa" />
-            <caracteristica id="chimenea" />
-            <caracteristica id="ascensor" />
-            <caracteristica id="amarre" />
-            <caracteristica id="num_planta" />
-            <caracteristica id="de_entidad_financiera" />
-            <caracteristica id="primera_linea" />
-            <caracteristica id="sotano" />
-            <caracteristica id="lavanderia" />
-            <caracteristica id="solarium" />
-            <caracteristica id="armarios_empotrados" />
-            <caracteristica id="doble_acristalamiento" />
-            <caracteristica id="salida_humos">1</caracteristica>
-            <caracteristica id="mascotas">1</caracteristica>
+        <caracteristica id="ano_construccion">1962</caracteristica>
+        <caracteristica id="amueblado"/>
+        <caracteristica id="terraza">no acristalada</caracteristica>
+        <caracteristica id="reformado">por</caracteristica>
+        <caracteristica id="ano_reforma"/>
+        <caracteristica id="orientacion">Sureste</caracteristica>
+        <caracteristica id="vistas"/>
+        <caracteristica id="piscina"/>
+        <caracteristica id="calefaccion"/>
+        <caracteristica id="tipo_calefaccion"/>
+        <caracteristica id="tipo_agua">individual</caracteristica>
+        <caracteristica id="tipo_cocina">individual</caracteristica>
+        <caracteristica id="cocina_equipada"/>
+        <caracteristica id="cocina_reformada"/>
+        <caracteristica id="jardin"/>
+        <caracteristica id="garaje"/>
+        <caracteristica id="garaje_incluido">1</caracteristica>
+        <caracteristica id="parking">si</caracteristica>
+        <caracteristica id="no_plazas_parking">1</caracteristica>
+        <caracteristica id="pisos_edificio">5</caracteristica>
+        <caracteristica id="pisos_por_planta">2</caracteristica>
+        <caracteristica id="estado_edificio">En buen estado</caracteristica>
+        <caracteristica id="contraventanas"/>
+        <caracteristica id="tipo_suelo"/>
+        <caracteristica id="certificacion_energetica_letra">E</caracteristica>
+        <caracteristica id="certificacion_energetica_valor">154.00</caracteristica>
+        <caracteristica id="certificacion_emisiones_letra">E</caracteristica>
+        <caracteristica id="certificacion_emisiones_valor">46.00</caracteristica>
+        <caracteristica id="trastero"/>
+        <caracteristica id="puerta_blindada">1</caracteristica>
+        <caracteristica id="aa"/>
+        <caracteristica id="chimenea">1</caracteristica>
+        <caracteristica id="ascensor">1</caracteristica>
+        <caracteristica id="amarre"/>
+        <caracteristica id="num_planta">4</caracteristica>
+        <caracteristica id="de_entidad_financiera"/>
+        <caracteristica id="primera_linea"/>
+        <caracteristica id="sotano"/>
+        <caracteristica id="lavanderia"/>
+        <caracteristica id="solarium"/>
+        <caracteristica id="armarios_empotrados"/>
+        <caracteristica id="doble_acristalamiento"/>
         </caracteristicas>
-        <etiquetas />
+        <etiquetas/>
         <descripciones>
-            <descripcion idioma="es">
-                <titulo>CASA TORRE DE DON MIGUEL</titulo>
-                <descripcion>Vivienda, totalmente reformada en 2017, de 141 metros cuadrados situada
-                    en el centro de la población de Torre de Don Miguel. Consta de dos salones,
-                    cocina totalmente equipada, dos baños y cuatro dormitorios. Tiene trastero.En la
-                    reforma se cambiaron: tuberías, instalación eléctrica, suelos, aislamiento en
-                    muros, paredes y ventanas climalit. Se vende totalmente amueblada, lista para
-                    entrar a vivir.[IW]</descripcion>
-            </descripcion>
+        <descripcion idioma="es">
+        <titulo>AMPLIO PISO DETRAS DEL CORTE INGLES DE AVENIDAS</titulo>
+        <descripcion>Piso de 130 m² ubicado en una cuarta planta con ascensor, en una de las zonas más demandadas de Palma, junto a Avenidas y El Corte Inglés. La vivienda dispone de 4 dormitorios, 2 baños completos y una distribución amplia y funcional. Destaca por su gran luminosidad gracias a la altura y a la buena entrada de luz natural. Ubicación céntrica con todos los servicios a pie de calle: transporte público, comercios, colegios y zonas de ocio. Ideal tanto para residencia habitual como para inversión. Para más información o concertar una visita, no dude en contactar.[IW]</descripcion>
+        </descripcion>
         </descripciones>
         <imagenes>
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a3eeef30.jpg"
-                principal="1" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a427b2a1.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a452c996.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a479ae33.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4a25bc9.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4d19d59.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4fc13ed.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a5269110.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a5516b73.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a58de46e.jpg"
-                principal="0" />
-            <imagen
-                url="https://estaticos-cdn.prensaiberica.es/clip/c9191a0a-21b8-4ec0-a29c-9bb7ec8eb223_16-9-discover-aspect-ratio_default_0.webp"
-                principal="0" />
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.18.38.jpg" principal="1"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.20.33.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.23.32.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.25.21.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.27.05.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.29.50.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.31.35.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.34.31.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.39.27.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.41.01.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.42.05.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-13%20at%2010.47.17.jpg" principal="0"/>
         </imagenes>
-        <documentos />
+        <documentos/>
         <enlaces>
-            <enlace idioma="cat">http://www.ft10459.inmoweb.page/details-cat1424346.html?lan=cat</enlace>
-            <enlace idioma="da">http://www.ft10459.inmoweb.page/details-da1424346.html?lan=da</enlace>
-            <enlace idioma="de">http://www.ft10459.inmoweb.page/details-de1424346.html?lan=de</enlace>
-            <enlace idioma="gb">http://www.ft10459.inmoweb.page/details-gb1424346.html?lan=gb</enlace>
-            <enlace idioma="es">http://www.ft10459.inmoweb.page/details-es1424346.html?lan=es</enlace>
-            <enlace idioma="fi">http://www.ft10459.inmoweb.page/details-fi1424346.html?lan=fi</enlace>
-            <enlace idioma="fr">http://www.ft10459.inmoweb.page/details-fr1424346.html?lan=fr</enlace>
-            <enlace idioma="it">http://www.ft10459.inmoweb.page/details-it1424346.html?lan=it</enlace>
-            <enlace idioma="nl">http://www.ft10459.inmoweb.page/details-nl1424346.html?lan=nl</enlace>
-            <enlace idioma="no">http://www.ft10459.inmoweb.page/details-no1424346.html?lan=no</enlace>
-            <enlace idioma="ru">http://www.ft10459.inmoweb.page/details-ru1424346.html?lan=ru</enlace>
-            <enlace idioma="se">http://www.ft10459.inmoweb.page/details-se1424346.html?lan=se</enlace>
+        <enlace idioma="cat">http://www.inmodomum.com/details-cat1696318.html?lan=cat</enlace>
+        <enlace idioma="da">http://www.inmodomum.com/details-da1696318.html?lan=da</enlace>
+        <enlace idioma="de">http://www.inmodomum.com/details-de1696318.html?lan=de</enlace>
+        <enlace idioma="gb">http://www.inmodomum.com/details-gb1696318.html?lan=gb</enlace>
+        <enlace idioma="es">http://www.inmodomum.com/details-es1696318.html?lan=es</enlace>
+        <enlace idioma="fi">http://www.inmodomum.com/details-fi1696318.html?lan=fi</enlace>
+        <enlace idioma="fr">http://www.inmodomum.com/details-fr1696318.html?lan=fr</enlace>
+        <enlace idioma="it">http://www.inmodomum.com/details-it1696318.html?lan=it</enlace>
+        <enlace idioma="nl">http://www.inmodomum.com/details-nl1696318.html?lan=nl</enlace>
+        <enlace idioma="no">http://www.inmodomum.com/details-no1696318.html?lan=no</enlace>
+        <enlace idioma="ru">http://www.inmodomum.com/details-ru1696318.html?lan=ru</enlace>
+        <enlace idioma="se">http://www.inmodomum.com/details-se1696318.html?lan=se</enlace>
         </enlaces>
-        <videos />
+        <videos/>
     </propiedad>
 
-    <propiedad id="1424346">
-        <fecha_alta>21/11/2024 15:57</fecha_alta>
-        <fecha_modificacion>27/02/2026 10:33</fecha_modificacion>
-        <referencia>Anna_imgPersona</referencia>
-        <ref_catastral>6253526QE0565S0001HE </ref_catastral>
-        <familia id="21">Casa adosada</familia>
+    
+    <propiedad id="Anna_img_Desnudo">
+        <fecha_alta>16/05/2025 08:44</fecha_alta>
+        <fecha_modificacion>08/02/2026 18:44</fecha_modificacion>
+        <referencia>Anna_img_Desnudo</referencia>
+        <ref_catastral/>
+        <familia id="21">house</familia>
         <operacion id="1">Venta</operacion>
-        <estado id="SM" />
+        <estado id="SM"/>
         <status_id>activo</status_id>
         <interior>0</interior>
-        <dormitorios>4</dormitorios>
-        <banos>2</banos>
-        <banos_reformados />
-        <aseos>1</aseos>
+        <dormitorios>2</dormitorios>
+        <banos>3</banos>
+        <banos_reformados>1</banos_reformados>
+        <aseos/>
         <localizacion>
-            <provincia>Cáceres</provincia>
-            <poblacion id="4724">Torre de Don Miguel</poblacion>
-            <cp>10864</cp>
-            <zona />
-            <pais>ES</pais>
+        <provincia>Baleares</provincia>
+        <poblacion id="33">Palma</poblacion>
+        <cp>07014</cp>
+        <zona/>
+        <pais>ES</pais>
         </localizacion>
         <superficies>
-            <habitable />
-            <construida>141</construida>
-            <parcela>47</parcela>
-            <cocina />
-            <salon />
-            <jardin />
-            <terraza />
+        <habitable/>
+        <construida>128</construida>
+        <parcela/>
+        <cocina/>
+        <salon/>
+        <jardin/>
+        <terraza/>
         </superficies>
-        <precio divisa="EUR">252000</precio>
-        <precio_anterior divisa="EUR">69000</precio_anterior>
+        <precio divisa="EUR">655000</precio>
+        <precio_anterior divisa="EUR"/>
         <caracteristicas>
-            <caracteristica id="ano_construccion" />
-            <caracteristica id="amueblado">amueblado</caracteristica>
-            <caracteristica id="terraza" />
-            <caracteristica id="reformado">si</caracteristica>
-            <caracteristica id="ano_reforma">2017</caracteristica>
-            <caracteristica id="vistas" />
-            <caracteristica id="piscina" />
-            <caracteristica id="calefaccion" />
-            <caracteristica id="tipo_calefaccion" />
-            <caracteristica id="tipo_agua">individual</caracteristica>
-            <caracteristica id="tipo_cocina">americana</caracteristica>
-            <caracteristica id="cocina_equipada">1</caracteristica>
-            <caracteristica id="cocina_reformada">1</caracteristica>
-            <caracteristica id="jardin" />
-            <caracteristica id="garaje" />
-            <caracteristica id="garaje_incluido" />
-            <caracteristica id="parking" />
-            <caracteristica id="material_ventanas">PVC</caracteristica>
-            <caracteristica id="pisos_edificio">3</caracteristica>
-            <caracteristica id="estado_edificio">En buen estado</caracteristica>
-            <caracteristica id="contraventanas" />
-            <caracteristica id="tipo_suelo" />
-            <caracteristica id="certificacion_energetica_letra">TA</caracteristica>
-            <caracteristica id="certificacion_energetica_valor" />
-            <caracteristica id="certificacion_emisiones_letra">TA</caracteristica>
-            <caracteristica id="certificacion_emisiones_valor" />
-            <caracteristica id="trastero" />
-            <caracteristica id="puerta_blindada" />
-            <caracteristica id="aa" />
-            <caracteristica id="chimenea" />
-            <caracteristica id="ascensor" />
-            <caracteristica id="amarre" />
-            <caracteristica id="num_planta" />
-            <caracteristica id="de_entidad_financiera" />
-            <caracteristica id="primera_linea" />
-            <caracteristica id="sotano" />
-            <caracteristica id="lavanderia" />
-            <caracteristica id="solarium" />
-            <caracteristica id="armarios_empotrados" />
-            <caracteristica id="doble_acristalamiento" />
-            <caracteristica id="salida_humos">1</caracteristica>
-            <caracteristica id="mascotas">1</caracteristica>
+        <caracteristica id="ano_construccion"/>
+        <caracteristica id="amueblado"/>
+        <caracteristica id="terraza"/>
+        <caracteristica id="reformado"/>
+        <caracteristica id="ano_reforma"/>
+        <caracteristica id="vistas"/>
+        <caracteristica id="piscina">Privada</caracteristica>
+        <caracteristica id="calefaccion"/>
+        <caracteristica id="tipo_calefaccion"/>
+        <caracteristica id="tipo_agua"/>
+        <caracteristica id="tipo_cocina"/>
+        <caracteristica id="cocina_equipada">1</caracteristica>
+        <caracteristica id="cocina_reformada"/>
+        <caracteristica id="jardin"/>
+        <caracteristica id="garaje"/>
+        <caracteristica id="garaje_incluido"/>
+        <caracteristica id="parking"/>
+        <caracteristica id="estado_edificio">En buen estado</caracteristica>
+        <caracteristica id="contraventanas"/>
+        <caracteristica id="tipo_suelo"/>
+        <caracteristica id="certificacion_energetica_letra">TA</caracteristica>
+        <caracteristica id="certificacion_energetica_valor"/>
+        <caracteristica id="certificacion_emisiones_letra">TA</caracteristica>
+        <caracteristica id="certificacion_emisiones_valor"/>
+        <caracteristica id="trastero">1</caracteristica>
+        <caracteristica id="puerta_blindada"/>
+        <caracteristica id="aa">1</caracteristica>
+        <caracteristica id="chimenea"/>
+        <caracteristica id="ascensor"/>
+        <caracteristica id="amarre"/>
+        <caracteristica id="num_planta"/>
+        <caracteristica id="de_entidad_financiera"/>
+        <caracteristica id="primera_linea"/>
+        <caracteristica id="sotano">1</caracteristica>
+        <caracteristica id="lavanderia"/>
+        <caracteristica id="solarium"/>
+        <caracteristica id="armarios_empotrados">1</caracteristica>
+        <caracteristica id="doble_acristalamiento">1</caracteristica>
         </caracteristicas>
-        <etiquetas />
+        <etiquetas/>
         <descripciones>
-            <descripcion idioma="es">
-                <titulo>CASA TORRE DE DON MIGUEL</titulo>
-                <descripcion>Vivienda, totalmente reformada en 2017, de 141 metros cuadrados situada
-                    en el centro de la población de Torre de Don Miguel. Consta de dos salones,
-                    cocina totalmente equipada, dos baños y cuatro dormitorios. Tiene trastero.En la
-                    reforma se cambiaron: tuberías, instalación eléctrica, suelos, aislamiento en
-                    muros, paredes y ventanas climalit. Se vende totalmente amueblada, lista para
-                    entrar a vivir.[IW]</descripcion>
-            </descripcion>
+        <descripcion idioma="de">
+        <titulo>Stilvolles Stadthaus mit Dachterrasse und Pool – Son Espanyolet, Palma</titulo>
+        <descripcion>Dieses hochwertig ausgestattete Reihenhaus befindet sich im begehrten Stadtteil Son Espanyolet – eine der gefragtesten Wohngegenden Palmas. Mit einer Wohnfläche von 129 m², privatem Eingang und modernem, lichtdurchflutetem Design ist diese Immobilie ideal als Dauerwohnsitz oder exklusive Ferienresidenz. Hauptmerkmale • Preis: 675.000 € • Lage: Son Espanyolet, Palma de Mallorca • Wohnfläche: 129 m² • Schlafzimmer: 2 Schlafzimmer mit Bädern en suite • Gäste-WC zusätzlich vorhanden • Privater Eingang in gepflegtem Gebäude • Helle Räume mit bodentiefen Fenstern • Moderne offene Treppe vom Erdgeschoss bis zur Dachterrasse • Sonnige Dachterrasse mit privatem Pool • Panoramablick über Palma und das Tramuntana-Gebirge • Ruhige Wohnlage mit bester Anbindung • Fußläufig erreichbar: Altstadt, Santa Catalina und Yachthäfen Highlight: Private Dachterrasse mit Pool Das absolute Highlight ist die sonnige Dachterrasse mit privatem Pool, Lounge-Bereich und traumhaftem 360°-Blick über die Dächer Palmas und die Berge – perfekt zum Entspannen, Sonnenbaden oder Genießen des Sonnenuntergangs. Lage Ruhig gelegen, aber dennoch nur wenige Schritte von Palmas Hotspots entfernt: Santa Catalina, die Altstadt und die exklusiven Marinas – diese Immobilie vereint Ruhe und urbanes Lebensgefühl auf ideale Weise. Einzigartige Lifestyle-Immobilie Ein seltenes Angebot für ein stilvolles, modernes Stadthaus in bester Lage von Palma – bezugsfertig und hochwertig ausgestattet.[IW]</descripcion>
+        </descripcion>
+        <descripcion idioma="gb">
+        <titulo>Elegant Townhouse with Rooftop Pool and Stunning Views – Son Espanyolet, Palma</titulo>
+        <descripcion>Located in the highly sought-after neighborhood of Son Espanyolet, this beautifully designed attached house offers a rare opportunity to own a stylish and private home in one of Palma’s most desirable areas. With 129 m² of living space, a private entrance, and luxury finishes throughout, this residence combines comfort, functionality, and aesthetic appeal—perfect for year-round living or as a sophisticated city retreat. Property Highlights • Price: €675,000 • Location: Son Espanyolet, Palma de Mallorca • Living Area: 129 m² • Bedrooms: 2 spacious bedrooms with en-suite bathrooms • Guest Bathrooms: Additional guest toilet • Private Entrance and well-maintained building • Light-filled interior with floor-to-ceiling windows • Modern open staircase connecting all floors • Top-floor rooftop terrace with private pool • Panoramic views over Palma and the Tramuntana mountains • Quiet residential setting with urban convenience • Walking distance to Santa Catalina, Old Town, and the marina Standout Feature: Rooftop Oasis The true highlight of this property is its sun-drenched rooftop terrace, complete with a private pool, lounge area, and breathtaking 360° views of the Palma skyline and surrounding mountains—a perfect spot for relaxing, entertaining, or enjoying a sunset over the city. Location Tucked away in a tranquil corner of Son Espanyolet, yet just minutes from the vibrant energy of Santa Catalina, Palma’s historic Old Town, and the prestigious marinas, this home is ideal for those who want peace and privacy without sacrificing proximity to the city’s cultural and culinary highlights. A Unique Lifestyle Property This is a rare opportunity to acquire a stylish, high-standard townhouse in a top Palma location—modern, private, and ready to enjoy.[IW]</descripcion>
+        </descripcion>
+        <descripcion idioma="es">
+        <titulo>Elegante Casa Adosada con Piscina en la Azotea y Vistas Panorámicas – Son Espanyolet, Palma</titulo>
+        <descripcion>Ubicada en el codiciado barrio de Son Espanyolet, esta exquisita casa adosada ofrece una oportunidad única para vivir con estilo y privacidad en una de las zonas más deseadas de Palma. Con 129 m² construidos, entrada independiente y acabados de alta gama, esta vivienda es ideal tanto para residencia habitual como para escapadas urbanas con un toque de lujo. Características Principales • Precio: 675.000 € • Ubicación: Son Espanyolet, Palma de Mallorca • Superficie construida: 129 m² • Dormitorios: 2 amplios dormitorios con baños en suite • Aseos: Aseo adicional para invitados • Entrada privada en edificio bien conservado • Interior muy luminoso con grandes ventanales • Escalera moderna abierta desde la planta baja hasta la azotea • Azotea soleada con piscina privada • Vistas espectaculares sobre Palma y la Sierra de Tramuntana • Zona residencial tranquila, pero céntrica • A poca distancia a pie del casco antiguo, Santa Catalina y los puertos deportivos Destacado: Azotea con Encanto El verdadero protagonista de esta propiedad es su impresionante azotea, equipada con piscina privada, zona de estar y vistas panorámicas de 360° a Palma y las montañas — un espacio ideal para relajarse, tomar el sol o disfrutar de las puestas de sol. Ubicación Situada en una zona tranquila de Son Espanyolet, pero a pocos minutos a pie de Santa Catalina, el centro históricode Palma y sus exclusivos puertos deportivos, esta casa ofrece tranquilidad sin renunciar al dinamismo urbano. Un Estilo de Vida Único Una oportunidad excepcional para adquirir una casa moderna, luminosa y de alto nivel en una de las mejores zonas residenciales de Palma.[IW]</descripcion>
+        </descripcion>
         </descripciones>
         <imagenes>
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a3eeef30.jpg"
-                principal="1" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a427b2a1.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a452c996.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a479ae33.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4a25bc9.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4d19d59.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4fc13ed.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a5269110.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a5516b73.jpg"
-                principal="0" />
-            <imagen
-                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a58de46e.jpg"
-                principal="0" />
-            <imagen
-                url="https://www.lacasa.net/blog/wp-content/uploads/2021/12/1240x600visia-para-vender-piso-rapido-1080x600.png"
-                principal="0" />
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_102950_465.jpg" principal="1"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_102403_999.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_103200_896.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_103129_202.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101227_561.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101243_253.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101256_509.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101720_889.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101731_269.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101709_533.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101935_626.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101945_411.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101917_165.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_102400_447.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_102431_345.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_102452_777.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_102621_257.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_103005_869.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_103220_245.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_103253_574.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101434_229.jpg" principal="0"/>
         </imagenes>
-        <documentos />
+        <documentos/>
         <enlaces>
-            <enlace idioma="cat">http://www.ft10459.inmoweb.page/details-cat1424346.html?lan=cat</enlace>
-            <enlace idioma="da">http://www.ft10459.inmoweb.page/details-da1424346.html?lan=da</enlace>
-            <enlace idioma="de">http://www.ft10459.inmoweb.page/details-de1424346.html?lan=de</enlace>
-            <enlace idioma="gb">http://www.ft10459.inmoweb.page/details-gb1424346.html?lan=gb</enlace>
-            <enlace idioma="es">http://www.ft10459.inmoweb.page/details-es1424346.html?lan=es</enlace>
-            <enlace idioma="fi">http://www.ft10459.inmoweb.page/details-fi1424346.html?lan=fi</enlace>
-            <enlace idioma="fr">http://www.ft10459.inmoweb.page/details-fr1424346.html?lan=fr</enlace>
-            <enlace idioma="it">http://www.ft10459.inmoweb.page/details-it1424346.html?lan=it</enlace>
-            <enlace idioma="nl">http://www.ft10459.inmoweb.page/details-nl1424346.html?lan=nl</enlace>
-            <enlace idioma="no">http://www.ft10459.inmoweb.page/details-no1424346.html?lan=no</enlace>
-            <enlace idioma="ru">http://www.ft10459.inmoweb.page/details-ru1424346.html?lan=ru</enlace>
-            <enlace idioma="se">http://www.ft10459.inmoweb.page/details-se1424346.html?lan=se</enlace>
+        <enlace idioma="cat">http://www.inmodomum.com/details-cat1574503.html?lan=cat</enlace>
+        <enlace idioma="da">http://www.inmodomum.com/details-da1574503.html?lan=da</enlace>
+        <enlace idioma="de">http://www.inmodomum.com/details-de1574503.html?lan=de</enlace>
+        <enlace idioma="gb">http://www.inmodomum.com/details-gb1574503.html?lan=gb</enlace>
+        <enlace idioma="es">http://www.inmodomum.com/details-es1574503.html?lan=es</enlace>
+        <enlace idioma="fi">http://www.inmodomum.com/details-fi1574503.html?lan=fi</enlace>
+        <enlace idioma="fr">http://www.inmodomum.com/details-fr1574503.html?lan=fr</enlace>
+        <enlace idioma="it">http://www.inmodomum.com/details-it1574503.html?lan=it</enlace>
+        <enlace idioma="nl">http://www.inmodomum.com/details-nl1574503.html?lan=nl</enlace>
+        <enlace idioma="no">http://www.inmodomum.com/details-no1574503.html?lan=no</enlace>
+        <enlace idioma="ru">http://www.inmodomum.com/details-ru1574503.html?lan=ru</enlace>
+        <enlace idioma="se">http://www.inmodomum.com/details-se1574503.html?lan=se</enlace>
         </enlaces>
-        <videos />
+        <videos/>
     </propiedad>
+
+    
+    <propiedad id="Anna_img_Persona">
+        <fecha_alta>19/03/2024 19:14</fecha_alta>
+        <fecha_modificacion>26/10/2025 10:47</fecha_modificacion>
+        <referencia>Anna_img_Persona</referencia>
+        <ref_catastral/>
+        <familia id="1">Apartment</familia>
+        <operacion id="2">Alquiler</operacion>
+        <estado id="SM"/>
+        <status_id>activo</status_id>
+        <interior>0</interior>
+        <dormitorios>2</dormitorios>
+        <banos>2</banos>
+        <banos_reformados>1</banos_reformados>
+        <aseos/>
+        <localizacion>
+        <provincia>Baleares</provincia>
+        <poblacion id="33">Palma</poblacion>
+        <cp>07013</cp>
+        <zona>Centro</zona>
+        <pais>ES</pais>
+        </localizacion>
+        <superficies>
+        <habitable/>
+        <construida>104</construida>
+        <parcela/>
+        <cocina/>
+        <salon/>
+        <jardin/>
+        <terraza>28</terraza>
+        </superficies>
+        <precio divisa="EUR">1650</precio>
+        <precio_anterior divisa="EUR"/>
+        <caracteristicas>
+        <caracteristica id="ano_construccion"/>
+        <caracteristica id="amueblado"/>
+        <caracteristica id="terraza">no acristalada</caracteristica>
+        <caracteristica id="reformado">si</caracteristica>
+        <caracteristica id="ano_reforma">2024</caracteristica>
+        <caracteristica id="patio">compartido</caracteristica>
+        <caracteristica id="vistas"/>
+        <caracteristica id="piscina"/>
+        <caracteristica id="calefaccion">central</caracteristica>
+        <caracteristica id="tipo_calefaccion">otro</caracteristica>
+        <caracteristica id="tipo_agua"/>
+        <caracteristica id="tipo_cocina">americana</caracteristica>
+        <caracteristica id="cocina_equipada">1</caracteristica>
+        <caracteristica id="cocina_reformada">1</caracteristica>
+        <caracteristica id="jardin"/>
+        <caracteristica id="garaje"/>
+        <caracteristica id="garaje_incluido"/>
+        <caracteristica id="parking"/>
+        <caracteristica id="material_ventanas">Aluminio</caracteristica>
+        <caracteristica id="estado_edificio">En buen estado</caracteristica>
+        <caracteristica id="contraventanas"/>
+        <caracteristica id="tipo_suelo">ceramica</caracteristica>
+        <caracteristica id="certificacion_energetica_letra">E</caracteristica>
+        <caracteristica id="certificacion_energetica_valor"/>
+        <caracteristica id="certificacion_emisiones_letra">E</caracteristica>
+        <caracteristica id="certificacion_emisiones_valor"/>
+        <caracteristica id="trastero">1</caracteristica>
+        <caracteristica id="puerta_blindada">1</caracteristica>
+        <caracteristica id="aa">1</caracteristica>
+        <caracteristica id="chimenea"/>
+        <caracteristica id="ascensor">1</caracteristica>
+        <caracteristica id="amarre"/>
+        <caracteristica id="num_planta"/>
+        <caracteristica id="de_entidad_financiera"/>
+        <caracteristica id="primera_linea"/>
+        <caracteristica id="sotano"/>
+        <caracteristica id="lavanderia">1</caracteristica>
+        <caracteristica id="solarium">1</caracteristica>
+        <caracteristica id="armarios_empotrados"/>
+        <caracteristica id="doble_acristalamiento">1</caracteristica>
+        </caracteristicas>
+        <etiquetas/>
+        <descripciones>
+        <descripcion idioma="de">
+        <titulo>Gemütliche, neu renovierte Wohnung im Zentrum von Palma mit Terrasse</titulo>
+        <descripcion>Diese neu renovierte Wohnung befindet sich im Herzen der Stadt Palma und bietet eine einzigartige Gelegenheit für diejenigen, die Komfort, Design und gleichzeitig Ruhe suchen. Nach einer umfassenden Renovierung präsentiert sich dieses Apartment brandneu, inkl. einer sonnigen Terrasse und einem Parkplatz. Mit zwei Schlafzimmern und zwei Badezimmern en suite bietet sie Privatsphäre und Komfort. Das Wohnzimmer integriert sich harmonisch mit einer offenen Küche, voll ausgestattet mit Geräten der neuesten Generation um Raum und Funktionalität zu optimieren. Ein Tiefgaragenstellplatz kann separat vereinbart werden. Die Qualität der Ausstattung des Apartments ist bemerkenswert und besticht mit Climalit Doppelverglasung, hochwertigen Bodenbelegen und einem Klimaanlagensystem das sowohl an warmen Sommertagen als auch an kälteren Wintertagen ein angenehmes Raumgefühl bzw. für wohlige Temperaturen sorgt. Die hohen Decken tragen zu einem Gefühl von Weite und Helligkeit bei.[IW]</descripcion>
+        </descripcion>
+        <descripcion idioma="gb">
+        <titulo>Cozy, newly renovated apartment in the center of Palma with terrace</titulo>
+        <descripcion>This cozy, newly renovated apartment is available for rent in the heart of Palma, presenting a unique opportunity for those seeking comfort, design, and tranquility. Following a comprehensive renovation, this property is brand new, highlighted by its spacious sunny terrace that invites you to enjoy pleasant moments outdoors. With two bedrooms and two en-suite bathrooms, it offers privacy and comfort. The living room harmoniously integrates with an open kitchen, fully equipped with the latest generation appliances, optimizing space and functionality. The separated laundry area adds an extra convenience. Parking space is available on request. The quality of the finishes is remarkable, with porcelánico floors that bring warmth to each room, aluminum windows with double glazing climalit that ensure thermal and acoustic insulation, and a ducted air conditioning system that ensures a pleasant temperature throughout the year. The high ceilings contribute to a sense of spaciousness and brightness.[IW]</descripcion>
+        </descripcion>
+        <descripcion idioma="es">
+        <titulo>Acogedor piso recién reformado en el centro de Palma con terraza</titulo>
+        <descripcion>Este acogedor piso recién renovado está disponible para alquiler en el corazón de Palma ciudad, presentando una oportunidad única para quienes buscan confort, diseño y tranquilidad. Tras una reforma integral, esta propiedad se encuentra a estrenar, destacando por su amplia terraza soleada que invita a disfrutar de agradables momentos al aire libre. Con dos dormitorios y dos cuartos de baño en suite, ofrece privacidad y comodidad para todos los miembros del hogar. El salón se integra armoniosamente con una cocina abierta, completamente equipada con electrodomésticos de última generación, optimizando el espacio y la funcionalidad. La coladuría añade un plus de conveniencia para las tareas domésticas. La calidad de los acabados es notable, con suelos de porcelánico que aportan calidez a cada estancia, ventanas de aluminio con doble acristalamiento climalit que garantizan aislamiento térmico y acústico, y un sistema de aire acondicionado por conductos que asegura una temperatura agradable durante todo el año. Los techos altos contribuyen a una sensación de amplitud y luminosidad. Además, uno de los mayores atractivos de este piso es su tranquilidad; reina el silencio, ofreciendo un refugio sereno lejos del bullicio de la ciudad, pero sin renunciar a la comodidad de tener todo al alcance. Esta propiedad representa una opción ideal para aquellos que valoran la calidad de vida, el diseño moderno y la paz en su hogar. Posibilidad de alquilar una plaza de parking.[IW]</descripcion>
+        </descripcion>
+        </descripciones>
+        <imagenes>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9813.jpg" principal="1"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9815.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9827.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9825.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9819.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9816.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_0519.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9808.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_0518.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9822.jpg" principal="0"/>
+        </imagenes>
+        <documentos/>
+        <enlaces>
+        <enlace idioma="cat">http://www.inmodomum.com/details-cat1174323.html?lan=cat</enlace>
+        <enlace idioma="da">http://www.inmodomum.com/details-da1174323.html?lan=da</enlace>
+        <enlace idioma="de">http://www.inmodomum.com/details-de1174323.html?lan=de</enlace>
+        <enlace idioma="gb">http://www.inmodomum.com/details-gb1174323.html?lan=gb</enlace>
+        <enlace idioma="es">http://www.inmodomum.com/details-es1174323.html?lan=es</enlace>
+        <enlace idioma="fi">http://www.inmodomum.com/details-fi1174323.html?lan=fi</enlace>
+        <enlace idioma="fr">http://www.inmodomum.com/details-fr1174323.html?lan=fr</enlace>
+        <enlace idioma="it">http://www.inmodomum.com/details-it1174323.html?lan=it</enlace>
+        <enlace idioma="nl">http://www.inmodomum.com/details-nl1174323.html?lan=nl</enlace>
+        <enlace idioma="no">http://www.inmodomum.com/details-no1174323.html?lan=no</enlace>
+        <enlace idioma="ru">http://www.inmodomum.com/details-ru1174323.html?lan=ru</enlace>
+        <enlace idioma="se">http://www.inmodomum.com/details-se1174323.html?lan=se</enlace>
+        </enlaces>
+        <videos>
+        <video>
+        <tipo>youtube</tipo>
+        <url>https://youtu.be/C4kgpmsTjs8</url>
+        </video>
+        </videos>
+    </propiedad>
+
+    
+    <propiedad id="Anna_img_Matricula">
+        <fecha_alta>25/04/2024 13:17</fecha_alta>
+        <fecha_modificacion>22/10/2025 13:10</fecha_modificacion>
+        <referencia>Anna_img_Matricula</referencia>
+        <ref_catastral/>
+        <familia id="18">Apartment</familia>
+        <operacion id="1">Venta</operacion>
+        <estado id="ON"/>
+        <status_id>activo</status_id>
+        <interior>0</interior>
+        <dormitorios>3</dormitorios>
+        <banos>2</banos>
+        <banos_reformados/>
+        <aseos/>
+        <localizacion>
+        <provincia>Baleares</provincia>
+        <poblacion id="282">Santa Maria del Camí</poblacion>
+        <latitud>39.649820910669</latitud>
+        <longitud>2.7697343848433</longitud>
+        <cp>07320</cp>
+        <zona/>
+        <pais>ES</pais>
+        </localizacion>
+        <superficies>
+        <habitable/>
+        <construida>152</construida>
+        <escriturada>136</escriturada>
+        <parcela>160</parcela>
+        <cocina>16</cocina>
+        <salon>26</salon>
+        <jardin/>
+        <terraza>30</terraza>
+        </superficies>
+        <precio divisa="EUR">595000</precio>
+        <precio_anterior divisa="EUR"/>
+        <caracteristicas>
+        <caracteristica id="ano_construccion">2025</caracteristica>
+        <caracteristica id="amueblado"/>
+        <caracteristica id="terraza">no acristalada</caracteristica>
+        <caracteristica id="reformado"/>
+        <caracteristica id="ano_reforma"/>
+        <caracteristica id="orientacion">Sur</caracteristica>
+        <caracteristica id="vistas">despejadas</caracteristica>
+        <caracteristica id="piscina"/>
+        <caracteristica id="calefaccion">individual</caracteristica>
+        <caracteristica id="tipo_calefaccion">radiante</caracteristica>
+        <caracteristica id="tipo_agua">individual</caracteristica>
+        <caracteristica id="tipo_cocina">individual</caracteristica>
+        <caracteristica id="cocina_equipada">1</caracteristica>
+        <caracteristica id="cocina_reformada"/>
+        <caracteristica id="jardin"/>
+        <caracteristica id="garaje"/>
+        <caracteristica id="garaje_incluido"/>
+        <caracteristica id="parking"/>
+        <caracteristica id="material_ventanas">PVC</caracteristica>
+        <caracteristica id="tipo_ventanas">Oscilobatiente</caracteristica>
+        <caracteristica id="pisos_edificio">1</caracteristica>
+        <caracteristica id="pisos_por_planta">1</caracteristica>
+        <caracteristica id="estado_edificio">En buen estado</caracteristica>
+        <caracteristica id="contraventanas"/>
+        <caracteristica id="tipo_suelo">ceramica</caracteristica>
+        <caracteristica id="certificacion_energetica_letra">EX</caracteristica>
+        <caracteristica id="certificacion_energetica_valor"/>
+        <caracteristica id="certificacion_emisiones_letra"/>
+        <caracteristica id="certificacion_emisiones_valor"/>
+        <caracteristica id="trastero">1</caracteristica>
+        <caracteristica id="puerta_blindada">1</caracteristica>
+        <caracteristica id="aa">1</caracteristica>
+        <caracteristica id="chimenea"/>
+        <caracteristica id="ascensor"/>
+        <caracteristica id="amarre"/>
+        <caracteristica id="num_planta">1</caracteristica>
+        <caracteristica id="de_entidad_financiera"/>
+        <caracteristica id="primera_linea"/>
+        <caracteristica id="sotano"/>
+        <caracteristica id="lavanderia">1</caracteristica>
+        <caracteristica id="solarium"/>
+        <caracteristica id="armarios_empotrados">1</caracteristica>
+        <caracteristica id="doble_acristalamiento">1</caracteristica>
+        <caracteristica id="domotica">1</caracteristica>
+        <caracteristica id="persianas">1</caracteristica>
+        </caracteristicas>
+        <etiquetas/>
+        <descripciones>
+        <descripcion idioma="de">
+        <titulo>Penthouse mit Terrasse in Santa María del Camí/ Mallorca - Komplette Renovierung im Gange</titulo>
+        <descripcion>Entdecken Sie dieses exklusive Penthouse in Santa María del Camí, einem der charmantesten Orte Mallorcas, nur 20 Minuten von Palma entfernt. Mit einer Fläche von 152 m² und einer beeindruckenden Terrasse auf der gleichen Etage bietet diese Wohnung Platz, Licht und Komfort in einer ruhigen und privilegierten Umgebung. Hauptmerkmale: 3 geräumige Schlafzimmer für maximalen Komfort. 2 moderne Bäder, ideal für das tägliche Leben. Geräumiges Wohn-Esszimmer mit integrierter Küche, die mit der Terrasse verbunden ist. Terrasse von 30 m² mit unverbautem Blick, perfekt um das mediterrane Klima zu genießen. Sehr hell, dank der Ausrichtung und des Designs. Einfaches Parken in der Umgebung. Das Penthouse wird derzeit renoviert/gebaut, die Fertigstellung ist für 2025 geplant. Eine einzigartige Gelegenheit, Ihr ideales Zuhause in einer privilegierten Lage zu gestalten! Für weitere Informationen und Details kontaktieren Sie uns bitte. Wir werden Sie durch jeden Schritt dieses aufregenden Erwerbs begleiten.[IW]</descripcion>
+        </descripcion>
+        <descripcion idioma="gb">
+        <titulo>Penthouse with terrace in Santa María del Camí/ Majorca - Complete Refurbishment in Progress</titulo>
+        <descripcion>Discover this exclusive penthouse in Santa María del Camí, one of the most charming towns in Mallorca, only 20 minutes away from Palma. With a surface area of 152 m² and an impressive terrace on the same floor, this flat offers space, light and comfort in a quiet and privileged environment. Main features: 3 spacious bedrooms for maximum comfort. 2 modern bathrooms, ideal for everyday life. Spacious living-dining room with integrated kitchen that connects to the terrace. Terrace of 30 m² with unobstructed views, perfect for enjoying the Mediterranean climate. Very bright, thanks to its orientation and design. Easy parking in the area. The penthouse is currently under renovation/construction, with completion planned for 2025. A unique opportunity to personalise your ideal home in a privileged location! For more information and details, please contact us. We will accompany you every step of the way in this exciting acquisition.[IW]</descripcion>
+        </descripcion>
+        <descripcion idioma="es">
+        <titulo>Ático con terraza en Santa María del Camí/ Mallorca – Finalización Obra Diciembre 2025</titulo>
+        <descripcion>Obra avanzada al 60% Descubre este exclusivo ático en Santa María del Camí, una de las localidades más encantadoras de Mallorca, a tan solo 20 minutos de Palma. Con una superficie de 152 m² y una impresionante terraza en la misma planta, este piso ofrece espacio, luz y comodidad en un entorno tranquilo y privilegiado. Características principales: 3 dormitorios amplios para el máximo confort. Uno de ellos con baño en Suite y Vestidor. 2 baños modernos, ideales para la vida diaria. Espacioso salón-comedor con cocina integrada que se conecta con la terraza. Terraza de 30 m² con vistas despejadas, perfecta para disfrutar del clima mediterráneo. Aerotermia. Suelo radiante. Orientación Sur Muy luminoso, gracias a su orientación y diseño. Fácil aparcamiento en la zona. El ático esta actualmente en proceso de construcción, con finalización prevista para 30/11/2025. ¡Una oportunidad única para personalizar tu hogar ideal en una ubicación privilegiada! Para más información y detalles, contáctanos. Te acompañaremos en cada paso de esta emocionante adquisición.[IW]</descripcion>
+        </descripcion>
+        </descripciones>
+        <imagenes>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/WhatsApp%20Image%202024-09-27%20at%2016.04.47%20%284%29.jpg" principal="1"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/WhatsApp%20Image%202024-09-27%20at%2016.04.47%20%285%29.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0019.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/WhatsApp%20Image%202024-09-27%20at%2016.04.47.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/WhatsApp%20Image%202024-09-27%20at%2016.04.47%20%287%29.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/WhatsApp%20Image%202024-09-27%20at%2016.04.47%20%283%29.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0001.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0003.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0004.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0005.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0006.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0007.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0008.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0009.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0010.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0011.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0012.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0013.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0014.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0021.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0022.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/plano-piso-sta-maria_page-0001.jpg" principal="0"/>
+        </imagenes>
+        <documentos>
+        <documento>http://www.inmodomum.com/clients/1252/property/1201495/document/cas-fuster_es_imprimir_compressed.pdf</documento>
+        </documentos>
+        <enlaces>
+        <enlace idioma="cat">http://www.inmodomum.com/details-cat1201495.html?lan=cat</enlace>
+        <enlace idioma="da">http://www.inmodomum.com/details-da1201495.html?lan=da</enlace>
+        <enlace idioma="de">http://www.inmodomum.com/details-de1201495.html?lan=de</enlace>
+        <enlace idioma="gb">http://www.inmodomum.com/details-gb1201495.html?lan=gb</enlace>
+        <enlace idioma="es">http://www.inmodomum.com/details-es1201495.html?lan=es</enlace>
+        <enlace idioma="fi">http://www.inmodomum.com/details-fi1201495.html?lan=fi</enlace>
+        <enlace idioma="fr">http://www.inmodomum.com/details-fr1201495.html?lan=fr</enlace>
+        <enlace idioma="it">http://www.inmodomum.com/details-it1201495.html?lan=it</enlace>
+        <enlace idioma="nl">http://www.inmodomum.com/details-nl1201495.html?lan=nl</enlace>
+        <enlace idioma="no">http://www.inmodomum.com/details-no1201495.html?lan=no</enlace>
+        <enlace idioma="ru">http://www.inmodomum.com/details-ru1201495.html?lan=ru</enlace>
+        <enlace idioma="se">http://www.inmodomum.com/details-se1201495.html?lan=se</enlace>
+        </enlaces>
+        <videos/>
+        </propiedad>
 </properties>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <properties>
-    <propiedad id="1424346">
+    <propiedad id="iris-location-001">
         <fecha_alta>21/11/2024 15:57</fecha_alta>
-        <fecha_modificacion>27/02/2026 10:33</fecha_modificacion>
-        <referencia>IC175</referencia>
+        <fecha_modificacion>18/03/2026 10:33</fecha_modificacion>
+        <referencia>iris-location-001</referencia>
         <ref_catastral>6253526QE0565S0001HE </ref_catastral>
-        <familia id="21">Casa adosada</familia>
+        <familia id="24">piso</familia>
         <operacion id="1">Venta</operacion>
         <estado id="SM" />
         <status_id>activo</status_id>
@@ -79,7 +79,7 @@
         <etiquetas />
         <descripciones>
             <descripcion idioma="es">
-                <titulo>CASA TORRE DE DON MIGUEL</titulo>
+                <titulo>CASA TORRE DE IRIS</titulo>
                 <descripcion>Vivienda, totalmente reformada en 2017, de 141 metros cuadrados situada
                     en el centro de la población de Torre de Don Miguel. Consta de dos salones,
                     cocina totalmente equipada, dos baños y cuatro dormitorios. Tiene trastero.En la

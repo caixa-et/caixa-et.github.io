@@ -4,302 +4,1959 @@
 		<feed_version>3</feed_version>
 	</kyero>
 	<property>
-		<id>Anna_imgMatricula</id>
-		<date>2013-09-27 12:00:10</date>
-		<ref>V3TEST</ref>
-		<price>250000</price>
+		<id>Anna_img_CCEE</id>
+		<date>2026-01-05 19:33:16</date>
+		<ref>RI-00053/6319</ref>
+		<price>9900000</price>
 		<currency>EUR</currency>
 		<price_freq>sale</price_freq>
+		<new_build>0</new_build>
 		<part_ownership>0</part_ownership>
 		<leasehold>0</leasehold>
-		<new_build>0</new_build>
-		<type>villa</type>
-		<town>almunecar</town>
-		<province>granada</province>
-		<country>spain</country>
+		<type>house</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Calvià</town>
+		<location_detail>Cala Vinyes</location_detail>
+		<cp>07181</cp>
+		<postal_code>07181</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Cala Vinyes)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.538425</altitud>
+		<latitud>39.500683</latitud>
 		<location>
-			<latitude>36.728807</latitude>
-			<longitude>-3.693466</longitude>
+		<latitude>39.500683</latitude>
+		<longitude>2.538425</longitude>
 		</location>
-		<postal_code>18690</postal_code>
-		<location_detail>optional location detail</location_detail>
-		<beds>3</beds>
-		<baths>2</baths>
+		<video_url>https://media.inmovilla.com/videos/6319/8802047.mp4</video_url>
+		<beds>9</beds>
+		<baths>9</baths>
 		<pool>1</pool>
+		<orientation>Este</orientation>
 		<surface_area>
-			<built>150</built>
-			<plot>500</plot>
+		<built>982</built>
+		<plot>1382</plot>
 		</surface_area>
-		<energy_rating>
-			<consumption>E</consumption>
-			<consumption_value>191</consumption_value>
-			<emissions>E</emissions>
-			<emissions_value>37</emissions_value>
-			<efficiency_grade>E</efficiency_grade>
-		</energy_rating>
+		<energy_rating> </energy_rating>
 		<url>
-			<ca>http://catalan.website.com/property/123456.htm</ca>
-			<de>http://german.website.com/property/123456.htm</de>
-			<da>http://danish.website.com/property/123456.htm</da>
-			<en>http://english.website.com/property/123456.htm</en>
-			<es>http://spanish.website.com/property/123456.htm</es>
-			<fi>http://finnish.website.com/property/123456.htm</fi>
-			<fr>http://french.website.com/property/123456.htm</fr>
-			<it>http://italian.website.com/property/123456.htm</it>
-			<nl>http://dutch.website.com/property/123456.htm</nl>
-			<no>http://norwegian.website.com/property/123456.htm</no>
-			<pt>http://portuguese.website.com/property/123456.htm</pt>
-			<ru>http://russian.website.com/property/123456.htm</ru>
-			<sv>http://swedish.website.com/property/123456.htm</sv>
+		<es>http://remaxisland.es/fichapiso.php?datoofe=8802047&numagencia=6319&soyinmo=6319</es>
 		</url>
-		<video_url>https://www.youtube.com/watch?v=dQw4w9WgXcQ</video_url>
-		<virtual_tour_url>https://my.matterport.com/show/?m=eUuz64WjuQe</virtual_tour_url>
-		<catastral>1234567AB1234C0001DE</catastral>
 		<desc>
-			<ca>Catalan property description</ca>
-			<de>German property description</de>
-			<da>Danish property description</da>
-			<en>English property description</en>
-			<es>Spanish property description</es>
-			<fi>Finnish property description</fi>
-			<fr>French property description</fr>
-			<it>Italian property description</it>
-			<nl>Dutch property description</nl>
-			<no>Norwegian property description</no>
-			<pt>Portuguese property description</pt>
-			<ru>Russian property description</ru>
-			<sv>Swedish property description</sv>
+		<es>
+		<![CDATA[ Esta espectacular villa de lujo se encuentra situada en Cala Vinyes, en primera linea de mar, con unas inmejorables vistas espectaculares y despejadas a toda la bahía, a la isla de Sa Porrassa, y los días de mucha visibilidad se puede ver la Isla de Cabrera.. . La villa tiene un estilo puramente mediterráneo con 5 plantas llena de luminosidad con amplias terrazas en cada estancia y vistas panorámicas al mar. Todas las plantas se comunican a traves del ascensor.. . Una piscina, parkings interiores como exteriores, y un acceso privado directo al mar donde disfrutar de las aguas cristalinas de Cala Vinyes.. . Es un lugar muy tranquilo para vivir donde puedes encontrar colegios de prestigio y centros comerciales.. . También campos de Golf y Marinas deportivas de alto standing como Puerto Adriano y Puerto Portals.. . .. . . ]]>
+		</es>
+		<en>
+		<![CDATA[ WHERE LUXUTY MEETS GOOD TASTE. This spectacular Mansion on Mallorca´s seafront, enjoys unparalleled panoramic views and private sea access.. . Located near the beautiful ports of Puerto Portals, and Puerto Adriano, this is one of the most desirable areas on the island, attracting the most prestigious golf courses.. . This secure mansion enjoys a great deal of privacy and has been built to the highest specifications with exclusive, beautiful materials.. . There are several living rooms, a large dining room and spacious kitchen all featuring breath-taking views and terraces. The five-en suite bedrooms are very generous in size and enjoy stunning views of the sea.. . An elevator provides easy access to all five floors of the property.. . On the top floor is a very large, astonishing roof terrace, from which you can enjoy the sun and panomaric views all day long.. . Without doubt this is one of the most luxurioous and unique properties on the market in Mallorca at the moment. ]]>
+		</en>
+		<de>
+		<![CDATA[ Dieses spektakuläre Haus am Meer bietet einen unvergleichlichen Panoramablick und privaten Zugang zum Meer. In der Nähe von Puerto Portals und Puerto Adriano, ist das Haus an einem der begehrtesten Flecken auf der Insel gelegen. Dies beweisen auch zahlreiche, prestigeträchtige Golfplätze in der Nähe. Dieses sichere Anwesen genießt außergewöhnlich viel Privatsphäre und wurde nach den höchsten Spezifikationen mit exklusiven, beeindruckenden Materialien gebaut.Es gibt mehrere Wohnzimmer, ein großes Esszimmer und eine geräumige Küche mit atemberaubender Aussicht und eine große Auswahl an Terrassen für alle Tageszeiten. Die fünf Schlafräume sind sehr großzügig ausgelegt und verfügen alle über eigene Badezimmer und atemberaubenden Blicke auf das Meer.Ein Aufzug bietet bequemen Zugang zu allen fünf Etagen. In der obersten Etage befindet sich eine sehr große, beeindruckende Dachterrasse, von der aus Sie den ganzen Tag die Sonne und den Panoramablick auf das Meer genießen können. ]]>
+		</de>
+		<da>
+		<![CDATA[ ]]>
+		</da>
+		<fr>
+		<![CDATA[ ]]>
+		</fr>
+		<it>
+		<![CDATA[ ]]>
+		</it>
+		<nl>
+		<![CDATA[ ]]>
+		</nl>
+		<ru>
+		<![CDATA[ ]]>
+		</ru>
+		<fi>
+		<![CDATA[ ]]>
+		</fi>
+		<ca>
+		<![CDATA[ ]]>
+		</ca>
+		<no>
+		<![CDATA[ ]]>
+		</no>
+		<pt>
+		<![CDATA[ ]]>
+		</pt>
+		<sv>
+		<![CDATA[ ]]>
+		</sv>
 		</desc>
 		<features>
-			<feature>good rental potential</feature>
-			<feature>near beach</feature>
-			<feature>water possible</feature>
+		<feature>Balcon</feature>
+		<feature>Alarm Theft</feature>
+		<feature>Solarium</feature>
+		<feature>Terrace</feature>
+		<feature>Elevator</feature>
+		<feature>Wardrobes cupboard</feature>
+		<feature>Storeroom</feature>
+		<feature>Armored Door</feature>
+		<feature>Appliances</feature>
+		<feature>Heating</feature>
+		<feature>Air-Conditioning</feature>
+		<feature>Video Intercom</feature>
+		<feature>Prime line of the beach</feature>
+		<feature>Pool Own </feature>
+		<feature>Jacuzzi</feature>
+		<feature>Laundry</feature>
+		<feature>Ceilings</feature>
+		<feature>Auto Irrigation.</feature>
+		<feature> Water Deposit</feature>
+		<feature>Terrace </feature>
+		<feature>Barbecue</feature>
+		<feature>Alarm</feature>
+		<feature>Safe Deposit Box</feature>
+		<feature>satellite</feature>
+		<feature>Apart. Separate</feature>
+		<feature>Rooms. Games</feature>
+		<feature>Mirador</feature>
+		<feature>Garden</feature>
+		<feature>Vistas al mar</feature>
+		<feature>Residencial</feature>
 		</features>
-		<notes>Private property notes</notes>
 		<images>
-			<image id="1">
-				<url>http://images.kyero.com/12811577_large.jpg</url>
-			</image>
-			<image id="2">
-				<tags>
-					<tag>floorplan</tag>
-				</tags>
-				<url>http://images.kyero.com/12811578_large.jpg</url>
-			</image>
-			<image id="3">
-				<url>http://images.kyero.com/12811579_large.jpg</url>
-			</image>
-			<image id="4">
-				<url>https://fotografias-2.larazon.es/clipping/cmsimages02/2023/11/08/6D8931DB-AF69-4D50-9105-8F5AD1A96232/coches-camiones-aparcados-acera-calle-pizarro_98.jpg</url>
-			</image>
-			<image id="50">
-				<url>http://images.kyero.com/12811582_large.jpg</url>
-			</image>
+		<image id="1">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+		</image>
+		<image id="2">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+		</image>
+		<image id="3">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+		</image>
+		<image id="4">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+		</image>
+		<image id="5">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-5.jpg</url>
+		</image>
+		<image id="6">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-6.jpg</url>
+		</image>
+		<image id="7">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-7.jpg</url>
+		</image>
+		<image id="8">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-8.jpg</url>
+		</image>
+		<image id="9">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-9.jpg</url>
+		</image>
+		<image id="10">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-10.jpg</url>
+		</image>
+		<image id="11">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-11.jpg</url>
+		</image>
+		<image id="12">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-12.jpg</url>
+		</image>
+		<image id="13">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-13.jpg</url>
+		</image>
+		<image id="14">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-14.jpg</url>
+		</image>
+		<image id="15">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-15.jpg</url>
+		</image>
+		<image id="16">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-16.jpg</url>
+		</image>
+		<image id="17">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-17.jpg</url>
+		</image>
+		<image id="18">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-18.jpg</url>
+		</image>
+		<image id="19">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-19.jpg</url>
+		</image>
+		<image id="20">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-20.jpg</url>
+		</image>
+		<image id="21">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-21.jpg</url>
+		</image>
+		<image id="22">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-22.jpg</url>
+		</image>
+		<image id="23">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-23.jpg</url>
+		</image>
+		<image id="24">
+		<url>https://fotos15.apinmo.com/6319/8802047/63-24.jpg</url>
+		</image>
 		</images>
-		<prime>1</prime>
-		<email>john.smith@sandbox.com</email>
-		<whatsapp_number>0034666555444</whatsapp_number>
-		<contact_number>0034666555444</contact_number>
+	</property>
+	<property>
+		<id>Anna_img_Contacto</id>
+		<date>2026-03-11 09:33:35</date>
+		<ref>RI-00169/6319</ref>
+		<price>3200</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>1</leasehold>
+		<type>house</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Sa Cabaneta</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Sa Cabaneta)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.756263</altitud>
+		<latitud>39.614576</latitud>
+		<location>
+		<latitude>39.614576</latitude>
+		<longitude>2.756263</longitude>
+		</location>
+		<virtual_tour_dominio>inmovilla</virtual_tour_dominio>
+		<virtual_tour_url>https://ap.apinmo.com/fotosvr/tour.php?cod=10763281.6319</virtual_tour_url>
+		<beds>4</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+		<built>345</built>
+		<plot>822</plot>
+		</surface_area>
+		<energy_rating> </energy_rating>
+		<url>
+		<es>http://remaxisland.es/fichapiso.php?datoofe=10763281&numagencia=6319&soyinmo=6319</es>
+		</url>
+		<desc>
+		<es>
+		<![CDATA[ 🌿 CHALET CON VISTAS A PALMA EN SA CABANETA (MARRATXÍ) 🌿. . ¡DISPONIBLE A PARTIR DEL 1 DE ABRIL!. . Sa Cabaneta, en el municipio de Marratxí, es uno de esos lugares especiales donde se combina la cercanía a Palma con la tranquilidad absoluta. Un entorno mágico donde la paz, la naturaleza y la calidad de vida son protagonistas.. . A escasos minutos encontrarás todos los servicios esenciales:. 🛍️ Mallorca Fashion Outlet, Bauhaus, Alcampo. 🛒 Mercadona, Aldi, Lidl. 🎓 Colegios públicos y privados (Arimunani, The Academy, CEIP Costa i Llobera, CCEI Kinder Marratxí, entre otros). . 🏡 EL CHALET. . Ubicado en las lindes del pueblo, en una de las zonas más tranquilas y naturales, este magnífico chalet ofrece vistas despejadas a Palma y su costa, rodeado de pinar infinito.. . Desde sus amplias terrazas, la sensación es clara: silencio, privacidad y naturaleza.. . La vivienda se distribuye en dos plantas, con estancias cómodas, luminosas y muy bien conectadas.. . 🔹 PLANTA PRINCIPAL. . ✨ Gran salón con chimenea de diseño. ✨ Grandes ventanales que aportan luz natural durante todo el día. ✨ Acceso directo a la terraza principal con piscina privada, rodeada de jardín. . 🍽️ Cocina amplia y funcional, comunicada con el comedor mediante pasaplatos. 🍽️ Comedor luminoso con salida directa a la terraza. 🧺 Coladuría independiente. . 🛏️ Tres dormitorios dobles con armarios empotrados. 🚿 Gran baño completo con plato de ducha. . 🔹 PLANTA SUPERIOR. . 🌄 Estudio con acceso a una espectacular terraza panorámica, comunicada con la planta inferior mediante escalera de caracol. 🛌 Dormitorio principal con doble armario empotrado. 🛁 Baño en suite amplio y cómodo. . Esta planta se convierte en la zona más privada y especial de la casa.. . 🎉 EXTRAS QUE MARCAN LA DIFERENCIA. . 🔥 Caseta independiente ideal para reuniones familiares y con amigos, equipada con horno de leña y parrilla. 🏋️ Gimnasio exterior, exclusivo para entrenar al aire libre. . ❄️🔥 CALIDADES Y CONFORT. . ✔️ Vivienda aislada con paredes de 40 cm de H6 Porespan. ✔️ Excelente aislamiento térmico (frío y calor garantizados). ✔️ Calefacción central por gas propano. ✔️ Aire acondicionado en comedor y planta superior. ✔️ Vigas vistas de norte viejo. ✔️ Suelo de mármol de Binissalem, que aporta carácter rústico y elegante. . 📌 CONDICIONES. . 🐾 Se aceptan mascotas. 🪑 Alquiler sin muebles. 💰 2 meses de depósito. 📄 Se requiere demostrar solvencia económica. 💸 Descuento del 3% si se realiza el pago de un año por adelantado. . . . .. . ]]>
+		</es>
+		<en>
+		<![CDATA[ . Sa Cabaneta, is a village located in MARRATXI, a municipality very close to the capital, but at the same time a magical place, where peace is its greatest virtue. . . Within walking distance we can find all the essential services, shopping centres such as Mallorca Fashion Outlet, Bauhaus, Alcampo, supermarkets (Mercadona, Aldi Lidl), public and public schools (Arimunani School, the Academy, CEIP Costa i Llobera, CCEI Kinder Marratxi, etc.).. . On the edge of the village, in one of its quietest areas, in the middle of nature and with views of the city of Palma and its coast, is the magnificent villa I am describing.. . . From its TERRACES, you can only see the infinite pine forest, which gives us the peace we need. . Comfortable and luminous rooms, distributed in two floors.. . On the MAIN FLOOR there is a large LIVING ROOM with a designer fireplace, very luminous thanks to its large windows that border the ground floor, with direct access to the TERRACE where the POOL surrounded by the garden is located. . . The KITCHEN is very comfortable and communicated by a ‘dishwasher’ with the DINING ROOM, also very luminous and with access to the terrace from the large windows that continue along the corridor towards the living room and where the independent laundry room is located.. . There are also THREE double BEDROOMS with fitted wardrobes and a large bathroom with shower.. . On the TOP FLOOR, we come to the STUDIO. A place chosen to enjoy the landscape from its large terrace which is connected to the lower floor by a spiral staircase.. The MAIN BEDROOM with double wardrobes and its large en-suite bathroom, make this floor the favourite area of the house. . . If you are a lover of family or friends gatherings, there is a separate house for this purpose, with a wood oven and barbecue.. If you also want to exercise, there is an outdoor GYM exclusively for this purpose.. . The house is insulated with 40 cm walls of H6 Porespan. Protection against cold and heat is guaranteed. There is central heating by propane gas and there are two air conditioners, one in the dining room and one on the first floor. . The exposed beams from the old North and the Binissalem marble floor give a rustic character to the rooms. . . . . PETS ARE ACCEPTED. . UNFURNISHED RENT. . 2 MONTHS DEPOSIT ,. . PROOF OF SOLVENCY IS REQUIRED. . ]]>
+		</en>
+		<de>
+		<![CDATA[ Sa Cabaneta ist ein Dorf in MARRATXI, einer Gemeinde ganz in der Nähe der Hauptstadt, aber gleichzeitig ein magischer Ort, an dem die Ruhe der größte Vorzug ist. . . In fußläufiger Entfernung finden wir alle wesentlichen Dienstleistungen, Einkaufszentren wie Mallorca Fashion Outlet, Bauhaus, Alcampo, Supermärkte (Mercadona, Aldi Lidl), öffentliche und öffentliche Schulen (Arimunani Schule, die Akademie, CEIP Costa i Llobera, CCEI Kinder Marratxi, etc.).. . Am Rande des Dorfes, in einer seiner ruhigsten Gegenden, inmitten der Natur und mit Blick auf die Stadt Palma und ihre Küste, ist die herrliche Villa, die ich beschreibe.. . . Von ihren TERRASSEN aus kann man nur den unendlichen Pinienwald sehen, der uns die nötige Ruhe gibt. . Komfortable und helle Zimmer, verteilt auf zwei Etagen.. . Im Erdgeschoss gibt es ein großes Wohnzimmer mit einem Designer-Kamin, sehr hell dank seiner großen Fenster, die das Erdgeschoss begrenzen, mit direktem Zugang zur Terrasse, wo sich der POOL inmitten des Gartens befindet. . . Die KÜCHE ist sehr komfortabel und durch eine „Spülmaschine“ mit dem ESSZIMMER verbunden, ebenfalls sehr hell und mit Zugang zur Terrasse durch die großen Fenster, die sich entlang des Korridors zum Wohnzimmer fortsetzen und wo sich die unabhängige Waschküche befindet.. . Es gibt auch DREI DOPPELSCHLAFZIMMER mit Einbauschränken und ein großes Bad mit Dusche.. . In der obersten Etage befindet sich das STUDIO. Ein Ort, der gewählt wurde, um die Landschaft von seiner großen Terrasse aus zu genießen, die durch eine Wendeltreppe mit der unteren Etage verbunden ist.. Das HAUPTSCHLAFZIMMER mit doppeltem Einbauschrank und einem großen eigenen Badezimmer machen diese Etage zum Lieblingsbereich des Hauses. . . Wenn Sie gerne mit der Familie oder mit Freunden zusammenkommen, steht Ihnen ein separates Haus mit Holzofen und Grill zur Verfügung.. Wenn Sie sich auch sportlich betätigen wollen, gibt es ein GYM im Freien, das ausschließlich diesem Zweck dient.. . Das Haus ist mit 40 cm dicken Wänden aus H6 Porespan isoliert. Der Schutz vor Kälte und Hitze ist garantiert. Es gibt eine Zentralheizung mit Propangas und zwei Klimaanlagen, eine im Esszimmer und eine im ersten Stock. . Die freiliegenden Balken aus dem alten Norden und der Marmorboden aus Binissalem verleihen den Räumen einen rustikalen Charakter. . . . . HAUSTIERE SIND ERLAUBT. . MIETE UNMÖBLIERT. . 2 MONATE KAUTION,. . NACHWEIS DER ZAHLUNGSFÄHIGKEIT IST ERFORDERLICH. . . .. . ]]>
+		</de>
+		<da>
+		<![CDATA[ ]]>
+		</da>
+		<fr>
+		<![CDATA[ Sa Cabaneta est une ville située à Marratxi, un district municipal très proche de la capitale, mais en même temps un lieu magique, où la paix est sa plus grande vertu.. A la lisière du village, dans l'une de ses zones les plus paisibles, en pleine nature et avec des vues immenses au loin, de la ville de Palma et de sa côte.. Dans cet environnement de rêve, vous trouverez la magnifique villa que je vous décris.. De ses terrasses, on ne voit que l'infinie forêt de pins, qui nous donne la paix dont nous avons besoin.. Des chambres confortables et lumineuses, réparties sur deux étages.. Dans la partie principale, un grand salon avec une cheminée design, trois chambres doubles avec des placards intégrés, une grande salle de bains et une buanderie.. La cuisine est très confortable et communique avec la salle à manger. Toutes deux ont de grandes fenêtres avec accès direct à la terrasse, où se trouve la grande piscine entourée d'un jardin. Il est également possible d'y accéder depuis le salon et cette communication apporte un grand confort à toutes les chambres.. A l'étage supérieur, nous arrivons à l'étude. Lieu choisi pour profiter du paysage et obtenir la paix dont nous avons besoin. Sa grande terrasse nous invite à respirer de l'air frais et à nous évader. La chambre à coucher avec double armoire et sa grande salle de bain en suite, font de cet étage le lieu favori de la maison.. Si vous aimez les réunions de famille ou d'amis, il existe une annexe séparée pour cela. Avec un four à bois et un grill, le plaisir est garanti.. Si vous voulez aussi prendre soin de vous et faire de l'exercice, il n'y a plus d'excuses, car il existe une salle de gym exclusive pour cela.. Vous ne pouvez pas demander plus............. tout ce que vous voulez est ici ... venez le découvrir.. . Il est loué partiellement meublé. Si c'est un inconvénient, nous pouvons y remédier.. . Vous devez prouver votre solvabilité.. . Traduit avec www.DeepL.com/Translator (version gratuite) ]]>
+		</fr>
+		<it>
+		<![CDATA[ ]]>
+		</it>
+		<nl>
+		<![CDATA[ ]]>
+		</nl>
+		<ru>
+		<![CDATA[ ]]>
+		</ru>
+		<fi>
+		<![CDATA[ ]]>
+		</fi>
+		<ca>
+		<![CDATA[ ]]>
+		</ca>
+		<no>
+		<![CDATA[ ]]>
+		</no>
+		<pt>
+		<![CDATA[ ]]>
+		</pt>
+		<sv>
+		<![CDATA[ Sa Cabaneta är en by som ligger i MARRATXI, en kommun mycket nära huvudstaden, men samtidigt en magisk plats, där fred är dess största dygd. . I utkanten av byn, i ett av dess tystaste områden, mitt i naturen och med utsikt över staden Palma och dess kust, ligger den magnifika villan jag beskriver.. . Från dess TERRASSER kan du bara se den oändliga tallskogen, som ger oss den fred vi behöver. . Bekväma och ljusa rum, fördelade på två våningar.. . På BORDPLANET finns ett stort VARDAGSRUM med en designad öppen spis, mycket ljus tack vare sina stora fönster som gränsar till bottenvåningen, med direkt tillgång till TERRASSEN där poolen omgiven av trädgården ligger. . . KÖKET är mycket bekvämt och kommuniceras av en ”diskmaskin” med matsalen, också mycket lysande och med tillgång till terrassen från de stora fönstren som fortsätter längs korridoren mot vardagsrummet och där den oberoende tvättstugan ligger.. . Det finns också TRE dubbla SOVRUM med inbyggda garderober och ett stort badrum med dusch.. . På översta våningen når vi STUDIO. En plats som valts för att njuta av landskapet från den stora terrassen som är ansluten till nedre våningen via en spiraltrappa.. Huvudsovrummet med dubbla inbyggda garderober och det stora badrummet gör denna våning till husets favoritområde. . . Om du älskar familje- eller vänsammankomster finns det en separat stuga för detta ändamål, med vedugn och grill.. Om du också vill träna, finns det en utomhus GYM exklusivt för detta ändamål.. . Huset är isolerat med 40 cm väggar av H6 Porespan. Skydd mot kyla och värme är garanterat. . De synliga bjälkarna från gamla North och marmorgolvet från Binissalem ger rummen en rustik karaktär. . . HUSDJUR ACCEPTERAS. . OMÖBLERAD HYRA. . 2 MÅNADERS DEPOSITION ,. . BEVIS PÅ SOLVENS KRÄVS. . . . .. ]]>
+		</sv>
+		</desc>
+		<features>
+		<feature>Balcon</feature>
+		<feature>porch</feature>
+		<feature>Solarium</feature>
+		<feature>Terrace</feature>
+		<feature>Wardrobes cupboard</feature>
+		<feature>Storeroom</feature>
+		<feature>Appliances</feature>
+		<feature>Heating</feature>
+		<feature>Air-Conditioning</feature>
+		<feature>Pool Own </feature>
+		<feature>Light</feature>
+		<feature>Laundry</feature>
+		<feature>Ceilings</feature>
+		<feature>Parking</feature>
+		<feature>Terrace </feature>
+		<feature>Barbecue</feature>
+		<feature>Gymnasium</feature>
+		<feature>Garden</feature>
+		<feature>Vistas al mar</feature>
+		</features>
+		<images>
+		<image id="1">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-1.jpg</url>
+		</image>
+		<image id="2">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-2.jpg</url>
+		</image>
+		<image id="3">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-3.jpg</url>
+		</image>
+		<image id="4">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-4.jpg</url>
+		</image>
+		<image id="5">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-5.jpg</url>
+		</image>
+		<image id="6">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-6.jpg</url>
+		</image>
+		<image id="7">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-7.jpg</url>
+		</image>
+		<image id="8">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-8.jpg</url>
+		</image>
+		<image id="9">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-9.jpg</url>
+		</image>
+		<image id="10">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-10.jpg</url>
+		</image>
+		<image id="11">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-11.jpg</url>
+		</image>
+		<image id="12">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-12.jpg</url>
+		</image>
+		<image id="13">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-13.jpg</url>
+		</image>
+		<image id="14">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-14.jpg</url>
+		</image>
+		<image id="15">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-15.jpg</url>
+		</image>
+		<image id="16">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-16.jpg</url>
+		</image>
+		<image id="17">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-17.jpg</url>
+		</image>
+		<image id="18">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-18.jpg</url>
+		</image>
+		<image id="19">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-19.jpg</url>
+		</image>
+		<image id="20">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-20.jpg</url>
+		</image>
+		<image id="21">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-21.jpg</url>
+		</image>
+		<image id="22">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-22.jpg</url>
+		</image>
+		<image id="23">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-23.jpg</url>
+		</image>
+		<image id="24">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-24.jpg</url>
+		</image>
+		<image id="25">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-25.jpg</url>
+		</image>
+		<image id="26">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-26.jpg</url>
+		</image>
+		<image id="27">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-27.jpg</url>
+		</image>
+		<image id="28">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-28.jpg</url>
+		</image>
+		<image id="29">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-29.jpg</url>
+		</image>
+		<image id="30">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-30.jpg</url>
+		</image>
+		<image id="31">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-31.jpg</url>
+		</image>
+		<image id="32">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-32.jpg</url>
+		</image>
+		<image id="33">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-33.jpg</url>
+		</image>
+		<image id="34">
+		<url>https://fotos15.apinmo.com/6319/10763281/21-34.jpg</url>
+		</image>
+		</images>
+	</property>
+
+	
+	<property>
+		<id>Anna_img_Anuncio</id>
+		<date>2026-02-06 17:15:01</date>
+		<ref>RI-00341/6319</ref>
+		<price>310000</price>
+		<currency>EUR</currency>
+		<price_freq>sale</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>0</leasehold>
+		<type>urban plot</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Montuïri</town>
+		<location_detail>MONTUÏRI</location_detail>
+		<cp>07230</cp>
+		<postal_code>07230</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (MONTUÏRI)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.983113</altitud>
+		<latitud>39.574212</latitud>
+		<location>
+		<latitude>39.574212</latitude>
+		<longitude>2.983113</longitude>
+		</location>
+		<beds>0</beds>
+		<baths>0</baths>
+		<pool>0</pool>
+		<orientation>Este-Oeste</orientation>
+		<surface_area>
+		<built>1365</built>
+		<plot>711</plot>
+		</surface_area>
+		<energy_rating> </energy_rating>
+		<url>
+		<es>http://remaxisland.es/fichapiso.php?datoofe=15671190&numagencia=6319&soyinmo=6319</es>
+		</url>
+		<desc>
+		<es>
+		<![CDATA[ LICENCIA DE OBRAS EN UN MES!! SUPERFICIE EDIFICABLE. 1.365m2 .. . SOLAR URBANO PARA CONSTRUCCIÓN DE UN EDIFICIO DE TRES PLANTAS O UNIFAMILIARES.. . En el ayuntamiento de Montuïri las licencias se conceden en un mes. El proyecto básico y de ejecución se pueden obtener en un plazo muy reducido y económico. . . Montuiri es una localidad y municipio de las Islas Baleares. Se encuentra en la comarca del Llano de Mallorca y linda con municipios de Algaida, Lluchmayor, Porreras, San Juan y Lloret de Vista Alegre. . El término de Montuïri representa muy bien el típico paisaje del Llano de Mallorca. El municipio está cubierto por pequeños montes con pequeños valles. En las tierras de agricultura se cultivan cereales y almendros. También se pueden destacar el cultivo higos, albaricoques y algunos árboles frutales de regadío.. . Es un solar urbano ubicado en las lindes del pueblo, con vistas espectaculares a la Sierra de Tramuntana .. . Consta de 711,41 m2 de superficie, 647m2 correspondientes al solar de la calle Joan Alcover y 71m2 correspondientes al solar de Calle Vinyeta.. . Se venden conjuntamente y su edificabilidad es de 1.365m2 . . . Se pueden construir un edificio de tres alturas de unos 445m2 por planta. . En cada planta, dos pisos de aproximadamente 140m2, un total de 445m2.. . También se puede construir dos chalets unifamiliares o pareados, con entradas independientes, uno por cada calle. Se puede realizar un proyecto básico si se precisa. ( no incluido en el precio). . Los permisos a nivel urbanístico, se conceden como máximo en un mes.. . . Para más información, contactamos!!!. . . . ]]>
+		</es>
+		<en>
+		<![CDATA[ Montuiri is a town and municipality in the Balearic Islands. It is located in the region of Llano de Mallorca and borders with the municipalities of Algaida, Lluchmayor, Porreras, San Juan and Lloret de Vista Alegre. . The municipality of Montuïri represents very well the typical landscape of the Llano de Mallorca. The municipality is covered by small hills with small valleys. The agricultural lands are cultivated with cereals and almond trees. Figs, apricots and some irrigated fruit trees are also grown.. . It is an urban plot located on the edge of the village, with spectacular views to the Tramuntana mountain range.. . It consists of 711,41 m2 of surface, 647m2 corresponding to the plot in Joan Alcover street and 71m2 corresponding to the plot in Vinyeta street.. . They are sold together and their buildable area is 1.365m2. . . It is possible to construct a three storey building of approximately 445m2 per floor. . On each floor, two flats of approximately 140m2, a total of 445m2.. . It is also possible to build two detached or semi-detached villas, with separate entrances, one on each street. . . The urban planning permissions are granted in a maximum of one month.. . . For more information, please contact us!. . . . . ]]>
+		</en>
+		<de>
+		<![CDATA[ Montuiri ist eine Stadt und Gemeinde auf den Balearen. Sie befindet sich in der Region Llano de Mallorca und grenzt an die Gemeinden Algaida, Lluchmayor, Porreras, San Juan und Lloret de Vista Alegre. . Die Gemeinde Montuïri repräsentiert sehr gut die typische Landschaft des Llano de Mallorca. Die Gemeinde ist von kleinen Hügeln mit kleinen Tälern bedeckt. Die landwirtschaftlichen Flächen sind mit Getreide und Mandelbäumen bebaut. Es werden auch Feigen, Aprikosen und einige bewässerte Obstbäume angebaut.. . Es handelt sich um ein städtisches Grundstück am Rande des Dorfes, mit spektakulärem Blick auf das Tramuntana-Gebirge.. . Es hat eine Fläche von 711,41 m2, davon entfallen 647 m2 auf das Grundstück in der Straße Joan Alcover und 71 m2 auf das Grundstück in der Straße Vinyeta.. . Sie werden zusammen verkauft und ihre bebaubare Fläche beträgt 1.365 m2. . . Es besteht die Möglichkeit, ein dreistöckiges Gebäude mit einer Fläche von ca. 445 m2 pro Stockwerk zu errichten. . Auf jeder Etage, zwei Wohnungen von ca. 140m2, insgesamt 445m2.. . Es ist auch möglich, zwei freistehende Villen oder Doppelhaushälften zu bauen, mit separaten Eingängen, einen in jeder Straße. . . Die städtebaulichen Genehmigungen werden in maximal einem Monat erteilt.. . . Für weitere Informationen, kontaktieren Sie uns bitte!. . . ]]>
+		</de>
+		<da>
+		<![CDATA[ ]]>
+		</da>
+		<fr>
+		<![CDATA[ ]]>
+		</fr>
+		<it>
+		<![CDATA[ ]]>
+		</it>
+		<nl>
+		<![CDATA[ ]]>
+		</nl>
+		<ru>
+		<![CDATA[ ]]>
+		</ru>
+		<fi>
+		<![CDATA[ ]]>
+		</fi>
+		<ca>
+		<![CDATA[ ]]>
+		</ca>
+		<no>
+		<![CDATA[ ]]>
+		</no>
+		<pt>
+		<![CDATA[ ]]>
+		</pt>
+		<sv>
+		<![CDATA[ Montuiri är en stad och kommun på Balearerna. Den ligger i regionen Llano de Mallorca och gränsar till kommunerna Algaida, Lluchmayor, Porreras, San Juan och Lloret de Vista Alegre. . Kommunen Montuïri representerar mycket väl det typiska landskapet i Llano de Mallorca. Kommunen är täckt av små kullar med små dalar. Jordbruksmarkerna är uppodlade med spannmål och mandelträd. Fikon, aprikoser och några bevattnade fruktträd odlas också.. . Det är en urban tomt som ligger i utkanten av byn, med spektakulär utsikt över bergskedjan Tramuntana.. . Den består av 711,41 m2 yta, 647m2 motsvarande tomten på Joan Alcover street och 71m2 motsvarande tomten på Vinyeta street.. . De säljs tillsammans och deras byggbara yta är 1.365m2. . . Det är möjligt att bygga en trevåningsbyggnad på cirka 445m2 per våning. . På varje våning, två lägenheter på cirka 140m2, totalt 445m2.. . Det är också möjligt att bygga två fristående eller parhusvillor med separata ingångar, en på varje gata. . . Stadsplaneringstillstånden beviljas på högst en månad.. . . För mer information, vänligen kontakta oss!. . . ]]>
+		</sv>
+		</desc>
+		<images>
+		<image id="1">
+		<url>https://fotos15.apinmo.com/6319/15671190/11-1.jpg</url>
+		</image>
+		<image id="2">
+		<url>https://fotos15.apinmo.com/6319/15671190/11-2.jpg</url>
+		</image>
+		<image id="3">
+		<url>https://fotos15.apinmo.com/6319/15671190/11-3.jpg</url>
+		</image>
+		<image id="4">
+		<url>https://fotos15.apinmo.com/6319/15671190/11-4.jpg</url>
+		</image>
+		<image id="5">
+		<url>https://fotos15.apinmo.com/6319/15671190/11-5.jpg</url>
+		</image>
+		<image id="6">
+		<url>https://fotos15.apinmo.com/6319/15671190/11-6.jpg</url>
+		</image>
+		<image id="7">
+		<url>https://fotos15.apinmo.com/6319/15671190/11-7.jpg</url>
+		</image>
+		<image id="8">
+		<url>https://fotos15.apinmo.com/6319/15671190/11-8.jpg</url>
+		</image>
+		<image id="9">
+		<url>https://fotos15.apinmo.com/6319/15671190/11-9.jpg</url>
+		</image>
+		<image id="10">
+		<url>https://fotos15.apinmo.com/6319/15671190/11-10.jpg</url>
+		</image>
+		<image id="11">
+		<url>https://fotos15.apinmo.com/6319/15671190/11-11.jpg</url>
+		</image>
+		<image id="12">
+		<url>https://fotos15.apinmo.com/6319/15671190/11-12.jpg</url>
+		</image>
+		<image id="13">
+		<url>https://fotos15.apinmo.com/6319/15671190/11-13.jpg</url>
+		</image>
+		<image id="14">
+		<url>https://fotos15.apinmo.com/6319/15671190/11-14.jpg</url>
+		</image>
+		<image id="15">
+		<url>https://fotos15.apinmo.com/6319/15671190/11-15.jpg</url>
+		</image>
+		<image id="16">
+		<url>https://fotos15.apinmo.com/6319/15671190/11-16.jpg</url>
+		</image>
+		<image id="17">
+		<url>https://fotos15.apinmo.com/6319/15671190/11-17.jpg</url>
+		</image>
+		<image id="18">
+		<url>https://fotos15.apinmo.com/6319/15671190/11-18.jpg</url>
+		</image>
+		<image id="19">
+		<url>https://fotos15.apinmo.com/6319/15671190/11-19.jpg</url>
+		</image>
+		<image id="20">
+		<url>https://fotos15.apinmo.com/6319/15671190/11-20.jpg</url>
+		</image>
+		<image id="21">
+		<url>https://fotos15.apinmo.com/6319/15671190/11-21.jpg</url>
+		</image>
+		<image id="22">
+		<url>https://fotos15.apinmo.com/6319/15671190/11-22.jpg</url>
+		</image>
+		</images>
+	</property>
+
+	
+	<property>
+		<id>Anna_img_Portal</id>
+		<date>2026-03-14 09:09:26</date>
+		<ref>RI-00402/6319</ref>
+		<price>4900000</price>
+		<currency>EUR</currency>
+		<price_freq>sale</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>0</leasehold>
+		<type>house</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Palma de Mallorca</town>
+		<location_detail>Génova</location_detail>
+		<cp>07015</cp>
+		<postal_code>07015</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Génova)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.591932</altitud>
+		<latitud>39.555080</latitud>
+		<location>
+		<latitude>39.555080</latitude>
+		<longitude>2.591932</longitude>
+		</location>
+		<beds>6</beds>
+		<baths>4</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+		<built>859</built>
+		<plot>38871</plot>
+		</surface_area>
+		<energy_rating> </energy_rating>
+		<url>
+		<es>http://remaxisland.es/fichapiso.php?datoofe=15979334&numagencia=6319&soyinmo=6319</es>
+		</url>
+		<desc>
+		<es>
+		<![CDATA[ Esta Posesión Histórica Mallorquina situada en Génova data del año 1887.. . Una propiedad con mucho carácter, estilo y alma, y cubierta de una fachada de piedra catalogada del siglo XVIII .. . Tiene vistas al mar y a la montaña, y está rodeada de arboles y un grandioso pinar lo que la hace aún más privada. . . Al entrar en la posesión te encuentras un hermoso patio con suelo de piedra, cubierto en parte por un árbol de jazmín que da sombra y calidez. . . Desde aquí accedes a todas las estancias de la vivienda. . De frente encuentras tres salones todos con techos altos y vigas vistas, y desde cada uno de ellos se accede a los amplios y hermosos jardines y a la piscina. . . Cada una de estas estancias tiene su estilo, una de ellas es un precioso y amplio salón comedor al estilo mallorquín con chimenea. . Otra es un salón recibidor y a continuación un sala de estar con chimenea.. . En la parte izquierda está la cocina, moderna y totalmente reformada. Consta de una isla y una chimenea. . . En la parte derecha están los dormitorios. 2 dormitorios, un salón de estar y un baño en la parte baja. Y en la planta superior un hermoso y amplio salón, con techo alto y vigas vistas. Tiene una chimenea y está rodeado de ventanas mallorquinas lo que lo hace muy luminoso te invita a disfrutar de unas espectaculares y hermosas vistas al mar y a los jardines.. Consta de 2 dormitorios ambos con baño en suite, y un despacho.. . Hay una pequeña e independiente casa con 2 dormitorios y 2 baños.. . Génova es el pueblo más cercano de la animada ciudad de Palma. A escasa distancia en coche de las ajetreadas calles, el tráfico de la ciudad, te encontrarás en las cimas de las montañas que miran hacia el mar y hacia los pinares que rodean esta pintoresca localidad. Génova, con sus estrechas y sinuosas calles y sus casas tradicionales de estilo mediterráneo, te hará sentir como si estuvieses apartado en un tranquilo rincón de la isla.. . A pesar del ambiente de pueblo que se respira en su centro histórico, Génova ha ido creciendo con el paso del tiempo hasta convertirse en la actualidad en un distrito residencial de Palma.. . Te esperamos para más información y realizar una visita!. . . ]]>
+		</es>
+		<en>
+		<![CDATA[ This Historic Mallorcan Possession situated in Genova dates back to 1887.. . A property with a lot of character, style and soul, and covered with a listed stone façade from the 18th century.. . It has sea and mountain views, and is surrounded by trees and a grandiose pine forest which makes it even more private. . . On entering the property you find a beautiful stone-floored courtyard, partly covered by a jasmine tree which provides shade and warmth. . . From here you access all the rooms of the house. . From the front you find three living rooms all with high ceilings and exposed beams, and from each of them you have access to the spacious and beautiful gardens and the swimming pool. . . Each of these rooms has its own style, one of them is a beautiful and spacious living/dining room in Majorcan style with a fireplace. . Another is an entrance hall and then a sitting room with fireplace.. . On the left hand side is the modern and completely renovated kitchen. It has an island a fireplace. . . On the right side are the bedrooms. 2 bedrooms, a living room and a bathroom on the ground floor. And on the upper floor a beautiful and spacious living room, with high ceiling and exposed beams. It has a fireplace and is surrounded by mallorquin windows which makes it very luminous and invites you to enjoy spectacular and beautiful views to the sea and the gardens.. It consists of 2 bedrooms both with bathrooms en suite, and an office.. . There is a small independent house with 2 bedrooms and 2 bathrooms.. . Genova is the closest town to the lively city of Palma. Only a short drive away from the busy streets and traffic of the city, you will find yourself on the mountain tops overlooking the sea and the pine forests that surround this picturesque locality. Genoa, with its narrow, winding streets and traditional Mediterranean-style houses, will make you feel as if you are secluded in a quiet corner of the island.. . Despite the village atmosphere of its historic centre, Genova has grown over the years to become a residential district of Palma.. . We look forward to hearing from you for more information and a visit!. . . . ]]>
+		</en>
+		<de>
+		<![CDATA[ Dieser historische mallorquinische Besitz in Genua stammt aus dem Jahr 1887.. . Ein Anwesen mit viel Charakter, Stil und Seele, das mit einer denkmalgeschützten Steinfassade aus dem 18. Jahrhundert verkleidet ist.. . Es hat Meer- und Bergblick und ist von Bäumen und einem großen Pinienwald umgeben, was es noch privater macht. . . Beim Betreten des Anwesens finden Sie einen schönen Innenhof mit Steinboden, der teilweise von einem schattenspendenden und wärmenden Jasminbaum bedeckt ist. . . Von hier aus haben Sie Zugang zu allen Räumen des Hauses. . Auf der Vorderseite befinden sich drei Wohnzimmer mit hohen Decken und sichtbaren Balken, von denen aus man Zugang zu den großzügigen und schönen Gärten und dem Swimmingpool hat. . . Jedes dieser Zimmer hat seinen eigenen Stil, eines davon ist ein schönes und geräumiges Wohn- und Esszimmer im mallorquinischen Stil mit Kamin. . Ein weiteres ist eine Eingangshalle und ein Wohnzimmer mit Kamin.. . Auf der linken Seite befindet sich die moderne und komplett renovierte Küche. Es hat eine Insel und einen Kamin. . . Auf der rechten Seite befinden sich die Schlafzimmer. 2 Schlafzimmer, ein Wohnzimmer und ein Badezimmer im Erdgeschoss. Und im Obergeschoss ein schönes und geräumiges Wohnzimmer, mit hoher Decke und Sichtbalken. Es verfügt über einen Kamin und ist von mallorquinischen Fenstern umgeben, die es sehr hell machen und Sie dazu einladen, spektakuläre und schöne Ausblicke auf das Meer und die Gärten zu genießen.. Es besteht aus 2 Schlafzimmern, beide mit Bädern en suite, und einem Büro.. . Es gibt ein kleines unabhängiges Haus mit 2 Schlafzimmern und 2 Bädern.. . Genova ist die der lebhaften Stadt Palma am nächsten gelegene Stadt. Nur eine kurze Fahrt von den belebten Straßen und dem Verkehr der Stadt entfernt, befinden Sie sich auf den Berggipfeln mit Blick auf das Meer und die Pinienwälder, die diesen malerischen Ort umgeben. Genua mit seinen engen, verwinkelten Gassen und den traditionellen Häusern im mediterranen Stil wird Ihnen das Gefühl geben, in einer ruhigen Ecke der Insel zu sein.. . Trotz der dörflichen Atmosphäre des historischen Zentrums hat sich Genova im Laufe der Jahre zu einem Wohnviertel von Palma entwickelt.. . Wir freuen uns darauf, von Ihnen zu hören, um weitere Informationen zu erhalten und Sie zu besuchen!. . . ]]>
+		</de>
+		<da>
+		<![CDATA[ ]]>
+		</da>
+		<fr>
+		<![CDATA[ ]]>
+		</fr>
+		<it>
+		<![CDATA[ ]]>
+		</it>
+		<nl>
+		<![CDATA[ ]]>
+		</nl>
+		<ru>
+		<![CDATA[ ]]>
+		</ru>
+		<fi>
+		<![CDATA[ ]]>
+		</fi>
+		<ca>
+		<![CDATA[ ]]>
+		</ca>
+		<no>
+		<![CDATA[ ]]>
+		</no>
+		<pt>
+		<![CDATA[ ]]>
+		</pt>
+		<sv>
+		<![CDATA[ ]]>
+		</sv>
+		</desc>
+		<features>
+		<feature>Balcon</feature>
+		<feature>Alarm Theft</feature>
+		<feature>porch</feature>
+		<feature>Wardrobes cupboard</feature>
+		<feature>Storeroom</feature>
+		<feature>Appliances</feature>
+		<feature>Heating</feature>
+		<feature>Air-Conditioning</feature>
+		<feature>Video Intercom</feature>
+		<feature>Community Pool</feature>
+		<feature>Pool Own </feature>
+		<feature>Laundry</feature>
+		<feature>Ceilings</feature>
+		<feature>Barbecue</feature>
+		<feature>Automatic Doors</feature>
+		<feature>Alarm</feature>
+		<feature>Rooms. Games</feature>
+		<feature>Mirador</feature>
+		</features>
+		<images>
+		<image id="1">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-1.jpg</url>
+		</image>
+		<image id="2">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-2.jpg</url>
+		</image>
+		<image id="3">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-3.jpg</url>
+		</image>
+		<image id="4">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-4.jpg</url>
+		</image>
+		<image id="5">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-5.jpg</url>
+		</image>
+		<image id="6">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-6.jpg</url>
+		</image>
+		<image id="7">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-7.jpg</url>
+		</image>
+		<image id="8">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-8.jpg</url>
+		</image>
+		<image id="9">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-9.jpg</url>
+		</image>
+		<image id="10">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-10.jpg</url>
+		</image>
+		<image id="11">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-11.jpg</url>
+		</image>
+		<image id="12">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-12.jpg</url>
+		</image>
+		<image id="13">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-13.jpg</url>
+		</image>
+		<image id="14">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-14.jpg</url>
+		</image>
+		<image id="15">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-15.jpg</url>
+		</image>
+		<image id="16">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-16.jpg</url>
+		</image>
+		<image id="17">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-17.jpg</url>
+		</image>
+		<image id="18">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-18.jpg</url>
+		</image>
+		<image id="19">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-19.jpg</url>
+		</image>
+		<image id="20">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-20.jpg</url>
+		</image>
+		<image id="21">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-21.jpg</url>
+		</image>
+		<image id="22">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-22.jpg</url>
+		</image>
+		<image id="23">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-23.jpg</url>
+		</image>
+		<image id="24">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-24.jpg</url>
+		</image>
+		<image id="25">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-25.jpg</url>
+		</image>
+		<image id="26">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-26.jpg</url>
+		</image>
+		<image id="27">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-27.jpg</url>
+		</image>
+		<image id="28">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-28.jpg</url>
+		</image>
+		<image id="29">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-29.jpg</url>
+		</image>
+		<image id="30">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-30.jpg</url>
+		</image>
+		<image id="31">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-31.jpg</url>
+		</image>
+		<image id="32">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-32.jpg</url>
+		</image>
+		<image id="33">
+		<url>https://fotos15.apinmo.com/6319/15979334/51-33.jpg</url>
+		</image>
+		</images>
+	</property>
+
+	
+	<property>
+		<id>Anna_img_Ruina</id>
+		<date>2025-05-22 18:14:24</date>
+		<ref>RI-00420/6319</ref>
+		<price>1150000</price>
+		<currency>EUR</currency>
+		<price_freq>sale</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>0</leasehold>
+		<type>house</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Calvià</town>
+		<location_detail>Bendinat</location_detail>
+		<cp>07181</cp>
+		<postal_code>07181</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Bendinat)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.586641</altitud>
+		<latitud>39.543364</latitud>
+		<location>
+		<latitude>39.543364</latitude>
+		<longitude>2.586641</longitude>
+		</location>
+		<beds>2</beds>
+		<baths>0</baths>
+		<pool>0</pool>
+		<orientation/>
+		<surface_area>
+		<built>900</built>
+		<plot>108</plot>
+		</surface_area>
+		<energy_rating> </energy_rating>
+		<url>
+		<es>http://remaxisland.es/fichapiso.php?datoofe=16256067&numagencia=6319&soyinmo=6319</es>
+		</url>
+		<desc>
+		<es>
+		<![CDATA[ Puedes escapar del ruido y la contaminación de la ciudad, respirar aire puro en un entorno silencioso y sobretodo apartado de vecinos, en plena naturaleza.. . Si quieres descansar a solo 15 minutos del centro de Palma, con unas vistas impresionantes al mar y al barranco de Sa Font de S’Ermita, tienes esta casa rústica centenaria, con una superficie construida de 130 m2. La casa goza de una exclusiva privacidad por su ubicación elevada, con vistas al mar y desde donde puedes divisar toda la bahía de Palma y la isla de Cabrera.. . Justo al lado de atracciones turísticas como el castillo de Bendinat, a pocos minutos de las playas de Illetes y Portals y en las inmediaciones del campo de golf de Bendinat. Es por esta razón, que es ideal para los amantes de este deporte.. . Hablamos de una extensión de terreno rústico forestal de 108.033 m2, donde encontramos un acueducto con conexión a los aljibes que abastecieron el Castillo de Bendinat y sus predios, que datan de la época del Rey Jaume I, y que aún se pueden encontrar en el camino a la propiedad el sistema de canalización del agua y el buen estado de las construcciones.. . Consta de las siguientes EDIFICACIONES a renovar por el estado de conservación en que se encuentran.. . 1.- Casa de una sola planta de CIENTO TREINTA METROS CUADRADOS, para utilización de vivienda, construida a base de muros de carga de mampostería en seco, cubierta a dos aguas de teja árabe y porche a todo lo largo de la fachada con vista despejadas al mar desde toda la casa.. . 2.- Construcción de TRESCIENTOS METROS CUADRADOS, para uso de aljibes, construida a base de muro de mampostería en seco, cubierta en bóveda que, en su parte externa, ha sido completada con dos planos inclinados que forman dos pendientes propias para evacuar el agua de lluvia. . . 3.- Construcción de CUATROCIENTOS METROS CUADRADOS. Se trata de un túnel excavado en mina, en la montaña, cuya finalidad es la de, a modo de drenaje, captación de agua. Dicho túnel tiene dos metros de ancho por unos doscientos de longitud. . . 4.- Construcción de veinte metros cuadrados, de forma circular, para uso forestal.. . 5.- Construcción de veinticuatro metros cuadrados, para uso ganadero. . . ¡Si tu intensión es tener una segunda residencia rural para disfrutar de la naturaleza, de jugar al golf, disfrutar de estar cerca de la ciudad y la playa, o sentirte orgulloso de proteger este espacio natural, entonces comunícate con nosotros para concertar una visita, porque esta propiedad es para ti!. . Comprar en Bendinat te da acceso a la exclusiva costa suroeste de Mallorca, esta zona ofrece lujo y prestigio en un entorno natural impresionante. Comprar una propiedad aquí significa disfrutar de playas cercanas, jugar al Golf en el prestigioso Real Golf de Bendinat, y de la proximidad a Puerto Portals. Con una comunidad internacional, servicios de alta calidad y excelente conectividad a Palma, Bendinat garantiza una inversión segura y una calidad de vida excepcional en un entorno seguro y tranquilo. ]]>
+		</es>
+		<en>
+		<![CDATA[ This property is for people who are currently looking for a different way of life, a project that values commitment to nature and the environment.. . We are talking about an extension of land of 108.033 m2, where we find an aqueduct with connection to the cisterns that supplied the Castle of Bendinat and its grounds, which date back to the Muslim period, with more than 600 M2 of construction. The water channelling system and the good condition of the constructions can still be seen.. . If you want to live 15 minutes away from the centre of Palma, but in an environment surrounded by nature and with impressive views of the sea and the ravine of Sa Font de S'Ermita, you have this centenary rustic house, with a constructed area of 130 m2. The house enjoys an exclusive privacy due to its elevated location, overlooking the sea and from where you can see the entire bay of Palma and the island of Cabrera.. . Right next to tourist attractions such as the castle of Bendinat, only a few minutes away from the beaches of Illetes and Portals and in the immediate vicinity of the Bendinat golf course. For this reason, it is ideal for golf lovers.. . If your intention is to have a second rural residence to enjoy nature, to play golf, to enjoy being close to the city and the beach, or to feel proud to protect this natural space, then contact us to arrange a visit, because this property is for you.. . . . ]]>
+		</en>
+		<de>
+		<![CDATA[ Diese Immobilie ist für Menschen, die auf der Suche nach einer anderen Lebensweise sind, ein Projekt, das das Engagement für die Natur und die Umwelt schätzt.. . Es handelt sich um ein 108.033 m2 großes Grundstück, auf dem sich ein Aquädukt mit Anschluss an die Zisternen befindet, die das Schloss von Bendinat und seine Anlagen versorgten, das aus der maurischen Zeit stammt und mehr als 600 m2 groß ist. Das Wasserleitungssystem und der gute Zustand der Bauwerke sind noch zu sehen.. . Wenn Sie 15 Minuten vom Zentrum Palmas entfernt wohnen möchten, aber in einer Umgebung, die von Natur umgeben ist und einen beeindruckenden Blick auf das Meer und die Schlucht von Sa Font de S'Ermita bietet, haben Sie dieses hundertjährige Landhaus mit einer bebauten Fläche von 130 m2. Das Haus genießt exklusive Privatsphäre aufgrund seiner erhöhten Lage, mit Blick auf das Meer und von wo aus Sie die gesamte Bucht von Palma und die Insel Cabrera sehen können.. . In unmittelbarer Nähe zu touristischen Attraktionen wie der Burg von Bendinat, nur wenige Minuten von den Stränden von Illetes und Portals entfernt und in unmittelbarer Nähe des Golfplatzes von Bendinat. Aus diesem Grund ist es ideal für Golfliebhaber.. . Wenn Sie einen zweiten Wohnsitz auf dem Land haben möchten, um die Natur zu genießen, Golf zu spielen, die Nähe zur Stadt und zum Strand zu genießen oder stolz darauf zu sein, diesen Naturraum zu schützen, dann kontaktieren Sie uns, um eine Besichtigung zu vereinbaren, denn diese Immobilie ist für Sie. ]]>
+		</de>
+		<da>
+		<![CDATA[ ]]>
+		</da>
+		<fr>
+		<![CDATA[ ]]>
+		</fr>
+		<it>
+		<![CDATA[ ]]>
+		</it>
+		<nl>
+		<![CDATA[ ]]>
+		</nl>
+		<ru>
+		<![CDATA[ Эта недвижимость предназначена для людей, которые в настоящее время ищут другой образ жизни, проект, который ценит приверженность к природе и окружающей среде.. . Речь идет о земельном участке площадью 108.033 м2, где находится акведук с подключением к цистернам, снабжавшим замок Бендинат и его территорию, относящийся к мусульманскому периоду, площадью более 600 м2. До сих пор можно наблюдать систему водоотведения и хорошее состояние сооружений.. . Если вы хотите жить в 15 минутах езды от центра Пальмы, но в окружении природы и с впечатляющим видом на море и ущелье Са Фонт де С'Эрмита, к вашим услугам этот столетний деревенский дом площадью 130 м2. Дом обладает исключительной уединенностью благодаря своему расположению на возвышенности, откуда открывается вид на весь залив Пальмы и остров Кабрера.. . Рядом с туристическими достопримечательностями, такими как замок Бендинат, всего в нескольких минутах езды от пляжей Иллетес и Порталс и в непосредственной близости от поля для гольфа Бендинат. По этой причине он идеально подходит для любителей гольфа.. . Если вы хотите иметь вторую сельскую резиденцию, чтобы наслаждаться природой, играть в гольф, наслаждаться близостью к городу и пляжу, или чувствовать гордость за защиту этого природного пространства, тогда свяжитесь с нами, чтобы договориться о визите, потому что эта собственность для вас.. . ]]>
+		</ru>
+		<fi>
+		<![CDATA[ ]]>
+		</fi>
+		<ca>
+		<![CDATA[ ]]>
+		</ca>
+		<no>
+		<![CDATA[ ]]>
+		</no>
+		<pt>
+		<![CDATA[ ]]>
+		</pt>
+		<sv>
+		<![CDATA[ Den här fastigheten är avsedd för personer som nu söker ett annat sätt att leva, ett projekt som värdesätter engagemang för naturen och miljön.. . Vi talar om en förlängning av marken på 108 033 m2, där vi hittar en akvedukt med anslutning till de cisterner som försörjde slottet Bendinat och dess mark, med anor från den muslimska perioden, på mer än 600 M2 av konstruktion. Man kan fortfarande observera vattenledningssystemet och konstruktionernas goda skick.. . Om du vill bo 15 minuter från Palmas centrum, men i en miljö omgiven av natur och med imponerande utsikt över havet och ravinen Sa Font de S'Ermita, har du detta hundraåriga rustika hus, med en byggd yta på 130 m2. Huset åtnjuter exklusiv avskildhet tack vare sitt upphöjda läge med utsikt över havet och varifrån man kan se hela Palmabukten och ön Cabrera.. . Alldeles intill turistattraktioner som slottet Bendinat, bara några minuter från stränderna Illetes och Portals och i omedelbar närhet av golfbanan Bendinat. Av denna anledning är den idealisk för golfälskare.. . Om du har för avsikt att ha ett andra residens på landsbygden för att njuta av naturen, spela golf, njuta av närheten till staden och stranden eller känna dig stolt över att skydda detta naturområde, kontakta oss då för att ordna ett besök, för denna fastighet är för dig.. . . ]]>
+		</sv>
+		</desc>
+		<features>
+		<feature>Vistas al mar</feature>
+		</features>
+		<images>
+		<image id="1">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-1.jpg</url>
+		</image>
+		<image id="2">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-2.jpg</url>
+		</image>
+		<image id="3">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-3.jpg</url>
+		</image>
+		<image id="4">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-4.jpg</url>
+		</image>
+		<image id="5">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-5.jpg</url>
+		</image>
+		<image id="6">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-6.jpg</url>
+		</image>
+		<image id="7">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-7.jpg</url>
+		</image>
+		<image id="8">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-8.jpg</url>
+		</image>
+		<image id="9">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-9.jpg</url>
+		</image>
+		<image id="10">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-10.jpg</url>
+		</image>
+		<image id="11">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-11.jpg</url>
+		</image>
+		<image id="12">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-12.jpg</url>
+		</image>
+		<image id="13">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-13.jpg</url>
+		</image>
+		<image id="14">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-14.jpg</url>
+		</image>
+		<image id="15">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-15.jpg</url>
+		</image>
+		<image id="16">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-16.jpg</url>
+		</image>
+		<image id="17">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-17.jpg</url>
+		</image>
+		<image id="18">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-18.jpg</url>
+		</image>
+		<image id="19">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-19.jpg</url>
+		</image>
+		<image id="20">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-20.jpg</url>
+		</image>
+		<image id="21">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-21.jpg</url>
+		</image>
+		<image id="22">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-22.jpg</url>
+		</image>
+		<image id="23">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-23.jpg</url>
+		</image>
+		<image id="24">
+		<url>https://fotos15.apinmo.com/6319/16256067/80-24.jpg</url>
+		</image>
+		</images>
 	</property>
 
 	<property>
-		<id>Anna_imgMatricula2</id>
-		<date>2013-09-27 12:00:10</date>
-		<ref>V3TEST</ref>
-		<price>251000</price>
+		<id>Anna_img_Tapiado</id>
+		<date>2026-02-06 17:14:58</date>
+		<ref>RI-00413/6319</ref>
+		<price>1350000</price>
 		<currency>EUR</currency>
 		<price_freq>sale</price_freq>
+		<new_build>0</new_build>
 		<part_ownership>0</part_ownership>
 		<leasehold>0</leasehold>
-		<new_build>0</new_build>
-		<type>villa</type>
-		<town>almunecar</town>
-		<province>granada</province>
-		<country>spain</country>
+		<type>house</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Portol</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Portol)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.772703</altitud>
+		<latitud>39.615685</latitud>
 		<location>
-			<latitude>36.728807</latitude>
-			<longitude>-3.693466</longitude>
+		<latitude>39.615685</latitude>
+		<longitude>2.772703</longitude>
 		</location>
-		<postal_code>18690</postal_code>
-		<location_detail>optional location detail</location_detail>
-		<beds>3</beds>
+		<video_url>https://media.inmovilla.com/videos/6319/17503213.mp4</video_url>
+		<beds>5</beds>
 		<baths>2</baths>
 		<pool>1</pool>
+		<orientation>Sureste</orientation>
 		<surface_area>
-			<built>150</built>
-			<plot>500</plot>
+		<built>332</built>
+		<plot>1765</plot>
 		</surface_area>
-		<energy_rating>
-			<consumption>E</consumption>
-			<consumption_value>191</consumption_value>
-			<emissions>E</emissions>
-			<emissions_value>37</emissions_value>
-			<efficiency_grade>E</efficiency_grade>
-		</energy_rating>
+		<energy_rating> </energy_rating>
 		<url>
-			<ca>http://catalan.website.com/property/123456.htm</ca>
-			<de>http://german.website.com/property/123456.htm</de>
-			<da>http://danish.website.com/property/123456.htm</da>
-			<en>http://english.website.com/property/123456.htm</en>
-			<es>http://spanish.website.com/property/123456.htm</es>
-			<fi>http://finnish.website.com/property/123456.htm</fi>
-			<fr>http://french.website.com/property/123456.htm</fr>
-			<it>http://italian.website.com/property/123456.htm</it>
-			<nl>http://dutch.website.com/property/123456.htm</nl>
-			<no>http://norwegian.website.com/property/123456.htm</no>
-			<pt>http://portuguese.website.com/property/123456.htm</pt>
-			<ru>http://russian.website.com/property/123456.htm</ru>
-			<sv>http://swedish.website.com/property/123456.htm</sv>
+		<es>http://remaxisland.es/fichapiso.php?datoofe=17503213&numagencia=6319&soyinmo=6319</es>
 		</url>
-		<video_url>https://www.youtube.com/watch?v=dQw4w9WgXcQ</video_url>
-		<virtual_tour_url>https://my.matterport.com/show/?m=eUuz64WjuQe</virtual_tour_url>
-		<catastral>1234567AB1234C0001DE</catastral>
 		<desc>
-			<ca>Catalan property description</ca>
-			<de>German property description</de>
-			<da>Danish property description</da>
-			<en>English property description</en>
-			<es>Spanish property description</es>
-			<fi>Finnish property description</fi>
-			<fr>French property description</fr>
-			<it>Italian property description</it>
-			<nl>Dutch property description</nl>
-			<no>Norwegian property description</no>
-			<pt>Portuguese property description</pt>
-			<ru>Russian property description</ru>
-			<sv>Swedish property description</sv>
+		<es>
+		<![CDATA[ Vivir en el CENTRO del PUEBLO, a pocos minutos de la panadería, bar, estanco, supermercados ...., parece un privilegio que solo los que viven en las típicas casas de pueblo pueden disfrutar. . Esta villa de lujo Unifamiliar al puro estilo mallorquín, con fachada de piedra, techos altos y con "viga vista" , se encuentra inmersa entre las callejuelas del pueblo, manteniendo la grandeza e intimidad característica de este tipo de propiedad, pero a su vez cercana a todos los servicios que te facilitan y mejoran la calidad de vida, sin necesidad de utilizar vehículo alguno.. En este enclave, en una parcela de 1.765m2 se ubica esta majestuosa villa de 332m2.. Al entrar en ella descubrimos un espectacular hall, que nos lleva al salón -comedor y a la cocina directamente y a un pasillo lateral donde encontramos los cuatro dormitorios en planta. También un aseo de cortesía en dicho hall. . La habitación principal tiene un vestidor independiente y un baño en suite. Hay tres dormitorios dobles con armarios y un baño completo compartido. Todos los dormitorios son exteriores y muy luminosos.. En planta piso hay una torre, que se accede por la escalera del hall. Es una gran sala de 34m2 que tiene la utilidad que quieras darle, como despacho, sala de juegos, un quinto dormitorio, con posibilidad de hacer un baño en planta, etc . Es muy luminoso y desde sus siete ventanas se puede divisar el pueblo y al fondo las montañas. . En planta sótano con acceso desde el hall y exteriormente, se encuentra un garaje con capacidad para varios vehículos. Hay también una zona de trastero. Independiente a la casa hay una construcción de 25m2 utilizada como taller.. La villa se sitúa en medio de la parcela, rodeada de zonas ajardinadas con árboles frutales y una piscina de 40m2 . Se accede desde el porche que se comunica con la cocina y el salón comedor. Dicho porche está cubierto con una pérgola de parra, que en primavera se convierte en un techo de flores rojizas y violetas que alegran la vista.. Dispone de paneles solares de instalación reciente y suelo radiante preparado para conectar a aerotérmia. Ventanas de madera con climalit y persianas mallorquinas. Una vida de lujo que ahora podrás saborear, sin necesidad de aislarse en las afueras del pueblo.. Si quieres disfrutar de una villa de ensueño y no quieres renunciar a la "Pura Vida Rural," esta es la oportunidad de hacerlo realidad.. ]]>
+		</es>
+		<en>
+		<![CDATA[ Living in the CENTRE of the TOWN, only a few minutes walking distance to the bakery, bar, tobacconist, supermarkets, ....etc, seems to be a privilege that only typical townhouses can enjoy. . This luxury detached villa in pure Majorcan style, with stone façade, high ceilings and "viga vista" (exposed beams), is immersed between the streets of the village. It is immersed in the narrow streets of the village, maintaining the grandeur and intimacy characteristic of this type of property, but at the same time close to all the services that make your life easier, without the need to use any vehicle.. In this enclave, on a plot of 1.800m2 is located this majestic villa of 332m2.. Upon entering the villa, we discover a spectacular hall, which leads us to the living-dining room and the kitchen directly and to a side corridor where we find the four bedrooms on the ground floor. There is also a guest toilet in the hall. . The master bedroom has a separate dressing room and an en-suite bathroom. There are three double bedrooms with wardrobes and a shared bathroom. All the bedrooms are exterior and very bright.. On the first floor there is a tower, which is accessed by the staircase from the hall. It is a large room of 34m2 that can be used as an office, games room, a fifth bedroom, with the possibility of making a bathroom on the same floor, etc. It is very luminous and from its seven rooms it is very bright. It is very bright and from its seven windows you can see the village and the mountains in the background. . In the basement, with access from the hall and outside, there is a garage with capacity for several vehicles. There is also a storage area. Separate to the house there is a 25m2 building used as a workshop.. The villa is situated in the middle of the plot, surrounded by gardens with fruit trees and a 40m2 swimming pool. It is accessed from the porch which communicates with the kitchen and the living-dining room. This porch is covered with a vine pergola, which in springtime becomes a roof of reddish and violet flowers that brighten up the view.. It has recently installed solar panels and underfloor heating prepared for connection to aerothermal energy. Wooden windows with double glazing and Majorcan shutters.. A life of luxury that you can now savour, without the need to isolate yourself on the outskirts of the village.. If you want to enjoy a dream villa and you don't want to renounce to the "Pure Rural Life", this is the opportunity to make it happen.. ]]>
+		</en>
+		<de>
+		<![CDATA[ Im Zentrum der Stadt zu wohnen, nur wenige Gehminuten vom Bäcker, der Bar, dem Tabakladen, den Supermärkten und ....etc entfernt, scheint ein Privileg zu sein, das nur die typischen Stadthäuser genießen können. . Diese luxuriöse, freistehende Villa im rein mallorquinischen Stil, mit Steinfassade, hohen Decken und "viga vista" (Sichtbalken), befindet sich inmitten der Straßen des Dorfes. Es ist in die engen Gassen des Dorfes eingebettet und bewahrt die für diese Art von Immobilien charakteristische Größe und Intimität, liegt aber gleichzeitig in der Nähe aller Dienstleistungen, die Ihnen das Leben erleichtern, ohne dass Sie ein Fahrzeug benutzen müssen.. In dieser Enklave, auf einem Grundstück von 1.800m2 befindet sich diese majestätische Villa von 332m2.. Beim Betreten der Villa entdecken wir eine spektakuläre Halle, die uns direkt zum Wohn-Esszimmer und zur Küche führt und zu einem seitlichen Korridor, wo wir die vier Schlafzimmer im Erdgeschoss finden. Es gibt auch eine Gästetoilette im Flur. . Das Hauptschlafzimmer verfügt über ein separates Ankleidezimmer und ein eigenes Bad. Es gibt drei Doppelschlafzimmer mit Einbauschränken und ein gemeinsames Bad. Alle Schlafzimmer sind außen und sehr hell.. Im ersten Stock befindet sich ein Turm, zu dem man über eine Treppe vom Flur aus gelangt. Es ist ein großer Raum von 34m2, die als Büro, Spielzimmer, ein fünftes Schlafzimmer verwendet werden kann, mit der Möglichkeit, ein Bad auf der gleichen Etage, etc. Es ist sehr hell und von seinen sieben Fenstern aus kann man das Dorf und die Berge im Hintergrund sehen. . Im Untergeschoss mit Zugang vom Flur und von außen gibt es eine Garage mit Platz für mehrere Fahrzeuge. Außerdem gibt es einen Lagerraum. Separat zum Haus gibt es ein 25m2 Gebäude, das als Werkstatt genutzt wird.. Die Villa befindet sich in der Mitte des Grundstücks, umgeben von Gärten mit Obstbäumen und einem 40m2 großen Swimmingpool. Der Zugang erfolgt über die Veranda, die mit der Küche und dem Wohn-Esszimmer verbunden ist. Diese Veranda ist mit einer Pergola aus Weinreben überdacht, die sich im Frühling in ein Dach aus rötlichen und violetten Blüten verwandelt, die die Aussicht verschönern.. Vor kurzem wurden Sonnenkollektoren und eine Fußbodenheizung installiert, die für den Anschluss an die Aerothermie vorbereitet ist. Holzfenster mit Doppelverglasung und mallorquinischen Fensterläden.. Ein Luxusleben, das Sie jetzt genießen können, ohne sich am Rande des Dorfes isolieren zu müssen.. Wenn Sie sich eine Traumvilla wünschen und nicht auf das "Reine Landleben" verzichten wollen, ist dies die Gelegenheit, dies zu verwirklichen.. . . ]]>
+		</de>
+		<da>
+		<![CDATA[ ]]>
+		</da>
+		<fr>
+		<![CDATA[ Vivre au CENTRE DE LA VILLE, à quelques minutes à pied seulement de la boulangerie, du bar, du tabac, des supermarchés, de ....etc, semble être un privilège dont seules les maisons de ville typiques peuvent bénéficier. . Cette luxueuse villa indépendante de pur style majorquin, avec façade en pierre, hauts plafonds et "viga vista" (poutres apparentes), est immergée entre les rues principales du village. Elle est immergée dans les rues étroites du village, conservant la grandeur et l'intimité caractéristiques de ce type de propriété, mais en même temps proche de tous les services qui vous facilitent la vie, sans avoir besoin d'utiliser un véhicule.. Dans cette enclave, sur un terrain de 1.800m2 se trouve cette majestueuse villa de 332m2.. En entrant dans la villa, nous découvrons un hall spectaculaire, qui nous mène directement au salon-salle à manger et à la cuisine et à un couloir latéral où se trouvent les quatre chambres du rez-de-chaussée. Il y a également des toilettes pour invités dans le hall. . La chambre principale dispose d'un dressing séparé et d'une salle de bains privative. Il y a trois chambres doubles avec des armoires et une salle de bain commune. Toutes les chambres sont extérieures et très lumineuses.. Au premier étage se trouve une tour, à laquelle on accède par l'escalier du hall. C'est une grande pièce de 34m2 qui peut être utilisée comme bureau, salle de jeux, une cinquième chambre, avec la possibilité de faire une salle de bain au même étage, etc. Elle est très lumineuse et de ses sept pièces elle est très claire. Il est très lumineux et de ses sept fenêtres, on peut voir le village et les montagnes en arrière-plan. . Au sous-sol, avec accès depuis le hall et l'extérieur, se trouve un garage pouvant accueillir plusieurs véhicules. Il y a également une zone de stockage. Séparé de la maison, il y a un bâtiment de 25m2 utilisé comme atelier.. La villa est située au milieu du terrain, entourée de jardins avec des arbres fruitiers et une piscine de 40m2. On y accède par le porche qui communique avec la cuisine et le salon-salle à manger. Ce porche est couvert d'une pergola de vigne qui, au printemps, devient un toit de fleurs rougeâtres et violettes qui égayent la vue.. Elle a récemment installé des panneaux solaires et un chauffage au sol préparé pour le raccordement à l'aérothermie. Fenêtres en bois avec double vitrage et volets majorquins.. Une vie de luxe que vous pouvez désormais savourer, sans avoir besoin de vous isoler à la périphérie du village.. Si vous voulez profiter d'une villa de rêve et que vous ne voulez pas renoncer à la "pure vie rurale", c'est l'occasion de le faire.. . ]]>
+		</fr>
+		<it>
+		<![CDATA[ Vivere nel CENTRO della città, a pochi minuti a piedi da panetteria, bar, tabacchi, supermercati, ....etc, sembra essere un privilegio di cui solo le tipiche case a schiera possono godere. . Questa lussuosa villa indipendente in puro stile maiorchino, con facciata in pietra, soffitti alti e "viga vista" (travi a vista), è immersa tra le vie del villaggio. È immerso nelle strette vie del villaggio, mantenendo la grandezza e l'intimità caratteristiche di questo tipo di proprietà, ma allo stesso tempo vicino a tutti i servizi che rendono la vita più facile, senza la necessità di utilizzare alcun veicolo.. In questa enclave, su un terreno di 1.800m2 si trova questa maestosa villa di 332m2.. Entrando nella villa, scopriamo uno spettacolare ingresso, che ci conduce direttamente al soggiorno-sala da pranzo e alla cucina e a un corridoio laterale dove si trovano le quattro camere da letto al piano terra. Nel corridoio si trova anche una toilette per gli ospiti. . La camera da letto principale dispone di uno spogliatoio separato e di un bagno privato. Ci sono tre camere matrimoniali con armadi e un bagno in comune. Tutte le camere da letto sono esterne e molto luminose.. Al primo piano si trova una torretta, a cui si accede dalla scala che parte dal salone. Si tratta di una grande stanza di 34 m2 che può essere utilizzata come ufficio, sala giochi, quinta camera da letto, con la possibilità di ricavare un bagno sullo stesso piano, ecc. È molto luminoso e dalle sue sette finestre si possono vedere il villaggio e le montagne sullo sfondo. . Nel seminterrato, con accesso dalla sala e dall'esterno, si trova un garage con capacità per diversi veicoli. C'è anche un'area di stoccaggio. Separato dalla casa c'è un edificio di 25 m2 utilizzato come laboratorio.. La villa è situata al centro del terreno, circondata da giardini con alberi da frutto e una piscina di 40 m2. Vi si accede dal portico che comunica con la cucina e il soggiorno-sala da pranzo. Questo portico è coperto da una pergola di vite, che in primavera diventa un tetto di fiori rossastri e violetti che rallegrano la vista.. Ha recentemente installato pannelli solari e riscaldamento a pavimento predisposto per il collegamento all'energia aerotermica. Finestre in legno con doppi vetri e persiane maiorchine.. Una vita di lusso che ora potete assaporare, senza la necessità di isolarvi alla periferia del villaggio.. Se volete godervi una villa da sogno e non volete rinunciare alla "pura vita rurale", questa è l'occasione per realizzarla.. ]]>
+		</it>
+		<nl>
+		<![CDATA[ ]]>
+		</nl>
+		<ru>
+		<![CDATA[ ]]>
+		</ru>
+		<fi>
+		<![CDATA[ ]]>
+		</fi>
+		<ca>
+		<![CDATA[ ]]>
+		</ca>
+		<no>
+		<![CDATA[ ]]>
+		</no>
+		<pt>
+		<![CDATA[ ]]>
+		</pt>
+		<sv>
+		<![CDATA[ ]]>
+		</sv>
 		</desc>
 		<features>
-			<feature>good rental potential</feature>
-			<feature>near beach</feature>
-			<feature>water possible</feature>
+		<feature>Central Heating</feature>
+		<feature>Garage</feature>
+		<feature>Terrace</feature>
+		<feature>Wardrobes cupboard</feature>
+		<feature>Storeroom</feature>
+		<feature>Appliances</feature>
+		<feature>Heating</feature>
+		<feature>Pool Own </feature>
+		<feature>Light</feature>
+		<feature>Laundry</feature>
+		<feature>Ceilings</feature>
+		<feature>Pergola</feature>
+		<feature>Parking</feature>
+		<feature>Auto Irrigation.</feature>
+		<feature> Water Deposit</feature>
+		<feature>Barbecue</feature>
+		<feature>Gymnasium</feature>
+		<feature>Mirador</feature>
+		<feature>Garden</feature>
 		</features>
-		<notes>Private property notes</notes>
 		<images>
-			<image id="1">
-				<url>http://images.kyero.com/12811577_large.jpg</url>
-			</image>
-			<image id="2">
-				<tags>
-					<tag>floorplan</tag>
-				</tags>
-				<url>http://images.kyero.com/12811578_large.jpg</url>
-			</image>
-			<image id="3">
-				<url>http://images.kyero.com/12811579_large.jpg</url>
-			</image>
-			<image id="4">
-				<url>https://estaticos-cdn.prensaiberica.es/clip/c9191a0a-21b8-4ec0-a29c-9bb7ec8eb223_16-9-discover-aspect-ratio_default_0.webp</url>
-			</image>
-			<image id="50">
-				<url>http://images.kyero.com/12811582_large.jpg</url>
-			</image>
+		<image id="1">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-1.jpg</url>
+		</image>
+		<image id="2">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-2.jpg</url>
+		</image>
+		<image id="3">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-3.jpg</url>
+		</image>
+		<image id="4">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-4.jpg</url>
+		</image>
+		<image id="5">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-5.jpg</url>
+		</image>
+		<image id="6">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-6.jpg</url>
+		</image>
+		<image id="7">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-7.jpg</url>
+		</image>
+		<image id="8">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-8.jpg</url>
+		</image>
+		<image id="9">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-9.jpg</url>
+		</image>
+		<image id="10">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-10.jpg</url>
+		</image>
+		<image id="11">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-11.jpg</url>
+		</image>
+		<image id="12">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-12.jpg</url>
+		</image>
+		<image id="13">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-13.jpg</url>
+		</image>
+		<image id="14">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-14.jpg</url>
+		</image>
+		<image id="15">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-15.jpg</url>
+		</image>
+		<image id="16">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-16.jpg</url>
+		</image>
+		<image id="17">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-17.jpg</url>
+		</image>
+		<image id="18">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-18.jpg</url>
+		</image>
+		<image id="19">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-19.jpg</url>
+		</image>
+		<image id="20">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-20.jpg</url>
+		</image>
+		<image id="21">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-21.jpg</url>
+		</image>
+		<image id="22">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-22.jpg</url>
+		</image>
+		<image id="23">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-23.jpg</url>
+		</image>
+		<image id="24">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-24.jpg</url>
+		</image>
+		<image id="25">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-25.jpg</url>
+		</image>
+		<image id="26">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-26.jpg</url>
+		</image>
+		<image id="27">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-27.jpg</url>
+		</image>
+		<image id="28">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-28.jpg</url>
+		</image>
+		<image id="29">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-29.jpg</url>
+		</image>
+		<image id="30">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-30.jpg</url>
+		</image>
+		<image id="31">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-31.jpg</url>
+		</image>
+		<image id="32">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-32.jpg</url>
+		</image>
+		<image id="33">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-33.jpg</url>
+		</image>
+		<image id="34">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-34.jpg</url>
+		</image>
+		<image id="35">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-35.jpg</url>
+		</image>
+		<image id="36">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-36.jpg</url>
+		</image>
+		<image id="37">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-37.jpg</url>
+		</image>
+		<image id="38">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-38.jpg</url>
+		</image>
+		<image id="39">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-39.jpg</url>
+		</image>
+		<image id="40">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-40.jpg</url>
+		</image>
+		<image id="41">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-41.jpg</url>
+		</image>
+		<image id="42">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-42.jpg</url>
+		</image>
+		<image id="43">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-43.jpg</url>
+		</image>
+		<image id="44">
+		<url>https://fotos15.apinmo.com/6319/17503213/36-44.jpg</url>
+		</image>
 		</images>
-		<prime>1</prime>
-		<email>john.smith@sandbox.com</email>
-		<whatsapp_number>0034666555444</whatsapp_number>
-		<contact_number>0034666555444</contact_number>
 	</property>
-
-
-		<property>
-		<id>Anna_imgPersona</id>
-		<date>2013-09-27 12:00:10</date>
-		<ref>V3TEST</ref>
-		<price>252000</price>
+	
+	
+	<property>
+		<id>Anna_img_Desnudo</id>
+		<date>2026-02-16 19:02:07</date>
+		<ref>RI-00432/6319</ref>
+		<price>897000</price>
 		<currency>EUR</currency>
 		<price_freq>sale</price_freq>
+		<new_build>0</new_build>
 		<part_ownership>0</part_ownership>
 		<leasehold>0</leasehold>
-		<new_build>0</new_build>
-		<type>villa</type>
-		<town>almunecar</town>
-		<province>granada</province>
-		<country>spain</country>
+		<type>house</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Campos</town>
+		<location_detail>Ses comunes</location_detail>
+		<cp>07630</cp>
+		<postal_code>07630</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Ses comunes)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>3.003571</altitud>
+		<latitud>39.455614</latitud>
 		<location>
-			<latitude>36.728807</latitude>
-			<longitude>-3.693466</longitude>
+		<latitude>39.455614</latitude>
+		<longitude>3.003571</longitude>
 		</location>
-		<postal_code>18690</postal_code>
-		<location_detail>optional location detail</location_detail>
-		<beds>3</beds>
+		<video_url>https://media.inmovilla.com/videos/6319/17936941.mp4</video_url>
+		<beds>4</beds>
 		<baths>2</baths>
-		<pool>1</pool>
+		<pool>0</pool>
+		<orientation>Suroeste</orientation>
 		<surface_area>
-			<built>150</built>
-			<plot>500</plot>
+		<built>360</built>
+		<plot>21852</plot>
 		</surface_area>
-		<energy_rating>
-			<consumption>E</consumption>
-			<consumption_value>191</consumption_value>
-			<emissions>E</emissions>
-			<emissions_value>37</emissions_value>
-			<efficiency_grade>E</efficiency_grade>
-		</energy_rating>
+		<energy_rating> </energy_rating>
 		<url>
-			<ca>http://catalan.website.com/property/123456.htm</ca>
-			<de>http://german.website.com/property/123456.htm</de>
-			<da>http://danish.website.com/property/123456.htm</da>
-			<en>http://english.website.com/property/123456.htm</en>
-			<es>http://spanish.website.com/property/123456.htm</es>
-			<fi>http://finnish.website.com/property/123456.htm</fi>
-			<fr>http://french.website.com/property/123456.htm</fr>
-			<it>http://italian.website.com/property/123456.htm</it>
-			<nl>http://dutch.website.com/property/123456.htm</nl>
-			<no>http://norwegian.website.com/property/123456.htm</no>
-			<pt>http://portuguese.website.com/property/123456.htm</pt>
-			<ru>http://russian.website.com/property/123456.htm</ru>
-			<sv>http://swedish.website.com/property/123456.htm</sv>
+		<es>http://remaxisland.es/fichapiso.php?datoofe=17936941&numagencia=6319&soyinmo=6319</es>
 		</url>
-		<video_url>https://www.youtube.com/watch?v=dQw4w9WgXcQ</video_url>
-		<virtual_tour_url>https://my.matterport.com/show/?m=eUuz64WjuQe</virtual_tour_url>
-		<catastral>1234567AB1234C0001DE</catastral>
 		<desc>
-			<ca>Catalan property description</ca>
-			<de>German property description</de>
-			<da>Danish property description</da>
-			<en>English property description</en>
-			<es>Spanish property description</es>
-			<fi>Finnish property description</fi>
-			<fr>French property description</fr>
-			<it>Italian property description</it>
-			<nl>Dutch property description</nl>
-			<no>Norwegian property description</no>
-			<pt>Portuguese property description</pt>
-			<ru>Russian property description</ru>
-			<sv>Swedish property description</sv>
+		<es>
+		<![CDATA[ Preciosa finca rústica con casa de piedra y 21.852m2 de terreno. . Situada en una zona muy tranquila de Campos, alejada de carreteras y ruidos, pero de muy fácil acceso por camino asfaltado. Dispone de carta agrícola para poder tener caballos y animales en la finca.. . La propiedad con 304m2 construidos . La casa en la actualidad tiene 204m2 en planta baja y 96m2 en altillo, pudiendo ser ampliada según normativa actual en mas de 100m2.. En el jardín hay un espacioso almacén diáfano de casi 60m y un safareig tipo de aljibe mallorquín para refrescarse en verano y Varias terrazas. La construcción de una piscina es legalmente posible.. La finca se entregará con toda la documentación que acredita su completa legalidad de todas las construcciones existentes. . Una parte de la casa tiene la obra terminada y es habitable. . La finca dispone de agua de pozo propio legal y 2 aljibes de aguas pluviales y suministro de electricidad.. . Una vez finalizada la obra, la casa contará con 3/5 habitaciones dobles, y 2/3 baños completos, buhardilla y un gran espacio compuesto de cocina, lavanderia, comedor, salón y dos chimeneas . . . El tejado, fachada, el cableado eléctrico y las tuberías están instaladas y en el interior gran parte de la reforma está realizada por lo que la obra seria sencilla y rápida. El acceso a la propiedad es inmejorable.. . Esta finca rústica cuenta con un hermoso jardín donde se encuentran plantados rosales, calas, geranios, lavanda, romero y otras plantas aromáticas y ornamentales. También cuenta con frutales como naranjos, limoneros, mandarinas, perales...todo ello con riego automático.. . La casa está situada en el centro del terreno y está rodeada de árboles adultos que proporcionan mucha privacidad y agradables sombras para disfrutar en verano. . . Campos es una localidad de Mallorca situada en el sureste de la isla. Limita con Llucmayor, Porreras, Felanitx, Santany y Las Salinas. En la zona se encuentran varias de las mejores playas vírgenes de la isla, como la famosísima Es trenc. En la villa de Campos tienes todos los servicios necesarios: supermercados, tiendas, farmacias, colegio, guardería… y está a menos de 5 min de la finca. El aeropuerto está a solo 25 min y Palma a 30 min.. . Si estás buscando una finca rústica aislada del ruido y vecinos y que puedas terminar a tu gusto, esta es tu casa. No dudes contactar con nosotros para visitarla.". . . ]]>
+		</es>
+		<en>
+		<![CDATA[ Beautiful rustic finca with stone house . . The finca of more than 21.000M2 is situated in a very quiet countryside area far away from roads and noise but with very easy access by asphalted road. . . The house although it has a habitable area needs to finish the interior reform.. Once finished the house will have 3 double bedrooms, two complete bathrooms, large kitchen open to a spacious lounge dining room with fireplace and garage.. Roofs, electrical wiring and plumbing are finished.. . The house situated in the centre of the plot gives a lot of privacy and surrounded by mature trees provides pleasant shadows to enjoy in summer and a lot of privacy.. . The well-kept garden is planted with roses, calla lilies, geraniums, lavender, rosemary and other aromatic and ornamental plants. It also has fruit trees such as orange, lemon, mandarin and pear trees...all with automatic irrigation.. . The property has its own well water, 2 public water cisterns and electricity supply.. . A store of almost 60m and a "safareig" type of Mallorquin "algibe". . . In the area we have several of the best virgin beaches of the island like the famous Es trenc. The village of Campos where you can find all the necessary services is less than 5 minutes away. The airport is 25 minutes away and Palma is 30 minutes away.. The access to the property is unbeatable.. . If you are looking for a rustic finca isolated from the noise and that you can finish to your liking. this is your home. Do not hesitate to contact us to visit it.. . Translated with www.DeepL.com/Translator (free version) ]]>
+		</en>
+		<de>
+		<![CDATA[ Schöne rustikale Finca mit Steinhaus . . Die Finca von mehr als 21.000m2 befindet sich in einer sehr ruhigen ländlichen Gegend, weit weg von Straßen und Lärm, aber mit sehr einfachem Zugang über eine asphaltierte Straße. . . Das Haus hat zwar eine bewohnbare Fläche, muss aber noch innen renoviert werden.. Nach der Fertigstellung wird das Haus über 3 Doppelschlafzimmer, zwei komplette Badezimmer, eine große Küche, die zu einem geräumigen Wohn-Esszimmer mit Kamin offen ist, und eine Garage verfügen.. Dächer, elektrische Leitungen und Klempnerarbeiten sind fertig.. . Das Haus liegt in der Mitte des Grundstücks und ist von alten Bäumen umgeben, die im Sommer angenehmen Schatten spenden und für viel Privatsphäre sorgen.. . Der gepflegte Garten ist mit Rosen, Calla-Lilien, Geranien, Lavendel, Rosmarin und anderen aromatischen und dekorativen Pflanzen bepflanzt. Es gibt auch Obstbäume wie Orangen-, Zitronen-, Mandarinen- und Birnbäume...alle mit automatischer Bewässerung.. . Das Grundstück verfügt über einen eigenen Brunnen, 2 öffentliche Wasserzisternen und Stromanschluss.. . Ein Speicher von fast 60m und eine "safareig" Art von Mallorquin "algibe". . . In der Gegend haben wir mehrere der besten unberührten Strände der Insel wie der berühmte Es trenc. Das Dorf Campos, wo Sie alle notwendigen Dienstleistungen finden, ist weniger als 5 Minuten entfernt, der Flughafen ist 25 Minuten entfernt und Palma ist 30 Minuten entfernt.. Der Zugang zum Grundstück ist unschlagbar.. . Wenn Sie auf der Suche nach einer rustikalen Finca sind, die vom Lärm abgeschirmt ist und die Sie nach Ihren Wünschen ausbauen können. ist dies Ihr Zuhause. Zögern Sie nicht, uns zu kontaktieren, um es zu besuchen.. . ]]>
+		</de>
+		<da>
+		<![CDATA[ ]]>
+		</da>
+		<fr>
+		<![CDATA[ ]]>
+		</fr>
+		<it>
+		<![CDATA[ ]]>
+		</it>
+		<nl>
+		<![CDATA[ ]]>
+		</nl>
+		<ru>
+		<![CDATA[ ]]>
+		</ru>
+		<fi>
+		<![CDATA[ ]]>
+		</fi>
+		<ca>
+		<![CDATA[ ]]>
+		</ca>
+		<no>
+		<![CDATA[ ]]>
+		</no>
+		<pt>
+		<![CDATA[ ]]>
+		</pt>
+		<sv>
+		<![CDATA[ Preciosa finca rústica con licencia para reformar y carta agrícola para poder tener caballos en la finca, de 21.852 m2 con casa de piedra, situada en una zona muy tranquila de Campos, alejada de carreteras y ruidos, pero de muy fácil acceso por camino asfaltado. . . Campos es una localidad de Mallorca situada en el sureste de la isla. Limita con Llucmayor, Porreras, Felanitx, Santany y Las Salinas. En la zona se encuentran varias de las mejores playas vírgenes de la isla, como la famosísima Es trenc. En la villa de Campos tienes todos los servicios necesarios: supermercados, tiendas, farmacias, colegio, guardería… y está a menos de 5 min de la finca. El aeropuerto está a solo 25 min y Palma a 30 min.. . Esta finca rústica cuenta con un hermoso jardín donde se encuentran plantados rosales, calas, geranios, lavanda, romero y otras plantas aromáticas y ornamentales. También cuenta con frutales como naranjos, limoneros, mandarinas, perales...todo ello con riego automático.. . En el jardín hay un espacioso almacén diáfano de casi 60m y un safareig tipo de aljibe mallorquín para refrescarse en verano. También, tiene la posibilidad de construir una piscina.. La finca dispone de agua de pozo propio, 2 aljibes de aguas pluviales y suministro de electricidad.. . La casa está situada en el centro del terreno y está rodeada de árboles adultos que proporcionan mucha privacidad y agradables sombras para disfrutar en verano. Tiene una zona habitable y otra que necesita finalizar la reforma interior.. . Tiene la licencia de obra concedida y en vigor. Una vez finalizada la obra, la casa contará con 3 habitaciones dobles, dos baños completos, dos buhardillas y una gran cocina office abierta al espacioso salón-comedor con chimenea. También dispone de un garaje y de mucho espacio exterior para poder dejar los coches. El tejado, el cableado eléctrico y las tuberías están instaladas y en el interior gran parte de la reforma está realizada por lo que la obra seria sencilla y rápida. El acceso a la propiedad es inmejorable.. . Si estás buscando una finca rústica aislada del ruido y vecinos y que puedas terminar a tu gusto, esta es tu casa. No dudes contactar con nosotros para visitarla.". . _________ ]]>
+		</sv>
 		</desc>
 		<features>
-			<feature>good rental potential</feature>
-			<feature>near beach</feature>
-			<feature>water possible</feature>
+		<feature>Alarm Theft</feature>
+		<feature>Garage</feature>
+		<feature>Terrace</feature>
+		<feature>Storeroom</feature>
+		<feature>Garret</feature>
+		<feature>Heating</feature>
+		<feature>Light</feature>
+		<feature>Water</feature>
+		<feature>Ceilings</feature>
+		<feature>Parking</feature>
+		<feature>Auto Irrigation.</feature>
+		<feature> Water Deposit</feature>
+		<feature>Garden</feature>
 		</features>
-		<notes>Private property notes</notes>
 		<images>
-			<image id="1">
-				<url>http://images.kyero.com/12811577_large.jpg</url>
-			</image>
-			<image id="2">
-				<tags>
-					<tag>floorplan</tag>
-				</tags>
-				<url>http://images.kyero.com/12811578_large.jpg</url>
-			</image>
-			<image id="3">
-				<url>http://images.kyero.com/12811579_large.jpg</url>
-			</image>
-			<image id="4">
-				<url>https://www.lacasa.net/blog/wp-content/uploads/2021/12/1240x600visia-para-vender-piso-rapido-1080x600.png</url>
-			</image>
-			<image id="50">
-				<url>http://images.kyero.com/12811582_large.jpg</url>
-			</image>
+		<image id="1">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-1.jpg</url>
+		</image>
+		<image id="2">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-2.jpg</url>
+		</image>
+		<image id="3">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-3.jpg</url>
+		</image>
+		<image id="4">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-4.jpg</url>
+		</image>
+		<image id="5">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-5.jpg</url>
+		</image>
+		<image id="6">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-6.jpg</url>
+		</image>
+		<image id="7">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-7.jpg</url>
+		</image>
+		<image id="8">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-8.jpg</url>
+		</image>
+		<image id="9">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-9.jpg</url>
+		</image>
+		<image id="10">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-10.jpg</url>
+		</image>
+		<image id="11">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-11.jpg</url>
+		</image>
+		<image id="12">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-12.jpg</url>
+		</image>
+		<image id="13">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-13.jpg</url>
+		</image>
+		<image id="14">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-14.jpg</url>
+		</image>
+		<image id="15">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-15.jpg</url>
+		</image>
+		<image id="16">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-16.jpg</url>
+		</image>
+		<image id="17">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-17.jpg</url>
+		</image>
+		<image id="18">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-18.jpg</url>
+		</image>
+		<image id="19">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-19.jpg</url>
+		</image>
+		<image id="20">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-20.jpg</url>
+		</image>
+		<image id="21">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-21.jpg</url>
+		</image>
+		<image id="22">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-22.jpg</url>
+		</image>
+		<image id="23">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-23.jpg</url>
+		</image>
+		<image id="24">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-24.jpg</url>
+		</image>
+		<image id="25">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-25.jpg</url>
+		</image>
+		<image id="26">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-26.jpg</url>
+		</image>
+		<image id="27">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-27.jpg</url>
+		</image>
+		<image id="28">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-28.jpg</url>
+		</image>
+		<image id="29">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-29.jpg</url>
+		</image>
+		<image id="30">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-30.jpg</url>
+		</image>
+		<image id="31">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-31.jpg</url>
+		</image>
+		<image id="32">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-32.jpg</url>
+		</image>
+		<image id="33">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-33.jpg</url>
+		</image>
+		<image id="34">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-34.jpg</url>
+		</image>
+		<image id="35">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-35.jpg</url>
+		</image>
+		<image id="36">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-36.jpg</url>
+		</image>
+		<image id="37">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-37.jpg</url>
+		</image>
+		<image id="38">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-38.jpg</url>
+		</image>
+		<image id="39">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-39.jpg</url>
+		</image>
+		<image id="40">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-40.jpg</url>
+		</image>
+		<image id="41">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-41.jpg</url>
+		</image>
+		<image id="42">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-42.jpg</url>
+		</image>
+		<image id="43">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-43.jpg</url>
+		</image>
+		<image id="44">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-44.jpg</url>
+		</image>
+		<image id="45">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-45.jpg</url>
+		</image>
+		<image id="46">
+		<url>https://fotos15.apinmo.com/6319/17936941/66-46.jpg</url>
+		</image>
 		</images>
-		<prime>1</prime>
-		<email>john.smith@sandbox.com</email>
-		<whatsapp_number>0034666555444</whatsapp_number>
-		<contact_number>0034666555444</contact_number>
 	</property>
 
+	<property>
+		<id>Anna_img_Persona</id>
+		<date>2025-12-19 18:00:12</date>
+		<ref>RI-00424/6319</ref>
+		<price>3500000</price>
+		<currency>EUR</currency>
+		<price_freq>sale</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>0</leasehold>
+		<type>house</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Llucmajor</town>
+		<location_detail>Llucmajor (Campo)</location_detail>
+		<cp>07620</cp>
+		<postal_code>07620</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Llucmajor (Campo))</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.941156</altitud>
+		<latitud>39.453061</latitud>
+		<location>
+		<latitude>39.453061</latitude>
+		<longitude>2.941156</longitude>
+		</location>
+		<video_url>https://media.inmovilla.com/videos/6319/18158877.mp4</video_url>
+		<beds>4</beds>
+		<baths>5</baths>
+		<pool>1</pool>
+		<orientation>Sureste</orientation>
+		<surface_area>
+		<built>629</built>
+		<plot>20243</plot>
+		</surface_area>
+		<energy_rating> </energy_rating>
+		<url>
+		<es>http://remaxisland.es/fichapiso.php?datoofe=18158877&numagencia=6319&soyinmo=6319</es>
+		</url>
+		<desc>
+		<es>
+		<![CDATA[ Esta hermosa villa elegante con licencia vacacional para 8 personas, es luminosa, espaciosa y de fácil acceso. Ha sido diseñada cuidadosamente y con buen gusto. . . Ha sido construida con materiales de alta calidad, y sobre todo prestando mucha atención al confort y seguridad.. . Tiene LICENCIA TURÍSTICA para 8 personas y da la sensación de estar en un exclusivo hotel. Rodeado de 20.243 m2 de terreno y con maravillosos jardines Mediterráneos en donde podrás desconectar del estrés y de lo cotidiano de la isla.. . La villa ofrece 4 dormitorios amplios totalmente exteriores, con armarios empotrados y cada uno con baño en suite, 3 de los cuales se encuentran en la planta baja.. . Su amplio salón comedor, con chimenea, y con salida y vistas a la piscina, tiene 3 hermosos arcos hechos en piedra de Mares. El salón se integra con la cocina abierta y moderna, lo cual permite a familiares y amigos disfrutar de largas veladas gastronómicas y de buen compartir.. . La habitación principal, que ocupa toda la planta superior, es sencillamente espectacular, con todo el suelo de parqué y una gran terraza con vistas a los jardines y piscina. Tiene chimenea, un cuarto de baño espacioso con bañera y ducha. Desde aquí podrás desconectar del ajetreo del día y disfrutar de unas puestas de sol maravillosas.. . La vivienda consta de calefacción central, calefacción individual y suelo radiante lo que te permitirá tener siempre la vivienda con la temperatura ideal en invierno.. El suelo de la planta inferior está hecho de mármol a bujardado, y la planta superior de parqué. . . Tiene PLACAS SOLARES, lo que permite el autoconsumo y fomenta la sostenibilidad. . Y POZO PROPIO, por lo que podrás conseguir agua de manera limpia y pura.. . También tiene una gran terraza, muy elegante de madera, desde donde puedes disfrutar de ese hermoso jardín bien cuidado y vistas a la piscina y al jacuzzi, un entorno perfecto para disfrutar de momentos especiales con su familia . . Si te gusta la vida sana y cultivar de manera ecológica, unos de los beneficios que te aporta esta finca es que tiene sembrado en sus alrededores unos 109 Olivos, almendros, algarrobos, higos, árboles frutales como granados, limoneros, albaricoques, naranjos, Uva, caqui, membrillo. . . Está ubicada en una zona tranquila, aislada del tráfico y del ruido para disfrutar de la paz y tranquilidad, y a tan solo 25 km de Palma capital, 20 km del aeropuerto .. Playas como la de Sa Rapita, Ses Covetes, Es Trenc, S Estanyol, El Arenal las tienes a tan solo 20 minutos.. . Si todo lo que te he comentado acerca de esta propiedad encaja para ti, entonces llámame y estaremos encantados de atenderle.. . GRACIAS.. ]]>
+		</es>
+		<en>
+		<![CDATA[ This beautiful elegant villa with holiday licence for 8 persons is bright, spacious and easily accessible. It has been carefully and tastefully designed.. . It has been built with high quality materials, and above all paying much attention to comfort and security.. . It has a TOURIST LICENSE for 8 people and gives the feeling of being in an exclusive hotel. Surrounded by 20.243 m2 of land with wonderful Mediterranean gardens where you can disconnect from the stress and everyday life of the island.. . The villa offers 4 spacious bedrooms totally exterior, with fitted closets and each with en suite bathroom, 3 of which are located on the first floor.. . Its spacious living-dining room, with fireplace, and with exit and views to the pool, has 3 beautiful arches made in Mares stone. The living room is integrated with the open and modern kitchen, which allows family and friends to enjoy long gastronomic evenings and good sharing.. . The master bedroom, which occupies the entire upper floor, is simply spectacular, with all parquet flooring and a large terrace overlooking the gardens and pool. It has a fireplace, a spacious bathroom with bathtub and shower. From here you can disconnect from the hustle and bustle of the day and enjoy wonderful sunsets.. . The house has central heating, individual heating and underfloor heating which will allow you to always have the house with the ideal temperature in winter.. The floor of the lower floor is made of marble and the upper floor of parquet. . . It has SOLAR PANELS, which allows self-consumption and promotes sustainability. . And OWN WELL, so you can get clean and pure water.. . It also has a large terrace, very elegant made of wood, from where you can enjoy that beautiful well kept garden and views to the pool and jacuzzi, a perfect environment to enjoy special moments with your family. . . If you like healthy living and organic farming, one of the benefits of this farm is that it has planted around 109 olive trees, almond trees, carob trees, figs, fruit trees such as pomegranates, lemons, apricots, oranges, grapes, persimmons, quince. . . It is located in a quiet area, isolated from traffic and noise to enjoy the peace and quiet, and only 25 km from Palma capital, 20 km from the airport.. Beaches like Sa Rapita, Ses Covetes, Es Trenc, S Estanyol, El Arenal are only 20 minutes away.. . If everything I have told you about this property fits for you, then call me and we will be happy to assist you.. . THANK YOU.. . ]]>
+		</en>
+		<de>
+		<![CDATA[ Diese schöne, elegante Villa mit Urlaubsgenehmigung für 8 Personen ist hell, geräumig und leicht zugänglich. Es wurde sorgfältig und geschmackvoll gestaltet.. Es wurde mit hochwertigen Materialien und vor allem mit großer Aufmerksamkeit für Komfort und Sicherheit gebaut.. . Es hat eine TOURISTISCHE LIZENZ für 8 Personen und vermittelt das Gefühl, in einem exklusiven Hotel zu sein. Umgeben von 20.243 m2 Land und mit herrlichen mediterranen Gärten, wo Sie vom Stress und Alltag der Insel abschalten können.. . Die Villa verfügt über 4 geräumige Schlafzimmer, alle mit Einbauschränken und jeweils mit eigenem Bad, von denen sich 3 im Erdgeschoss befinden.. . Das geräumige Wohn-/Esszimmer mit Kamin, Ausgang und Blick auf das Schwimmbad hat 3 schöne Bögen aus Mares-Stein. Das Wohnzimmer ist in die offene und moderne Küche integriert, die es Familie und Freunden ermöglicht, lange gastronomische Abende zu genießen und sich auszutauschen.. . Das Hauptschlafzimmer, das die gesamte obere Etage einnimmt, ist einfach spektakulär, mit Parkettboden und einer großen Terrasse mit Blick auf den Garten und den Pool. Es hat einen Kamin, ein geräumiges Badezimmer mit Badewanne und Dusche. Von hier aus können Sie von der Hektik des Tages abschalten und wunderschöne Sonnenuntergänge genießen.. . Das Haus verfügt über eine Zentralheizung, eine individuelle Heizung und eine Fußbodenheizung, die es Ihnen ermöglicht, das Haus im Winter immer auf die ideale Temperatur zu bringen.. Der Fußboden der unteren Etage ist aus Marmor und der obere Fußboden aus Parkett. . . Es verfügt über SOLARPANEL, die den Eigenverbrauch ermöglichen und die Nachhaltigkeit fördern. . Und einen EIGENEN Brunnen, damit Sie sauberes und reines Wasser haben.. . Es hat auch eine große, sehr elegante Holzterrasse, von der aus Sie den schönen, gepflegten Garten und den Blick auf den Swimmingpool und den Whirlpool genießen können, eine perfekte Umgebung, um besondere Momente mit Ihrer Familie zu genießen. . . Wenn Sie sich für gesundes Leben und biologische Landwirtschaft interessieren, ist einer der Vorteile dieser Finca, dass sie 109 Olivenbäume, Mandelbäume, Johannisbrotbäume, Feigenbäume, Obstbäume wie Granatapfelbäume, Zitronenbäume, Aprikosenbäume, Orangenbäume, Weintrauben, Kakibäume und Quittenbäume hat. . . Es befindet sich in einer ruhigen Gegend, isoliert von Verkehr und Lärm, um die Ruhe zu genießen, und nur 25 km von Palma Stadt, 20 km vom Flughafen entfernt.. Strände wie Sa Rapita, Ses Covetes, Es Trenc, S Estanyol, El Arenal sind nur 20 Minuten entfernt.. . Wenn alles, was ich Ihnen über diese Immobilie erzählt habe, zu Ihnen passt, dann rufen Sie mich an und wir werden Sie gerne besuchen.. . DANKE!. . ]]>
+		</de>
+		<da>
+		<![CDATA[ ]]>
+		</da>
+		<fr>
+		<![CDATA[ ]]>
+		</fr>
+		<it>
+		<![CDATA[ ]]>
+		</it>
+		<nl>
+		<![CDATA[ ]]>
+		</nl>
+		<ru>
+		<![CDATA[ ]]>
+		</ru>
+		<fi>
+		<![CDATA[ ]]>
+		</fi>
+		<ca>
+		<![CDATA[ ]]>
+		</ca>
+		<no>
+		<![CDATA[ ]]>
+		</no>
+		<pt>
+		<![CDATA[ ]]>
+		</pt>
+		<sv>
+		<![CDATA[ ]]>
+		</sv>
+		</desc>
+		<features>
+		<feature>Balcon</feature>
+		<feature>Alarm Theft</feature>
+		<feature>A/A</feature>
+		<feature>Garage</feature>
+		<feature>Terrace</feature>
+		<feature>Wardrobes cupboard</feature>
+		<feature>Storeroom</feature>
+		<feature>Appliances</feature>
+		<feature>Heating</feature>
+		<feature>Air-Conditioning</feature>
+		<feature>Video Intercom</feature>
+		<feature>Pool Own </feature>
+		<feature>Jacuzzi</feature>
+		<feature>Laundry</feature>
+		<feature>Ceilings</feature>
+		<feature>Parking</feature>
+		<feature>Auto Irrigation.</feature>
+		<feature> Water Deposit</feature>
+		<feature>Barbecue</feature>
+		<feature>Automatic Doors</feature>
+		<feature>Alarm</feature>
+		<feature>Mirador</feature>
+		<feature>Garden</feature>
+		<feature>washing room</feature>
+		</features>
+		<images>
+		<image id="1">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-1.jpg</url>
+		</image>
+		<image id="2">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-2.jpg</url>
+		</image>
+		<image id="3">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-3.jpg</url>
+		</image>
+		<image id="4">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-4.jpg</url>
+		</image>
+		<image id="5">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-5.jpg</url>
+		</image>
+		<image id="6">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-6.jpg</url>
+		</image>
+		<image id="7">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-7.jpg</url>
+		</image>
+		<image id="8">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-8.jpg</url>
+		</image>
+		<image id="9">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-9.jpg</url>
+		</image>
+		<image id="10">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-10.jpg</url>
+		</image>
+		<image id="11">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-11.jpg</url>
+		</image>
+		<image id="12">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-12.jpg</url>
+		</image>
+		<image id="13">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-13.jpg</url>
+		</image>
+		<image id="14">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-14.jpg</url>
+		</image>
+		<image id="15">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-15.jpg</url>
+		</image>
+		<image id="16">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-16.jpg</url>
+		</image>
+		<image id="17">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-17.jpg</url>
+		</image>
+		<image id="18">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-18.jpg</url>
+		</image>
+		<image id="19">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-19.jpg</url>
+		</image>
+		<image id="20">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-20.jpg</url>
+		</image>
+		<image id="21">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-21.jpg</url>
+		</image>
+		<image id="22">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-22.jpg</url>
+		</image>
+		<image id="23">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-23.jpg</url>
+		</image>
+		<image id="24">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-24.jpg</url>
+		</image>
+		<image id="25">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-25.jpg</url>
+		</image>
+		<image id="26">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-26.jpg</url>
+		</image>
+		<image id="27">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-27.jpg</url>
+		</image>
+		<image id="28">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-28.jpg</url>
+		</image>
+		<image id="29">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-29.jpg</url>
+		</image>
+		<image id="30">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-30.jpg</url>
+		</image>
+		<image id="31">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-31.jpg</url>
+		</image>
+		<image id="32">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-32.jpg</url>
+		</image>
+		<image id="33">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-33.jpg</url>
+		</image>
+		<image id="34">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-34.jpg</url>
+		</image>
+		<image id="35">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-35.jpg</url>
+		</image>
+		<image id="36">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-36.jpg</url>
+		</image>
+		<image id="37">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-37.jpg</url>
+		</image>
+		<image id="38">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-38.jpg</url>
+		</image>
+		<image id="39">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-39.jpg</url>
+		</image>
+		<image id="40">
+		<url>https://fotos15.apinmo.com/6319/18158877/44-40.jpg</url>
+		</image>
+		</images>
+	</property>
 
+	
+	<property>
+		<id>Anna_img_Matricula</id>
+		<date>2024-02-26 18:38:38</date>
+		<ref>RI-00435/6319</ref>
+		<price>2000000</price>
+		<currency>EUR</currency>
+		<price_freq>sale</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>0</leasehold>
+		<type>house</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Santa Maria del Cami</town>
+		<location_detail>Santa Maria del Cami</location_detail>
+		<cp>07320</cp>
+		<postal_code>07320</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Santa Maria del Cami)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.761322</altitud>
+		<latitud>39.655278</latitud>
+		<location>
+		<latitude>39.655278</latitude>
+		<longitude>2.761322</longitude>
+		</location>
+		<beds>5</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+		<built>480</built>
+		<plot>5500</plot>
+		</surface_area>
+		<energy_rating> </energy_rating>
+		<url>
+		<es>http://remaxisland.es/fichapiso.php?datoofe=18265860&numagencia=6319&soyinmo=6319</es>
+		</url>
+		<desc>
+		<es>
+		<![CDATA[ La vida rural es apreciada por el que busca tranquilidad y sosiego, pero disfruta a la vez del bullicio de un pueblo lleno de vida. Característico por su mercado dominical, Santa María es un pueblo que enamora. Se localiza a 20 km de la capital , muy bien posicionado y comunicado. A pocos Km se encuentran otros pueblos llenos de encanto, haciendo que sea un lugar ideal para los amantes del campo y de las actividades relacionadas como, ciclismo, senderismo. etc.. . Esta finca rústica se localiza a menos de 1km del pueblo. Se ubica en una parcela de 5.500m2. Costa de 480.00 m2 de superficie, con 5 habitaciones dobles, una en planta baja con baño en suite, tres en 1ª planta con un amplio baño compartido y con armarios empotrados. La quinta habitación de encuentra en la torreta y tiene salida a una terraza con vistas espectaculares a la Sierra de Tramuntana. . En la entrada principal hay un gran Hall que se comunica con la sala comedor, la cocina y un pasillo que nos lleva a la escalera. En planta baja también encontramos un aseo de cortesía.. la sala comedor con chimenea, es muy amplia con techos altos y viga vista. Se comunica con el hall, la cocina y con la terraza .. La cocina de estilo rústico, es amplia y con office. Se comunica , con el salón , con el hall y con la terraza, que alberga una gran piscina rodeada de un frondoso jardín. Hay una zona de barbacoa independiente donde disfrutar con familia y amigos de comidas y veladas inolvidables.. En la parcela encontramos un huerto, una pista de tenis y una gran área de cultivo.. . Es una villa que da la privacidad que se desea sin renunciar a la vida bulliciosa del pueblo, que tiene todos los servicios necesarios además de cafeterías, restaurantes, bodegas y muy bien comunicado . al centro de la capital por tren y autobús. . . . . . . . . ]]>
+		</es>
+		<en>
+		<![CDATA[ Rural life is appreciated by those who are looking for peace and quiet, but at the same time enjoy the hustle and bustle of a village full of life. Characterised by its Sunday market, Santa María is a village that will enchant you. It is located 20 km from the capital, very well positioned and well communicated. A few kilometres away there are other villages full of charm, making it an ideal place for lovers of the countryside and related activities such as cycling, hiking. etc.. . This rustic finca is located less than 1km from the village. It is located on a plot of 5.500m2.. Costa de 480.00 m2 of surface, with 5 double bedrooms, one on the ground floor with bathroom en suite, three on the 1st floor with a large shared bathroom and with fitted wardrobes. The fifth bedroom is located in the turret and has access to a terrace with spectacular views of the Tramuntana mountains. . At the main entrance there is a large hall that communicates with the living-dining room, the kitchen and a corridor that leads to the staircase. On the ground floor there is also a guest toilet.. The living-dining room with fireplace is very spacious with high ceilings and exposed beams. It communicates with the hall, the kitchen and the terrace.. The rustic style kitchen is spacious and has an office. It communicates with the living room, the hall and the terrace, which has a large swimming pool surrounded by a leafy garden. There is a separate barbecue area where you can enjoy unforgettable meals and evenings with family and friends.. On the plot there is an orchard, a tennis court and a large cultivation area.. . It is a villa that gives the privacy you want without giving up the bustling life of the village, which has all the necessary services as well as cafes, restaurants, wine cellars and very well communicated to the centre of the capital by train and bus. . to the centre of the capital by train and bus. . ]]>
+		</en>
+		<de>
+		<![CDATA[ Das Leben auf dem Lande wird von all jenen geschätzt, die Ruhe und Frieden suchen, aber gleichzeitig das bunte Treiben eines Dorfes voller Leben genießen möchten. Santa María ist ein Dorf, das durch seinen Sonntagsmarkt gekennzeichnet ist und Sie verzaubern wird. Es ist 20 km von der Hauptstadt entfernt, sehr gut gelegen und gut angebunden. Nur wenige Kilometer entfernt gibt es weitere Dörfer voller Charme, was es zu einem idealen Ort für Liebhaber der Landschaft und der damit verbundenen Aktivitäten wie Radfahren, Wandern usw. macht.. . Diese rustikale Finca befindet sich weniger als 1 km vom Dorf entfernt. Sie befindet sich auf einem Grundstück von 5.500m2.. Costa de 480.00 m2 Fläche, mit 5 Doppelschlafzimmern, eines im Erdgeschoss mit Bad en suite, drei im ersten Stock mit einem großen gemeinsamen Bad und mit Einbauschränken. Das fünfte Schlafzimmer befindet sich im Türmchen und hat Zugang zu einer Terrasse mit spektakulärem Blick auf das Tramuntana-Gebirge. . Am Haupteingang befindet sich eine große Halle, die mit dem Wohn-Esszimmer, der Küche und einem Korridor, der zum Treppenhaus führt, verbunden ist. Im Erdgeschoss befindet sich auch ein Gäste-WC.. Das Wohn-Esszimmer mit Kamin ist sehr geräumig, hat hohe Decken und sichtbare Balken. Es verbindet sich mit dem Flur, der Küche und der Terrasse.. Die Küche im rustikalen Stil ist geräumig und hat ein Büro. Sie ist mit dem Wohnzimmer, dem Flur und der Terrasse verbunden, auf der sich ein großer Swimmingpool befindet, der von einem begrünten Garten umgeben ist. Es gibt einen separaten Grillplatz, wo Sie unvergessliche Mahlzeiten und Abende mit Familie und Freunden genießen können.. Auf dem Grundstück gibt es einen Obstgarten, einen Tennisplatz und eine große Anbaufläche.. . Es ist eine Villa, die Ihnen die gewünschte Privatsphäre bietet, ohne auf das rege Leben des Dorfes zu verzichten, das über alle notwendigen Dienstleistungen sowie Cafés, Restaurants und Weinkeller verfügt und mit Zug und Bus sehr gut an das Zentrum der Hauptstadt angebunden ist. . zum Zentrum der Hauptstadt mit dem Zug und Bus. . ]]>
+		</de>
+		<da>
+		<![CDATA[ ]]>
+		</da>
+		<fr>
+		<![CDATA[ La vie rurale est appréciée par ceux qui recherchent le calme et la tranquillité, tout en profitant de l'animation d'un village plein de vie. Caractérisé par son marché dominical, Santa María est un village qui vous enchantera. Situé à 20 km de la capitale, il est très bien placé et bien desservi. À quelques kilomètres de là se trouvent d'autres villages pleins de charme, ce qui en fait un lieu idéal pour les amoureux de la campagne et des activités qui y sont liées, comme le cyclisme, la randonnée, etc.. . Cette finca rustique est située à moins d'un kilomètre du village. Elle est située sur un terrain de 5.500m2.. Costa de 480,00 m2 de surface, avec 5 chambres doubles, une au rez-de-chaussée avec salle de bain en suite, trois au 1er étage avec une grande salle de bain commune et avec des armoires encastrées. La cinquième chambre est située dans la tourelle et a accès à une terrasse avec des vues spectaculaires sur les montagnes de Tramuntana. . L'entrée principale se compose d'un grand hall qui communique avec le salon-salle à manger, la cuisine et un couloir qui mène à l'escalier. Au rez-de-chaussée, il y a également des toilettes pour les invités.. Le salon-salle à manger avec cheminée est très spacieux avec de hauts plafonds et des poutres apparentes. Il communique avec le hall, la cuisine et la terrasse.. La cuisine de style rustique est spacieuse et dispose d'un bureau. Elle communique avec le salon, le hall et la terrasse, qui dispose d'une grande piscine entourée d'un jardin verdoyant. Il y a une zone de barbecue séparée où vous pourrez profiter de repas et de soirées inoubliables avec votre famille et vos amis.. Le terrain comprend un verger, un court de tennis et une grande zone de culture.. . C'est une villa qui offre l'intimité souhaitée sans renoncer à la vie animée du village, qui dispose de tous les services nécessaires ainsi que de cafés, de restaurants, de caves à vin et qui est très bien relié au centre de la capitale par train et par autobus. au centre de la capitale par train et bus. ]]>
+		</fr>
+		<it>
+		<![CDATA[ La vita rurale è apprezzata da chi cerca pace e tranquillità, ma allo stesso tempo si gode il trambusto di un villaggio pieno di vita. Caratterizzato dal suo mercato domenicale, Santa María è un villaggio che vi incanterà. Si trova a 20 km dalla capitale, in un'ottima posizione e ben comunicata. A pochi chilometri di distanza si trovano altri villaggi ricchi di fascino, che lo rendono un luogo ideale per gli amanti della campagna e delle attività connesse, come il ciclismo, l'escursionismo, ecc.. . Questa finca rustica si trova a meno di 1 km dal villaggio. Si trova su un terreno di 5.500 m2.. Costa de 480,00 m2 di superficie, con 5 camere da letto doppie, una al piano terra con bagno en suite, tre al 1° piano con un grande bagno in comune e con armadi a muro. La quinta camera da letto si trova nella torretta e ha accesso a una terrazza con vista spettacolare sulle montagne di Tramuntana. . All'ingresso principale si trova un ampio ingresso che comunica con il soggiorno-sala da pranzo, la cucina e un corridoio che conduce alla scala. Al piano terra si trova anche un bagno per gli ospiti.. Il soggiorno-sala da pranzo con camino è molto spazioso, con soffitti alti e travi a vista. Comunica con l'ingresso, la cucina e la terrazza.. La cucina in stile rustico è spaziosa e dispone di un ufficio. Comunica con il soggiorno, l'ingresso e la terrazza, che dispone di una grande piscina circondata da un giardino verdeggiante. C'è un'area barbecue separata dove si possono gustare pasti e serate indimenticabili con la famiglia e gli amici.. Sul terreno si trovano un frutteto, un campo da tennis e un'ampia area di coltivazione.. . È una villa che offre la privacy desiderata senza rinunciare alla vita movimentata del villaggio, che dispone di tutti i servizi necessari nonché di caffè, ristoranti, cantine e che è molto ben collegato al centro della capitale con treni e autobus. ]]>
+		</it>
+		<nl>
+		<![CDATA[ ]]>
+		</nl>
+		<ru>
+		<![CDATA[ ]]>
+		</ru>
+		<fi>
+		<![CDATA[ ]]>
+		</fi>
+		<ca>
+		<![CDATA[ ]]>
+		</ca>
+		<no>
+		<![CDATA[ ]]>
+		</no>
+		<pt>
+		<![CDATA[ ]]>
+		</pt>
+		<sv>
+		<![CDATA[ ]]>
+		</sv>
+		</desc>
+		<features>
+		<feature>Garage</feature>
+		<feature>Wardrobes cupboard</feature>
+		<feature>Air-Conditioning</feature>
+		<feature>Pool Own </feature>
+		<feature>Laundry</feature>
+		<feature>Ceilings</feature>
+		<feature>Auto Irrigation.</feature>
+		<feature>Barbecue</feature>
+		<feature>Automatic Doors</feature>
+		<feature>Garden</feature>
+		</features>
+		<images>
+		<image id="1">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-1.jpg</url>
+		</image>
+		<image id="2">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-2.jpg</url>
+		</image>
+		<image id="3">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-3.jpg</url>
+		</image>
+		<image id="4">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-4.jpg</url>
+		</image>
+		<image id="5">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-5.jpg</url>
+		</image>
+		<image id="6">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-6.jpg</url>
+		</image>
+		<image id="7">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-7.jpg</url>
+		</image>
+		<image id="8">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-8.jpg</url>
+		</image>
+		<image id="9">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-9.jpg</url>
+		</image>
+		<image id="10">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-10.jpg</url>
+		</image>
+		<image id="11">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-11.jpg</url>
+		</image>
+		<image id="12">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-12.jpg</url>
+		</image>
+		<image id="13">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-13.jpg</url>
+		</image>
+		<image id="14">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-14.jpg</url>
+		</image>
+		<image id="15">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-15.jpg</url>
+		</image>
+		<image id="16">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-16.jpg</url>
+		</image>
+		<image id="17">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-17.jpg</url>
+		</image>
+		<image id="18">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-18.jpg</url>
+		</image>
+		<image id="19">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-19.jpg</url>
+		</image>
+		<image id="20">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-20.jpg</url>
+		</image>
+		<image id="21">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-21.jpg</url>
+		</image>
+		<image id="22">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-22.jpg</url>
+		</image>
+		<image id="23">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-23.jpg</url>
+		</image>
+		<image id="24">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-24.jpg</url>
+		</image>
+		<image id="25">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-25.jpg</url>
+		</image>
+		<image id="26">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-26.jpg</url>
+		</image>
+		<image id="27">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-27.jpg</url>
+		</image>
+		<image id="28">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-28.jpg</url>
+		</image>
+		<image id="29">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-29.jpg</url>
+		</image>
+		<image id="30">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-30.jpg</url>
+		</image>
+		<image id="31">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-31.jpg</url>
+		</image>
+		<image id="32">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-32.jpg</url>
+		</image>
+		<image id="33">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-33.jpg</url>
+		</image>
+		<image id="34">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-34.jpg</url>
+		</image>
+		<image id="35">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-35.jpg</url>
+		</image>
+		<image id="36">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-36.jpg</url>
+		</image>
+		<image id="37">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-37.jpg</url>
+		</image>
+		<image id="38">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-38.jpg</url>
+		</image>
+		<image id="39">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-39.jpg</url>
+		</image>
+		<image id="40">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-40.jpg</url>
+		</image>
+		<image id="41">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-41.jpg</url>
+		</image>
+		<image id="42">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-42.jpg</url>
+		</image>
+		<image id="43">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-43.jpg</url>
+		</image>
+		<image id="44">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-44.jpg</url>
+		</image>
+		<image id="45">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-45.jpg</url>
+		</image>
+		<image id="46">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-46.jpg</url>
+		</image>
+		<image id="47">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-47.jpg</url>
+		</image>
+		<image id="48">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-48.jpg</url>
+		</image>
+		<image id="49">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-49.jpg</url>
+		</image>
+		<image id="50">
+		<url>https://fotos15.apinmo.com/6319/18265860/35-50.jpg</url>
+		</image>
+		</images>
+	</property>
 </root>

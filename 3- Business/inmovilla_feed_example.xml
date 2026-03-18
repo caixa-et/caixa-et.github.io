@@ -10,7 +10,7 @@
 		<vpo_name>Libre</vpo_name>
 		<destacado>0</destacado>
 		<antiguedad>1930</antiguedad>
-		<tipo_ofer>Piso</tipo_ofer>
+		<tipo_ofer>Apartment</tipo_ofer>
 		<fecha>2026-03-16 19:53:51</fecha>
 		<fechaact>2026-03-16 20:14:25</fechaact>
 		<keypromo>0</keypromo>
@@ -320,7 +320,7 @@
 		<vpo_name>Libre</vpo_name>
 		<destacado>0</destacado>
 		<antiguedad>2009</antiguedad>
-		<tipo_ofer>Estudio</tipo_ofer>
+		<tipo_ofer>Apartment</tipo_ofer>
 		<fecha>2025-02-11 11:13:27</fecha>
 		<fechaact>2026-02-09 11:06:09</fechaact>
 		<keypromo>0</keypromo>
@@ -933,7 +933,7 @@
 		<vpo_name>Libre</vpo_name>
 		<destacado>0</destacado>
 		<antiguedad>2001</antiguedad>
-		<tipo_ofer>Piso</tipo_ofer>
+		<tipo_ofer>Apartment</tipo_ofer>
 		<fecha>2024-04-26 13:35:44</fecha>
 		<fechaact>2026-02-26 19:58:49</fechaact>
 		<keypromo>0</keypromo>
@@ -1261,7 +1261,7 @@
 		<vpo_name>Libre</vpo_name>
 		<destacado>0</destacado>
 		<antiguedad>1972</antiguedad>
-		<tipo_ofer>Piso</tipo_ofer>
+		<tipo_ofer>Apartment</tipo_ofer>
 		<fecha>2024-12-03 12:09:41</fecha>
 		<fechaact>2026-02-27 12:00:00</fechaact>
 		<keypromo>0</keypromo>
@@ -1571,7 +1571,7 @@
 		<vpo_name>Libre</vpo_name>
 		<destacado>0</destacado>
 		<antiguedad>1955</antiguedad>
-		<tipo_ofer>Casa</tipo_ofer>
+		<tipo_ofer>House</tipo_ofer>
 		<fecha>2025-02-19 13:48:29</fecha>
 		<fechaact>2026-03-17 17:55:28</fechaact>
 		<keypromo>0</keypromo>
@@ -1890,7 +1890,7 @@
 		<vpo_name>Libre</vpo_name>
 		<destacado>0</destacado>
 		<antiguedad>1960</antiguedad>
-		<tipo_ofer>Piso</tipo_ofer>
+		<tipo_ofer>Apartment</tipo_ofer>
 		<fecha>2025-04-30 11:20:55</fecha>
 		<fechaact>2026-03-05 13:51:04</fechaact>
 		<keypromo>0</keypromo>
@@ -2511,7 +2511,7 @@
 		<vpo_name>Libre</vpo_name>
 		<destacado>0</destacado>
 		<antiguedad>1940</antiguedad>
-		<tipo_ofer>Dúplex</tipo_ofer>
+		<tipo_ofer>Apartment</tipo_ofer>
 		<fecha>2025-08-11 13:28:55</fecha>
 		<fechaact>2026-03-04 12:57:45</fechaact>
 		<keypromo>0</keypromo>

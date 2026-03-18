@@ -4,7 +4,7 @@
 		<feed_version>3</feed_version>
 	</kyero>
 	<property>
-<id>20051</id>
+<id>test-kyero</id>
 <date>2026-02-03 03:01:41</date>
 <ref>20-3263</ref>
 <price>230000</price>
@@ -84,4 +84,105 @@
 </image>
 </images>
 </property>
+	<property>
+		<id>test-kyero-02</id>
+		<date>2026-02-02 15:59:19</date>
+		<ref>CG-12748-0001</ref>
+		<price>32000</price>
+		<currency>EUR</currency>
+		<price_freq>sale</price_freq>
+		<leasehold/>
+		<new_build/>
+		<type>House</type>
+		<town>Crevillent</town>
+		<province>Alicante/Alacant</province>
+		<country>España</country>
+		<part_ownership/>
+		<catastral>1760506XH9316S0001SR</catastral>
+		<notes/>
+		<prime/>
+		<email/>
+		<contact_number/>
+		<whatsapp_number/>
+		<location_detail/>
+		<beds>3</beds>
+		<baths>1</baths>
+		<pool/>
+		<location>
+			<latitude>38.250326</latitude>
+			<longitude>-0.809559</longitude>
+		</location>
+		<surface_area>
+			<built>169</built>
+			<plot>0</plot>
+		</surface_area>
+		<energy_rating>
+			<consumption>X</consumption>
+		</energy_rating>
+		<url>
+			<ca>https://www.solvia.es/ca/Casa-a-Crevillent-3-dormitorios/922_0/habitatge_1594.html</ca>
+			<en>https://www.solviarealestate.com/en/Casa-in-Crevillent-3-dormitorios/922_0/house_1594.html</en>
+			<es>https://www.solvia.es/es/propiedades/comprar/Casa-Crevillent-3-domitorios-922-1594</es>
+			<fr>https://www.solviarealestate.com/fr/Casa-in-Crevillent-3-dormitorios/922_0/house_1594.html</fr>
+		</url>
+		<desc>
+			<ca>Casa cantonera per reformar al nucli antic de Crevillent. És molt lluminosa. Té una superfície de 169 m² dividits en 2 plantes comunicades mitjançant una escala interior i distribuïts en saló-menjador, 3 dormitoris, cuina amb galeria i 1 bany.</ca>
+			<en>2 storey house in the old quarter, on the corner of two streets, needs renovation.  Entrance hallway, living room-dining room, 3 bedrooms, bathroom, kitchen and utility room.                                                                                                 </en>
+			<es>Casa a reformar situada en Crevillente, Alicante. Ubicada en el casco antiguo de la localidad cuenta con una superficie de 169 m² divididos en 2 plantas comunicadas mediante escalera interior y dispone de varias dependencias. Ofrece salida a la carretera nacional N-340 en 5 minutos, y la zona está dotada de varios servicios como oficina de banco, cafeterías, supermercados, farmacia o parada de autobús. Con los servicios de Solvia podrá encontrar la vivienda que necesita y asegurar su inversión con el mejor de los asesoramientos especializados. Empiece ahora mismo pidiendo más información. Un responsable cercano a usted le atenderá personalmente.                                                                                      </es>
+			<fr/>
+		</desc>
+		<images>
+			<image id="1">
+				<url>https://cdnsolvproep.solvia.es/uploaded/img_98F98FE0-1FDA-44CB-B41E-E47487F712E4.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://cdnsolvproep.solvia.es/uploaded/img_605D95D0-FE0E-42D6-A67F-5891CEE0E833.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://cdnsolvproep.solvia.es/uploaded/img_E1C52B53-0516-4936-BBCC-37E726087830.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://cdnsolvproep.solvia.es/uploaded/img_87CB93B8-E3A9-4A5F-BA43-2947158755D7.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://cdnsolvproep.solvia.es/uploaded/img_6F372A5D-134D-4AEE-A9FA-775787FF0ECD.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://cdnsolvproep.solvia.es/uploaded/img_DBF68C69-0FD1-44F6-9608-19443BFA04A8.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://cdnsolvproep.solvia.es/uploaded/img_70BD1388-5B37-4A69-8443-5C8158416597.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://cdnsolvproep.solvia.es/uploaded/img_1A35AD99-C1AB-486A-92D0-0D5A2F29DC8C.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://cdnsolvproep.solvia.es/uploaded/img_6480F564-50E6-4561-967B-F95F0F5A03C0.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://cdnsolvproep.solvia.es/uploaded/img_1821B045-5F90-416E-9862-A3BFD3C389CF.jpg</url>
+			</image>
+			<image id="11">
+				<url>https://cdnsolvproep.solvia.es/uploaded/img_D95F4605-4330-449F-8DC3-8C5EC7F129A7.jpg</url>
+			</image>
+			<image id="12">
+				<url>https://cdnsolvproep.solvia.es/uploaded/img_C0607FC3-5553-499A-8F19-EE7BBC0AB852.jpg</url>
+			</image>
+			<image id="13">
+				<url>https://cdnsolvproep.solvia.es/uploaded/img_0FD2D9FD-D9A6-4CB3-9055-92D012D97837.jpg</url>
+			</image>
+			<image id="14">
+				<url>https://cdnsolvproep.solvia.es/uploaded/img_90317515-3E21-47FE-88FD-F892A5637E2F.jpg</url>
+			</image>
+			<image id="15">
+				<url>https://cdnsolvproep.solvia.es/uploaded/img_071CDD9F-3DE6-4354-808F-7FEEDA2BFE49.jpg</url>
+			</image>
+			<image id="16">
+				<url>https://cdnsolvproep.solvia.es/uploaded/img_ACA96BBB-4843-43FE-A900-6F3D92C5E6AB.jpg</url>
+			</image>
+			<image id="17">
+				<url>https://cdnsolvproep.solvia.es/uploaded/img_5341C984-7FF3-4FD8-8FD5-58FE68A5A749.jpg</url>
+			</image>
+		</images>
+	</property>
 </root>

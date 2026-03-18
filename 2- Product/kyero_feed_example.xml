@@ -98,4 +98,102 @@
 		<whatsapp_number>0034666555444</whatsapp_number>
 		<contact_number>0034666555444</contact_number>
 	</property>
+	<property>
+		<id>iris-location-002</id>
+		<date>2026-03-18 12:50:16</date>
+		<ref>iris-location-002</ref>
+		<price>730</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<part_ownership/>
+		<leasehold>1</leasehold>
+		<new_build>0</new_build>
+		<type>apartment</type>
+		<town>Vila-real</town>
+		<province>Castellón</province>
+		<country>Spain</country>
+		<location>
+			<latitude>39.9365732</latitude>
+			<longitude>-0.0990033</longitude>
+		</location>
+		<location_detail/>
+		<beds>3</beds>
+		<baths>2</baths>
+		<pool>0</pool>
+		<surface_area>
+			<built>100</built>
+		</surface_area>
+		<energy_rating>
+			<consumption>G</consumption>
+			<emissions>G</emissions>
+		</energy_rating>
+		<url>
+			<es>http://husdrommer.mobiliagestion.es/es/vilareal/pisos/ref-95254572</es>
+		</url>
+		<video_url>https://www.youtube.com/watch?v=GrCd27MVJdI</video_url>
+		<desc>
+			<es>En pleno centro de Vila-real se encuentra este atractivo piso exterior en alquiler, ideal para quienes buscan vivir en una zona céntrica con todos los servicios al alcance y disfrutar de un entorno urbano consolidado. La vivienda está situada en la tercera planta de un edificio con ascensor y destaca por su luminosidad y su excelente estado de conservación.Con una superficie útil aproximada de 95 m², el piso se distribuye de forma cómoda y funcional. Dispone de tres habitaciones, dos de ellas dobles y equipadas con armarios empotrados, lo que facilita el almacenamiento y mejora la organización del espacio. Cuenta además con dos baños completos, una cocina independiente con galería, un amplio salón-comedor y un balcón exterior que aporta luz natural y ventilación a la vivienda.La orientación soleada y su condición de piso exterior hacen que la luz sea protagonista durante gran parte del día, creando un ambiente cálido y agradable. Los suelos de terrazo y la carpintería exterior de aluminio conservan un estilo tradicional bien cuidado, aportando carácter a la vivienda.La ubicación es uno de sus grandes valores añadidos. La zona Centre de Vila-real se caracteriza por su trazado urbano ordenado, su historia y su dinamismo comercial. En el entorno inmediato se encuentran comercios, supermercados, centros educativos, servicios sanitarios y zonas de ocio, además de edificios emblemáticos que forman parte de la identidad de la ciudad.Se trata de una vivienda ideal para quienes desean vivir en el centro, con amplitud, luz natural y comodidad, en un piso listo para entrar a vivir y perfectamente integrado en la vida urbana de Vila-real.</es>
+			<ca>Altura pis 3r, pis superfície construïda 100 m², sup. útil 95 m², núm. hab. individ.: 1, habitacions dobles: 2, 2 bany/s, armaris empotrats, balcó, fusteria exterior (alumini), cuina, menjador, estat conservació: bon estat, safareig, moblat, assolellat, tipus de sòl: terratzo, exterior, s'accepten mascotes (no se aceptan).</ca>
+			<en>Floor 3rd, flat total surface area 100 m², usable floor area 95 m², single bedrooms: 1, double bedrooms: 2, 2 bathrooms, built-in wardrobes, balcony, ext. woodwork (aluminum), kitchen, dining room, state of repair: in good condition, utility room, furnished, sunny, lands: terrazzo, exterior, pets are allowed (no se aceptan).</en>
+		</desc>
+		<notes/>
+		<images>
+			<image id="1">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637040.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637044.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637048.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637041.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637042.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637043.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637045.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637046.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637047.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637049.jpg</url>
+			</image>
+			<image id="11">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637050.jpg</url>
+			</image>
+			<image id="12">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637051.jpg</url>
+			</image>
+			<image id="13">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637052.jpg</url>
+			</image>
+			<image id="14">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637053.jpg</url>
+			</image>
+			<image id="15">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637054.jpg</url>
+			</image>
+			<image id="16">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637055.jpg</url>
+			</image>
+			<image id="17">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637038.jpg</url>
+			</image>
+			<image id="18">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637039.jpg</url>
+			</image>
+		</images>
+		<email>hola@husdrommer.com</email>
+		<contact_number>964 749 027</contact_number>
+	</property>
 </root>

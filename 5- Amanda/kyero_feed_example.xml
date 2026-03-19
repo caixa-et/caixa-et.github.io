@@ -3,186 +3,81 @@
 	<kyero>
 		<feed_version>3</feed_version>
 	</kyero>
-	<property>
-<id>test-kyero</id>
-<date>2026-02-03 03:01:41</date>
-<ref>20-3263</ref>
-<price>230000</price>
+<property>
+<id>test-default</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
 <currency>EUR</currency>
 <price_freq>sale</price_freq>
-<type> Apartment</type>
-<town>Orihuela Costa</town>
-<province>ALICANTE</province>
-<location_detail>Los Dolses</location_detail>
-<beds>3</beds>
-<baths>2</baths>
-<pool>0</pool>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
 <location>
-<latitude>37.93739578</latitude>
-<longitude>-0.7480451</longitude>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
 </location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
 <surface_area>
-<built>106</built>
-<plot>0</plot>
+<built>0</built>
+<plot>520</plot>
 </surface_area>
-<url>
-<en>http://golfsun.net/property/20051/apartment/resale/spain/los-dolses/orihuela-costa/</en>
-</url>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
 <desc>
-<en>
-<![CDATA[ This charming 3-bedroom, 2-bathroom duplex, located in the sought-after Villamartin area in a gated urbanization, offers a perfect balance of space and comfort. Spread across two levels, the property features a welcoming ground floor with both front and back terraces, perfect for enjoying the outdoors. The living room is spacious and bright, with a separate kitchen and a convenient guest toilet also on this level.Upstairs, you’ll find three well-sized bedrooms and two bathrooms, providing ample space for family or guests. The property comes fully furnished, making it move-in ready, and is equipped with air conditioning to ensure comfort year-round.Additionally, the price includes a private garage and a storage room beneath the building, providing extra convenience and value. Situated in a well-maintained gated community, this property is ideal for both permanent living or as a holiday home.The location is also excellent, being close to a variety of bars, restaurants, supermarkets, and commercial areas. Golf enthusiasts will appreciate the proximity to the prestigious Villamartin Golf Course, and families will benefit from being near local schools. This property offers everything needed for a comfortable and convenient lifestyle in one of Costa Blanca’s most popular areas!Don't miss the chance to own this fantastic duplex in the vibrant Villamartin area! ]]>
-</en>
-<es>
-<![CDATA[ Este encantador apartamento tipo dúplex dispone de 3 dormitorios y 2 baños y está ubicado en la cotizada zona de Villamartín en una urbanización cerrada. Esta vivienda ofrece un equilibrio perfecto entre espacio y comodidad y está distribuida en dos plantas. La propiedad cuenta con una acogedora planta baja con terrazas delanteras y traseras, perfectas para disfrutar del aire libre. El salón es amplio y luminoso, con una cocina independiente y un cómodo aseo de invitados también en este nivel.En la planta superior, encontrará tres dormitorios de buen tamaño y dos baños, lo que proporciona un amplio espacio para la familia o los invitados. La propiedad viene completamente amueblada, por lo que está lista para mudarse, y está equipada con aire acondicionado para garantizar la comodidad durante todo el año.Además, el precio incluye un garaje privado y un trastero debajo del edificio, lo que proporciona mayor comodidad y valor. Ubicada en una comunidad cerrada bien mantenida, esta propiedad es ideal tanto para vivienda permanente como para casa de vacaciones.La ubicación también es excelente, ya que está cerca de una variedad de bares, restaurantes, supermercados y áreas comerciales. Los amantes del golf apreciarán la proximidad al prestigioso campo de golf de Villamartín, y las familias se beneficiarán de estar cerca de las escuelas locales. ¡Esta propiedad ofrece todo lo necesario para un estilo de vida cómodo y conveniente en una de las zonas más populares de la Costa Blanca!¡No pierda la oportunidad de adquirir este fantástico dúplex en la vibrante zona de Villamartín! ]]>
-</es>
-<nl>
-<![CDATA[ Deze charmante duplex met 3 slaapkamers en 2 badkamers, gelegen in de gewilde wijk Villamartin in een gesloten urbanisatie, biedt een perfecte balans van ruimte en comfort. De woning is verdeeld over twee verdiepingen en heeft een uitnodigende begane grond met zowel een voor- als een achterterras, perfect om buiten te genieten. De woonkamer is ruim en licht, met een aparte keuken en een handig gastentoilet ook op dit niveau.Op de bovenverdieping vind je drie ruime slaapkamers en twee badkamers, die voldoende ruimte bieden voor familie of gasten. De woning wordt volledig gemeubileerd geleverd, waardoor hij instapklaar is, en is voorzien van airconditioning om het hele jaar door voor comfort te zorgen.Bovendien zijn een privégarage en een berging onder het gebouw bij de prijs inbegrepen, voor extra gemak en waarde. Deze woning ligt in een goed onderhouden omheinde gemeenschap en is ideaal voor permanente bewoning of als vakantiehuis.De locatie is ook uitstekend, dicht bij een verscheidenheid aan bars, restaurants, supermarkten en commerciële gebieden. Golfliefhebbers zullen de nabijheid van de prestigieuze Villamartin Golfbaan op prijs stellen, en gezinnen zullen profiteren van de nabijheid van plaatselijke scholen. Deze woning biedt alles wat nodig is voor een comfortabele en handige levensstijl in een van de populairste gebieden aan de Costa Blanca!Mis de kans niet om deze fantastische duplex in het bruisende Villamartin te bezitten! ]]>
-</nl>
+<ca>Aire condicionat, Jardí, Terrassa, garatge, Piscina privada, vista sobre la muntanya</ca>
+<da>air conditioning, Garden, Terrasse, Garage, privat pool, Mountain visninger</da>
+<de>Klimaanlage, Garten, Terrasse, Garage, Privater Pool, Bergblick</de>
+<en>Fantastic luxury villas under construction in La Nucia. The Noa Garden residential complex is a recent promotion of 9 villas full of luxury and exclusivity. The villas will be built on plots of approximately 520 square meters, with a built area of ​​approximately 320 square meters, with 4 bedrooms and 4 bathrooms, an American-style kitchen and a bright living room. Made of high quality materials according to the latest trends and with the latest technologies. Solar panels, double glazed windows, charging points for electric cars, private pools in each property with self-control systems for PH and lighting. Gardens with automatic irrigation systems and maintenance of common areas. Air conditioning in all rooms and underfloor heating in the bathrooms. Kitchen appliances with a 5-year warranty and Silestone-type countertop. To guarantee your safety, armored doors, video surveillance and night security guards. In addition, the extras as possibilities, among which, elevators, landscaping projects or even home automation.</en>
+<es>Fantasticas villas de lujo en construcción en La Nucia. El residencial Noa Garden es una reciente promoción de 9 villas llenas de lujo y exclusividad. Las villas se realizarán en parcelas de aproximadamente 520 metros cuadrados, con un area construido de aproximadamente 320 metros cuadrados, con 4 dormitorios y 4 baños, cocina americana y luminoso salón. Realizadas en materiales de alta calidad segun las ultimas tendencias y con las tecnologías más recientes. Placas solares, ventanas de doble acristalamiento, puntos de carga para coches electricos, piscinas privadas en cada propiedad con sistemas de autocontrol de PH e iluminación. Jardines con sistemas de riego automáticos y mantenimiento de las zonas comunes. Aire acondicionado en todas las estancias y suelos radiantes en los baños. Electrodomesticos de cocina con 5 años de garantía y encimera tipo Silestone. Para garantizar su seguridad, puertas acorazadas, vifrovigilancia y vigilantes de seguridad nocturnos. Además de los numerosos extras como posibilidades, ente los cuales, ascensores, proyectos de paisajismo o incluso la domótica.</es>
+<fi>ilmastointi, puutarha, terassi, autotalli, yksityisallas, vuoristonäkymät</fi>
+<fr>climatisation, jardin, terrasse, garage, piscine privée, vue sur la montagne</fr>
+<it>Fantastiche ville di lusso in costruzione a La Nucia. Il complesso residenziale Noa Garden è una recente promozione di 9 ville ricche di lusso ed esclusività. Le ville saranno costruite su lotti di circa 520 mq, con una superficie edificata di circa 320 mq, con 4 camere da letto e 4 bagni, una cucina all'americana e un luminoso soggiorno. Realizzata con materiali di alta qualità secondo le ultime tendenze e con le più recenti tecnologie. Pannelli solari, finestre con doppi vetri, colonnine di ricarica per auto elettriche, piscine private in ogni proprietà con sistemi di autocontrollo per PH e illuminazione. Giardini con impianti di irrigazione automatica e manutenzione delle aree comuni. Aria condizionata in tutte le stanze e riscaldamento a pavimento nei bagni. Elettrodomestici da cucina con garanzia di 5 anni e piano di lavoro tipo Silestone. A garanzia della vostra sicurezza, porte blindate, videosorveglianza e guardiania notturna. Inoltre, gli extra come possibilità, tra cui ascensori, progetti paesaggistici o anche domotica.</it>
+<nl>Air conditioning, Tuin, Terras, garage, privé zwembad, uitzicht op de bergen</nl>
+<no>klimaanlegg, hage, terrasse, garasje, privat svømmebasseng, utsikt over fjell</no>
+<pt>ar condicionado, jardim, terraço, garagem, piscina privada, vista para a montanha</pt>
+<ru>Роскошные строящиеся виллы в Ла-Нусии. Жилой комплекс Noa Garden состоит из 9 вилл, полных роскоши и эксклюзивности. Виллы будут построены на участках площадью около 520 квадратных метров, с застроенной площадью около 320 квадратных метров, с 4 спальнями и 4 ванными комнатами, кухней в американском стиле и светлой гостиной. С использованием высококачественных материалов в соответствии с последними тенденциями и новейшими технологиями. Солнечные панели, окна с двойным остеклением, точки зарядки электромобилей, частные бассейны в каждом доме с системами самоконтроля для РН и освещения. Сады с автоматическими системами полива и обслуживанием общих зон. Кондиционеры во всех комнатах и ​​полы с подогревом в ванных комнатах. Кухонная техника с гарантией 5 лет и столешницей типа Silestone. Для гарантии вашей безопасности бронированные двери, видеонаблюдение и ночная охрана. Кроме того, дополнительные возможности, среди которых лифты, ландшафтные проекты или даже домашняя автоматизация.</ru>
+<sv>luftkonditionerare, trädgård, terrass, garage, privat pool, bergsutsikt</sv>
 </desc>
 <features>
-<feature>Garden</feature>
-<feature>Barbecue</feature>
-<feature>Terrace</feature>
-<feature>Furniture</feature>
-<feature>Balcony</feature>
-<feature>Fitted wardrobes</feature>
-<feature>Storage room</feature>
-<feature>Air Conditioning</feature>
-<feature>Urbanization</feature>
-<feature>Elevator</feature>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
 </features>
+<notes/>
 <images>
-<image id="1">
-<url>https://fotos15.apinmo.com/1582/22622181/3-1.jpg</url>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
 </image>
-<image id="2">
-<url>https://fotos15.apinmo.com/1582/22622181/3-2.jpg</url>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
 </image>
-<image id="3">
-<url>https://fotos15.apinmo.com/1582/22622181/3-3.jpg</url>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
 </image>
-<image id="4">
-<url>https://fotos15.apinmo.com/1582/22622181/3-4.jpg</url>
-</image>
-<image id="5">
-<url>https://fotos15.apinmo.com/1582/22622181/3-5.jpg</url>
-</image>
-<image id="6">
-<url>https://fotos15.apinmo.com/1582/22622181/3-6.jpg</url>
-</image>
-<image id="7">
-<url>https://fotos15.apinmo.com/1582/22622181/3-7.jpg</url>
-</image>
-<image id="8">
-<url>https://fotos15.apinmo.com/1582/22622181/3-8.jpg</url>
-</image>
-<image id="9">
-<url>https://fotos15.apinmo.com/1582/22622181/3-9.jpg</url>
-</image>
-<image id="10">
-<url>https://fotos15.apinmo.com/1582/22622181/3-10.jpg</url>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
 </image>
 </images>
 </property>
-	<property>
-		<id>test-kyero-02</id>
-		<date>2026-02-02 15:59:19</date>
-		<ref>CG-12748-0001</ref>
-		<price>32000</price>
-		<currency>EUR</currency>
-		<price_freq>sale</price_freq>
-		<leasehold/>
-		<new_build/>
-		<type>House</type>
-		<town>Crevillent</town>
-		<province>Alicante/Alacant</province>
-		<country>España</country>
-		<part_ownership/>
-		<catastral>1760506XH9316S0001SR</catastral>
-		<notes/>
-		<prime/>
-		<email/>
-		<contact_number/>
-		<whatsapp_number/>
-		<location_detail/>
-		<beds>3</beds>
-		<baths>1</baths>
-		<pool/>
-		<location>
-			<latitude>38.250326</latitude>
-			<longitude>-0.809559</longitude>
-		</location>
-		<surface_area>
-			<built>169</built>
-			<plot>0</plot>
-		</surface_area>
-		<energy_rating>
-			<consumption>X</consumption>
-		</energy_rating>
-		<url>
-			<ca>https://www.solvia.es/ca/Casa-a-Crevillent-3-dormitorios/922_0/habitatge_1594.html</ca>
-			<en>https://www.solviarealestate.com/en/Casa-in-Crevillent-3-dormitorios/922_0/house_1594.html</en>
-			<es>https://www.solvia.es/es/propiedades/comprar/Casa-Crevillent-3-domitorios-922-1594</es>
-			<fr>https://www.solviarealestate.com/fr/Casa-in-Crevillent-3-dormitorios/922_0/house_1594.html</fr>
-		</url>
-		<desc>
-			<ca>Casa cantonera per reformar al nucli antic de Crevillent. És molt lluminosa. Té una superfície de 169 m² dividits en 2 plantes comunicades mitjançant una escala interior i distribuïts en saló-menjador, 3 dormitoris, cuina amb galeria i 1 bany.</ca>
-			<en>2 storey house in the old quarter, on the corner of two streets, needs renovation.  Entrance hallway, living room-dining room, 3 bedrooms, bathroom, kitchen and utility room.                                                                                                 </en>
-			<es>Casa a reformar situada en Crevillente, Alicante. Ubicada en el casco antiguo de la localidad cuenta con una superficie de 169 m² divididos en 2 plantas comunicadas mediante escalera interior y dispone de varias dependencias. Ofrece salida a la carretera nacional N-340 en 5 minutos, y la zona está dotada de varios servicios como oficina de banco, cafeterías, supermercados, farmacia o parada de autobús. Con los servicios de Solvia podrá encontrar la vivienda que necesita y asegurar su inversión con el mejor de los asesoramientos especializados. Empiece ahora mismo pidiendo más información. Un responsable cercano a usted le atenderá personalmente.                                                                                      </es>
-			<fr/>
-		</desc>
-		<images>
-			<image id="1">
-				<url>https://cdnsolvproep.solvia.es/uploaded/img_98F98FE0-1FDA-44CB-B41E-E47487F712E4.jpg</url>
-			</image>
-			<image id="2">
-				<url>https://cdnsolvproep.solvia.es/uploaded/img_605D95D0-FE0E-42D6-A67F-5891CEE0E833.jpg</url>
-			</image>
-			<image id="3">
-				<url>https://cdnsolvproep.solvia.es/uploaded/img_E1C52B53-0516-4936-BBCC-37E726087830.jpg</url>
-			</image>
-			<image id="4">
-				<url>https://cdnsolvproep.solvia.es/uploaded/img_87CB93B8-E3A9-4A5F-BA43-2947158755D7.jpg</url>
-			</image>
-			<image id="5">
-				<url>https://cdnsolvproep.solvia.es/uploaded/img_6F372A5D-134D-4AEE-A9FA-775787FF0ECD.jpg</url>
-			</image>
-			<image id="6">
-				<url>https://cdnsolvproep.solvia.es/uploaded/img_DBF68C69-0FD1-44F6-9608-19443BFA04A8.jpg</url>
-			</image>
-			<image id="7">
-				<url>https://cdnsolvproep.solvia.es/uploaded/img_70BD1388-5B37-4A69-8443-5C8158416597.jpg</url>
-			</image>
-			<image id="8">
-				<url>https://cdnsolvproep.solvia.es/uploaded/img_1A35AD99-C1AB-486A-92D0-0D5A2F29DC8C.jpg</url>
-			</image>
-			<image id="9">
-				<url>https://cdnsolvproep.solvia.es/uploaded/img_6480F564-50E6-4561-967B-F95F0F5A03C0.jpg</url>
-			</image>
-			<image id="10">
-				<url>https://cdnsolvproep.solvia.es/uploaded/img_1821B045-5F90-416E-9862-A3BFD3C389CF.jpg</url>
-			</image>
-			<image id="11">
-				<url>https://cdnsolvproep.solvia.es/uploaded/img_D95F4605-4330-449F-8DC3-8C5EC7F129A7.jpg</url>
-			</image>
-			<image id="12">
-				<url>https://cdnsolvproep.solvia.es/uploaded/img_C0607FC3-5553-499A-8F19-EE7BBC0AB852.jpg</url>
-			</image>
-			<image id="13">
-				<url>https://cdnsolvproep.solvia.es/uploaded/img_0FD2D9FD-D9A6-4CB3-9055-92D012D97837.jpg</url>
-			</image>
-			<image id="14">
-				<url>https://cdnsolvproep.solvia.es/uploaded/img_90317515-3E21-47FE-88FD-F892A5637E2F.jpg</url>
-			</image>
-			<image id="15">
-				<url>https://cdnsolvproep.solvia.es/uploaded/img_071CDD9F-3DE6-4354-808F-7FEEDA2BFE49.jpg</url>
-			</image>
-			<image id="16">
-				<url>https://cdnsolvproep.solvia.es/uploaded/img_ACA96BBB-4843-43FE-A900-6F3D92C5E6AB.jpg</url>
-			</image>
-			<image id="17">
-				<url>https://cdnsolvproep.solvia.es/uploaded/img_5341C984-7FF3-4FD8-8FD5-58FE68A5A749.jpg</url>
-			</image>
-		</images>
-	</property>
+
+
+
+
+
+	
 </root>

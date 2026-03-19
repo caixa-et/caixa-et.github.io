@@ -9,8 +9,8 @@
 		<tipo_ofer>Piso</tipo_ofer>
 		<keypromo>0</keypromo>
 		<opcioncompra>0</opcioncompra>
-		<latitud>40.4131771</latitud>
-		<altitud>-3.6919406</altitud>
+		<latitud>36.728807</latitud>
+		<altitud>-3.693466</altitud>
 		<aseos>1</aseos>
 		<banyos>1</banyos>
 		<carpinteria />
@@ -40,8 +40,9 @@
 		<precioalq>0</precioalq>
 		<ref>00060</ref>
 		<accion>Vender</accion>
-		<ciudad>Madrid</ciudad>
-		<cp>25023</cp>
+		<ciudad>almunecar</ciudad>
+		<cp>18690</cp>
+		<provincia>granada</provincia>
 		<zona>Atocha</zona>
 		<adaptadominus>0</adaptadominus>
 		<airecentral>0</airecentral>

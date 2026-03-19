@@ -22,6 +22,8 @@
 			<longitude>-0.0990033</longitude>
 		</location>
 		<location_detail/>
+		<postal_code>18690</postal_code>
+		<catastral>1234567AB1234C0001DE</catastral>
 		<beds>3</beds>
 		<baths>2</baths>
 		<pool>0</pool>
@@ -120,6 +122,8 @@
 			<longitude>2.129357</longitude>
 		</location>
 		<location_detail/>
+		<postal_code>08028</postal_code>	
+		<catastral>null</catastral>
 		<beds>3</beds>
 		<baths>2</baths>
 		<pool>0</pool>
@@ -194,6 +198,8 @@
 			<longitude>1.051643</longitude>
 		</location>
 		<location_detail/>
+		<postal_code>43330</postal_code>
+		<catastral>null</catastral>
 		<beds>3</beds>
 		<baths>2</baths>
 		<pool>0</pool>
@@ -268,6 +274,8 @@
 			<longitude>1.051335554659347332543</longitude>
 		</location>
 		<location_detail/>
+		<postal_code>43330</postal_code>
+		<catastral>null</catastral>
 		<beds>3</beds>
 		<baths>2</baths>
 		<pool>0</pool>
@@ -342,6 +350,8 @@
 			<longitude>1.845145</longitude>
 		</location>
 		<location_detail/>
+		<postal_code>08600</postal_code>
+		<catastral>4620703DG0642S0003JY</catastral>
 		<beds>3</beds>
 		<baths>2</baths>
 		<pool>0</pool>
@@ -416,6 +426,8 @@
 			<longitude>1.845145</longitude>
 		</location>
 		<location_detail/>
+		<postal_code>36216</postal_code>
+		<catastral>4620703DG0642S0003JY</catastral>
 		<beds>3</beds>
 		<baths>2</baths>
 		<pool>0</pool>
@@ -488,6 +500,8 @@
 			<longitude>2.365778</longitude>
 		</location>
 		<location_detail/>
+		<postal_code>43580</postal_code>
+		<catastral>7202305DG4170S0004II</catastral>
 		<beds>3</beds>
 		<baths>2</baths>
 		<pool>0</pool>
@@ -560,6 +574,8 @@
 			<longitude>2.365778</longitude>
 		</location>
 		<location_detail/>
+		<postal_code>08440</postal_code>
+		<catastral>7202305DG4170S0004II</catastral>
 		<beds>3</beds>
 		<baths>2</baths>
 		<pool>0</pool>
@@ -632,6 +648,897 @@
 			<longitude>null</longitude>
 		</location>
 		<location_detail/>
+		<postal_code>28036</postal_code>
+		<catastral>2591204VK4729A0001YT</catastral>
+		<beds>3</beds>
+		<baths>2</baths>
+		<pool>0</pool>
+		<surface_area>
+			<built>100</built>
+		</surface_area>
+		<energy_rating>
+			<consumption>G</consumption>
+			<emissions>G</emissions>
+		</energy_rating>
+		<url>
+			<es>http://husdrommer.mobiliagestion.es/es/vilareal/pisos/ref-95254572</es>
+		</url>
+		<video_url>https://www.youtube.com/watch?v=GrCd27MVJdI</video_url>
+		<desc>
+			<es>En pleno centro de Riudoms se encuentra este fantástico piso exterior, ideal para familias.</es>	
+		</desc>
+		<notes/>
+		<images>
+			<image id="1">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637040.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637044.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637048.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637041.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637042.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637043.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637045.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637046.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637047.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637049.jpg</url>
+			</image>
+		</images>
+		<email>hola@husdrommer.com</email>
+		<contact_number>964 749 027</contact_number>
+	</property>
+	</property>
+		<property>
+		<id>iris-location-010</id>
+		<date>2026-03-18 12:50:16</date>
+		<ref>iris-location-010</ref>
+		<price>730</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<part_ownership/>
+		<leasehold>1</leasehold>
+		<new_build>0</new_build>
+		<type>apartment</type>
+		<town>null</town>
+		<province>null</province>
+		<country>null</country>
+		<location>
+			<latitude>47.860908</latitude>
+			<longitude>5.506558</longitude>
+		</location>
+		<location_detail/>
+		<postal_code>null</postal_code>
+		<catastral>null</catastral>
+		<beds>3</beds>
+		<baths>2</baths>
+		<pool>0</pool>
+		<surface_area>
+			<built>100</built>
+		</surface_area>
+		<energy_rating>
+			<consumption>G</consumption>
+			<emissions>G</emissions>
+		</energy_rating>
+		<url>
+			<es>http://husdrommer.mobiliagestion.es/es/vilareal/pisos/ref-95254572</es>
+		</url>
+		<video_url>https://www.youtube.com/watch?v=GrCd27MVJdI</video_url>
+		<desc>
+			<es>En pleno centro de Riudoms se encuentra este fantástico piso exterior, ideal para familias.</es>	
+		</desc>
+		<notes/>
+		<images>
+			<image id="1">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637040.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637044.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637048.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637041.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637042.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637043.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637045.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637046.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637047.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637049.jpg</url>
+			</image>
+		</images>
+		<email>hola@husdrommer.com</email>
+		<contact_number>964 749 027</contact_number>
+	</property>
+	<property>
+		<id>iris-location-011</id>
+		<date>2026-03-18 12:50:16</date>
+		<ref>iris-location-011</ref>
+		<price>730</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<part_ownership/>
+		<leasehold>1</leasehold>
+		<new_build>0</new_build>
+		<type>apartment</type>
+		<town>Madrid</town>
+		<province>Madrid</province>
+		<country>Spain</country>
+		<location>
+			<latitude>47.860908</latitude>
+			<longitude>5.506558</longitude>
+		</location>
+		<location_detail/>
+		<postal_code>28036</postal_code>
+		<catastral>2591204VK4729A0001YT</catastral>
+		<beds>3</beds>
+		<baths>2</baths>
+		<pool>0</pool>
+		<surface_area>
+			<built>100</built>
+		</surface_area>
+		<energy_rating>
+			<consumption>G</consumption>
+			<emissions>G</emissions>
+		</energy_rating>
+		<url>
+			<es>http://husdrommer.mobiliagestion.es/es/vilareal/pisos/ref-95254572</es>
+		</url>
+		<video_url>https://www.youtube.com/watch?v=GrCd27MVJdI</video_url>
+		<desc>
+			<es>En pleno centro de Riudoms se encuentra este fantástico piso exterior, ideal para familias.</es>	
+		</desc>
+		<notes/>
+		<images>
+			<image id="1">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637040.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637044.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637048.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637041.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637042.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637043.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637045.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637046.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637047.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637049.jpg</url>
+			</image>
+		</images>
+		<email>hola@husdrommer.com</email>
+		<contact_number>964 749 027</contact_number>
+	</property>
+	<property>
+		<id>iris-location-012</id>
+		<date>2026-03-18 12:50:16</date>
+		<ref>iris-location-012</ref>
+		<price>730</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<part_ownership/>
+		<leasehold>1</leasehold>
+		<new_build>0</new_build>
+		<type>apartment</type>
+		<town>Reus</town>
+		<province>Tarragona</province>
+		<country>Spain</country>
+		<location>
+			<latitude>51.530844</latitude>
+			<longitude>0.051802</longitude>
+		</location>
+		<location_detail/>
+		<postal_code>13001</postal_code>
+		<catastral>null</catastral>
+		<beds>3</beds>
+		<baths>2</baths>
+		<pool>0</pool>
+		<surface_area>
+			<built>100</built>
+		</surface_area>
+		<energy_rating>
+			<consumption>G</consumption>
+			<emissions>G</emissions>
+		</energy_rating>
+		<url>
+			<es>http://husdrommer.mobiliagestion.es/es/vilareal/pisos/ref-95254572</es>
+		</url>
+		<video_url>https://www.youtube.com/watch?v=GrCd27MVJdI</video_url>
+		<desc>
+			<es>En pleno centro de Riudoms se encuentra este fantástico piso exterior, ideal para familias.</es>	
+		</desc>
+		<notes/>
+		<images>
+			<image id="1">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637040.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637044.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637048.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637041.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637042.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637043.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637045.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637046.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637047.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637049.jpg</url>
+			</image>
+		</images>
+		<email>hola@husdrommer.com</email>
+		<contact_number>964 749 027</contact_number>
+	</property>
+	<property>
+		<id>iris-location-013</id>
+		<date>2026-03-18 12:50:16</date>
+		<ref>iris-location-013</ref>
+		<price>730</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<part_ownership/>
+		<leasehold>1</leasehold>
+		<new_build>0</new_build>
+		<type>apartment</type>
+		<town>Sitges</town>
+		<province>Barcelona</province>
+		<country>Spain</country>
+		<location>
+			<latitude>1.802825</latitude>
+			<longitude>41.237494</longitude>
+		</location>
+		<location_detail/>
+		<postal_code>08870</postal_code>
+		<catastral>9860102CF9696S0004DF</catastral>
+		<beds>3</beds>
+		<baths>2</baths>
+		<pool>0</pool>
+		<surface_area>
+			<built>100</built>
+		</surface_area>
+		<energy_rating>
+			<consumption>G</consumption>
+			<emissions>G</emissions>
+		</energy_rating>
+		<url>
+			<es>http://husdrommer.mobiliagestion.es/es/vilareal/pisos/ref-95254572</es>
+		</url>
+		<video_url>https://www.youtube.com/watch?v=GrCd27MVJdI</video_url>
+		<desc>
+			<es>En pleno centro de Riudoms se encuentra este fantástico piso exterior, ideal para familias.</es>	
+		</desc>
+		<notes/>
+		<images>
+			<image id="1">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637040.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637044.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637048.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637041.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637042.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637043.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637045.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637046.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637047.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637049.jpg</url>
+			</image>
+		</images>
+		<email>hola@husdrommer.com</email>
+		<contact_number>964 749 027</contact_number>
+	</property>
+	<property>
+		<id>iris-location-014</id>
+		<date>2026-03-18 12:50:16</date>
+		<ref>iris-location-014</ref>
+		<price>730</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<part_ownership/>
+		<leasehold>1</leasehold>
+		<new_build>0</new_build>
+		<type>apartment</type>
+		<town>Ax-les-Thermes</town>
+		<province>Ariège</province>
+		<country>France</country>
+		<location>
+			<latitude>null</latitude>
+			<longitude>null</longitude>
+		</location>
+		<location_detail/>
+		<postal_code>09110</postal_code>
+		<catastral>8409215DF2880G0002TR</catastral>
+		<beds>3</beds>
+		<baths>2</baths>
+		<pool>0</pool>
+		<surface_area>
+			<built>100</built>
+		</surface_area>
+		<energy_rating>
+			<consumption>G</consumption>
+			<emissions>G</emissions>
+		</energy_rating>
+		<url>
+			<es>http://husdrommer.mobiliagestion.es/es/vilareal/pisos/ref-95254572</es>
+		</url>
+		<video_url>https://www.youtube.com/watch?v=GrCd27MVJdI</video_url>
+		<desc>
+			<es>En pleno centro de Riudoms se encuentra este fantástico piso exterior, ideal para familias.</es>	
+		</desc>
+		<notes/>
+		<images>
+			<image id="1">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637040.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637044.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637048.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637041.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637042.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637043.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637045.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637046.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637047.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637049.jpg</url>
+			</image>
+		</images>
+		<email>hola@husdrommer.com</email>
+		<contact_number>964 749 027</contact_number>
+	</property>
+	<property>
+		<id>iris-location-015</id>
+		<date>2026-03-18 12:50:16</date>
+		<ref>iris-location-015</ref>
+		<price>730</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<part_ownership/>
+		<leasehold>1</leasehold>
+		<new_build>0</new_build>
+		<type>apartment</type>
+		<town>null</town>
+		<province>null</province>
+		<country>null</country>
+		<location>
+			<latitude>41.624278</latitude>
+			<longitude>0.639221</longitude>
+		</location>
+		<location_detail/>
+		<postal_code>null</postal_code>
+		<catastral>null</catastral>
+		<beds>3</beds>
+		<baths>2</baths>
+		<pool>0</pool>
+		<surface_area>
+			<built>100</built>
+		</surface_area>
+		<energy_rating>
+			<consumption>G</consumption>
+			<emissions>G</emissions>
+		</energy_rating>
+		<url>
+			<es>http://husdrommer.mobiliagestion.es/es/vilareal/pisos/ref-95254572</es>
+		</url>
+		<video_url>https://www.youtube.com/watch?v=GrCd27MVJdI</video_url>
+		<desc>
+			<es>En pleno centro de Riudoms se encuentra este fantástico piso exterior, ideal para familias.</es>	
+		</desc>
+		<notes/>
+		<images>
+			<image id="1">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637040.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637044.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637048.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637041.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637042.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637043.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637045.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637046.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637047.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637049.jpg</url>
+			</image>
+		</images>
+		<email>hola@husdrommer.com</email>
+		<contact_number>964 749 027</contact_number>
+	</property>
+	<property>
+		<id>iris-location-016</id>
+		<date>2026-03-18 12:50:16</date>
+		<ref>iris-location-016</ref>
+		<price>730</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<part_ownership/>
+		<leasehold>1</leasehold>
+		<new_build>0</new_build>
+		<type>apartment</type>
+		<town>Riudoms</town>
+		<province>Barcelona</province>
+		<country>Spain</country>
+		<location>
+			<latitude>41.380083</latitude>
+			<longitude>2.145476</longitude>
+		</location>
+		<location_detail/>
+		<postal_code>null</postal_code>
+		<catastral>null</catastral>
+		<beds>3</beds>
+		<baths>2</baths>
+		<pool>0</pool>
+		<surface_area>
+			<built>100</built>
+		</surface_area>
+		<energy_rating>
+			<consumption>G</consumption>
+			<emissions>G</emissions>
+		</energy_rating>
+		<url>
+			<es>http://husdrommer.mobiliagestion.es/es/vilareal/pisos/ref-95254572</es>
+		</url>
+		<video_url>https://www.youtube.com/watch?v=GrCd27MVJdI</video_url>
+		<desc>
+			<es>En pleno centro de Riudoms se encuentra este fantástico piso exterior, ideal para familias.</es>	
+		</desc>
+		<notes/>
+		<images>
+			<image id="1">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637040.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637044.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637048.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637041.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637042.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637043.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637045.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637046.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637047.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637049.jpg</url>
+			</image>
+		</images>
+		<email>hola@husdrommer.com</email>
+		<contact_number>964 749 027</contact_number>
+	</property>
+	<property>
+		<id>iris-location-017</id>
+		<date>2026-03-18 12:50:16</date>
+		<ref>iris-location-017</ref>
+		<price>730</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<part_ownership/>
+		<leasehold>1</leasehold>
+		<new_build>0</new_build>
+		<type>apartment</type>
+		<town>null</town>
+		<province>null</province>
+		<country>null</country>
+		<location>
+			<latitude>41.380083</latitude>
+			<longitude>2.145476</longitude>
+		</location>
+		<location_detail/>
+		<postal_code>25005</postal_code>
+		<catastral>null</catastral>
+		<beds>3</beds>
+		<baths>2</baths>
+		<pool>0</pool>
+		<surface_area>
+			<built>100</built>
+		</surface_area>
+		<energy_rating>
+			<consumption>G</consumption>
+			<emissions>G</emissions>
+		</energy_rating>
+		<url>
+			<es>http://husdrommer.mobiliagestion.es/es/vilareal/pisos/ref-95254572</es>
+		</url>
+		<video_url>https://www.youtube.com/watch?v=GrCd27MVJdI</video_url>
+		<desc>
+			<es>En pleno centro de Riudoms se encuentra este fantástico piso exterior, ideal para familias.</es>	
+		</desc>
+		<notes/>
+		<images>
+			<image id="1">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637040.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637044.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637048.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637041.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637042.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637043.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637045.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637046.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637047.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637049.jpg</url>
+			</image>
+		</images>
+		<email>hola@husdrommer.com</email>
+		<contact_number>964 749 027</contact_number>
+	</property>
+	<property>
+		<id>iris-location-018</id>
+		<date>2026-03-18 12:50:16</date>
+		<ref>iris-location-018</ref>
+		<price>730</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<part_ownership/>
+		<leasehold>1</leasehold>
+		<new_build>0</new_build>
+		<type>apartment</type>
+		<town>null</town>
+		<province>Barcelona</province>
+		<country>Spain</country>
+		<location>
+			<latitude>41.734958</latitude>
+			<longitude>1.841672</longitude>
+		</location>
+		<location_detail/>
+		<postal_code>08015</postal_code>
+		<catastral>null</catastral>
+		<beds>3</beds>
+		<baths>2</baths>
+		<pool>0</pool>
+		<surface_area>
+			<built>100</built>
+		</surface_area>
+		<energy_rating>
+			<consumption>G</consumption>
+			<emissions>G</emissions>
+		</energy_rating>
+		<url>
+			<es>http://husdrommer.mobiliagestion.es/es/vilareal/pisos/ref-95254572</es>
+		</url>
+		<video_url>https://www.youtube.com/watch?v=GrCd27MVJdI</video_url>
+		<desc>
+			<es>En pleno centro de Riudoms se encuentra este fantástico piso exterior, ideal para familias.</es>	
+		</desc>
+		<notes/>
+		<images>
+			<image id="1">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637040.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637044.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637048.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637041.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637042.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637043.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637045.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637046.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637047.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637049.jpg</url>
+			</image>
+		</images>
+		<email>hola@husdrommer.com</email>
+		<contact_number>964 749 027</contact_number>
+	</property>
+	<property>
+		<id>iris-location-019</id>
+		<date>2026-03-18 12:50:16</date>
+		<ref>iris-location-019</ref>
+		<price>730</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<part_ownership/>
+		<leasehold>1</leasehold>
+		<new_build>0</new_build>
+		<type>apartment</type>
+		<town>null</town>
+		<province>null</province>
+		<country>null</country>
+		<location>
+			<latitude>41.380083</latitude>
+			<longitude>2.145476</longitude>
+		</location>
+		<location_detail/>
+		<postal_code>08870</postal_code>
+		<catastral>null</catastral>
+		<beds>3</beds>
+		<baths>2</baths>
+		<pool>0</pool>
+		<surface_area>
+			<built>100</built>
+		</surface_area>
+		<energy_rating>
+			<consumption>G</consumption>
+			<emissions>G</emissions>
+		</energy_rating>
+		<url>
+			<es>http://husdrommer.mobiliagestion.es/es/vilareal/pisos/ref-95254572</es>
+		</url>
+		<video_url>https://www.youtube.com/watch?v=GrCd27MVJdI</video_url>
+		<desc>
+			<es>En pleno centro de Riudoms se encuentra este fantástico piso exterior, ideal para familias.</es>	
+		</desc>
+		<notes/>
+		<images>
+			<image id="1">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637040.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637044.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637048.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637041.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637042.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637043.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637045.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637046.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637047.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637049.jpg</url>
+			</image>
+		</images>
+		<email>hola@husdrommer.com</email>
+		<contact_number>964 749 027</contact_number>
+	</property>
+		<property>
+		<id>iris-location-020</id>
+		<date>2026-03-18 12:50:16</date>
+		<ref>iris-location-020</ref>
+		<price>730</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<part_ownership/>
+		<leasehold>1</leasehold>
+		<new_build>0</new_build>
+		<type>apartment</type>
+		<town>Mresa</town>
+		<province>Barcelna</province>
+		<country>null</country>
+		<location>
+			<latitude>null</latitude>
+			<longitude>null</longitude>
+		</location>
+		<location_detail/>
+		<postal_code>null</postal_code>
+		<catastral>null</catastral>
+		<beds>3</beds>
+		<baths>2</baths>
+		<pool>0</pool>
+		<surface_area>
+			<built>100</built>
+		</surface_area>
+		<energy_rating>
+			<consumption>G</consumption>
+			<emissions>G</emissions>
+		</energy_rating>
+		<url>
+			<es>http://husdrommer.mobiliagestion.es/es/vilareal/pisos/ref-95254572</es>
+		</url>
+		<video_url>https://www.youtube.com/watch?v=GrCd27MVJdI</video_url>
+		<desc>
+			<es>En pleno centro de Riudoms se encuentra este fantástico piso exterior, ideal para familias.</es>	
+		</desc>
+		<notes/>
+		<images>
+			<image id="1">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637040.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637044.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637048.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637041.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637042.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637043.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637045.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637046.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637047.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637049.jpg</url>
+			</image>
+		</images>
+		<email>hola@husdrommer.com</email>
+		<contact_number>964 749 027</contact_number>
+	</property>
+	<property>
+		<id>iris-location-021</id>
+		<date>2026-03-18 12:50:16</date>
+		<ref>iris-location-020</ref>
+		<price>730</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<part_ownership/>
+		<leasehold>1</leasehold>
+		<new_build>0</new_build>
+		<type>apartment</type>
+		<town>null</town>
+		<province>Barcelona</province>
+		<country>Barcelona</country>
+		<location>
+			<latitude>null</latitude>
+			<longitude>null</longitude>
+		</location>
+		<location_detail/>
+		<postal_code>08014</postal_code>
+		<catastral>8409215DF2880G0001RE</catastral>
 		<beds>3</beds>
 		<baths>2</baths>
 		<pool>0</pool>

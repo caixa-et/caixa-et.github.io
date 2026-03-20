@@ -83,6 +83,8 @@
         <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1698655/image/WhatsApp%20Image%202026-02-18%20at%2010.20.43.jpg" principal="0"/>
         <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1698655/image/WhatsApp%20Image%202026-02-18%20at%2010.37.41.jpg" principal="0"/>
         <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1698655/image/WhatsApp%20Image%202026-02-18%20at%2009.42.08.jpg" principal="0"/>
+        <imagen url="https://caixa-et.github.io/Images/ccee_en_tramite.png" principal="0"/>
+		<imagen url="https://caixa-et.github.io/Images/ccee.png" principal="0"/>
         </imagenes>
         <documentos/>
         <enlaces>
@@ -183,37 +185,39 @@
         </descripcion>
         </descripciones>
         <imagenes>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/WhatsApp%20Image%202025-10-22%20at%2016.10.13%20%281%29.jpg" principal="1"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/1-salon.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/2-habitacion-principal.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/3-habitacion-3.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/4-habitacion-2.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/WhatsApp%20Image%202025-10-22%20at%2008.57.31%20%281%29.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/WhatsApp%20Image%202025-10-22%20at%2008.57.31%20%282%29.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/WhatsApp%20Image%202025-10-22%20at%2008.57.31.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/WhatsApp%20Image%202025-10-22%20at%2016.10.13.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/9-edificio.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/11-lavanderia.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/12-pasillo.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/13-bano-en-suite.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/14-bano-secundario.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/15-bano-secundario-2.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/16-parking.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/WhatsApp%20Image%202025-10-22%20at%2016.10.13%20%281%29.jpg" principal="1"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/1-salon.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/2-habitacion-principal.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/3-habitacion-3.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/4-habitacion-2.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/WhatsApp%20Image%202025-10-22%20at%2008.57.31%20%281%29.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/WhatsApp%20Image%202025-10-22%20at%2008.57.31%20%282%29.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/WhatsApp%20Image%202025-10-22%20at%2008.57.31.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/WhatsApp%20Image%202025-10-22%20at%2016.10.13.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/9-edificio.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/11-lavanderia.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/12-pasillo.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/13-bano-en-suite.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/14-bano-secundario.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1650496/image/15-bano-secundario-2.jpg" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/Contacto_API.jpg" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/Contacto_API2.png" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/Contacto_API_3.jpg" principal="0"/>
         </imagenes>
         <documentos/>
         <enlaces>
-        <enlace idioma="cat">http://www.inmodomum.com/details-cat1650496.html?lan=cat</enlace>
-        <enlace idioma="da">http://www.inmodomum.com/details-da1650496.html?lan=da</enlace>
-        <enlace idioma="de">http://www.inmodomum.com/details-de1650496.html?lan=de</enlace>
-        <enlace idioma="gb">http://www.inmodomum.com/details-gb1650496.html?lan=gb</enlace>
-        <enlace idioma="es">http://www.inmodomum.com/details-es1650496.html?lan=es</enlace>
-        <enlace idioma="fi">http://www.inmodomum.com/details-fi1650496.html?lan=fi</enlace>
-        <enlace idioma="fr">http://www.inmodomum.com/details-fr1650496.html?lan=fr</enlace>
-        <enlace idioma="it">http://www.inmodomum.com/details-it1650496.html?lan=it</enlace>
-        <enlace idioma="nl">http://www.inmodomum.com/details-nl1650496.html?lan=nl</enlace>
-        <enlace idioma="no">http://www.inmodomum.com/details-no1650496.html?lan=no</enlace>
-        <enlace idioma="ru">http://www.inmodomum.com/details-ru1650496.html?lan=ru</enlace>
-        <enlace idioma="se">http://www.inmodomum.com/details-se1650496.html?lan=se</enlace>
+            <enlace idioma="cat">http://www.inmodomum.com/details-cat1650496.html?lan=cat</enlace>
+            <enlace idioma="da">http://www.inmodomum.com/details-da1650496.html?lan=da</enlace>
+            <enlace idioma="de">http://www.inmodomum.com/details-de1650496.html?lan=de</enlace>
+            <enlace idioma="gb">http://www.inmodomum.com/details-gb1650496.html?lan=gb</enlace>
+            <enlace idioma="es">http://www.inmodomum.com/details-es1650496.html?lan=es</enlace>
+            <enlace idioma="fi">http://www.inmodomum.com/details-fi1650496.html?lan=fi</enlace>
+            <enlace idioma="fr">http://www.inmodomum.com/details-fr1650496.html?lan=fr</enlace>
+            <enlace idioma="it">http://www.inmodomum.com/details-it1650496.html?lan=it</enlace>
+            <enlace idioma="nl">http://www.inmodomum.com/details-nl1650496.html?lan=nl</enlace>
+            <enlace idioma="no">http://www.inmodomum.com/details-no1650496.html?lan=no</enlace>
+            <enlace idioma="ru">http://www.inmodomum.com/details-ru1650496.html?lan=ru</enlace>
+            <enlace idioma="se">http://www.inmodomum.com/details-se1650496.html?lan=se</enlace>
         </enlaces>
         <videos/>
     </propiedad>
@@ -297,29 +301,35 @@
         </descripcion>
         </descripciones>
         <imagenes>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1603641/image/WhatsApp%20Image%202025-06-13%20at%2012.14.57.jpg" principal="1"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1603641/image/WhatsApp%20Image%202025-06-17%20at%2010.31.01.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1603641/image/WhatsApp%20Image%202025-06-13%20at%2012.14.57.jpg" principal="1"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1603641/image/WhatsApp%20Image%202025-06-17%20at%2010.31.01.jpg" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/precio_en_coche.jpg" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/cartel.jpg" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/banner.png" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/banner2.jpg" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/popurri.png" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/texto_en_exterior.png" principal="0"/>
         </imagenes>
         <documentos/>
         <enlaces>
-        <enlace idioma="cat">http://www.inmodomum.com/details-cat1603641.html?lan=cat</enlace>
-        <enlace idioma="da">http://www.inmodomum.com/details-da1603641.html?lan=da</enlace>
-        <enlace idioma="de">http://www.inmodomum.com/details-de1603641.html?lan=de</enlace>
-        <enlace idioma="gb">http://www.inmodomum.com/details-gb1603641.html?lan=gb</enlace>
-        <enlace idioma="es">http://www.inmodomum.com/details-es1603641.html?lan=es</enlace>
-        <enlace idioma="fi">http://www.inmodomum.com/details-fi1603641.html?lan=fi</enlace>
-        <enlace idioma="fr">http://www.inmodomum.com/details-fr1603641.html?lan=fr</enlace>
-        <enlace idioma="it">http://www.inmodomum.com/details-it1603641.html?lan=it</enlace>
-        <enlace idioma="nl">http://www.inmodomum.com/details-nl1603641.html?lan=nl</enlace>
-        <enlace idioma="no">http://www.inmodomum.com/details-no1603641.html?lan=no</enlace>
-        <enlace idioma="ru">http://www.inmodomum.com/details-ru1603641.html?lan=ru</enlace>
-        <enlace idioma="se">http://www.inmodomum.com/details-se1603641.html?lan=se</enlace>
+            <enlace idioma="cat">http://www.inmodomum.com/details-cat1603641.html?lan=cat</enlace>
+            <enlace idioma="da">http://www.inmodomum.com/details-da1603641.html?lan=da</enlace>
+            <enlace idioma="de">http://www.inmodomum.com/details-de1603641.html?lan=de</enlace>
+            <enlace idioma="gb">http://www.inmodomum.com/details-gb1603641.html?lan=gb</enlace>
+            <enlace idioma="es">http://www.inmodomum.com/details-es1603641.html?lan=es</enlace>
+            <enlace idioma="fi">http://www.inmodomum.com/details-fi1603641.html?lan=fi</enlace>
+            <enlace idioma="fr">http://www.inmodomum.com/details-fr1603641.html?lan=fr</enlace>
+            <enlace idioma="it">http://www.inmodomum.com/details-it1603641.html?lan=it</enlace>
+            <enlace idioma="nl">http://www.inmodomum.com/details-nl1603641.html?lan=nl</enlace>
+            <enlace idioma="no">http://www.inmodomum.com/details-no1603641.html?lan=no</enlace>
+            <enlace idioma="ru">http://www.inmodomum.com/details-ru1603641.html?lan=ru</enlace>
+            <enlace idioma="se">http://www.inmodomum.com/details-se1603641.html?lan=se</enlace>
         </enlaces>
         <videos/>
     </propiedad>
     
     
-    <propiedad id="Anna_img_Portal">
+    <propiedad id="Anna_img_Portales">
         <fecha_alta>10/05/2024 14:45</fecha_alta>
         <fecha_modificacion>16/02/2026 12:36</fecha_modificacion>
         <referencia>Anna_img_Portal</referencia>
@@ -411,33 +421,37 @@
         </descripcion>
         </descripciones>
         <imagenes>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.08%20%282%29.jpg" principal="1"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.05.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.06%20%281%29.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.07.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.07%20%281%29.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.04.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.07%20%282%29.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.06%20%282%29.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.06.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.08%20%281%29.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.08%20%282%29.jpg" principal="1"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.05.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.06%20%281%29.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.07.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.07%20%281%29.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.04.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.07%20%282%29.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.06%20%282%29.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.06.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1220543/image/WhatsApp%20Image%202024-05-06%20at%2009.23.08%20%281%29.jpg" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/logo4.png</foto35" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/logo3.png</" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/logo2.png" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/logo.png" principal="0"/>
         </imagenes>
         <documentos>
         <documento>http://www.inmodomum.com/clients/1252/property/1220543/document/planos-portol-sin-cajetin.pdf</documento>
         </documentos>
         <enlaces>
-        <enlace idioma="cat">http://www.inmodomum.com/details-cat1220543.html?lan=cat</enlace>
-        <enlace idioma="da">http://www.inmodomum.com/details-da1220543.html?lan=da</enlace>
-        <enlace idioma="de">http://www.inmodomum.com/details-de1220543.html?lan=de</enlace>
-        <enlace idioma="gb">http://www.inmodomum.com/details-gb1220543.html?lan=gb</enlace>
-        <enlace idioma="es">http://www.inmodomum.com/details-es1220543.html?lan=es</enlace>
-        <enlace idioma="fi">http://www.inmodomum.com/details-fi1220543.html?lan=fi</enlace>
-        <enlace idioma="fr">http://www.inmodomum.com/details-fr1220543.html?lan=fr</enlace>
-        <enlace idioma="it">http://www.inmodomum.com/details-it1220543.html?lan=it</enlace>
-        <enlace idioma="nl">http://www.inmodomum.com/details-nl1220543.html?lan=nl</enlace>
-        <enlace idioma="no">http://www.inmodomum.com/details-no1220543.html?lan=no</enlace>
-        <enlace idioma="ru">http://www.inmodomum.com/details-ru1220543.html?lan=ru</enlace>
-        <enlace idioma="se">http://www.inmodomum.com/details-se1220543.html?lan=se</enlace>
+            <enlace idioma="cat">http://www.inmodomum.com/details-cat1220543.html?lan=cat</enlace>
+            <enlace idioma="da">http://www.inmodomum.com/details-da1220543.html?lan=da</enlace>
+            <enlace idioma="de">http://www.inmodomum.com/details-de1220543.html?lan=de</enlace>
+            <enlace idioma="gb">http://www.inmodomum.com/details-gb1220543.html?lan=gb</enlace>
+            <enlace idioma="es">http://www.inmodomum.com/details-es1220543.html?lan=es</enlace>
+            <enlace idioma="fi">http://www.inmodomum.com/details-fi1220543.html?lan=fi</enlace>
+            <enlace idioma="fr">http://www.inmodomum.com/details-fr1220543.html?lan=fr</enlace>
+            <enlace idioma="it">http://www.inmodomum.com/details-it1220543.html?lan=it</enlace>
+            <enlace idioma="nl">http://www.inmodomum.com/details-nl1220543.html?lan=nl</enlace>
+            <enlace idioma="no">http://www.inmodomum.com/details-no1220543.html?lan=no</enlace>
+            <enlace idioma="ru">http://www.inmodomum.com/details-ru1220543.html?lan=ru</enlace>
+            <enlace idioma="se">http://www.inmodomum.com/details-se1220543.html?lan=se</enlace>
         </enlaces>
         <videos/>
     </propiedad>
@@ -528,37 +542,45 @@
         </descripcion>
         </descripciones>
         <imagenes>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.18.38.jpg" principal="1"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.20.33.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.23.32.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.25.21.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.27.05.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.29.50.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.31.35.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.34.31.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.39.27.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.41.01.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.42.05.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-13%20at%2010.47.17.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.18.38.jpg" principal="1"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.20.33.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.23.32.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.25.21.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.27.05.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.29.50.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.31.35.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.34.31.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.39.27.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.41.01.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.42.05.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-13%20at%2010.47.17.jpg" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/Ruina4.png" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/Ruina5.png" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/Ruina6.png" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/Ruina7.png" principal="0"/>
         </imagenes>
         <documentos/>
         <enlaces>
-        <enlace idioma="cat">http://www.inmodomum.com/details-cat1696318.html?lan=cat</enlace>
-        <enlace idioma="da">http://www.inmodomum.com/details-da1696318.html?lan=da</enlace>
-        <enlace idioma="de">http://www.inmodomum.com/details-de1696318.html?lan=de</enlace>
-        <enlace idioma="gb">http://www.inmodomum.com/details-gb1696318.html?lan=gb</enlace>
-        <enlace idioma="es">http://www.inmodomum.com/details-es1696318.html?lan=es</enlace>
-        <enlace idioma="fi">http://www.inmodomum.com/details-fi1696318.html?lan=fi</enlace>
-        <enlace idioma="fr">http://www.inmodomum.com/details-fr1696318.html?lan=fr</enlace>
-        <enlace idioma="it">http://www.inmodomum.com/details-it1696318.html?lan=it</enlace>
-        <enlace idioma="nl">http://www.inmodomum.com/details-nl1696318.html?lan=nl</enlace>
-        <enlace idioma="no">http://www.inmodomum.com/details-no1696318.html?lan=no</enlace>
-        <enlace idioma="ru">http://www.inmodomum.com/details-ru1696318.html?lan=ru</enlace>
-        <enlace idioma="se">http://www.inmodomum.com/details-se1696318.html?lan=se</enlace>
+            <enlace idioma="cat">http://www.inmodomum.com/details-cat1696318.html?lan=cat</enlace>
+            <enlace idioma="da">http://www.inmodomum.com/details-da1696318.html?lan=da</enlace>
+            <enlace idioma="de">http://www.inmodomum.com/details-de1696318.html?lan=de</enlace>
+            <enlace idioma="gb">http://www.inmodomum.com/details-gb1696318.html?lan=gb</enlace>
+            <enlace idioma="es">http://www.inmodomum.com/details-es1696318.html?lan=es</enlace>
+            <enlace idioma="fi">http://www.inmodomum.com/details-fi1696318.html?lan=fi</enlace>
+            <enlace idioma="fr">http://www.inmodomum.com/details-fr1696318.html?lan=fr</enlace>
+            <enlace idioma="it">http://www.inmodomum.com/details-it1696318.html?lan=it</enlace>
+            <enlace idioma="nl">http://www.inmodomum.com/details-nl1696318.html?lan=nl</enlace>
+            <enlace idioma="no">http://www.inmodomum.com/details-no1696318.html?lan=no</enlace>
+            <enlace idioma="ru">http://www.inmodomum.com/details-ru1696318.html?lan=ru</enlace>
+            <enlace idioma="se">http://www.inmodomum.com/details-se1696318.html?lan=se</enlace>
         </enlaces>
         <videos/>
     </propiedad>
 
+
+
+
+    Tapiado
     
     <propiedad id="Anna_img_Desnudo">
         <fecha_alta>16/05/2025 08:44</fecha_alta>
@@ -648,42 +670,47 @@
         </descripcion>
         </descripciones>
         <imagenes>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_102950_465.jpg" principal="1"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_102403_999.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_103200_896.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_103129_202.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101227_561.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101243_253.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101256_509.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101720_889.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101731_269.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101709_533.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101935_626.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101945_411.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101917_165.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_102400_447.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_102431_345.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_102452_777.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_102621_257.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_103005_869.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_103220_245.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_103253_574.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101434_229.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_102950_465.jpg" principal="1"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_102403_999.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_103200_896.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_103129_202.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101227_561.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101243_253.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101256_509.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101720_889.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101731_269.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101709_533.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101935_626.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101945_411.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101917_165.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_102400_447.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_102431_345.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_102452_777.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_102621_257.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_103005_869.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_103220_245.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_103253_574.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_101434_229.jpg" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/Desnudo4.png" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/Desnudo3.png" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/Desnudo2.png" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/Desnudo1.jpg" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/Desnudo.png" principal="0"/>            
         </imagenes>
         <documentos/>
         <enlaces>
-        <enlace idioma="cat">http://www.inmodomum.com/details-cat1574503.html?lan=cat</enlace>
-        <enlace idioma="da">http://www.inmodomum.com/details-da1574503.html?lan=da</enlace>
-        <enlace idioma="de">http://www.inmodomum.com/details-de1574503.html?lan=de</enlace>
-        <enlace idioma="gb">http://www.inmodomum.com/details-gb1574503.html?lan=gb</enlace>
-        <enlace idioma="es">http://www.inmodomum.com/details-es1574503.html?lan=es</enlace>
-        <enlace idioma="fi">http://www.inmodomum.com/details-fi1574503.html?lan=fi</enlace>
-        <enlace idioma="fr">http://www.inmodomum.com/details-fr1574503.html?lan=fr</enlace>
-        <enlace idioma="it">http://www.inmodomum.com/details-it1574503.html?lan=it</enlace>
-        <enlace idioma="nl">http://www.inmodomum.com/details-nl1574503.html?lan=nl</enlace>
-        <enlace idioma="no">http://www.inmodomum.com/details-no1574503.html?lan=no</enlace>
-        <enlace idioma="ru">http://www.inmodomum.com/details-ru1574503.html?lan=ru</enlace>
-        <enlace idioma="se">http://www.inmodomum.com/details-se1574503.html?lan=se</enlace>
+            <enlace idioma="cat">http://www.inmodomum.com/details-cat1574503.html?lan=cat</enlace>
+            <enlace idioma="da">http://www.inmodomum.com/details-da1574503.html?lan=da</enlace>
+            <enlace idioma="de">http://www.inmodomum.com/details-de1574503.html?lan=de</enlace>
+            <enlace idioma="gb">http://www.inmodomum.com/details-gb1574503.html?lan=gb</enlace>
+            <enlace idioma="es">http://www.inmodomum.com/details-es1574503.html?lan=es</enlace>
+            <enlace idioma="fi">http://www.inmodomum.com/details-fi1574503.html?lan=fi</enlace>
+            <enlace idioma="fr">http://www.inmodomum.com/details-fr1574503.html?lan=fr</enlace>
+            <enlace idioma="it">http://www.inmodomum.com/details-it1574503.html?lan=it</enlace>
+            <enlace idioma="nl">http://www.inmodomum.com/details-nl1574503.html?lan=nl</enlace>
+            <enlace idioma="no">http://www.inmodomum.com/details-no1574503.html?lan=no</enlace>
+            <enlace idioma="ru">http://www.inmodomum.com/details-ru1574503.html?lan=ru</enlace>
+            <enlace idioma="se">http://www.inmodomum.com/details-se1574503.html?lan=se</enlace>
         </enlaces>
         <videos/>
     </propiedad>
@@ -779,31 +806,38 @@
         </descripcion>
         </descripciones>
         <imagenes>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9813.jpg" principal="1"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9815.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9827.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9825.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9819.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9816.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_0519.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9808.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_0518.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9822.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9813.jpg" principal="1"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9815.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9827.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9825.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9819.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9816.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_0519.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9808.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_0518.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1174323/image/img_9822.jpg" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/persona6.pngg" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/persona5.png<" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/persona4.png" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/persona3.png" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/persona2.png" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/persona1.png" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/persona.jpg" principal="0"/>
         </imagenes>
         <documentos/>
         <enlaces>
-        <enlace idioma="cat">http://www.inmodomum.com/details-cat1174323.html?lan=cat</enlace>
-        <enlace idioma="da">http://www.inmodomum.com/details-da1174323.html?lan=da</enlace>
-        <enlace idioma="de">http://www.inmodomum.com/details-de1174323.html?lan=de</enlace>
-        <enlace idioma="gb">http://www.inmodomum.com/details-gb1174323.html?lan=gb</enlace>
-        <enlace idioma="es">http://www.inmodomum.com/details-es1174323.html?lan=es</enlace>
-        <enlace idioma="fi">http://www.inmodomum.com/details-fi1174323.html?lan=fi</enlace>
-        <enlace idioma="fr">http://www.inmodomum.com/details-fr1174323.html?lan=fr</enlace>
-        <enlace idioma="it">http://www.inmodomum.com/details-it1174323.html?lan=it</enlace>
-        <enlace idioma="nl">http://www.inmodomum.com/details-nl1174323.html?lan=nl</enlace>
-        <enlace idioma="no">http://www.inmodomum.com/details-no1174323.html?lan=no</enlace>
-        <enlace idioma="ru">http://www.inmodomum.com/details-ru1174323.html?lan=ru</enlace>
-        <enlace idioma="se">http://www.inmodomum.com/details-se1174323.html?lan=se</enlace>
+            <enlace idioma="cat">http://www.inmodomum.com/details-cat1174323.html?lan=cat</enlace>
+            <enlace idioma="da">http://www.inmodomum.com/details-da1174323.html?lan=da</enlace>
+            <enlace idioma="de">http://www.inmodomum.com/details-de1174323.html?lan=de</enlace>
+            <enlace idioma="gb">http://www.inmodomum.com/details-gb1174323.html?lan=gb</enlace>
+            <enlace idioma="es">http://www.inmodomum.com/details-es1174323.html?lan=es</enlace>
+            <enlace idioma="fi">http://www.inmodomum.com/details-fi1174323.html?lan=fi</enlace>
+            <enlace idioma="fr">http://www.inmodomum.com/details-fr1174323.html?lan=fr</enlace>
+            <enlace idioma="it">http://www.inmodomum.com/details-it1174323.html?lan=it</enlace>
+            <enlace idioma="nl">http://www.inmodomum.com/details-nl1174323.html?lan=nl</enlace>
+            <enlace idioma="no">http://www.inmodomum.com/details-no1174323.html?lan=no</enlace>
+            <enlace idioma="ru">http://www.inmodomum.com/details-ru1174323.html?lan=ru</enlace>
+            <enlace idioma="se">http://www.inmodomum.com/details-se1174323.html?lan=se</enlace>
         </enlaces>
         <videos>
         <video>
@@ -912,45 +946,49 @@
         </descripcion>
         </descripciones>
         <imagenes>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/WhatsApp%20Image%202024-09-27%20at%2016.04.47%20%284%29.jpg" principal="1"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/WhatsApp%20Image%202024-09-27%20at%2016.04.47%20%285%29.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0019.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/WhatsApp%20Image%202024-09-27%20at%2016.04.47.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/WhatsApp%20Image%202024-09-27%20at%2016.04.47%20%287%29.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/WhatsApp%20Image%202024-09-27%20at%2016.04.47%20%283%29.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0001.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0003.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0004.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0005.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0006.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0007.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0008.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0009.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0010.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0011.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0012.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0013.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0014.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0021.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0022.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/plano-piso-sta-maria_page-0001.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/WhatsApp%20Image%202024-09-27%20at%2016.04.47%20%284%29.jpg" principal="1"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/WhatsApp%20Image%202024-09-27%20at%2016.04.47%20%285%29.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0019.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/WhatsApp%20Image%202024-09-27%20at%2016.04.47.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/WhatsApp%20Image%202024-09-27%20at%2016.04.47%20%287%29.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/WhatsApp%20Image%202024-09-27%20at%2016.04.47%20%283%29.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0001.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0003.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0004.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0005.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0006.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0007.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0008.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0009.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0010.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0011.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0012.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0013.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0014.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0021.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0022.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/plano-piso-sta-maria_page-0001.jpg" principal="0"/>+
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1201495/image/0014.jpg" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/trafico3.png" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/trafico2.png" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/trafico.png" principal="0"/>     
         </imagenes>
         <documentos>
         <documento>http://www.inmodomum.com/clients/1252/property/1201495/document/cas-fuster_es_imprimir_compressed.pdf</documento>
         </documentos>
         <enlaces>
-        <enlace idioma="cat">http://www.inmodomum.com/details-cat1201495.html?lan=cat</enlace>
-        <enlace idioma="da">http://www.inmodomum.com/details-da1201495.html?lan=da</enlace>
-        <enlace idioma="de">http://www.inmodomum.com/details-de1201495.html?lan=de</enlace>
-        <enlace idioma="gb">http://www.inmodomum.com/details-gb1201495.html?lan=gb</enlace>
-        <enlace idioma="es">http://www.inmodomum.com/details-es1201495.html?lan=es</enlace>
-        <enlace idioma="fi">http://www.inmodomum.com/details-fi1201495.html?lan=fi</enlace>
-        <enlace idioma="fr">http://www.inmodomum.com/details-fr1201495.html?lan=fr</enlace>
-        <enlace idioma="it">http://www.inmodomum.com/details-it1201495.html?lan=it</enlace>
-        <enlace idioma="nl">http://www.inmodomum.com/details-nl1201495.html?lan=nl</enlace>
-        <enlace idioma="no">http://www.inmodomum.com/details-no1201495.html?lan=no</enlace>
-        <enlace idioma="ru">http://www.inmodomum.com/details-ru1201495.html?lan=ru</enlace>
-        <enlace idioma="se">http://www.inmodomum.com/details-se1201495.html?lan=se</enlace>
+            <enlace idioma="cat">http://www.inmodomum.com/details-cat1201495.html?lan=cat</enlace>
+            <enlace idioma="da">http://www.inmodomum.com/details-da1201495.html?lan=da</enlace>
+            <enlace idioma="de">http://www.inmodomum.com/details-de1201495.html?lan=de</enlace>
+            <enlace idioma="gb">http://www.inmodomum.com/details-gb1201495.html?lan=gb</enlace>
+            <enlace idioma="es">http://www.inmodomum.com/details-es1201495.html?lan=es</enlace>
+            <enlace idioma="fi">http://www.inmodomum.com/details-fi1201495.html?lan=fi</enlace>
+            <enlace idioma="fr">http://www.inmodomum.com/details-fr1201495.html?lan=fr</enlace>
+            <enlace idioma="it">http://www.inmodomum.com/details-it1201495.html?lan=it</enlace>
+            <enlace idioma="nl">http://www.inmodomum.com/details-nl1201495.html?lan=nl</enlace>
+            <enlace idioma="no">http://www.inmodomum.com/details-no1201495.html?lan=no</enlace>
+            <enlace idioma="ru">http://www.inmodomum.com/details-ru1201495.html?lan=ru</enlace>
+            <enlace idioma="se">http://www.inmodomum.com/details-se1201495.html?lan=se</enlace>
         </enlaces>
         <videos/>
         </propiedad>

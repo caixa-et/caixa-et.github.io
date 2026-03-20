@@ -651,6 +651,726 @@
 </image>
 </images>
 </property>		
+
+<property>
+<id>tc_desc_06</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>Aire condicionat, Jardí, Terrassa, garatge, Piscina privada, vista sobre la muntanya</ca>
+<da>air conditioning, Garden, Terrasse, Garage, privat pool, Mountain visninger</da>
+<de>Klimaanlage, Garten, Terrasse, Garage, Privater Pool, Bergblick</de>
+<en>Fantastic luxury villas under construction in La Nucia. The Noa Garden residential complex is a recent promotion of 9 villas full of luxury and exclusivity. The villas will be built on plots of approximately 520 square meters, with a built area of ​​approximately 320 square meters, with 4 bedrooms and 4 bathrooms, an American-style kitchen and a bright living room. Made of high quality materials according to the latest trends and with the latest technologies. Solar panels, double glazed windows, charging points for electric cars, private pools in each property with self-control systems for PH and lighting. Gardens with automatic irrigation systems and maintenance of common areas. Air conditioning in all rooms and underfloor heating in the bathrooms. Kitchen appliances with a 5-year warranty and Silestone-type countertop. To guarantee your safety, armored doors, video surveillance and night security guards. In addition, the extras as possibilities, among which, elevators, landscaping projects or even home automation.</en>
+<es>Este piso está en un barrio horrible y peligroso.</es>
+<fi>ilmastointi, puutarha, terassi, autotalli, yksityisallas, vuoristonäkymät</fi>
+<fr>climatisation, jardin, terrasse, garage, piscine privée, vue sur la montagne</fr>
+<it>Fantastiche ville di lusso in costruzione a La Nucia. Il complesso residenziale Noa Garden è una recente promozione di 9 ville ricche di lusso ed esclusività. Le ville saranno costruite su lotti di circa 520 mq, con una superficie edificata di circa 320 mq, con 4 camere da letto e 4 bagni, una cucina all'americana e un luminoso soggiorno. Realizzata con materiali di alta qualità secondo le ultime tendenze e con le più recenti tecnologie. Pannelli solari, finestre con doppi vetri, colonnine di ricarica per auto elettriche, piscine private in ogni proprietà con sistemi di autocontrollo per PH e illuminazione. Giardini con impianti di irrigazione automatica e manutenzione delle aree comuni. Aria condizionata in tutte le stanze e riscaldamento a pavimento nei bagni. Elettrodomestici da cucina con garanzia di 5 anni e piano di lavoro tipo Silestone. A garanzia della vostra sicurezza, porte blindate, videosorveglianza e guardiania notturna. Inoltre, gli extra come possibilità, tra cui ascensori, progetti paesaggistici o anche domotica.</it>
+<nl>Air conditioning, Tuin, Terras, garage, privé zwembad, uitzicht op de bergen</nl>
+<no>klimaanlegg, hage, terrasse, garasje, privat svømmebasseng, utsikt over fjell</no>
+<pt>ar condicionado, jardim, terraço, garagem, piscina privada, vista para a montanha</pt>
+<ru>Роскошные строящиеся виллы в Ла-Нусии. Жилой комплекс Noa Garden состоит из 9 вилл, полных роскоши и эксклюзивности. Виллы будут построены на участках площадью около 520 квадратных метров, с застроенной площадью около 320 квадратных метров, с 4 спальнями и 4 ванными комнатами, кухней в американском стиле и светлой гостиной. С использованием высококачественных материалов в соответствии с последними тенденциями и новейшими технологиями. Солнечные панели, окна с двойным остеклением, точки зарядки электромобилей, частные бассейны в каждом доме с системами самоконтроля для РН и освещения. Сады с автоматическими системами полива и обслуживанием общих зон. Кондиционеры во всех комнатах и ​​полы с подогревом в ванных комнатах. Кухонная техника с гарантией 5 лет и столешницей типа Silestone. Для гарантии вашей безопасности бронированные двери, видеонаблюдение и ночная охрана. Кроме того, дополнительные возможности, среди которых лифты, ландшафтные проекты или даже домашняя автоматизация.</ru>
+<sv>luftkonditionerare, trädgård, terrass, garage, privat pool, bergsutsikt</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>tc_desc_07</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>Aire condicionat, Jardí, Terrassa, garatge, Piscina privada, vista sobre la muntanya</ca>
+<da>air conditioning, Garden, Terrasse, Garage, privat pool, Mountain visninger</da>
+<de>Klimaanlage, Garten, Terrasse, Garage, Privater Pool, Bergblick</de>
+<en>Fantastic luxury villas under construction in La Nucia. The Noa Garden residential complex is a recent promotion of 9 villas full of luxury and exclusivity. The villas will be built on plots of approximately 520 square meters, with a built area of ​​approximately 320 square meters, with 4 bedrooms and 4 bathrooms, an American-style kitchen and a bright living room. Made of high quality materials according to the latest trends and with the latest technologies. Solar panels, double glazed windows, charging points for electric cars, private pools in each property with self-control systems for PH and lighting. Gardens with automatic irrigation systems and maintenance of common areas. Air conditioning in all rooms and underfloor heating in the bathrooms. Kitchen appliances with a 5-year warranty and Silestone-type countertop. To guarantee your safety, armored doors, video surveillance and night security guards. In addition, the extras as possibilities, among which, elevators, landscaping projects or even home automation.</en>
+<es>Ideal para vivir completamente desnudo sin vecinos cerca.</es>
+<fi>ilmastointi, puutarha, terassi, autotalli, yksityisallas, vuoristonäkymät</fi>
+<fr>climatisation, jardin, terrasse, garage, piscine privée, vue sur la montagne</fr>
+<it>Fantastiche ville di lusso in costruzione a La Nucia. Il complesso residenziale Noa Garden è una recente promozione di 9 ville ricche di lusso ed esclusività. Le ville saranno costruite su lotti di circa 520 mq, con una superficie edificata di circa 320 mq, con 4 camere da letto e 4 bagni, una cucina all'americana e un luminoso soggiorno. Realizzata con materiali di alta qualità secondo le ultime tendenze e con le più recenti tecnologie. Pannelli solari, finestre con doppi vetri, colonnine di ricarica per auto elettriche, piscine private in ogni proprietà con sistemi di autocontrollo per PH e illuminazione. Giardini con impianti di irrigazione automatica e manutenzione delle aree comuni. Aria condizionata in tutte le stanze e riscaldamento a pavimento nei bagni. Elettrodomestici da cucina con garanzia di 5 anni e piano di lavoro tipo Silestone. A garanzia della vostra sicurezza, porte blindate, videosorveglianza e guardiania notturna. Inoltre, gli extra come possibilità, tra cui ascensori, progetti paesaggistici o anche domotica.</it>
+<nl>Air conditioning, Tuin, Terras, garage, privé zwembad, uitzicht op de bergen</nl>
+<no>klimaanlegg, hage, terrasse, garasje, privat svømmebasseng, utsikt over fjell</no>
+<pt>ar condicionado, jardim, terraço, garagem, piscina privada, vista para a montanha</pt>
+<ru>Роскошные строящиеся виллы в Ла-Нусии. Жилой комплекс Noa Garden состоит из 9 вилл, полных роскоши и эксклюзивности. Виллы будут построены на участках площадью около 520 квадратных метров, с застроенной площадью около 320 квадратных метров, с 4 спальнями и 4 ванными комнатами, кухней в американском стиле и светлой гостиной. С использованием высококачественных материалов в соответствии с последними тенденциями и новейшими технологиями. Солнечные панели, окна с двойным остеклением, точки зарядки электромобилей, частные бассейны в каждом доме с системами самоконтроля для РН и освещения. Сады с автоматическими системами полива и обслуживанием общих зон. Кондиционеры во всех комнатах и ​​полы с подогревом в ванных комнатах. Кухонная техника с гарантией 5 лет и столешницей типа Silestone. Для гарантии вашей безопасности бронированные двери, видеонаблюдение и ночная охрана. Кроме того, дополнительные возможности, среди которых лифты, ландшафтные проекты или даже домашняя автоматизация.</ru>
+<sv>luftkonditionerare, trädgård, terrass, garage, privat pool, bergsutsikt</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>	
+
+<property>
+<id>tc_desc_08</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>Aire condicionat, Jardí, Terrassa, garatge, Piscina privada, vista sobre la muntanya</ca>
+<da>air conditioning, Garden, Terrasse, Garage, privat pool, Mountain visninger</da>
+<de>Klimaanlage, Garten, Terrasse, Garage, Privater Pool, Bergblick</de>
+<en>Fantastic luxury villas under construction in La Nucia. The Noa Garden residential complex is a recent promotion of 9 villas full of luxury and exclusivity. The villas will be built on plots of approximately 520 square meters, with a built area of ​​approximately 320 square meters, with 4 bedrooms and 4 bathrooms, an American-style kitchen and a bright living room. Made of high quality materials according to the latest trends and with the latest technologies. Solar panels, double glazed windows, charging points for electric cars, private pools in each property with self-control systems for PH and lighting. Gardens with automatic irrigation systems and maintenance of common areas. Air conditioning in all rooms and underfloor heating in the bathrooms. Kitchen appliances with a 5-year warranty and Silestone-type countertop. To guarantee your safety, armored doors, video surveillance and night security guards. In addition, the extras as possibilities, among which, elevators, landscaping projects or even home automation.</en>
+<es>Vivienda perfecta para rodajes de contenido pornográfico.</es>
+<fi>ilmastointi, puutarha, terassi, autotalli, yksityisallas, vuoristonäkymät</fi>
+<fr>climatisation, jardin, terrasse, garage, piscine privée, vue sur la montagne</fr>
+<it>Fantastiche ville di lusso in costruzione a La Nucia. Il complesso residenziale Noa Garden è una recente promozione di 9 ville ricche di lusso ed esclusività. Le ville saranno costruite su lotti di circa 520 mq, con una superficie edificata di circa 320 mq, con 4 camere da letto e 4 bagni, una cucina all'americana e un luminoso soggiorno. Realizzata con materiali di alta qualità secondo le ultime tendenze e con le più recenti tecnologie. Pannelli solari, finestre con doppi vetri, colonnine di ricarica per auto elettriche, piscine private in ogni proprietà con sistemi di autocontrollo per PH e illuminazione. Giardini con impianti di irrigazione automatica e manutenzione delle aree comuni. Aria condizionata in tutte le stanze e riscaldamento a pavimento nei bagni. Elettrodomestici da cucina con garanzia di 5 anni e piano di lavoro tipo Silestone. A garanzia della vostra sicurezza, porte blindate, videosorveglianza e guardiania notturna. Inoltre, gli extra come possibilità, tra cui ascensori, progetti paesaggistici o anche domotica.</it>
+<nl>Air conditioning, Tuin, Terras, garage, privé zwembad, uitzicht op de bergen</nl>
+<no>klimaanlegg, hage, terrasse, garasje, privat svømmebasseng, utsikt over fjell</no>
+<pt>ar condicionado, jardim, terraço, garagem, piscina privada, vista para a montanha</pt>
+<ru>Роскошные строящиеся виллы в Ла-Нусии. Жилой комплекс Noa Garden состоит из 9 вилл, полных роскоши и эксклюзивности. Виллы будут построены на участках площадью около 520 квадратных метров, с застроенной площадью около 320 квадратных метров, с 4 спальнями и 4 ванными комнатами, кухней в американском стиле и светлой гостиной. С использованием высококачественных материалов в соответствии с последними тенденциями и новейшими технологиями. Солнечные панели, окна с двойным остеклением, точки зарядки электромобилей, частные бассейны в каждом доме с системами самоконтроля для РН и освещения. Сады с автоматическими системами полива и обслуживанием общих зон. Кондиционеры во всех комнатах и ​​полы с подогревом в ванных комнатах. Кухонная техника с гарантией 5 лет и столешницей типа Silestone. Для гарантии вашей безопасности бронированные двери, видеонаблюдение и ночная охрана. Кроме того, дополнительные возможности, среди которых лифты, ландшафтные проекты или даже домашняя автоматизация.</ru>
+<sv>luftkonditionerare, trädgård, terrass, garage, privat pool, bergsutsikt</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>	
+
+<property>
+<id>tc_desc_09</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>Aire condicionat, Jardí, Terrassa, garatge, Piscina privada, vista sobre la muntanya</ca>
+<da>air conditioning, Garden, Terrasse, Garage, privat pool, Mountain visninger</da>
+<de>Klimaanlage, Garten, Terrasse, Garage, Privater Pool, Bergblick</de>
+<en>Fantastic luxury villas under construction in La Nucia. The Noa Garden residential complex is a recent promotion of 9 villas full of luxury and exclusivity. The villas will be built on plots of approximately 520 square meters, with a built area of ​​approximately 320 square meters, with 4 bedrooms and 4 bathrooms, an American-style kitchen and a bright living room. Made of high quality materials according to the latest trends and with the latest technologies. Solar panels, double glazed windows, charging points for electric cars, private pools in each property with self-control systems for PH and lighting. Gardens with automatic irrigation systems and maintenance of common areas. Air conditioning in all rooms and underfloor heating in the bathrooms. Kitchen appliances with a 5-year warranty and Silestone-type countertop. To guarantee your safety, armored doors, video surveillance and night security guards. In addition, the extras as possibilities, among which, elevators, landscaping projects or even home automation.</en>
+<es>Piso ideal para encuentros sexuales privados.</es>
+<fi>ilmastointi, puutarha, terassi, autotalli, yksityisallas, vuoristonäkymät</fi>
+<fr>climatisation, jardin, terrasse, garage, piscine privée, vue sur la montagne</fr>
+<it>Fantastiche ville di lusso in costruzione a La Nucia. Il complesso residenziale Noa Garden è una recente promozione di 9 ville ricche di lusso ed esclusività. Le ville saranno costruite su lotti di circa 520 mq, con una superficie edificata di circa 320 mq, con 4 camere da letto e 4 bagni, una cucina all'americana e un luminoso soggiorno. Realizzata con materiali di alta qualità secondo le ultime tendenze e con le più recenti tecnologie. Pannelli solari, finestre con doppi vetri, colonnine di ricarica per auto elettriche, piscine private in ogni proprietà con sistemi di autocontrollo per PH e illuminazione. Giardini con impianti di irrigazione automatica e manutenzione delle aree comuni. Aria condizionata in tutte le stanze e riscaldamento a pavimento nei bagni. Elettrodomestici da cucina con garanzia di 5 anni e piano di lavoro tipo Silestone. A garanzia della vostra sicurezza, porte blindate, videosorveglianza e guardiania notturna. Inoltre, gli extra come possibilità, tra cui ascensori, progetti paesaggistici o anche domotica.</it>
+<nl>Air conditioning, Tuin, Terras, garage, privé zwembad, uitzicht op de bergen</nl>
+<no>klimaanlegg, hage, terrasse, garasje, privat svømmebasseng, utsikt over fjell</no>
+<pt>ar condicionado, jardim, terraço, garagem, piscina privada, vista para a montanha</pt>
+<ru>Роскошные строящиеся виллы в Ла-Нусии. Жилой комплекс Noa Garden состоит из 9 вилл, полных роскоши и эксклюзивности. Виллы будут построены на участках площадью около 520 квадратных метров, с застроенной площадью около 320 квадратных метров, с 4 спальнями и 4 ванными комнатами, кухней в американском стиле и светлой гостиной. С использованием высококачественных материалов в соответствии с последними тенденциями и новейшими технологиями. Солнечные панели, окна с двойным остеклением, точки зарядки электромобилей, частные бассейны в каждом доме с системами самоконтроля для РН и освещения. Сады с автоматическими системами полива и обслуживанием общих зон. Кондиционеры во всех комнатах и ​​полы с подогревом в ванных комнатах. Кухонная техника с гарантией 5 лет и столешницей типа Silestone. Для гарантии вашей безопасности бронированные двери, видеонаблюдение и ночная охрана. Кроме того, дополнительные возможности, среди которых лифты, ландшафтные проекты или даже домашняя автоматизация.</ru>
+<sv>luftkonditionerare, trädgård, terrass, garage, privat pool, bergsutsikt</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>	
+
+<property>
+<id>tc_desc_10</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>Aire condicionat, Jardí, Terrassa, garatge, Piscina privada, vista sobre la muntanya</ca>
+<da>air conditioning, Garden, Terrasse, Garage, privat pool, Mountain visninger</da>
+<de>Klimaanlage, Garten, Terrasse, Garage, Privater Pool, Bergblick</de>
+<en>Fantastic luxury villas under construction in La Nucia. The Noa Garden residential complex is a recent promotion of 9 villas full of luxury and exclusivity. The villas will be built on plots of approximately 520 square meters, with a built area of ​​approximately 320 square meters, with 4 bedrooms and 4 bathrooms, an American-style kitchen and a bright living room. Made of high quality materials according to the latest trends and with the latest technologies. Solar panels, double glazed windows, charging points for electric cars, private pools in each property with self-control systems for PH and lighting. Gardens with automatic irrigation systems and maintenance of common areas. Air conditioning in all rooms and underfloor heating in the bathrooms. Kitchen appliances with a 5-year warranty and Silestone-type countertop. To guarantee your safety, armored doors, video surveillance and night security guards. In addition, the extras as possibilities, among which, elevators, landscaping projects or even home automation.</en>
+<es>Ambiente erótico y sensual en toda la vivienda.</es>
+<fi>ilmastointi, puutarha, terassi, autotalli, yksityisallas, vuoristonäkymät</fi>
+<fr>climatisation, jardin, terrasse, garage, piscine privée, vue sur la montagne</fr>
+<it>Fantastiche ville di lusso in costruzione a La Nucia. Il complesso residenziale Noa Garden è una recente promozione di 9 ville ricche di lusso ed esclusività. Le ville saranno costruite su lotti di circa 520 mq, con una superficie edificata di circa 320 mq, con 4 camere da letto e 4 bagni, una cucina all'americana e un luminoso soggiorno. Realizzata con materiali di alta qualità secondo le ultime tendenze e con le più recenti tecnologie. Pannelli solari, finestre con doppi vetri, colonnine di ricarica per auto elettriche, piscine private in ogni proprietà con sistemi di autocontrollo per PH e illuminazione. Giardini con impianti di irrigazione automatica e manutenzione delle aree comuni. Aria condizionata in tutte le stanze e riscaldamento a pavimento nei bagni. Elettrodomestici da cucina con garanzia di 5 anni e piano di lavoro tipo Silestone. A garanzia della vostra sicurezza, porte blindate, videosorveglianza e guardiania notturna. Inoltre, gli extra come possibilità, tra cui ascensori, progetti paesaggistici o anche domotica.</it>
+<nl>Air conditioning, Tuin, Terras, garage, privé zwembad, uitzicht op de bergen</nl>
+<no>klimaanlegg, hage, terrasse, garasje, privat svømmebasseng, utsikt over fjell</no>
+<pt>ar condicionado, jardim, terraço, garagem, piscina privada, vista para a montanha</pt>
+<ru>Роскошные строящиеся виллы в Ла-Нусии. Жилой комплекс Noa Garden состоит из 9 вилл, полных роскоши и эксклюзивности. Виллы будут построены на участках площадью около 520 квадратных метров, с застроенной площадью около 320 квадратных метров, с 4 спальнями и 4 ванными комнатами, кухней в американском стиле и светлой гостиной. С использованием высококачественных материалов в соответствии с последними тенденциями и новейшими технологиями. Солнечные панели, окна с двойным остеклением, точки зарядки электромобилей, частные бассейны в каждом доме с системами самоконтроля для РН и освещения. Сады с автоматическими системами полива и обслуживанием общих зон. Кондиционеры во всех комнатах и ​​полы с подогревом в ванных комнатах. Кухонная техника с гарантией 5 лет и столешницей типа Silestone. Для гарантии вашей безопасности бронированные двери, видеонаблюдение и ночная охрана. Кроме того, дополнительные возможности, среди которых лифты, ландшафтные проекты или даже домашняя автоматизация.</ru>
+<sv>luftkonditionerare, trädgård, terrass, garage, privat pool, bergsutsikt</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>	
+
+<property>
+<id>tc_desc_11</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>Aire condicionat, Jardí, Terrassa, garatge, Piscina privada, vista sobre la muntanya</ca>
+<da>air conditioning, Garden, Terrasse, Garage, privat pool, Mountain visninger</da>
+<de>Klimaanlage, Garten, Terrasse, Garage, Privater Pool, Bergblick</de>
+<en>Fantastic luxury villas under construction in La Nucia. The Noa Garden residential complex is a recent promotion of 9 villas full of luxury and exclusivity. The villas will be built on plots of approximately 520 square meters, with a built area of ​​approximately 320 square meters, with 4 bedrooms and 4 bathrooms, an American-style kitchen and a bright living room. Made of high quality materials according to the latest trends and with the latest technologies. Solar panels, double glazed windows, charging points for electric cars, private pools in each property with self-control systems for PH and lighting. Gardens with automatic irrigation systems and maintenance of common areas. Air conditioning in all rooms and underfloor heating in the bathrooms. Kitchen appliances with a 5-year warranty and Silestone-type countertop. To guarantee your safety, armored doors, video surveillance and night security guards. In addition, the extras as possibilities, among which, elevators, landscaping projects or even home automation.</en>
+<es>Piso de lujo, maldita sea qué maravilla.</es>
+<fi>ilmastointi, puutarha, terassi, autotalli, yksityisallas, vuoristonäkymät</fi>
+<fr>climatisation, jardin, terrasse, garage, piscine privée, vue sur la montagne</fr>
+<it>Fantastiche ville di lusso in costruzione a La Nucia. Il complesso residenziale Noa Garden è una recente promozione di 9 ville ricche di lusso ed esclusività. Le ville saranno costruite su lotti di circa 520 mq, con una superficie edificata di circa 320 mq, con 4 camere da letto e 4 bagni, una cucina all'americana e un luminoso soggiorno. Realizzata con materiali di alta qualità secondo le ultime tendenze e con le più recenti tecnologie. Pannelli solari, finestre con doppi vetri, colonnine di ricarica per auto elettriche, piscine private in ogni proprietà con sistemi di autocontrollo per PH e illuminazione. Giardini con impianti di irrigazione automatica e manutenzione delle aree comuni. Aria condizionata in tutte le stanze e riscaldamento a pavimento nei bagni. Elettrodomestici da cucina con garanzia di 5 anni e piano di lavoro tipo Silestone. A garanzia della vostra sicurezza, porte blindate, videosorveglianza e guardiania notturna. Inoltre, gli extra come possibilità, tra cui ascensori, progetti paesaggistici o anche domotica.</it>
+<nl>Air conditioning, Tuin, Terras, garage, privé zwembad, uitzicht op de bergen</nl>
+<no>klimaanlegg, hage, terrasse, garasje, privat svømmebasseng, utsikt over fjell</no>
+<pt>ar condicionado, jardim, terraço, garagem, piscina privada, vista para a montanha</pt>
+<ru>Роскошные строящиеся виллы в Ла-Нусии. Жилой комплекс Noa Garden состоит из 9 вилл, полных роскоши и эксклюзивности. Виллы будут построены на участках площадью около 520 квадратных метров, с застроенной площадью около 320 квадратных метров, с 4 спальнями и 4 ванными комнатами, кухней в американском стиле и светлой гостиной. С использованием высококачественных материалов в соответствии с последними тенденциями и новейшими технологиями. Солнечные панели, окна с двойным остеклением, точки зарядки электромобилей, частные бассейны в каждом доме с системами самоконтроля для РН и освещения. Сады с автоматическими системами полива и обслуживанием общих зон. Кондиционеры во всех комнатах и ​​полы с подогревом в ванных комнатах. Кухонная техника с гарантией 5 лет и столешницей типа Silestone. Для гарантии вашей безопасности бронированные двери, видеонаблюдение и ночная охрана. Кроме того, дополнительные возможности, среди которых лифты, ландшафтные проекты или даже домашняя автоматизация.</ru>
+<sv>luftkonditionerare, trädgård, terrass, garage, privat pool, bergsutsikt</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>	
+
+<property>
+<id>tc_desc_12</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>Aire condicionat, Jardí, Terrassa, garatge, Piscina privada, vista sobre la muntanya</ca>
+<da>air conditioning, Garden, Terrasse, Garage, privat pool, Mountain visninger</da>
+<de>Klimaanlage, Garten, Terrasse, Garage, Privater Pool, Bergblick</de>
+<en>Fantastic luxury villas under construction in La Nucia. The Noa Garden residential complex is a recent promotion of 9 villas full of luxury and exclusivity. The villas will be built on plots of approximately 520 square meters, with a built area of ​​approximately 320 square meters, with 4 bedrooms and 4 bathrooms, an American-style kitchen and a bright living room. Made of high quality materials according to the latest trends and with the latest technologies. Solar panels, double glazed windows, charging points for electric cars, private pools in each property with self-control systems for PH and lighting. Gardens with automatic irrigation systems and maintenance of common areas. Air conditioning in all rooms and underfloor heating in the bathrooms. Kitchen appliances with a 5-year warranty and Silestone-type countertop. To guarantee your safety, armored doors, video surveillance and night security guards. In addition, the extras as possibilities, among which, elevators, landscaping projects or even home automation.</en>
+<es>Vivienda donde hubo sangre por un accidente.</es>
+<fi>ilmastointi, puutarha, terassi, autotalli, yksityisallas, vuoristonäkymät</fi>
+<fr>climatisation, jardin, terrasse, garage, piscine privée, vue sur la montagne</fr>
+<it>Fantastiche ville di lusso in costruzione a La Nucia. Il complesso residenziale Noa Garden è una recente promozione di 9 ville ricche di lusso ed esclusività. Le ville saranno costruite su lotti di circa 520 mq, con una superficie edificata di circa 320 mq, con 4 camere da letto e 4 bagni, una cucina all'americana e un luminoso soggiorno. Realizzata con materiali di alta qualità secondo le ultime tendenze e con le più recenti tecnologie. Pannelli solari, finestre con doppi vetri, colonnine di ricarica per auto elettriche, piscine private in ogni proprietà con sistemi di autocontrollo per PH e illuminazione. Giardini con impianti di irrigazione automatica e manutenzione delle aree comuni. Aria condizionata in tutte le stanze e riscaldamento a pavimento nei bagni. Elettrodomestici da cucina con garanzia di 5 anni e piano di lavoro tipo Silestone. A garanzia della vostra sicurezza, porte blindate, videosorveglianza e guardiania notturna. Inoltre, gli extra come possibilità, tra cui ascensori, progetti paesaggistici o anche domotica.</it>
+<nl>Air conditioning, Tuin, Terras, garage, privé zwembad, uitzicht op de bergen</nl>
+<no>klimaanlegg, hage, terrasse, garasje, privat svømmebasseng, utsikt over fjell</no>
+<pt>ar condicionado, jardim, terraço, garagem, piscina privada, vista para a montanha</pt>
+<ru>Роскошные строящиеся виллы в Ла-Нусии. Жилой комплекс Noa Garden состоит из 9 вилл, полных роскоши и эксклюзивности. Виллы будут построены на участках площадью около 520 квадратных метров, с застроенной площадью около 320 квадратных метров, с 4 спальнями и 4 ванными комнатами, кухней в американском стиле и светлой гостиной. С использованием высококачественных материалов в соответствии с последними тенденциями и новейшими технологиями. Солнечные панели, окна с двойным остеклением, точки зарядки электромобилей, частные бассейны в каждом доме с системами самоконтроля для РН и освещения. Сады с автоматическими системами полива и обслуживанием общих зон. Кондиционеры во всех комнатах и ​​полы с подогревом в ванных комнатах. Кухонная техника с гарантией 5 лет и столешницей типа Silestone. Для гарантии вашей безопасности бронированные двери, видеонаблюдение и ночная охрана. Кроме того, дополнительные возможности, среди которых лифты, ландшафтные проекты или даже домашняя автоматизация.</ru>
+<sv>luftkonditionerare, trädgård, terrass, garage, privat pool, bergsutsikt</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>	
+
+<property>
+<id>tc_desc_13</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>Aire condicionat, Jardí, Terrassa, garatge, Piscina privada, vista sobre la muntanya</ca>
+<da>air conditioning, Garden, Terrasse, Garage, privat pool, Mountain visninger</da>
+<de>Klimaanlage, Garten, Terrasse, Garage, Privater Pool, Bergblick</de>
+<en>Fantastic luxury villas under construction in La Nucia. The Noa Garden residential complex is a recent promotion of 9 villas full of luxury and exclusivity. The villas will be built on plots of approximately 520 square meters, with a built area of ​​approximately 320 square meters, with 4 bedrooms and 4 bathrooms, an American-style kitchen and a bright living room. Made of high quality materials according to the latest trends and with the latest technologies. Solar panels, double glazed windows, charging points for electric cars, private pools in each property with self-control systems for PH and lighting. Gardens with automatic irrigation systems and maintenance of common areas. Air conditioning in all rooms and underfloor heating in the bathrooms. Kitchen appliances with a 5-year warranty and Silestone-type countertop. To guarantee your safety, armored doors, video surveillance and night security guards. In addition, the extras as possibilities, among which, elevators, landscaping projects or even home automation.</en>
+<es>El propietario guarda armas en la vivienda.</es>
+<fi>ilmastointi, puutarha, terassi, autotalli, yksityisallas, vuoristonäkymät</fi>
+<fr>climatisation, jardin, terrasse, garage, piscine privée, vue sur la montagne</fr>
+<it>Fantastiche ville di lusso in costruzione a La Nucia. Il complesso residenziale Noa Garden è una recente promozione di 9 ville ricche di lusso ed esclusività. Le ville saranno costruite su lotti di circa 520 mq, con una superficie edificata di circa 320 mq, con 4 camere da letto e 4 bagni, una cucina all'americana e un luminoso soggiorno. Realizzata con materiali di alta qualità secondo le ultime tendenze e con le più recenti tecnologie. Pannelli solari, finestre con doppi vetri, colonnine di ricarica per auto elettriche, piscine private in ogni proprietà con sistemi di autocontrollo per PH e illuminazione. Giardini con impianti di irrigazione automatica e manutenzione delle aree comuni. Aria condizionata in tutte le stanze e riscaldamento a pavimento nei bagni. Elettrodomestici da cucina con garanzia di 5 anni e piano di lavoro tipo Silestone. A garanzia della vostra sicurezza, porte blindate, videosorveglianza e guardiania notturna. Inoltre, gli extra come possibilità, tra cui ascensori, progetti paesaggistici o anche domotica.</it>
+<nl>Air conditioning, Tuin, Terras, garage, privé zwembad, uitzicht op de bergen</nl>
+<no>klimaanlegg, hage, terrasse, garasje, privat svømmebasseng, utsikt over fjell</no>
+<pt>ar condicionado, jardim, terraço, garagem, piscina privada, vista para a montanha</pt>
+<ru>Роскошные строящиеся виллы в Ла-Нусии. Жилой комплекс Noa Garden состоит из 9 вилл, полных роскоши и эксклюзивности. Виллы будут построены на участках площадью около 520 квадратных метров, с застроенной площадью около 320 квадратных метров, с 4 спальнями и 4 ванными комнатами, кухней в американском стиле и светлой гостиной. С использованием высококачественных материалов в соответствии с последними тенденциями и новейшими технологиями. Солнечные панели, окна с двойным остеклением, точки зарядки электромобилей, частные бассейны в каждом доме с системами самоконтроля для РН и освещения. Сады с автоматическими системами полива и обслуживанием общих зон. Кондиционеры во всех комнатах и ​​полы с подогревом в ванных комнатах. Кухонная техника с гарантией 5 лет и столешницей типа Silestone. Для гарантии вашей безопасности бронированные двери, видеонаблюдение и ночная охрана. Кроме того, дополнительные возможности, среди которых лифты, ландшафтные проекты или даже домашняя автоматизация.</ru>
+<sv>luftkonditionerare, trädgård, terrass, garage, privat pool, bergsutsikt</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>	
+
+<property>
+<id>tc_desc_14</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>Aire condicionat, Jardí, Terrassa, garatge, Piscina privada, vista sobre la muntanya</ca>
+<da>air conditioning, Garden, Terrasse, Garage, privat pool, Mountain visninger</da>
+<de>Klimaanlage, Garten, Terrasse, Garage, Privater Pool, Bergblick</de>
+<en>Fantastic luxury villas under construction in La Nucia. The Noa Garden residential complex is a recent promotion of 9 villas full of luxury and exclusivity. The villas will be built on plots of approximately 520 square meters, with a built area of ​​approximately 320 square meters, with 4 bedrooms and 4 bathrooms, an American-style kitchen and a bright living room. Made of high quality materials according to the latest trends and with the latest technologies. Solar panels, double glazed windows, charging points for electric cars, private pools in each property with self-control systems for PH and lighting. Gardens with automatic irrigation systems and maintenance of common areas. Air conditioning in all rooms and underfloor heating in the bathrooms. Kitchen appliances with a 5-year warranty and Silestone-type countertop. To guarantee your safety, armored doors, video surveillance and night security guards. In addition, the extras as possibilities, among which, elevators, landscaping projects or even home automation.</en>
+<es>Vivienda donde se produjo un fuerte golpe entre inquilinos.</es>
+<fi>ilmastointi, puutarha, terassi, autotalli, yksityisallas, vuoristonäkymät</fi>
+<fr>climatisation, jardin, terrasse, garage, piscine privée, vue sur la montagne</fr>
+<it>Fantastiche ville di lusso in costruzione a La Nucia. Il complesso residenziale Noa Garden è una recente promozione di 9 ville ricche di lusso ed esclusività. Le ville saranno costruite su lotti di circa 520 mq, con una superficie edificata di circa 320 mq, con 4 camere da letto e 4 bagni, una cucina all'americana e un luminoso soggiorno. Realizzata con materiali di alta qualità secondo le ultime tendenze e con le più recenti tecnologie. Pannelli solari, finestre con doppi vetri, colonnine di ricarica per auto elettriche, piscine private in ogni proprietà con sistemi di autocontrollo per PH e illuminazione. Giardini con impianti di irrigazione automatica e manutenzione delle aree comuni. Aria condizionata in tutte le stanze e riscaldamento a pavimento nei bagni. Elettrodomestici da cucina con garanzia di 5 anni e piano di lavoro tipo Silestone. A garanzia della vostra sicurezza, porte blindate, videosorveglianza e guardiania notturna. Inoltre, gli extra come possibilità, tra cui ascensori, progetti paesaggistici o anche domotica.</it>
+<nl>Air conditioning, Tuin, Terras, garage, privé zwembad, uitzicht op de bergen</nl>
+<no>klimaanlegg, hage, terrasse, garasje, privat svømmebasseng, utsikt over fjell</no>
+<pt>ar condicionado, jardim, terraço, garagem, piscina privada, vista para a montanha</pt>
+<ru>Роскошные строящиеся виллы в Ла-Нусии. Жилой комплекс Noa Garden состоит из 9 вилл, полных роскоши и эксклюзивности. Виллы будут построены на участках площадью около 520 квадратных метров, с застроенной площадью около 320 квадратных метров, с 4 спальнями и 4 ванными комнатами, кухней в американском стиле и светлой гостиной. С использованием высококачественных материалов в соответствии с последними тенденциями и новейшими технологиями. Солнечные панели, окна с двойным остеклением, точки зарядки электромобилей, частные бассейны в каждом доме с системами самоконтроля для РН и освещения. Сады с автоматическими системами полива и обслуживанием общих зон. Кондиционеры во всех комнатах и ​​полы с подогревом в ванных комнатах. Кухонная техника с гарантией 5 лет и столешницей типа Silestone. Для гарантии вашей безопасности бронированные двери, видеонаблюдение и ночная охрана. Кроме того, дополнительные возможности, среди которых лифты, ландшафтные проекты или даже домашняя автоматизация.</ru>
+<sv>luftkonditionerare, trädgård, terrass, garage, privat pool, bergsutsikt</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>	
+
+<property>
+<id>tc_desc_15</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>Aire condicionat, Jardí, Terrassa, garatge, Piscina privada, vista sobre la muntanya</ca>
+<da>air conditioning, Garden, Terrasse, Garage, privat pool, Mountain visninger</da>
+<de>Klimaanlage, Garten, Terrasse, Garage, Privater Pool, Bergblick</de>
+<en>Fantastic luxury villas under construction in La Nucia. The Noa Garden residential complex is a recent promotion of 9 villas full of luxury and exclusivity. The villas will be built on plots of approximately 520 square meters, with a built area of ​​approximately 320 square meters, with 4 bedrooms and 4 bathrooms, an American-style kitchen and a bright living room. Made of high quality materials according to the latest trends and with the latest technologies. Solar panels, double glazed windows, charging points for electric cars, private pools in each property with self-control systems for PH and lighting. Gardens with automatic irrigation systems and maintenance of common areas. Air conditioning in all rooms and underfloor heating in the bathrooms. Kitchen appliances with a 5-year warranty and Silestone-type countertop. To guarantee your safety, armored doors, video surveillance and night security guards. In addition, the extras as possibilities, among which, elevators, landscaping projects or even home automation.</en>
+<es>Inmueble conocido por un antiguo asesinato ocurrido dentro.</es>
+<fi>ilmastointi, puutarha, terassi, autotalli, yksityisallas, vuoristonäkymät</fi>
+<fr>climatisation, jardin, terrasse, garage, piscine privée, vue sur la montagne</fr>
+<it>Fantastiche ville di lusso in costruzione a La Nucia. Il complesso residenziale Noa Garden è una recente promozione di 9 ville ricche di lusso ed esclusività. Le ville saranno costruite su lotti di circa 520 mq, con una superficie edificata di circa 320 mq, con 4 camere da letto e 4 bagni, una cucina all'americana e un luminoso soggiorno. Realizzata con materiali di alta qualità secondo le ultime tendenze e con le più recenti tecnologie. Pannelli solari, finestre con doppi vetri, colonnine di ricarica per auto elettriche, piscine private in ogni proprietà con sistemi di autocontrollo per PH e illuminazione. Giardini con impianti di irrigazione automatica e manutenzione delle aree comuni. Aria condizionata in tutte le stanze e riscaldamento a pavimento nei bagni. Elettrodomestici da cucina con garanzia di 5 anni e piano di lavoro tipo Silestone. A garanzia della vostra sicurezza, porte blindate, videosorveglianza e guardiania notturna. Inoltre, gli extra come possibilità, tra cui ascensori, progetti paesaggistici o anche domotica.</it>
+<nl>Air conditioning, Tuin, Terras, garage, privé zwembad, uitzicht op de bergen</nl>
+<no>klimaanlegg, hage, terrasse, garasje, privat svømmebasseng, utsikt over fjell</no>
+<pt>ar condicionado, jardim, terraço, garagem, piscina privada, vista para a montanha</pt>
+<ru>Роскошные строящиеся виллы в Ла-Нусии. Жилой комплекс Noa Garden состоит из 9 вилл, полных роскоши и эксклюзивности. Виллы будут построены на участках площадью около 520 квадратных метров, с застроенной площадью около 320 квадратных метров, с 4 спальнями и 4 ванными комнатами, кухней в американском стиле и светлой гостиной. С использованием высококачественных материалов в соответствии с последними тенденциями и новейшими технологиями. Солнечные панели, окна с двойным остеклением, точки зарядки электромобилей, частные бассейны в каждом доме с системами самоконтроля для РН и освещения. Сады с автоматическими системами полива и обслуживанием общих зон. Кондиционеры во всех комнатах и ​​полы с подогревом в ванных комнатах. Кухонная техника с гарантией 5 лет и столешницей типа Silestone. Для гарантии вашей безопасности бронированные двери, видеонаблюдение и ночная охрана. Кроме того, дополнительные возможности, среди которых лифты, ландшафтные проекты или даже домашняя автоматизация.</ru>
+<sv>luftkonditionerare, trädgård, terrass, garage, privat pool, bergsutsikt</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>	
 	
 
 

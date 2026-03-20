@@ -580,7 +580,123 @@
 
 
 
-    Tapiado
+        <propiedad id="Anna_img_Tapiado">
+        <fecha_alta>11/02/2026 13:37</fecha_alta>
+        <fecha_modificacion>13/02/2026 10:51</fecha_modificacion>
+        <referencia>Anna_img_Tapiado</referencia>
+        <ref_catastral>0607503dd7800h0008ij </ref_catastral>
+        <familia id="24">Apartment</familia>
+        <operacion id="1">Venta</operacion>
+        <estado id="SM"/>
+        <status_id>activo</status_id>
+        <interior>0</interior>
+        <dormitorios>4</dormitorios>
+        <banos>2</banos>
+        <banos_reformados/>
+        <aseos>1</aseos>
+        <localizacion>
+        <provincia>Baleares</provincia>
+        <poblacion id="33">Palma</poblacion>
+        <cp>07005</cp>
+        <zona/>
+        <pais>ES</pais>
+        </localizacion>
+        <superficies>
+        <habitable>115</habitable>
+        <construida>130</construida>
+        <escriturada>130</escriturada>
+        <parcela/>
+        <cocina>11</cocina>
+        <salon>18</salon>
+        <jardin/>
+        <terraza>9</terraza>
+        </superficies>
+        <precio divisa="EUR">520000</precio>
+        <precio_anterior divisa="EUR"/>
+        <caracteristicas>
+        <caracteristica id="ano_construccion">1962</caracteristica>
+        <caracteristica id="amueblado"/>
+        <caracteristica id="terraza">no acristalada</caracteristica>
+        <caracteristica id="reformado">por</caracteristica>
+        <caracteristica id="ano_reforma"/>
+        <caracteristica id="orientacion">Sureste</caracteristica>
+        <caracteristica id="vistas"/>
+        <caracteristica id="piscina"/>
+        <caracteristica id="calefaccion"/>
+        <caracteristica id="tipo_calefaccion"/>
+        <caracteristica id="tipo_agua">individual</caracteristica>
+        <caracteristica id="tipo_cocina">individual</caracteristica>
+        <caracteristica id="cocina_equipada"/>
+        <caracteristica id="cocina_reformada"/>
+        <caracteristica id="jardin"/>
+        <caracteristica id="garaje"/>
+        <caracteristica id="garaje_incluido">1</caracteristica>
+        <caracteristica id="parking">si</caracteristica>
+        <caracteristica id="no_plazas_parking">1</caracteristica>
+        <caracteristica id="pisos_edificio">5</caracteristica>
+        <caracteristica id="pisos_por_planta">2</caracteristica>
+        <caracteristica id="estado_edificio">En buen estado</caracteristica>
+        <caracteristica id="contraventanas"/>
+        <caracteristica id="tipo_suelo"/>
+        <caracteristica id="certificacion_energetica_letra">E</caracteristica>
+        <caracteristica id="certificacion_energetica_valor">154.00</caracteristica>
+        <caracteristica id="certificacion_emisiones_letra">E</caracteristica>
+        <caracteristica id="certificacion_emisiones_valor">46.00</caracteristica>
+        <caracteristica id="trastero"/>
+        <caracteristica id="puerta_blindada">1</caracteristica>
+        <caracteristica id="aa"/>
+        <caracteristica id="chimenea">1</caracteristica>
+        <caracteristica id="ascensor">1</caracteristica>
+        <caracteristica id="amarre"/>
+        <caracteristica id="num_planta">4</caracteristica>
+        <caracteristica id="de_entidad_financiera"/>
+        <caracteristica id="primera_linea"/>
+        <caracteristica id="sotano"/>
+        <caracteristica id="lavanderia"/>
+        <caracteristica id="solarium"/>
+        <caracteristica id="armarios_empotrados"/>
+        <caracteristica id="doble_acristalamiento"/>
+        </caracteristicas>
+        <etiquetas/>
+        <descripciones>
+        <descripcion idioma="es">
+        <titulo>AMPLIO PISO DETRAS DEL CORTE INGLES DE AVENIDAS</titulo>
+        <descripcion>Piso de 130 m² ubicado en una cuarta planta con ascensor, en una de las zonas más demandadas de Palma, junto a Avenidas y El Corte Inglés. La vivienda dispone de 4 dormitorios, 2 baños completos y una distribución amplia y funcional. Destaca por su gran luminosidad gracias a la altura y a la buena entrada de luz natural. Ubicación céntrica con todos los servicios a pie de calle: transporte público, comercios, colegios y zonas de ocio. Ideal tanto para residencia habitual como para inversión. Para más información o concertar una visita, no dude en contactar.[IW]</descripcion>
+        </descripcion>
+        </descripciones>
+        <imagenes>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.18.38.jpg" principal="1"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.20.33.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.23.32.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.25.21.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.27.05.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.29.50.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.31.35.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.34.31.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.39.27.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.41.01.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-12%20at%2013.42.05.jpg" principal="0"/>
+            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1696318/image/WhatsApp%20Image%202026-02-13%20at%2010.47.17.jpg" principal="0"/>
+            <imagen url="https://caixa-et.github.io/Images/Tapiado.jpg" principal="0"/>
+
+        </imagenes>
+        <documentos/>
+        <enlaces>
+            <enlace idioma="cat">http://www.inmodomum.com/details-cat1696318.html?lan=cat</enlace>
+            <enlace idioma="da">http://www.inmodomum.com/details-da1696318.html?lan=da</enlace>
+            <enlace idioma="de">http://www.inmodomum.com/details-de1696318.html?lan=de</enlace>
+            <enlace idioma="gb">http://www.inmodomum.com/details-gb1696318.html?lan=gb</enlace>
+            <enlace idioma="es">http://www.inmodomum.com/details-es1696318.html?lan=es</enlace>
+            <enlace idioma="fi">http://www.inmodomum.com/details-fi1696318.html?lan=fi</enlace>
+            <enlace idioma="fr">http://www.inmodomum.com/details-fr1696318.html?lan=fr</enlace>
+            <enlace idioma="it">http://www.inmodomum.com/details-it1696318.html?lan=it</enlace>
+            <enlace idioma="nl">http://www.inmodomum.com/details-nl1696318.html?lan=nl</enlace>
+            <enlace idioma="no">http://www.inmodomum.com/details-no1696318.html?lan=no</enlace>
+            <enlace idioma="ru">http://www.inmodomum.com/details-ru1696318.html?lan=ru</enlace>
+            <enlace idioma="se">http://www.inmodomum.com/details-se1696318.html?lan=se</enlace>
+        </enlaces>
+        <videos/>
+    </propiedad>
     
     <propiedad id="Anna_img_Desnudo">
         <fecha_alta>16/05/2025 08:44</fecha_alta>

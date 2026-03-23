@@ -2455,6 +2455,870 @@
 </images>
 </property>
 
+	<property>
+<id>tc_desc_31</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>ejemplo</ca>
+<da>ejemplo</da>
+<de>ejemplo</de>
+<en>ejemplo</en>
+<es>Se requiere pago adelantado de 12 meses de alquiler.</es>
+<fi>ejemplo</fi>
+<fr>ejemplo</fr>
+<it>ejemplo</it>
+<nl>ejemplo</nl>
+<no>ejemplo</no>
+<pt>ejemplo</pt>
+<ru>ejemplo</ru>
+<sv>ejemplo</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>tc_desc_32</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>ejemplo</ca>
+<da>ejemplo</da>
+<de>ejemplo</de>
+<en>ejemplo</en>
+<es>Se acepta pago en Bitcoin..</es>
+<fi>ejemplo</fi>
+<fr>ejemplo</fr>
+<it>ejemplo</it>
+<nl>ejemplo</nl>
+<no>ejemplo</no>
+<pt>ejemplo</pt>
+<ru>ejemplo</ru>
+<sv>ejemplo</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>
+
+		<property>
+<id>tc_desc_31</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>ejemplo</ca>
+<da>ejemplo</da>
+<de>ejemplo</de>
+<en>ejemplo</en>
+<es>Se requiere pago adelantado de 12 meses de alquiler.</es>
+<fi>ejemplo</fi>
+<fr>ejemplo</fr>
+<it>ejemplo</it>
+<nl>ejemplo</nl>
+<no>ejemplo</no>
+<pt>ejemplo</pt>
+<ru>ejemplo</ru>
+<sv>ejemplo</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>tc_desc_32</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>ejemplo</ca>
+<da>ejemplo</da>
+<de>ejemplo</de>
+<en>ejemplo</en>
+<es>Se acepta pago en Bitcoin..</es>
+<fi>ejemplo</fi>
+<fr>ejemplo</fr>
+<it>ejemplo</it>
+<nl>ejemplo</nl>
+<no>ejemplo</no>
+<pt>ejemplo</pt>
+<ru>ejemplo</ru>
+<sv>ejemplo</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>
+
+		<property>
+<id>tc_desc_33</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>ejemplo</ca>
+<da>ejemplo</da>
+<de>ejemplo</de>
+<en>ejemplo</en>
+<es>Solo se acepta pago al contado inmediato.</es>
+<fi>ejemplo</fi>
+<fr>ejemplo</fr>
+<it>ejemplo</it>
+<nl>ejemplo</nl>
+<no>ejemplo</no>
+<pt>ejemplo</pt>
+<ru>ejemplo</ru>
+<sv>ejemplo</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>tc_desc_34</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>ejemplo</ca>
+<da>ejemplo</da>
+<de>ejemplo</de>
+<en>ejemplo</en>
+<es>La venta se realizará mediante puja entre interesados.</es>
+<fi>ejemplo</fi>
+<fr>ejemplo</fr>
+<it>ejemplo</it>
+<nl>ejemplo</nl>
+<no>ejemplo</no>
+<pt>ejemplo</pt>
+<ru>ejemplo</ru>
+<sv>ejemplo</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>
+
+		<property>
+<id>tc_desc_35</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>ejemplo</ca>
+<da>ejemplo</da>
+<de>ejemplo</de>
+<en>ejemplo</en>
+<es>Se vende el piso como regalo a la mejor oferta.</es>
+<fi>ejemplo</fi>
+<fr>ejemplo</fr>
+<it>ejemplo</it>
+<nl>ejemplo</nl>
+<no>ejemplo</no>
+<pt>ejemplo</pt>
+<ru>ejemplo</ru>
+<sv>ejemplo</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>tc_desc_36</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>ejemplo</ca>
+<da>ejemplo</da>
+<de>ejemplo</de>
+<en>ejemplo</en>
+<es>Vivienda no hipotecable.</es>
+<fi>ejemplo</fi>
+<fr>ejemplo</fr>
+<it>ejemplo</it>
+<nl>ejemplo</nl>
+<no>ejemplo</no>
+<pt>ejemplo</pt>
+<ru>ejemplo</ru>
+<sv>ejemplo</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>
+
+		<property>
+<id>tc_desc_37</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>ejemplo</ca>
+<da>ejemplo</da>
+<de>ejemplo</de>
+<en>ejemplo</en>
+<es>Propiedad procedente de subasta inmobiliaria.</es>
+<fi>ejemplo</fi>
+<fr>ejemplo</fr>
+<it>ejemplo</it>
+<nl>ejemplo</nl>
+<no>ejemplo</no>
+<pt>ejemplo</pt>
+<ru>ejemplo</ru>
+<sv>ejemplo</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>tc_desc_38</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>ejemplo</ca>
+<da>ejemplo</da>
+<de>ejemplo</de>
+<en>ejemplo</en>
+<es>Venta mediante subasta pública.</es>
+<fi>ejemplo</fi>
+<fr>ejemplo</fr>
+<it>ejemplo</it>
+<nl>ejemplo</nl>
+<no>ejemplo</no>
+<pt>ejemplo</pt>
+<ru>ejemplo</ru>
+<sv>ejemplo</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>tc_desc_39</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>ejemplo</ca>
+<da>ejemplo</da>
+<de>ejemplo</de>
+<en>ejemplo</en>
+<es>autopromocion</es>
+<fi>ejemplo</fi>
+<fr>ejemplo</fr>
+<it>ejemplo</it>
+<nl>ejemplo</nl>
+<no>ejemplo</no>
+<pt>ejemplo</pt>
+<ru>ejemplo</ru>
+<sv>ejemplo</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>tc_desc_40</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>ejemplo</ca>
+<da>ejemplo</da>
+<de>ejemplo</de>
+<en>ejemplo</en>
+<es>Propiedad en cesión de remate judicial.</es>
+<fi>ejemplo</fi>
+<fr>ejemplo</fr>
+<it>ejemplo</it>
+<nl>ejemplo</nl>
+<no>ejemplo</no>
+<pt>ejemplo</pt>
+<ru>ejemplo</ru>
+<sv>ejemplo</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>
+
 	
 	
 

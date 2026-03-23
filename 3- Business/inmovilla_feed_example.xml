@@ -6719,4 +6719,1810 @@
 		<numpanos>0</numpanos>
 		<videos/>
 	</propiedad>
+
+		<propiedad>
+		<id>Marta_type_aparcamiento_IMV</id>
+		<numagencia>3433</numagencia>
+		<calidades/>
+		<provincia>SEVILLA</provincia>
+		<key_loca>609899</key_loca>
+		<key_tipo>3399</key_tipo>
+		<tipovpo>6</tipovpo>
+		<vpo_name>Libre</vpo_name>
+		<destacado>0</destacado>
+		<antiguedad>1930</antiguedad>
+		<tipo_ofer>villaaa</tipo_ofer>
+		<fecha>2026-03-16 19:53:51</fecha>
+		<fechaact>2026-03-16 20:14:25</fechaact>
+		<keypromo>0</keypromo>
+		<opcioncompra>0</opcioncompra>
+		<aconsultar>0</aconsultar>
+		<latitud>37.402405509</latitud>
+		<altitud>-5.990765815</altitud>
+		<aseos>0</aseos>
+		<banyos>1</banyos>
+		<carpint>Madera</carpint>
+		<carpext>Aluminio Lacado</carpext>
+		<comunidadincluida>0</comunidadincluida>
+		<tfachada/>
+		<tcocina/>
+		<tpostigo/>
+		<tbano/>
+		<tinterior>
+		<![CDATA[ ]]>
+		</tinterior>
+		<distmar>0</distmar>
+		<planta>1</planta>
+		<conservacion>Buen estado</conservacion>
+		<gastos_com>0</gastos_com>
+		<habdobles>2</habdobles>
+		<habitaciones>0</habitaciones>
+		<m_cons>43.00</m_cons>
+		<m_parcela>0</m_parcela>
+		<m_uties>0.00</m_uties>
+		<m_cocina>0.00</m_cocina>
+		<m_comedor>0.00</m_comedor>
+		<m_terraza>0.00</m_terraza>
+		<numplanta>0</numplanta>
+		<orientacion/>
+		<salon>1</salon>
+		<precioinmo>185000</precioinmo>
+		<preciotraspaso>0</preciotraspaso>
+		<precioalq>0</precioalq>
+		<outlet>135000</outlet>
+		<ref>1712026</ref>
+		<accion>Vender</accion>
+		<ciudad>Sevilla</ciudad>
+		<cp>41002</cp>
+		<zona>Parlamento - Torneo</zona>
+		<adaptadominus>0</adaptadominus>
+		<airecentral>0</airecentral>
+		<aire_con>1</aire_con>
+		<alarma>0</alarma>
+		<alarmaincendio>0</alarmaincendio>
+		<alarmarobo>0</alarmarobo>
+		<arma_empo>0</arma_empo>
+		<ascensor>0</ascensor>
+		<balcon>0</balcon>
+		<bar>0</bar>
+		<jardin>0</jardin>
+		<barbacoa>0</barbacoa>
+		<cajafuerte>0</cajafuerte>
+		<keycalefa>25</keycalefa>
+		<keysuelo>1</keysuelo>
+		<calefacentral>0</calefacentral>
+		<calefaccion>0</calefaccion>
+		<chimenea>0</chimenea>
+		<depoagua>0</depoagua>
+		<descalcificador>0</descalcificador>
+		<despensa>0</despensa>
+		<diafano>0</diafano>
+		<electro>1</electro>
+		<esquina>0</esquina>
+		<galeria>0</galeria>
+		<plaza_gara>0</plaza_gara>
+		<garajedoble>0</garajedoble>
+		<gasciudad>0</gasciudad>
+		<gimnasio>0</gimnasio>
+		<habjuegos>0</habjuegos>
+		<tipomensual>MES</tipomensual>
+		<hidromasaje>0</hidromasaje>
+		<jacuzzi>0</jacuzzi>
+		<lavanderia>0</lavanderia>
+		<linea_tlf>1</linea_tlf>
+		<luminoso>1</luminoso>
+		<ibi>0.00</ibi>
+		<luz>1</luz>
+		<muebles>0</muebles>
+		<ojobuey>0</ojobuey>
+		<parking>0</parking>
+		<patio>0</patio>
+		<piscina_com>0</piscina_com>
+		<piscina_prop>0</piscina_prop>
+		<preinstaacc>0</preinstaacc>
+		<primera_line>0</primera_line>
+		<puerta_blin>0</puerta_blin>
+		<satelite>0</satelite>
+		<sauna>0</sauna>
+		<solarium>0</solarium>
+		<sotano>0</sotano>
+		<mirador>0</mirador>
+		<apartseparado>0</apartseparado>
+		<bombafriocalor>0</bombafriocalor>
+		<buhardilla>0</buhardilla>
+		<pergola>0</pergola>
+		<tv>1</tv>
+		<terraza>0</terraza>
+		<terrazaacris>0</terrazaacris>
+		<todoext>3</todoext>
+		<trastero>0</trastero>
+		<urbanizacion>0</urbanizacion>
+		<nplazasparking>0</nplazasparking>
+		<vestuarios>0</vestuarios>
+		<precioparking/>
+		<preciogaraje/>
+		<vistasalmar>0</vistasalmar>
+		<energialetra>G</energialetra>
+		<energiarecibido>0</energiarecibido>
+		<energiavalor>0</energiavalor>
+		<emisionesletra>G</emisionesletra>
+		<emisionesvalor>0</emisionesvalor>
+		<cocina_inde>4</cocina_inde>
+		<keyelectricidad>0</keyelectricidad>
+		<keyfachada>0</keyfachada>
+		<keyagua>3</keyagua>
+		<keyvista>7</keyvista>
+		<keytecho>0</keytecho>
+		<montana>0</montana>
+		<rural>0</rural>
+		<costa>0</costa>
+		<vallado>0</vallado>
+		<autobuses>1</autobuses>
+		<centros_comerciales>1</centros_comerciales>
+		<tranvia>0</tranvia>
+		<zonas_infantiles>1</zonas_infantiles>
+		<colegios>1</colegios>
+		<arboles>1</arboles>
+		<hospitales>1</hospitales>
+		<tren>0</tren>
+		<metro>0</metro>
+		<golf>0</golf>
+		<descrip1>
+		<![CDATA[ Marta2  ----  PISO DE 2 DORMITORIOS EN EL BARRIO DE FERIA, EN MUY BUEN ESTADO~~Fantástico piso situado en una de las zonas con más encanto y vida del barrio de Feria. Una vivienda acogedora, funcional y en muy buen estado de conservación, ideal tanto para vivir como para inversión.~~La vivienda se distribuye en dos dormitorios, salón-comedor con cocina americana, que aporta amplitud y luminosidad al espacio, y un baño completo con placa de ducha. Su distribución está muy bien aprovechada, ofreciendo estancias cómodas y prácticas para el día a día.~~Entre sus calidades destacan suelos de mármol, carpintería exterior de aluminio y puertas interiores de madera, elementos que aportan elegancia y durabilidad. Además, la vivienda cuenta con aire acondicionado tipo split, garantizando confort durante todo el año.~~Ubicado en el barrio de Feria, una zona muy demandada del casco histórico por su ambiente, su cercanía a comercios, mercados tradicionales, restauración y todo tipo de servicios. Perfectamente conectado y a pocos minutos de los principales puntos de interés de la ciudad.~~Una excelente oportunidad para quienes buscan vivir en una zona con carácter o para invertir en una de las áreas con mayor demanda de Sevilla.~~Honorarios no incluidos en el P. V. P. Gastos de Notaría, Registro e Impuestos no incluidos. D. I. A (Documento informativo abreviado) a disposición del consumidor RD 258/05 Junta de Andalucía.~ ~ ]]>
+		</descrip1>
+		<titulo1>
+		<![CDATA[ PISO DE 2 DORMITORIOS EN EL BARRIO DE FERIA, EN MUY BUEN ESTADO ]]>
+		</titulo1>
+		<titulo2>
+		<![CDATA[ ]]>
+		</titulo2>
+		<descrip2>
+		<![CDATA[ ]]>
+		</descrip2>
+		<titulo3>
+		<![CDATA[ ]]>
+		</titulo3>
+		<descrip3>
+		<![CDATA[ ]]>
+		</descrip3>
+		<titulo4>
+		<![CDATA[ ]]>
+		</titulo4>
+		<descrip4>
+		<![CDATA[ ]]>
+		</descrip4>
+		<titulo5>
+		<![CDATA[ ]]>
+		</titulo5>
+		<descrip5>
+		<![CDATA[ ]]>
+		</descrip5>
+		<titulo6>
+		<![CDATA[ ]]>
+		</titulo6>
+		<descrip6>
+		<![CDATA[ ]]>
+		</descrip6>
+		<titulo7>
+		<![CDATA[ ]]>
+		</titulo7>
+		<descrip7>
+		<![CDATA[ ]]>
+		</descrip7>
+		<titulo8>
+		<![CDATA[ ]]>
+		</titulo8>
+		<descrip8>
+		<![CDATA[ ]]>
+		</descrip8>
+		<titulo9>
+		<![CDATA[ ]]>
+		</titulo9>
+		<descrip9>
+		<![CDATA[ ]]>
+		</descrip9>
+		<titulo10>
+		<![CDATA[ ]]>
+		</titulo10>
+		<descrip10>
+		<![CDATA[ ]]>
+		</descrip10>
+		<titulo11>
+		<![CDATA[ ]]>
+		</titulo11>
+		<descrip11>
+		<![CDATA[ ]]>
+		</descrip11>
+		<titulo12>
+		<![CDATA[ ]]>
+		</titulo12>
+		<descrip12>
+		<![CDATA[ ]]>
+		</descrip12>
+		<titulo15>
+		<![CDATA[ ]]>
+		</titulo15>
+		<descrip15>
+		<![CDATA[ ]]>
+		</descrip15>
+		<titulo16>
+		<![CDATA[ ]]>
+		</titulo16>
+		<descrip16>
+		<![CDATA[ ]]>
+		</descrip16>
+		<titulo17>
+		<![CDATA[ ]]>
+		</titulo17>
+		<descrip17>
+		<![CDATA[ ]]>
+		</descrip17>
+		<titulo18>
+		<![CDATA[ ]]>
+		</titulo18>
+		<descrip18>
+		<![CDATA[ ]]>
+		</descrip18>
+		<titulo19>
+		<![CDATA[ ]]>
+		</titulo19>
+		<descrip19>
+		<![CDATA[ ]]>
+		</descrip19>
+		<titulo22>
+		<![CDATA[ ]]>
+		</titulo22>
+		<descrip22>
+		<![CDATA[ ]]>
+		</descrip22>
+		<titulo23>
+		<![CDATA[ ]]>
+		</titulo23>
+		<descrip23>
+		<![CDATA[ ]]>
+		</descrip23>
+		<titulo24>
+		<![CDATA[ ]]>
+		</titulo24>
+		<descrip24>
+		<![CDATA[ ]]>
+		</descrip24>
+		<titulo25>
+		<![CDATA[ ]]>
+		</titulo25>
+		<descrip25>
+		<![CDATA[ ]]>
+		</descrip25>
+		<estadoficha>1</estadoficha>
+		<exclu>0</exclu>
+		<tour/>
+		<keyagente>138888</keyagente>
+		<agente>
+		<![CDATA[ Macarena ]]>
+		</agente>
+		<email_agente>macarenagarcia@grupoezeda.com</email_agente>
+		<prefijo_tlf_agente>34</prefijo_tlf_agente>
+		<tlf_agente>954915480</tlf_agente>
+		<numpanos>0</numpanos>
+		<numfotos>12</numfotos>
+		<foto1>https://fotos15.apinmo.com/3433/9434565/10-1.jpg</foto1>
+		<foto2>https://fotos15.apinmo.com/3433/9434565/10-2.jpg</foto2>
+		<foto3>https://fotos15.apinmo.com/3433/9434565/10-3.jpg</foto3>
+		<foto4>https://fotos15.apinmo.com/3433/9434565/10-4.jpg</foto4>
+		<foto5>https://fotos15.apinmo.com/3433/9434565/10-5.jpg</foto5>
+		<foto6>https://fotos15.apinmo.com/3433/9434565/10-6.jpg</foto6>
+		<foto7>https://fotos15.apinmo.com/3433/9434565/10-7.jpg</foto7>
+		<foto8>https://fotos15.apinmo.com/3433/9434565/10-8.jpg</foto8>
+		<foto9>https://fotos15.apinmo.com/3433/9434565/10-9.jpg</foto9>
+		<foto10>https://fotos15.apinmo.com/3433/9434565/10-10.jpg</foto10>
+		<foto11>https://caixa-et.github.io/Images/ccee_en_tramite.png</foto11>
+		<foto12>https://caixa-et.github.io/Images/ccee.png</foto12>
+		<numpanos>0</numpanos>
+		<videos/>
+	</propiedad>
+
+		<propiedad>
+		<id>Marta_type_garage_IMV</id>
+		<numagencia>3433</numagencia>
+		<calidades/>
+		<provincia>SEVILLA</provincia>
+		<key_loca>609899</key_loca>
+		<key_tipo>3399</key_tipo>
+		<tipovpo>6</tipovpo>
+		<vpo_name>Libre</vpo_name>
+		<destacado>0</destacado>
+		<antiguedad>1930</antiguedad>
+		<tipo_ofer>villaaa</tipo_ofer>
+		<fecha>2026-03-16 19:53:51</fecha>
+		<fechaact>2026-03-16 20:14:25</fechaact>
+		<keypromo>0</keypromo>
+		<opcioncompra>0</opcioncompra>
+		<aconsultar>0</aconsultar>
+		<latitud>37.402405509</latitud>
+		<altitud>-5.990765815</altitud>
+		<aseos>0</aseos>
+		<banyos>1</banyos>
+		<carpint>Madera</carpint>
+		<carpext>Aluminio Lacado</carpext>
+		<comunidadincluida>0</comunidadincluida>
+		<tfachada/>
+		<tcocina/>
+		<tpostigo/>
+		<tbano/>
+		<tinterior>
+		<![CDATA[ ]]>
+		</tinterior>
+		<distmar>0</distmar>
+		<planta>1</planta>
+		<conservacion>Buen estado</conservacion>
+		<gastos_com>0</gastos_com>
+		<habdobles>2</habdobles>
+		<habitaciones>0</habitaciones>
+		<m_cons>43.00</m_cons>
+		<m_parcela>0</m_parcela>
+		<m_uties>0.00</m_uties>
+		<m_cocina>0.00</m_cocina>
+		<m_comedor>0.00</m_comedor>
+		<m_terraza>0.00</m_terraza>
+		<numplanta>0</numplanta>
+		<orientacion/>
+		<salon>1</salon>
+		<precioinmo>185000</precioinmo>
+		<preciotraspaso>0</preciotraspaso>
+		<precioalq>0</precioalq>
+		<outlet>135000</outlet>
+		<ref>1712026</ref>
+		<accion>Vender</accion>
+		<ciudad>Sevilla</ciudad>
+		<cp>41002</cp>
+		<zona>Parlamento - Torneo</zona>
+		<adaptadominus>0</adaptadominus>
+		<airecentral>0</airecentral>
+		<aire_con>1</aire_con>
+		<alarma>0</alarma>
+		<alarmaincendio>0</alarmaincendio>
+		<alarmarobo>0</alarmarobo>
+		<arma_empo>0</arma_empo>
+		<ascensor>0</ascensor>
+		<balcon>0</balcon>
+		<bar>0</bar>
+		<jardin>0</jardin>
+		<barbacoa>0</barbacoa>
+		<cajafuerte>0</cajafuerte>
+		<keycalefa>25</keycalefa>
+		<keysuelo>1</keysuelo>
+		<calefacentral>0</calefacentral>
+		<calefaccion>0</calefaccion>
+		<chimenea>0</chimenea>
+		<depoagua>0</depoagua>
+		<descalcificador>0</descalcificador>
+		<despensa>0</despensa>
+		<diafano>0</diafano>
+		<electro>1</electro>
+		<esquina>0</esquina>
+		<galeria>0</galeria>
+		<plaza_gara>0</plaza_gara>
+		<garajedoble>0</garajedoble>
+		<gasciudad>0</gasciudad>
+		<gimnasio>0</gimnasio>
+		<habjuegos>0</habjuegos>
+		<tipomensual>MES</tipomensual>
+		<hidromasaje>0</hidromasaje>
+		<jacuzzi>0</jacuzzi>
+		<lavanderia>0</lavanderia>
+		<linea_tlf>1</linea_tlf>
+		<luminoso>1</luminoso>
+		<ibi>0.00</ibi>
+		<luz>1</luz>
+		<muebles>0</muebles>
+		<ojobuey>0</ojobuey>
+		<parking>0</parking>
+		<patio>0</patio>
+		<piscina_com>0</piscina_com>
+		<piscina_prop>0</piscina_prop>
+		<preinstaacc>0</preinstaacc>
+		<primera_line>0</primera_line>
+		<puerta_blin>0</puerta_blin>
+		<satelite>0</satelite>
+		<sauna>0</sauna>
+		<solarium>0</solarium>
+		<sotano>0</sotano>
+		<mirador>0</mirador>
+		<apartseparado>0</apartseparado>
+		<bombafriocalor>0</bombafriocalor>
+		<buhardilla>0</buhardilla>
+		<pergola>0</pergola>
+		<tv>1</tv>
+		<terraza>0</terraza>
+		<terrazaacris>0</terrazaacris>
+		<todoext>3</todoext>
+		<trastero>0</trastero>
+		<urbanizacion>0</urbanizacion>
+		<nplazasparking>0</nplazasparking>
+		<vestuarios>0</vestuarios>
+		<precioparking/>
+		<preciogaraje/>
+		<vistasalmar>0</vistasalmar>
+		<energialetra>G</energialetra>
+		<energiarecibido>0</energiarecibido>
+		<energiavalor>0</energiavalor>
+		<emisionesletra>G</emisionesletra>
+		<emisionesvalor>0</emisionesvalor>
+		<cocina_inde>4</cocina_inde>
+		<keyelectricidad>0</keyelectricidad>
+		<keyfachada>0</keyfachada>
+		<keyagua>3</keyagua>
+		<keyvista>7</keyvista>
+		<keytecho>0</keytecho>
+		<montana>0</montana>
+		<rural>0</rural>
+		<costa>0</costa>
+		<vallado>0</vallado>
+		<autobuses>1</autobuses>
+		<centros_comerciales>1</centros_comerciales>
+		<tranvia>0</tranvia>
+		<zonas_infantiles>1</zonas_infantiles>
+		<colegios>1</colegios>
+		<arboles>1</arboles>
+		<hospitales>1</hospitales>
+		<tren>0</tren>
+		<metro>0</metro>
+		<golf>0</golf>
+		<descrip1>
+		<![CDATA[ Marta2  ----  PISO DE 2 DORMITORIOS EN EL BARRIO DE FERIA, EN MUY BUEN ESTADO~~Fantástico piso situado en una de las zonas con más encanto y vida del barrio de Feria. Una vivienda acogedora, funcional y en muy buen estado de conservación, ideal tanto para vivir como para inversión.~~La vivienda se distribuye en dos dormitorios, salón-comedor con cocina americana, que aporta amplitud y luminosidad al espacio, y un baño completo con placa de ducha. Su distribución está muy bien aprovechada, ofreciendo estancias cómodas y prácticas para el día a día.~~Entre sus calidades destacan suelos de mármol, carpintería exterior de aluminio y puertas interiores de madera, elementos que aportan elegancia y durabilidad. Además, la vivienda cuenta con aire acondicionado tipo split, garantizando confort durante todo el año.~~Ubicado en el barrio de Feria, una zona muy demandada del casco histórico por su ambiente, su cercanía a comercios, mercados tradicionales, restauración y todo tipo de servicios. Perfectamente conectado y a pocos minutos de los principales puntos de interés de la ciudad.~~Una excelente oportunidad para quienes buscan vivir en una zona con carácter o para invertir en una de las áreas con mayor demanda de Sevilla.~~Honorarios no incluidos en el P. V. P. Gastos de Notaría, Registro e Impuestos no incluidos. D. I. A (Documento informativo abreviado) a disposición del consumidor RD 258/05 Junta de Andalucía.~ ~ ]]>
+		</descrip1>
+		<titulo1>
+		<![CDATA[ PISO DE 2 DORMITORIOS EN EL BARRIO DE FERIA, EN MUY BUEN ESTADO ]]>
+		</titulo1>
+		<titulo2>
+		<![CDATA[ ]]>
+		</titulo2>
+		<descrip2>
+		<![CDATA[ ]]>
+		</descrip2>
+		<titulo3>
+		<![CDATA[ ]]>
+		</titulo3>
+		<descrip3>
+		<![CDATA[ ]]>
+		</descrip3>
+		<titulo4>
+		<![CDATA[ ]]>
+		</titulo4>
+		<descrip4>
+		<![CDATA[ ]]>
+		</descrip4>
+		<titulo5>
+		<![CDATA[ ]]>
+		</titulo5>
+		<descrip5>
+		<![CDATA[ ]]>
+		</descrip5>
+		<titulo6>
+		<![CDATA[ ]]>
+		</titulo6>
+		<descrip6>
+		<![CDATA[ ]]>
+		</descrip6>
+		<titulo7>
+		<![CDATA[ ]]>
+		</titulo7>
+		<descrip7>
+		<![CDATA[ ]]>
+		</descrip7>
+		<titulo8>
+		<![CDATA[ ]]>
+		</titulo8>
+		<descrip8>
+		<![CDATA[ ]]>
+		</descrip8>
+		<titulo9>
+		<![CDATA[ ]]>
+		</titulo9>
+		<descrip9>
+		<![CDATA[ ]]>
+		</descrip9>
+		<titulo10>
+		<![CDATA[ ]]>
+		</titulo10>
+		<descrip10>
+		<![CDATA[ ]]>
+		</descrip10>
+		<titulo11>
+		<![CDATA[ ]]>
+		</titulo11>
+		<descrip11>
+		<![CDATA[ ]]>
+		</descrip11>
+		<titulo12>
+		<![CDATA[ ]]>
+		</titulo12>
+		<descrip12>
+		<![CDATA[ ]]>
+		</descrip12>
+		<titulo15>
+		<![CDATA[ ]]>
+		</titulo15>
+		<descrip15>
+		<![CDATA[ ]]>
+		</descrip15>
+		<titulo16>
+		<![CDATA[ ]]>
+		</titulo16>
+		<descrip16>
+		<![CDATA[ ]]>
+		</descrip16>
+		<titulo17>
+		<![CDATA[ ]]>
+		</titulo17>
+		<descrip17>
+		<![CDATA[ ]]>
+		</descrip17>
+		<titulo18>
+		<![CDATA[ ]]>
+		</titulo18>
+		<descrip18>
+		<![CDATA[ ]]>
+		</descrip18>
+		<titulo19>
+		<![CDATA[ ]]>
+		</titulo19>
+		<descrip19>
+		<![CDATA[ ]]>
+		</descrip19>
+		<titulo22>
+		<![CDATA[ ]]>
+		</titulo22>
+		<descrip22>
+		<![CDATA[ ]]>
+		</descrip22>
+		<titulo23>
+		<![CDATA[ ]]>
+		</titulo23>
+		<descrip23>
+		<![CDATA[ ]]>
+		</descrip23>
+		<titulo24>
+		<![CDATA[ ]]>
+		</titulo24>
+		<descrip24>
+		<![CDATA[ ]]>
+		</descrip24>
+		<titulo25>
+		<![CDATA[ ]]>
+		</titulo25>
+		<descrip25>
+		<![CDATA[ ]]>
+		</descrip25>
+		<estadoficha>1</estadoficha>
+		<exclu>0</exclu>
+		<tour/>
+		<keyagente>138888</keyagente>
+		<agente>
+		<![CDATA[ Macarena ]]>
+		</agente>
+		<email_agente>macarenagarcia@grupoezeda.com</email_agente>
+		<prefijo_tlf_agente>34</prefijo_tlf_agente>
+		<tlf_agente>954915480</tlf_agente>
+		<numpanos>0</numpanos>
+		<numfotos>12</numfotos>
+		<foto1>https://fotos15.apinmo.com/3433/9434565/10-1.jpg</foto1>
+		<foto2>https://fotos15.apinmo.com/3433/9434565/10-2.jpg</foto2>
+		<foto3>https://fotos15.apinmo.com/3433/9434565/10-3.jpg</foto3>
+		<foto4>https://fotos15.apinmo.com/3433/9434565/10-4.jpg</foto4>
+		<foto5>https://fotos15.apinmo.com/3433/9434565/10-5.jpg</foto5>
+		<foto6>https://fotos15.apinmo.com/3433/9434565/10-6.jpg</foto6>
+		<foto7>https://fotos15.apinmo.com/3433/9434565/10-7.jpg</foto7>
+		<foto8>https://fotos15.apinmo.com/3433/9434565/10-8.jpg</foto8>
+		<foto9>https://fotos15.apinmo.com/3433/9434565/10-9.jpg</foto9>
+		<foto10>https://fotos15.apinmo.com/3433/9434565/10-10.jpg</foto10>
+		<foto11>https://caixa-et.github.io/Images/ccee_en_tramite.png</foto11>
+		<foto12>https://caixa-et.github.io/Images/ccee.png</foto12>
+		<numpanos>0</numpanos>
+		<videos/>
+	</propiedad>
+
+		<propiedad>
+		<id>Marta_type_terreno_IMV</id>
+		<numagencia>3433</numagencia>
+		<calidades/>
+		<provincia>SEVILLA</provincia>
+		<key_loca>609899</key_loca>
+		<key_tipo>3399</key_tipo>
+		<tipovpo>6</tipovpo>
+		<vpo_name>Libre</vpo_name>
+		<destacado>0</destacado>
+		<antiguedad>1930</antiguedad>
+		<tipo_ofer>villaaa</tipo_ofer>
+		<fecha>2026-03-16 19:53:51</fecha>
+		<fechaact>2026-03-16 20:14:25</fechaact>
+		<keypromo>0</keypromo>
+		<opcioncompra>0</opcioncompra>
+		<aconsultar>0</aconsultar>
+		<latitud>37.402405509</latitud>
+		<altitud>-5.990765815</altitud>
+		<aseos>0</aseos>
+		<banyos>1</banyos>
+		<carpint>Madera</carpint>
+		<carpext>Aluminio Lacado</carpext>
+		<comunidadincluida>0</comunidadincluida>
+		<tfachada/>
+		<tcocina/>
+		<tpostigo/>
+		<tbano/>
+		<tinterior>
+		<![CDATA[ ]]>
+		</tinterior>
+		<distmar>0</distmar>
+		<planta>1</planta>
+		<conservacion>Buen estado</conservacion>
+		<gastos_com>0</gastos_com>
+		<habdobles>2</habdobles>
+		<habitaciones>0</habitaciones>
+		<m_cons>43.00</m_cons>
+		<m_parcela>0</m_parcela>
+		<m_uties>0.00</m_uties>
+		<m_cocina>0.00</m_cocina>
+		<m_comedor>0.00</m_comedor>
+		<m_terraza>0.00</m_terraza>
+		<numplanta>0</numplanta>
+		<orientacion/>
+		<salon>1</salon>
+		<precioinmo>185000</precioinmo>
+		<preciotraspaso>0</preciotraspaso>
+		<precioalq>0</precioalq>
+		<outlet>135000</outlet>
+		<ref>1712026</ref>
+		<accion>Vender</accion>
+		<ciudad>Sevilla</ciudad>
+		<cp>41002</cp>
+		<zona>Parlamento - Torneo</zona>
+		<adaptadominus>0</adaptadominus>
+		<airecentral>0</airecentral>
+		<aire_con>1</aire_con>
+		<alarma>0</alarma>
+		<alarmaincendio>0</alarmaincendio>
+		<alarmarobo>0</alarmarobo>
+		<arma_empo>0</arma_empo>
+		<ascensor>0</ascensor>
+		<balcon>0</balcon>
+		<bar>0</bar>
+		<jardin>0</jardin>
+		<barbacoa>0</barbacoa>
+		<cajafuerte>0</cajafuerte>
+		<keycalefa>25</keycalefa>
+		<keysuelo>1</keysuelo>
+		<calefacentral>0</calefacentral>
+		<calefaccion>0</calefaccion>
+		<chimenea>0</chimenea>
+		<depoagua>0</depoagua>
+		<descalcificador>0</descalcificador>
+		<despensa>0</despensa>
+		<diafano>0</diafano>
+		<electro>1</electro>
+		<esquina>0</esquina>
+		<galeria>0</galeria>
+		<plaza_gara>0</plaza_gara>
+		<garajedoble>0</garajedoble>
+		<gasciudad>0</gasciudad>
+		<gimnasio>0</gimnasio>
+		<habjuegos>0</habjuegos>
+		<tipomensual>MES</tipomensual>
+		<hidromasaje>0</hidromasaje>
+		<jacuzzi>0</jacuzzi>
+		<lavanderia>0</lavanderia>
+		<linea_tlf>1</linea_tlf>
+		<luminoso>1</luminoso>
+		<ibi>0.00</ibi>
+		<luz>1</luz>
+		<muebles>0</muebles>
+		<ojobuey>0</ojobuey>
+		<parking>0</parking>
+		<patio>0</patio>
+		<piscina_com>0</piscina_com>
+		<piscina_prop>0</piscina_prop>
+		<preinstaacc>0</preinstaacc>
+		<primera_line>0</primera_line>
+		<puerta_blin>0</puerta_blin>
+		<satelite>0</satelite>
+		<sauna>0</sauna>
+		<solarium>0</solarium>
+		<sotano>0</sotano>
+		<mirador>0</mirador>
+		<apartseparado>0</apartseparado>
+		<bombafriocalor>0</bombafriocalor>
+		<buhardilla>0</buhardilla>
+		<pergola>0</pergola>
+		<tv>1</tv>
+		<terraza>0</terraza>
+		<terrazaacris>0</terrazaacris>
+		<todoext>3</todoext>
+		<trastero>0</trastero>
+		<urbanizacion>0</urbanizacion>
+		<nplazasparking>0</nplazasparking>
+		<vestuarios>0</vestuarios>
+		<precioparking/>
+		<preciogaraje/>
+		<vistasalmar>0</vistasalmar>
+		<energialetra>G</energialetra>
+		<energiarecibido>0</energiarecibido>
+		<energiavalor>0</energiavalor>
+		<emisionesletra>G</emisionesletra>
+		<emisionesvalor>0</emisionesvalor>
+		<cocina_inde>4</cocina_inde>
+		<keyelectricidad>0</keyelectricidad>
+		<keyfachada>0</keyfachada>
+		<keyagua>3</keyagua>
+		<keyvista>7</keyvista>
+		<keytecho>0</keytecho>
+		<montana>0</montana>
+		<rural>0</rural>
+		<costa>0</costa>
+		<vallado>0</vallado>
+		<autobuses>1</autobuses>
+		<centros_comerciales>1</centros_comerciales>
+		<tranvia>0</tranvia>
+		<zonas_infantiles>1</zonas_infantiles>
+		<colegios>1</colegios>
+		<arboles>1</arboles>
+		<hospitales>1</hospitales>
+		<tren>0</tren>
+		<metro>0</metro>
+		<golf>0</golf>
+		<descrip1>
+		<![CDATA[ Marta2  ----  PISO DE 2 DORMITORIOS EN EL BARRIO DE FERIA, EN MUY BUEN ESTADO~~Fantástico piso situado en una de las zonas con más encanto y vida del barrio de Feria. Una vivienda acogedora, funcional y en muy buen estado de conservación, ideal tanto para vivir como para inversión.~~La vivienda se distribuye en dos dormitorios, salón-comedor con cocina americana, que aporta amplitud y luminosidad al espacio, y un baño completo con placa de ducha. Su distribución está muy bien aprovechada, ofreciendo estancias cómodas y prácticas para el día a día.~~Entre sus calidades destacan suelos de mármol, carpintería exterior de aluminio y puertas interiores de madera, elementos que aportan elegancia y durabilidad. Además, la vivienda cuenta con aire acondicionado tipo split, garantizando confort durante todo el año.~~Ubicado en el barrio de Feria, una zona muy demandada del casco histórico por su ambiente, su cercanía a comercios, mercados tradicionales, restauración y todo tipo de servicios. Perfectamente conectado y a pocos minutos de los principales puntos de interés de la ciudad.~~Una excelente oportunidad para quienes buscan vivir en una zona con carácter o para invertir en una de las áreas con mayor demanda de Sevilla.~~Honorarios no incluidos en el P. V. P. Gastos de Notaría, Registro e Impuestos no incluidos. D. I. A (Documento informativo abreviado) a disposición del consumidor RD 258/05 Junta de Andalucía.~ ~ ]]>
+		</descrip1>
+		<titulo1>
+		<![CDATA[ PISO DE 2 DORMITORIOS EN EL BARRIO DE FERIA, EN MUY BUEN ESTADO ]]>
+		</titulo1>
+		<titulo2>
+		<![CDATA[ ]]>
+		</titulo2>
+		<descrip2>
+		<![CDATA[ ]]>
+		</descrip2>
+		<titulo3>
+		<![CDATA[ ]]>
+		</titulo3>
+		<descrip3>
+		<![CDATA[ ]]>
+		</descrip3>
+		<titulo4>
+		<![CDATA[ ]]>
+		</titulo4>
+		<descrip4>
+		<![CDATA[ ]]>
+		</descrip4>
+		<titulo5>
+		<![CDATA[ ]]>
+		</titulo5>
+		<descrip5>
+		<![CDATA[ ]]>
+		</descrip5>
+		<titulo6>
+		<![CDATA[ ]]>
+		</titulo6>
+		<descrip6>
+		<![CDATA[ ]]>
+		</descrip6>
+		<titulo7>
+		<![CDATA[ ]]>
+		</titulo7>
+		<descrip7>
+		<![CDATA[ ]]>
+		</descrip7>
+		<titulo8>
+		<![CDATA[ ]]>
+		</titulo8>
+		<descrip8>
+		<![CDATA[ ]]>
+		</descrip8>
+		<titulo9>
+		<![CDATA[ ]]>
+		</titulo9>
+		<descrip9>
+		<![CDATA[ ]]>
+		</descrip9>
+		<titulo10>
+		<![CDATA[ ]]>
+		</titulo10>
+		<descrip10>
+		<![CDATA[ ]]>
+		</descrip10>
+		<titulo11>
+		<![CDATA[ ]]>
+		</titulo11>
+		<descrip11>
+		<![CDATA[ ]]>
+		</descrip11>
+		<titulo12>
+		<![CDATA[ ]]>
+		</titulo12>
+		<descrip12>
+		<![CDATA[ ]]>
+		</descrip12>
+		<titulo15>
+		<![CDATA[ ]]>
+		</titulo15>
+		<descrip15>
+		<![CDATA[ ]]>
+		</descrip15>
+		<titulo16>
+		<![CDATA[ ]]>
+		</titulo16>
+		<descrip16>
+		<![CDATA[ ]]>
+		</descrip16>
+		<titulo17>
+		<![CDATA[ ]]>
+		</titulo17>
+		<descrip17>
+		<![CDATA[ ]]>
+		</descrip17>
+		<titulo18>
+		<![CDATA[ ]]>
+		</titulo18>
+		<descrip18>
+		<![CDATA[ ]]>
+		</descrip18>
+		<titulo19>
+		<![CDATA[ ]]>
+		</titulo19>
+		<descrip19>
+		<![CDATA[ ]]>
+		</descrip19>
+		<titulo22>
+		<![CDATA[ ]]>
+		</titulo22>
+		<descrip22>
+		<![CDATA[ ]]>
+		</descrip22>
+		<titulo23>
+		<![CDATA[ ]]>
+		</titulo23>
+		<descrip23>
+		<![CDATA[ ]]>
+		</descrip23>
+		<titulo24>
+		<![CDATA[ ]]>
+		</titulo24>
+		<descrip24>
+		<![CDATA[ ]]>
+		</descrip24>
+		<titulo25>
+		<![CDATA[ ]]>
+		</titulo25>
+		<descrip25>
+		<![CDATA[ ]]>
+		</descrip25>
+		<estadoficha>1</estadoficha>
+		<exclu>0</exclu>
+		<tour/>
+		<keyagente>138888</keyagente>
+		<agente>
+		<![CDATA[ Macarena ]]>
+		</agente>
+		<email_agente>macarenagarcia@grupoezeda.com</email_agente>
+		<prefijo_tlf_agente>34</prefijo_tlf_agente>
+		<tlf_agente>954915480</tlf_agente>
+		<numpanos>0</numpanos>
+		<numfotos>12</numfotos>
+		<foto1>https://fotos15.apinmo.com/3433/9434565/10-1.jpg</foto1>
+		<foto2>https://fotos15.apinmo.com/3433/9434565/10-2.jpg</foto2>
+		<foto3>https://fotos15.apinmo.com/3433/9434565/10-3.jpg</foto3>
+		<foto4>https://fotos15.apinmo.com/3433/9434565/10-4.jpg</foto4>
+		<foto5>https://fotos15.apinmo.com/3433/9434565/10-5.jpg</foto5>
+		<foto6>https://fotos15.apinmo.com/3433/9434565/10-6.jpg</foto6>
+		<foto7>https://fotos15.apinmo.com/3433/9434565/10-7.jpg</foto7>
+		<foto8>https://fotos15.apinmo.com/3433/9434565/10-8.jpg</foto8>
+		<foto9>https://fotos15.apinmo.com/3433/9434565/10-9.jpg</foto9>
+		<foto10>https://fotos15.apinmo.com/3433/9434565/10-10.jpg</foto10>
+		<foto11>https://caixa-et.github.io/Images/ccee_en_tramite.png</foto11>
+		<foto12>https://caixa-et.github.io/Images/ccee.png</foto12>
+		<numpanos>0</numpanos>
+		<videos/>
+	</propiedad>
+
+		<propiedad>
+		<id>Marta_type_oficina_IMV</id>
+		<numagencia>3433</numagencia>
+		<calidades/>
+		<provincia>SEVILLA</provincia>
+		<key_loca>609899</key_loca>
+		<key_tipo>3399</key_tipo>
+		<tipovpo>6</tipovpo>
+		<vpo_name>Libre</vpo_name>
+		<destacado>0</destacado>
+		<antiguedad>1930</antiguedad>
+		<tipo_ofer>villaaa</tipo_ofer>
+		<fecha>2026-03-16 19:53:51</fecha>
+		<fechaact>2026-03-16 20:14:25</fechaact>
+		<keypromo>0</keypromo>
+		<opcioncompra>0</opcioncompra>
+		<aconsultar>0</aconsultar>
+		<latitud>37.402405509</latitud>
+		<altitud>-5.990765815</altitud>
+		<aseos>0</aseos>
+		<banyos>1</banyos>
+		<carpint>Madera</carpint>
+		<carpext>Aluminio Lacado</carpext>
+		<comunidadincluida>0</comunidadincluida>
+		<tfachada/>
+		<tcocina/>
+		<tpostigo/>
+		<tbano/>
+		<tinterior>
+		<![CDATA[ ]]>
+		</tinterior>
+		<distmar>0</distmar>
+		<planta>1</planta>
+		<conservacion>Buen estado</conservacion>
+		<gastos_com>0</gastos_com>
+		<habdobles>2</habdobles>
+		<habitaciones>0</habitaciones>
+		<m_cons>43.00</m_cons>
+		<m_parcela>0</m_parcela>
+		<m_uties>0.00</m_uties>
+		<m_cocina>0.00</m_cocina>
+		<m_comedor>0.00</m_comedor>
+		<m_terraza>0.00</m_terraza>
+		<numplanta>0</numplanta>
+		<orientacion/>
+		<salon>1</salon>
+		<precioinmo>185000</precioinmo>
+		<preciotraspaso>0</preciotraspaso>
+		<precioalq>0</precioalq>
+		<outlet>135000</outlet>
+		<ref>1712026</ref>
+		<accion>Vender</accion>
+		<ciudad>Sevilla</ciudad>
+		<cp>41002</cp>
+		<zona>Parlamento - Torneo</zona>
+		<adaptadominus>0</adaptadominus>
+		<airecentral>0</airecentral>
+		<aire_con>1</aire_con>
+		<alarma>0</alarma>
+		<alarmaincendio>0</alarmaincendio>
+		<alarmarobo>0</alarmarobo>
+		<arma_empo>0</arma_empo>
+		<ascensor>0</ascensor>
+		<balcon>0</balcon>
+		<bar>0</bar>
+		<jardin>0</jardin>
+		<barbacoa>0</barbacoa>
+		<cajafuerte>0</cajafuerte>
+		<keycalefa>25</keycalefa>
+		<keysuelo>1</keysuelo>
+		<calefacentral>0</calefacentral>
+		<calefaccion>0</calefaccion>
+		<chimenea>0</chimenea>
+		<depoagua>0</depoagua>
+		<descalcificador>0</descalcificador>
+		<despensa>0</despensa>
+		<diafano>0</diafano>
+		<electro>1</electro>
+		<esquina>0</esquina>
+		<galeria>0</galeria>
+		<plaza_gara>0</plaza_gara>
+		<garajedoble>0</garajedoble>
+		<gasciudad>0</gasciudad>
+		<gimnasio>0</gimnasio>
+		<habjuegos>0</habjuegos>
+		<tipomensual>MES</tipomensual>
+		<hidromasaje>0</hidromasaje>
+		<jacuzzi>0</jacuzzi>
+		<lavanderia>0</lavanderia>
+		<linea_tlf>1</linea_tlf>
+		<luminoso>1</luminoso>
+		<ibi>0.00</ibi>
+		<luz>1</luz>
+		<muebles>0</muebles>
+		<ojobuey>0</ojobuey>
+		<parking>0</parking>
+		<patio>0</patio>
+		<piscina_com>0</piscina_com>
+		<piscina_prop>0</piscina_prop>
+		<preinstaacc>0</preinstaacc>
+		<primera_line>0</primera_line>
+		<puerta_blin>0</puerta_blin>
+		<satelite>0</satelite>
+		<sauna>0</sauna>
+		<solarium>0</solarium>
+		<sotano>0</sotano>
+		<mirador>0</mirador>
+		<apartseparado>0</apartseparado>
+		<bombafriocalor>0</bombafriocalor>
+		<buhardilla>0</buhardilla>
+		<pergola>0</pergola>
+		<tv>1</tv>
+		<terraza>0</terraza>
+		<terrazaacris>0</terrazaacris>
+		<todoext>3</todoext>
+		<trastero>0</trastero>
+		<urbanizacion>0</urbanizacion>
+		<nplazasparking>0</nplazasparking>
+		<vestuarios>0</vestuarios>
+		<precioparking/>
+		<preciogaraje/>
+		<vistasalmar>0</vistasalmar>
+		<energialetra>G</energialetra>
+		<energiarecibido>0</energiarecibido>
+		<energiavalor>0</energiavalor>
+		<emisionesletra>G</emisionesletra>
+		<emisionesvalor>0</emisionesvalor>
+		<cocina_inde>4</cocina_inde>
+		<keyelectricidad>0</keyelectricidad>
+		<keyfachada>0</keyfachada>
+		<keyagua>3</keyagua>
+		<keyvista>7</keyvista>
+		<keytecho>0</keytecho>
+		<montana>0</montana>
+		<rural>0</rural>
+		<costa>0</costa>
+		<vallado>0</vallado>
+		<autobuses>1</autobuses>
+		<centros_comerciales>1</centros_comerciales>
+		<tranvia>0</tranvia>
+		<zonas_infantiles>1</zonas_infantiles>
+		<colegios>1</colegios>
+		<arboles>1</arboles>
+		<hospitales>1</hospitales>
+		<tren>0</tren>
+		<metro>0</metro>
+		<golf>0</golf>
+		<descrip1>
+		<![CDATA[ Marta2  ----  PISO DE 2 DORMITORIOS EN EL BARRIO DE FERIA, EN MUY BUEN ESTADO~~Fantástico piso situado en una de las zonas con más encanto y vida del barrio de Feria. Una vivienda acogedora, funcional y en muy buen estado de conservación, ideal tanto para vivir como para inversión.~~La vivienda se distribuye en dos dormitorios, salón-comedor con cocina americana, que aporta amplitud y luminosidad al espacio, y un baño completo con placa de ducha. Su distribución está muy bien aprovechada, ofreciendo estancias cómodas y prácticas para el día a día.~~Entre sus calidades destacan suelos de mármol, carpintería exterior de aluminio y puertas interiores de madera, elementos que aportan elegancia y durabilidad. Además, la vivienda cuenta con aire acondicionado tipo split, garantizando confort durante todo el año.~~Ubicado en el barrio de Feria, una zona muy demandada del casco histórico por su ambiente, su cercanía a comercios, mercados tradicionales, restauración y todo tipo de servicios. Perfectamente conectado y a pocos minutos de los principales puntos de interés de la ciudad.~~Una excelente oportunidad para quienes buscan vivir en una zona con carácter o para invertir en una de las áreas con mayor demanda de Sevilla.~~Honorarios no incluidos en el P. V. P. Gastos de Notaría, Registro e Impuestos no incluidos. D. I. A (Documento informativo abreviado) a disposición del consumidor RD 258/05 Junta de Andalucía.~ ~ ]]>
+		</descrip1>
+		<titulo1>
+		<![CDATA[ PISO DE 2 DORMITORIOS EN EL BARRIO DE FERIA, EN MUY BUEN ESTADO ]]>
+		</titulo1>
+		<titulo2>
+		<![CDATA[ ]]>
+		</titulo2>
+		<descrip2>
+		<![CDATA[ ]]>
+		</descrip2>
+		<titulo3>
+		<![CDATA[ ]]>
+		</titulo3>
+		<descrip3>
+		<![CDATA[ ]]>
+		</descrip3>
+		<titulo4>
+		<![CDATA[ ]]>
+		</titulo4>
+		<descrip4>
+		<![CDATA[ ]]>
+		</descrip4>
+		<titulo5>
+		<![CDATA[ ]]>
+		</titulo5>
+		<descrip5>
+		<![CDATA[ ]]>
+		</descrip5>
+		<titulo6>
+		<![CDATA[ ]]>
+		</titulo6>
+		<descrip6>
+		<![CDATA[ ]]>
+		</descrip6>
+		<titulo7>
+		<![CDATA[ ]]>
+		</titulo7>
+		<descrip7>
+		<![CDATA[ ]]>
+		</descrip7>
+		<titulo8>
+		<![CDATA[ ]]>
+		</titulo8>
+		<descrip8>
+		<![CDATA[ ]]>
+		</descrip8>
+		<titulo9>
+		<![CDATA[ ]]>
+		</titulo9>
+		<descrip9>
+		<![CDATA[ ]]>
+		</descrip9>
+		<titulo10>
+		<![CDATA[ ]]>
+		</titulo10>
+		<descrip10>
+		<![CDATA[ ]]>
+		</descrip10>
+		<titulo11>
+		<![CDATA[ ]]>
+		</titulo11>
+		<descrip11>
+		<![CDATA[ ]]>
+		</descrip11>
+		<titulo12>
+		<![CDATA[ ]]>
+		</titulo12>
+		<descrip12>
+		<![CDATA[ ]]>
+		</descrip12>
+		<titulo15>
+		<![CDATA[ ]]>
+		</titulo15>
+		<descrip15>
+		<![CDATA[ ]]>
+		</descrip15>
+		<titulo16>
+		<![CDATA[ ]]>
+		</titulo16>
+		<descrip16>
+		<![CDATA[ ]]>
+		</descrip16>
+		<titulo17>
+		<![CDATA[ ]]>
+		</titulo17>
+		<descrip17>
+		<![CDATA[ ]]>
+		</descrip17>
+		<titulo18>
+		<![CDATA[ ]]>
+		</titulo18>
+		<descrip18>
+		<![CDATA[ ]]>
+		</descrip18>
+		<titulo19>
+		<![CDATA[ ]]>
+		</titulo19>
+		<descrip19>
+		<![CDATA[ ]]>
+		</descrip19>
+		<titulo22>
+		<![CDATA[ ]]>
+		</titulo22>
+		<descrip22>
+		<![CDATA[ ]]>
+		</descrip22>
+		<titulo23>
+		<![CDATA[ ]]>
+		</titulo23>
+		<descrip23>
+		<![CDATA[ ]]>
+		</descrip23>
+		<titulo24>
+		<![CDATA[ ]]>
+		</titulo24>
+		<descrip24>
+		<![CDATA[ ]]>
+		</descrip24>
+		<titulo25>
+		<![CDATA[ ]]>
+		</titulo25>
+		<descrip25>
+		<![CDATA[ ]]>
+		</descrip25>
+		<estadoficha>1</estadoficha>
+		<exclu>0</exclu>
+		<tour/>
+		<keyagente>138888</keyagente>
+		<agente>
+		<![CDATA[ Macarena ]]>
+		</agente>
+		<email_agente>macarenagarcia@grupoezeda.com</email_agente>
+		<prefijo_tlf_agente>34</prefijo_tlf_agente>
+		<tlf_agente>954915480</tlf_agente>
+		<numpanos>0</numpanos>
+		<numfotos>12</numfotos>
+		<foto1>https://fotos15.apinmo.com/3433/9434565/10-1.jpg</foto1>
+		<foto2>https://fotos15.apinmo.com/3433/9434565/10-2.jpg</foto2>
+		<foto3>https://fotos15.apinmo.com/3433/9434565/10-3.jpg</foto3>
+		<foto4>https://fotos15.apinmo.com/3433/9434565/10-4.jpg</foto4>
+		<foto5>https://fotos15.apinmo.com/3433/9434565/10-5.jpg</foto5>
+		<foto6>https://fotos15.apinmo.com/3433/9434565/10-6.jpg</foto6>
+		<foto7>https://fotos15.apinmo.com/3433/9434565/10-7.jpg</foto7>
+		<foto8>https://fotos15.apinmo.com/3433/9434565/10-8.jpg</foto8>
+		<foto9>https://fotos15.apinmo.com/3433/9434565/10-9.jpg</foto9>
+		<foto10>https://fotos15.apinmo.com/3433/9434565/10-10.jpg</foto10>
+		<foto11>https://caixa-et.github.io/Images/ccee_en_tramite.png</foto11>
+		<foto12>https://caixa-et.github.io/Images/ccee.png</foto12>
+		<numpanos>0</numpanos>
+		<videos/>
+	</propiedad>
+
+		<propiedad>
+		<id>Marta_type_local_IMV</id>
+		<numagencia>3433</numagencia>
+		<calidades/>
+		<provincia>SEVILLA</provincia>
+		<key_loca>609899</key_loca>
+		<key_tipo>3399</key_tipo>
+		<tipovpo>6</tipovpo>
+		<vpo_name>Libre</vpo_name>
+		<destacado>0</destacado>
+		<antiguedad>1930</antiguedad>
+		<tipo_ofer>villaaa</tipo_ofer>
+		<fecha>2026-03-16 19:53:51</fecha>
+		<fechaact>2026-03-16 20:14:25</fechaact>
+		<keypromo>0</keypromo>
+		<opcioncompra>0</opcioncompra>
+		<aconsultar>0</aconsultar>
+		<latitud>37.402405509</latitud>
+		<altitud>-5.990765815</altitud>
+		<aseos>0</aseos>
+		<banyos>1</banyos>
+		<carpint>Madera</carpint>
+		<carpext>Aluminio Lacado</carpext>
+		<comunidadincluida>0</comunidadincluida>
+		<tfachada/>
+		<tcocina/>
+		<tpostigo/>
+		<tbano/>
+		<tinterior>
+		<![CDATA[ ]]>
+		</tinterior>
+		<distmar>0</distmar>
+		<planta>1</planta>
+		<conservacion>Buen estado</conservacion>
+		<gastos_com>0</gastos_com>
+		<habdobles>2</habdobles>
+		<habitaciones>0</habitaciones>
+		<m_cons>43.00</m_cons>
+		<m_parcela>0</m_parcela>
+		<m_uties>0.00</m_uties>
+		<m_cocina>0.00</m_cocina>
+		<m_comedor>0.00</m_comedor>
+		<m_terraza>0.00</m_terraza>
+		<numplanta>0</numplanta>
+		<orientacion/>
+		<salon>1</salon>
+		<precioinmo>185000</precioinmo>
+		<preciotraspaso>0</preciotraspaso>
+		<precioalq>0</precioalq>
+		<outlet>135000</outlet>
+		<ref>1712026</ref>
+		<accion>Vender</accion>
+		<ciudad>Sevilla</ciudad>
+		<cp>41002</cp>
+		<zona>Parlamento - Torneo</zona>
+		<adaptadominus>0</adaptadominus>
+		<airecentral>0</airecentral>
+		<aire_con>1</aire_con>
+		<alarma>0</alarma>
+		<alarmaincendio>0</alarmaincendio>
+		<alarmarobo>0</alarmarobo>
+		<arma_empo>0</arma_empo>
+		<ascensor>0</ascensor>
+		<balcon>0</balcon>
+		<bar>0</bar>
+		<jardin>0</jardin>
+		<barbacoa>0</barbacoa>
+		<cajafuerte>0</cajafuerte>
+		<keycalefa>25</keycalefa>
+		<keysuelo>1</keysuelo>
+		<calefacentral>0</calefacentral>
+		<calefaccion>0</calefaccion>
+		<chimenea>0</chimenea>
+		<depoagua>0</depoagua>
+		<descalcificador>0</descalcificador>
+		<despensa>0</despensa>
+		<diafano>0</diafano>
+		<electro>1</electro>
+		<esquina>0</esquina>
+		<galeria>0</galeria>
+		<plaza_gara>0</plaza_gara>
+		<garajedoble>0</garajedoble>
+		<gasciudad>0</gasciudad>
+		<gimnasio>0</gimnasio>
+		<habjuegos>0</habjuegos>
+		<tipomensual>MES</tipomensual>
+		<hidromasaje>0</hidromasaje>
+		<jacuzzi>0</jacuzzi>
+		<lavanderia>0</lavanderia>
+		<linea_tlf>1</linea_tlf>
+		<luminoso>1</luminoso>
+		<ibi>0.00</ibi>
+		<luz>1</luz>
+		<muebles>0</muebles>
+		<ojobuey>0</ojobuey>
+		<parking>0</parking>
+		<patio>0</patio>
+		<piscina_com>0</piscina_com>
+		<piscina_prop>0</piscina_prop>
+		<preinstaacc>0</preinstaacc>
+		<primera_line>0</primera_line>
+		<puerta_blin>0</puerta_blin>
+		<satelite>0</satelite>
+		<sauna>0</sauna>
+		<solarium>0</solarium>
+		<sotano>0</sotano>
+		<mirador>0</mirador>
+		<apartseparado>0</apartseparado>
+		<bombafriocalor>0</bombafriocalor>
+		<buhardilla>0</buhardilla>
+		<pergola>0</pergola>
+		<tv>1</tv>
+		<terraza>0</terraza>
+		<terrazaacris>0</terrazaacris>
+		<todoext>3</todoext>
+		<trastero>0</trastero>
+		<urbanizacion>0</urbanizacion>
+		<nplazasparking>0</nplazasparking>
+		<vestuarios>0</vestuarios>
+		<precioparking/>
+		<preciogaraje/>
+		<vistasalmar>0</vistasalmar>
+		<energialetra>G</energialetra>
+		<energiarecibido>0</energiarecibido>
+		<energiavalor>0</energiavalor>
+		<emisionesletra>G</emisionesletra>
+		<emisionesvalor>0</emisionesvalor>
+		<cocina_inde>4</cocina_inde>
+		<keyelectricidad>0</keyelectricidad>
+		<keyfachada>0</keyfachada>
+		<keyagua>3</keyagua>
+		<keyvista>7</keyvista>
+		<keytecho>0</keytecho>
+		<montana>0</montana>
+		<rural>0</rural>
+		<costa>0</costa>
+		<vallado>0</vallado>
+		<autobuses>1</autobuses>
+		<centros_comerciales>1</centros_comerciales>
+		<tranvia>0</tranvia>
+		<zonas_infantiles>1</zonas_infantiles>
+		<colegios>1</colegios>
+		<arboles>1</arboles>
+		<hospitales>1</hospitales>
+		<tren>0</tren>
+		<metro>0</metro>
+		<golf>0</golf>
+		<descrip1>
+		<![CDATA[ Marta2  ----  PISO DE 2 DORMITORIOS EN EL BARRIO DE FERIA, EN MUY BUEN ESTADO~~Fantástico piso situado en una de las zonas con más encanto y vida del barrio de Feria. Una vivienda acogedora, funcional y en muy buen estado de conservación, ideal tanto para vivir como para inversión.~~La vivienda se distribuye en dos dormitorios, salón-comedor con cocina americana, que aporta amplitud y luminosidad al espacio, y un baño completo con placa de ducha. Su distribución está muy bien aprovechada, ofreciendo estancias cómodas y prácticas para el día a día.~~Entre sus calidades destacan suelos de mármol, carpintería exterior de aluminio y puertas interiores de madera, elementos que aportan elegancia y durabilidad. Además, la vivienda cuenta con aire acondicionado tipo split, garantizando confort durante todo el año.~~Ubicado en el barrio de Feria, una zona muy demandada del casco histórico por su ambiente, su cercanía a comercios, mercados tradicionales, restauración y todo tipo de servicios. Perfectamente conectado y a pocos minutos de los principales puntos de interés de la ciudad.~~Una excelente oportunidad para quienes buscan vivir en una zona con carácter o para invertir en una de las áreas con mayor demanda de Sevilla.~~Honorarios no incluidos en el P. V. P. Gastos de Notaría, Registro e Impuestos no incluidos. D. I. A (Documento informativo abreviado) a disposición del consumidor RD 258/05 Junta de Andalucía.~ ~ ]]>
+		</descrip1>
+		<titulo1>
+		<![CDATA[ PISO DE 2 DORMITORIOS EN EL BARRIO DE FERIA, EN MUY BUEN ESTADO ]]>
+		</titulo1>
+		<titulo2>
+		<![CDATA[ ]]>
+		</titulo2>
+		<descrip2>
+		<![CDATA[ ]]>
+		</descrip2>
+		<titulo3>
+		<![CDATA[ ]]>
+		</titulo3>
+		<descrip3>
+		<![CDATA[ ]]>
+		</descrip3>
+		<titulo4>
+		<![CDATA[ ]]>
+		</titulo4>
+		<descrip4>
+		<![CDATA[ ]]>
+		</descrip4>
+		<titulo5>
+		<![CDATA[ ]]>
+		</titulo5>
+		<descrip5>
+		<![CDATA[ ]]>
+		</descrip5>
+		<titulo6>
+		<![CDATA[ ]]>
+		</titulo6>
+		<descrip6>
+		<![CDATA[ ]]>
+		</descrip6>
+		<titulo7>
+		<![CDATA[ ]]>
+		</titulo7>
+		<descrip7>
+		<![CDATA[ ]]>
+		</descrip7>
+		<titulo8>
+		<![CDATA[ ]]>
+		</titulo8>
+		<descrip8>
+		<![CDATA[ ]]>
+		</descrip8>
+		<titulo9>
+		<![CDATA[ ]]>
+		</titulo9>
+		<descrip9>
+		<![CDATA[ ]]>
+		</descrip9>
+		<titulo10>
+		<![CDATA[ ]]>
+		</titulo10>
+		<descrip10>
+		<![CDATA[ ]]>
+		</descrip10>
+		<titulo11>
+		<![CDATA[ ]]>
+		</titulo11>
+		<descrip11>
+		<![CDATA[ ]]>
+		</descrip11>
+		<titulo12>
+		<![CDATA[ ]]>
+		</titulo12>
+		<descrip12>
+		<![CDATA[ ]]>
+		</descrip12>
+		<titulo15>
+		<![CDATA[ ]]>
+		</titulo15>
+		<descrip15>
+		<![CDATA[ ]]>
+		</descrip15>
+		<titulo16>
+		<![CDATA[ ]]>
+		</titulo16>
+		<descrip16>
+		<![CDATA[ ]]>
+		</descrip16>
+		<titulo17>
+		<![CDATA[ ]]>
+		</titulo17>
+		<descrip17>
+		<![CDATA[ ]]>
+		</descrip17>
+		<titulo18>
+		<![CDATA[ ]]>
+		</titulo18>
+		<descrip18>
+		<![CDATA[ ]]>
+		</descrip18>
+		<titulo19>
+		<![CDATA[ ]]>
+		</titulo19>
+		<descrip19>
+		<![CDATA[ ]]>
+		</descrip19>
+		<titulo22>
+		<![CDATA[ ]]>
+		</titulo22>
+		<descrip22>
+		<![CDATA[ ]]>
+		</descrip22>
+		<titulo23>
+		<![CDATA[ ]]>
+		</titulo23>
+		<descrip23>
+		<![CDATA[ ]]>
+		</descrip23>
+		<titulo24>
+		<![CDATA[ ]]>
+		</titulo24>
+		<descrip24>
+		<![CDATA[ ]]>
+		</descrip24>
+		<titulo25>
+		<![CDATA[ ]]>
+		</titulo25>
+		<descrip25>
+		<![CDATA[ ]]>
+		</descrip25>
+		<estadoficha>1</estadoficha>
+		<exclu>0</exclu>
+		<tour/>
+		<keyagente>138888</keyagente>
+		<agente>
+		<![CDATA[ Macarena ]]>
+		</agente>
+		<email_agente>macarenagarcia@grupoezeda.com</email_agente>
+		<prefijo_tlf_agente>34</prefijo_tlf_agente>
+		<tlf_agente>954915480</tlf_agente>
+		<numpanos>0</numpanos>
+		<numfotos>12</numfotos>
+		<foto1>https://fotos15.apinmo.com/3433/9434565/10-1.jpg</foto1>
+		<foto2>https://fotos15.apinmo.com/3433/9434565/10-2.jpg</foto2>
+		<foto3>https://fotos15.apinmo.com/3433/9434565/10-3.jpg</foto3>
+		<foto4>https://fotos15.apinmo.com/3433/9434565/10-4.jpg</foto4>
+		<foto5>https://fotos15.apinmo.com/3433/9434565/10-5.jpg</foto5>
+		<foto6>https://fotos15.apinmo.com/3433/9434565/10-6.jpg</foto6>
+		<foto7>https://fotos15.apinmo.com/3433/9434565/10-7.jpg</foto7>
+		<foto8>https://fotos15.apinmo.com/3433/9434565/10-8.jpg</foto8>
+		<foto9>https://fotos15.apinmo.com/3433/9434565/10-9.jpg</foto9>
+		<foto10>https://fotos15.apinmo.com/3433/9434565/10-10.jpg</foto10>
+		<foto11>https://caixa-et.github.io/Images/ccee_en_tramite.png</foto11>
+		<foto12>https://caixa-et.github.io/Images/ccee.png</foto12>
+		<numpanos>0</numpanos>
+		<videos/>
+	</propiedad>
+
+		<propiedad>
+		<id>Marta_type_hotel_IMV</id>
+		<numagencia>3433</numagencia>
+		<calidades/>
+		<provincia>SEVILLA</provincia>
+		<key_loca>609899</key_loca>
+		<key_tipo>3399</key_tipo>
+		<tipovpo>6</tipovpo>
+		<vpo_name>Libre</vpo_name>
+		<destacado>0</destacado>
+		<antiguedad>1930</antiguedad>
+		<tipo_ofer>villaaa</tipo_ofer>
+		<fecha>2026-03-16 19:53:51</fecha>
+		<fechaact>2026-03-16 20:14:25</fechaact>
+		<keypromo>0</keypromo>
+		<opcioncompra>0</opcioncompra>
+		<aconsultar>0</aconsultar>
+		<latitud>37.402405509</latitud>
+		<altitud>-5.990765815</altitud>
+		<aseos>0</aseos>
+		<banyos>1</banyos>
+		<carpint>Madera</carpint>
+		<carpext>Aluminio Lacado</carpext>
+		<comunidadincluida>0</comunidadincluida>
+		<tfachada/>
+		<tcocina/>
+		<tpostigo/>
+		<tbano/>
+		<tinterior>
+		<![CDATA[ ]]>
+		</tinterior>
+		<distmar>0</distmar>
+		<planta>1</planta>
+		<conservacion>Buen estado</conservacion>
+		<gastos_com>0</gastos_com>
+		<habdobles>2</habdobles>
+		<habitaciones>0</habitaciones>
+		<m_cons>43.00</m_cons>
+		<m_parcela>0</m_parcela>
+		<m_uties>0.00</m_uties>
+		<m_cocina>0.00</m_cocina>
+		<m_comedor>0.00</m_comedor>
+		<m_terraza>0.00</m_terraza>
+		<numplanta>0</numplanta>
+		<orientacion/>
+		<salon>1</salon>
+		<precioinmo>185000</precioinmo>
+		<preciotraspaso>0</preciotraspaso>
+		<precioalq>0</precioalq>
+		<outlet>135000</outlet>
+		<ref>1712026</ref>
+		<accion>Vender</accion>
+		<ciudad>Sevilla</ciudad>
+		<cp>41002</cp>
+		<zona>Parlamento - Torneo</zona>
+		<adaptadominus>0</adaptadominus>
+		<airecentral>0</airecentral>
+		<aire_con>1</aire_con>
+		<alarma>0</alarma>
+		<alarmaincendio>0</alarmaincendio>
+		<alarmarobo>0</alarmarobo>
+		<arma_empo>0</arma_empo>
+		<ascensor>0</ascensor>
+		<balcon>0</balcon>
+		<bar>0</bar>
+		<jardin>0</jardin>
+		<barbacoa>0</barbacoa>
+		<cajafuerte>0</cajafuerte>
+		<keycalefa>25</keycalefa>
+		<keysuelo>1</keysuelo>
+		<calefacentral>0</calefacentral>
+		<calefaccion>0</calefaccion>
+		<chimenea>0</chimenea>
+		<depoagua>0</depoagua>
+		<descalcificador>0</descalcificador>
+		<despensa>0</despensa>
+		<diafano>0</diafano>
+		<electro>1</electro>
+		<esquina>0</esquina>
+		<galeria>0</galeria>
+		<plaza_gara>0</plaza_gara>
+		<garajedoble>0</garajedoble>
+		<gasciudad>0</gasciudad>
+		<gimnasio>0</gimnasio>
+		<habjuegos>0</habjuegos>
+		<tipomensual>MES</tipomensual>
+		<hidromasaje>0</hidromasaje>
+		<jacuzzi>0</jacuzzi>
+		<lavanderia>0</lavanderia>
+		<linea_tlf>1</linea_tlf>
+		<luminoso>1</luminoso>
+		<ibi>0.00</ibi>
+		<luz>1</luz>
+		<muebles>0</muebles>
+		<ojobuey>0</ojobuey>
+		<parking>0</parking>
+		<patio>0</patio>
+		<piscina_com>0</piscina_com>
+		<piscina_prop>0</piscina_prop>
+		<preinstaacc>0</preinstaacc>
+		<primera_line>0</primera_line>
+		<puerta_blin>0</puerta_blin>
+		<satelite>0</satelite>
+		<sauna>0</sauna>
+		<solarium>0</solarium>
+		<sotano>0</sotano>
+		<mirador>0</mirador>
+		<apartseparado>0</apartseparado>
+		<bombafriocalor>0</bombafriocalor>
+		<buhardilla>0</buhardilla>
+		<pergola>0</pergola>
+		<tv>1</tv>
+		<terraza>0</terraza>
+		<terrazaacris>0</terrazaacris>
+		<todoext>3</todoext>
+		<trastero>0</trastero>
+		<urbanizacion>0</urbanizacion>
+		<nplazasparking>0</nplazasparking>
+		<vestuarios>0</vestuarios>
+		<precioparking/>
+		<preciogaraje/>
+		<vistasalmar>0</vistasalmar>
+		<energialetra>G</energialetra>
+		<energiarecibido>0</energiarecibido>
+		<energiavalor>0</energiavalor>
+		<emisionesletra>G</emisionesletra>
+		<emisionesvalor>0</emisionesvalor>
+		<cocina_inde>4</cocina_inde>
+		<keyelectricidad>0</keyelectricidad>
+		<keyfachada>0</keyfachada>
+		<keyagua>3</keyagua>
+		<keyvista>7</keyvista>
+		<keytecho>0</keytecho>
+		<montana>0</montana>
+		<rural>0</rural>
+		<costa>0</costa>
+		<vallado>0</vallado>
+		<autobuses>1</autobuses>
+		<centros_comerciales>1</centros_comerciales>
+		<tranvia>0</tranvia>
+		<zonas_infantiles>1</zonas_infantiles>
+		<colegios>1</colegios>
+		<arboles>1</arboles>
+		<hospitales>1</hospitales>
+		<tren>0</tren>
+		<metro>0</metro>
+		<golf>0</golf>
+		<descrip1>
+		<![CDATA[ Marta2  ----  PISO DE 2 DORMITORIOS EN EL BARRIO DE FERIA, EN MUY BUEN ESTADO~~Fantástico piso situado en una de las zonas con más encanto y vida del barrio de Feria. Una vivienda acogedora, funcional y en muy buen estado de conservación, ideal tanto para vivir como para inversión.~~La vivienda se distribuye en dos dormitorios, salón-comedor con cocina americana, que aporta amplitud y luminosidad al espacio, y un baño completo con placa de ducha. Su distribución está muy bien aprovechada, ofreciendo estancias cómodas y prácticas para el día a día.~~Entre sus calidades destacan suelos de mármol, carpintería exterior de aluminio y puertas interiores de madera, elementos que aportan elegancia y durabilidad. Además, la vivienda cuenta con aire acondicionado tipo split, garantizando confort durante todo el año.~~Ubicado en el barrio de Feria, una zona muy demandada del casco histórico por su ambiente, su cercanía a comercios, mercados tradicionales, restauración y todo tipo de servicios. Perfectamente conectado y a pocos minutos de los principales puntos de interés de la ciudad.~~Una excelente oportunidad para quienes buscan vivir en una zona con carácter o para invertir en una de las áreas con mayor demanda de Sevilla.~~Honorarios no incluidos en el P. V. P. Gastos de Notaría, Registro e Impuestos no incluidos. D. I. A (Documento informativo abreviado) a disposición del consumidor RD 258/05 Junta de Andalucía.~ ~ ]]>
+		</descrip1>
+		<titulo1>
+		<![CDATA[ PISO DE 2 DORMITORIOS EN EL BARRIO DE FERIA, EN MUY BUEN ESTADO ]]>
+		</titulo1>
+		<titulo2>
+		<![CDATA[ ]]>
+		</titulo2>
+		<descrip2>
+		<![CDATA[ ]]>
+		</descrip2>
+		<titulo3>
+		<![CDATA[ ]]>
+		</titulo3>
+		<descrip3>
+		<![CDATA[ ]]>
+		</descrip3>
+		<titulo4>
+		<![CDATA[ ]]>
+		</titulo4>
+		<descrip4>
+		<![CDATA[ ]]>
+		</descrip4>
+		<titulo5>
+		<![CDATA[ ]]>
+		</titulo5>
+		<descrip5>
+		<![CDATA[ ]]>
+		</descrip5>
+		<titulo6>
+		<![CDATA[ ]]>
+		</titulo6>
+		<descrip6>
+		<![CDATA[ ]]>
+		</descrip6>
+		<titulo7>
+		<![CDATA[ ]]>
+		</titulo7>
+		<descrip7>
+		<![CDATA[ ]]>
+		</descrip7>
+		<titulo8>
+		<![CDATA[ ]]>
+		</titulo8>
+		<descrip8>
+		<![CDATA[ ]]>
+		</descrip8>
+		<titulo9>
+		<![CDATA[ ]]>
+		</titulo9>
+		<descrip9>
+		<![CDATA[ ]]>
+		</descrip9>
+		<titulo10>
+		<![CDATA[ ]]>
+		</titulo10>
+		<descrip10>
+		<![CDATA[ ]]>
+		</descrip10>
+		<titulo11>
+		<![CDATA[ ]]>
+		</titulo11>
+		<descrip11>
+		<![CDATA[ ]]>
+		</descrip11>
+		<titulo12>
+		<![CDATA[ ]]>
+		</titulo12>
+		<descrip12>
+		<![CDATA[ ]]>
+		</descrip12>
+		<titulo15>
+		<![CDATA[ ]]>
+		</titulo15>
+		<descrip15>
+		<![CDATA[ ]]>
+		</descrip15>
+		<titulo16>
+		<![CDATA[ ]]>
+		</titulo16>
+		<descrip16>
+		<![CDATA[ ]]>
+		</descrip16>
+		<titulo17>
+		<![CDATA[ ]]>
+		</titulo17>
+		<descrip17>
+		<![CDATA[ ]]>
+		</descrip17>
+		<titulo18>
+		<![CDATA[ ]]>
+		</titulo18>
+		<descrip18>
+		<![CDATA[ ]]>
+		</descrip18>
+		<titulo19>
+		<![CDATA[ ]]>
+		</titulo19>
+		<descrip19>
+		<![CDATA[ ]]>
+		</descrip19>
+		<titulo22>
+		<![CDATA[ ]]>
+		</titulo22>
+		<descrip22>
+		<![CDATA[ ]]>
+		</descrip22>
+		<titulo23>
+		<![CDATA[ ]]>
+		</titulo23>
+		<descrip23>
+		<![CDATA[ ]]>
+		</descrip23>
+		<titulo24>
+		<![CDATA[ ]]>
+		</titulo24>
+		<descrip24>
+		<![CDATA[ ]]>
+		</descrip24>
+		<titulo25>
+		<![CDATA[ ]]>
+		</titulo25>
+		<descrip25>
+		<![CDATA[ ]]>
+		</descrip25>
+		<estadoficha>1</estadoficha>
+		<exclu>0</exclu>
+		<tour/>
+		<keyagente>138888</keyagente>
+		<agente>
+		<![CDATA[ Macarena ]]>
+		</agente>
+		<email_agente>macarenagarcia@grupoezeda.com</email_agente>
+		<prefijo_tlf_agente>34</prefijo_tlf_agente>
+		<tlf_agente>954915480</tlf_agente>
+		<numpanos>0</numpanos>
+		<numfotos>12</numfotos>
+		<foto1>https://fotos15.apinmo.com/3433/9434565/10-1.jpg</foto1>
+		<foto2>https://fotos15.apinmo.com/3433/9434565/10-2.jpg</foto2>
+		<foto3>https://fotos15.apinmo.com/3433/9434565/10-3.jpg</foto3>
+		<foto4>https://fotos15.apinmo.com/3433/9434565/10-4.jpg</foto4>
+		<foto5>https://fotos15.apinmo.com/3433/9434565/10-5.jpg</foto5>
+		<foto6>https://fotos15.apinmo.com/3433/9434565/10-6.jpg</foto6>
+		<foto7>https://fotos15.apinmo.com/3433/9434565/10-7.jpg</foto7>
+		<foto8>https://fotos15.apinmo.com/3433/9434565/10-8.jpg</foto8>
+		<foto9>https://fotos15.apinmo.com/3433/9434565/10-9.jpg</foto9>
+		<foto10>https://fotos15.apinmo.com/3433/9434565/10-10.jpg</foto10>
+		<foto11>https://caixa-et.github.io/Images/ccee_en_tramite.png</foto11>
+		<foto12>https://caixa-et.github.io/Images/ccee.png</foto12>
+		<numpanos>0</numpanos>
+		<videos/>
+	</propiedad>
 </propiedades>

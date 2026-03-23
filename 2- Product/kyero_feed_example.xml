@@ -194,8 +194,8 @@
 		<province>Tarragona</province>
 		<country>Spain</country>
 		<location>
-			<latitude>41.138693</latitude>
-			<longitude>1.051643</longitude>
+			<latitude>1.051643</latitude>
+			<longitude>41.138693</longitude>
 		</location>
 		<location_detail/>
 		<postal_code>43330</postal_code>
@@ -270,8 +270,8 @@
 		<province>Tarragona</province>
 		<country>Spain</country>
 		<location>
-			<latitude>41.13562386930004</latitude>
-			<longitude>1.051335554659347332543</longitude>
+			<latitude>31.131562386930004</latitude>
+			<longitude>1.0531335554659347332543</longitude>
 		</location>
 		<location_detail/>
 		<postal_code>43330</postal_code>

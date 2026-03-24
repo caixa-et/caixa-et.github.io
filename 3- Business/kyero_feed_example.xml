@@ -4066,7 +4066,7 @@
 		<new_build>0</new_build>
 		<part_ownership>0</part_ownership>
 		<leasehold>1</leasehold>
-		<type>edificio</type>
+		<type>aparcamiento</type>
 		<country>España</country>
 		<province>BALEARES</province>
 		<town>Marratxí</town>
@@ -4192,7 +4192,7 @@
 		<new_build>0</new_build>
 		<part_ownership>0</part_ownership>
 		<leasehold>1</leasehold>
-		<type>edificio</type>
+		<type>garage</type>
 		<country>España</country>
 		<province>BALEARES</province>
 		<town>Marratxí</town>
@@ -4318,7 +4318,7 @@
 		<new_build>0</new_build>
 		<part_ownership>0</part_ownership>
 		<leasehold>1</leasehold>
-		<type>edificio</type>
+		<type>terreno</type>
 		<country>España</country>
 		<province>BALEARES</province>
 		<town>Marratxí</town>
@@ -4444,7 +4444,7 @@
 		<new_build>0</new_build>
 		<part_ownership>0</part_ownership>
 		<leasehold>1</leasehold>
-		<type>edificio</type>
+		<type>oficina</type>
 		<country>España</country>
 		<province>BALEARES</province>
 		<town>Marratxí</town>
@@ -4570,7 +4570,7 @@
 		<new_build>0</new_build>
 		<part_ownership>0</part_ownership>
 		<leasehold>1</leasehold>
-		<type>edificio</type>
+		<type>local</type>
 		<country>España</country>
 		<province>BALEARES</province>
 		<town>Marratxí</town>
@@ -4696,7 +4696,7 @@
 		<new_build>0</new_build>
 		<part_ownership>0</part_ownership>
 		<leasehold>1</leasehold>
-		<type>edificio</type>
+		<type>hotel</type>
 		<country>España</country>
 		<province>BALEARES</province>
 		<town>Marratxí</town>

@@ -16,7 +16,7 @@
 		<carpinteria />
 		<carpinext />
 		<comunidadincluida>0</comunidadincluida>
-		tbano/>
+		<tbano/>
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
@@ -43,7 +43,7 @@
 		<ciudad>almunecar</ciudad>
 		<cp>18690</cp>
 		<provincia>granada</provincia>
-		<zona>null</zona>
+		<zona/>
 		<adaptadominus>0</adaptadominus>
 		<airecentral>0</airecentral>
 		<aire_con>1</aire_con>
@@ -131,7 +131,7 @@
 		<carpinteria />
 		<carpinext />
 		<comunidadincluida>0</comunidadincluida>
-		tbano/>
+		<tbano/>
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
@@ -246,7 +246,7 @@
 		<carpinteria />
 		<carpinext />
 		<comunidadincluida>0</comunidadincluida>
-		tbano/>
+		<tbano/>
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
@@ -273,7 +273,7 @@
 		<ciudad>Riudoms</ciudad>
 		<cp>43330</cp>
 		<provincia>Tarragona</provincia>
-		<zona>null</zona>
+		<zona/>
 		<adaptadominus>0</adaptadominus>
 		<airecentral>0</airecentral>
 		<aire_con>1</aire_con>
@@ -361,7 +361,7 @@
 		<carpinteria />
 		<carpinext />
 		<comunidadincluida>0</comunidadincluida>
-		tbano/>
+		<tbano/>
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
@@ -388,7 +388,7 @@
 		<ciudad>Riudoms</ciudad>
 		<cp>43330</cp>
 		<provincia>Tarragona</provincia>
-		<zona>null</zona>
+		<zona/>
 		<adaptadominus>0</adaptadominus>
 		<airecentral>0</airecentral>
 		<aire_con>1</aire_con>
@@ -474,13 +474,13 @@
 		<ciudad>Berga</ciudad>
 		<cp>08600</cp>
 		<provincia>Barcelona</provincia>
-		<zona>null</zona>
+		<zona/>
 		<aseos>1</aseos>
 		<banyos>1</banyos>
 		<carpinteria />
 		<carpinext />
 		<comunidadincluida>0</comunidadincluida>
-		tbano/>
+		<tbano/>
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
@@ -589,13 +589,13 @@
 		<ciudad>Berga</ciudad>
 		<cp>36216</cp>
 		<provincia>Barcelona</provincia>
-		<zona>null</zona>
+		<zona/>
 		<aseos>1</aseos>
 		<banyos>1</banyos>
 		<carpinteria />
 		<carpinext />
 		<comunidadincluida>0</comunidadincluida>
-		tbano/>
+		<tbano/>
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
@@ -704,13 +704,13 @@
 		<ciudad>Cardedeu</ciudad>
 		<cp>43580</cp>
 		<provincia>Lleida</provincia>
-		<zona>null</zona>
+		<zona/>
 		<aseos>1</aseos>
 		<banyos>1</banyos>
 		<carpinteria />
 		<carpinext />
 		<comunidadincluida>0</comunidadincluida>
-		tbano/>
+		<tbano/>
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
@@ -819,13 +819,13 @@
 		<ciudad>Calatayud</ciudad>
 		<cp>08440</cp>
 		<provincia>Barcelona</provincia>
-		<zona>null</zona>
+		<zona/>
 		<aseos>1</aseos>
 		<banyos>1</banyos>
 		<carpinteria />
 		<carpinext />
 		<comunidadincluida>0</comunidadincluida>
-		tbano/>
+		<tbano/>
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
@@ -929,8 +929,8 @@
 		<tipo_ofer>Piso</tipo_ofer>
 		<keypromo>0</keypromo>
 		<opcioncompra>0</opcioncompra>
-		<latitud>null</latitud>
-		<altitud>null</altitud>
+		<latitud/>
+		<altitud/>
 		<ciudad>Madrid</ciudad>
 		<cp>28036</cp>
 		<provincia>Madrid</provincia>
@@ -940,7 +940,7 @@
 		<carpinteria />
 		<carpinext />
 		<comunidadincluida>0</comunidadincluida>
-		tbano/>
+		<tbano/>
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
@@ -1046,16 +1046,16 @@
 		<opcioncompra>0</opcioncompra>
 		<latitud>47.860908</latitud>
 		<altitud>5.506558</altitud>
-		<ciudad>null</ciudad>
-		<cp>null</cp>
-		<provincia>null</provincia>
-		<zona>null</zona>
+		<ciudad/>
+		<cp/>
+		<provincia/>
+		<zona/>
 		<aseos>1</aseos>
 		<banyos>1</banyos>
 		<carpinteria />
 		<carpinext />
 		<comunidadincluida>0</comunidadincluida>
-		tbano/>
+		<tbano/>
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
@@ -1170,7 +1170,7 @@
 		<carpinteria />
 		<carpinext />
 		<comunidadincluida>0</comunidadincluida>
-		tbano/>
+		<tbano/>
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
@@ -1285,7 +1285,7 @@
 		<carpinteria />
 		<carpinext />
 		<comunidadincluida>0</comunidadincluida>
-		tbano/>
+		<tbano/>
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
@@ -1394,13 +1394,13 @@
 		<ciudad>Sitges</ciudad>
 		<cp>08870</cp>
 		<provincia>Barcelona</provincia>
-		<zona>null</zona>
+		<zona/>
 		<aseos>1</aseos>
 		<banyos>1</banyos>
 		<carpinteria />
 		<carpinext />
 		<comunidadincluida>0</comunidadincluida>
-		tbano/>
+		<tbano/>
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
@@ -1504,18 +1504,18 @@
 		<tipo_ofer>Piso</tipo_ofer>
 		<keypromo>0</keypromo>
 		<opcioncompra>0</opcioncompra>
-		<latitud>null</latitud>
-		<altitud>null</altitud>
+		<latitud/>
+		<altitud/>
 		<ciudad>Ax-les-Thermes</ciudad>
 		<cp>09110</cp>
 		<provincia>Ariège</provincia>
-		<zona>null</zona>
+		<zona/>
 		<aseos>1</aseos>
 		<banyos>1</banyos>
 		<carpinteria />
 		<carpinext />
 		<comunidadincluida>0</comunidadincluida>
-		tbano/>
+		<tbano/>
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
@@ -1621,16 +1621,16 @@
 		<opcioncompra>0</opcioncompra>
 		<latitud>41.624278</latitud>
 		<altitud>0.639221</altitud>
-		<ciudad>null</ciudad>
-		<cp>null</cp>
-		<provincia>null</provincia>
-		<zona>null</zona>
+		<ciudad/>
+		<cp/>
+		<provincia/>
+		<zona/>
 		<aseos>1</aseos>
 		<banyos>1</banyos>
 		<carpinteria />
 		<carpinext />
 		<comunidadincluida>0</comunidadincluida>
-		tbano/>
+		<tbano/>
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
@@ -1737,15 +1737,15 @@
 		<latitud>41.380083</latitud>
 		<altitud>2.145476</altitud>
 		<ciudad>Riudoms</ciudad>
-		<cp>null</cp>
+		<cp/>
 		<provincia>Barcelona</provincia>
-		<zona>null</zona>
+		<zona/>
 		<aseos>1</aseos>
 		<banyos>1</banyos>
 		<carpinteria />
 		<carpinext />
 		<comunidadincluida>0</comunidadincluida>
-		tbano/>
+		<tbano/>
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
@@ -1840,7 +1840,7 @@
 		<numpanos>0</numpanos>
 		<videos />
 	</propiedad>
-		<propiedad>
+	<propiedad>
 		<id>iris-location-017</id>
 		<numagencia>2</numagencia>
 		<calidades />
@@ -1851,16 +1851,16 @@
 		<opcioncompra>0</opcioncompra>
 		<latitud>41.734958</latitud>
 		<altitud>1.841672</altitud>
-		<ciudad>null</ciudad>
+		<ciudad/>
 		<cp>25005</cp>
-		<provincia>null</provincia>
-		<zona>null</zona>
+		<provincia/>
+		<zona/>
 		<aseos>1</aseos>
 		<banyos>1</banyos>
 		<carpinteria />
 		<carpinext />
 		<comunidadincluida>0</comunidadincluida>
-		tbano/>
+		<tbano/>
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
@@ -1955,7 +1955,7 @@
 		<numpanos>0</numpanos>
 		<videos />
 	</propiedad>
-		<propiedad>
+	<propiedad>
 		<id>iris-location-018</id>
 		<numagencia>2</numagencia>
 		<calidades />
@@ -1966,16 +1966,16 @@
 		<opcioncompra>0</opcioncompra>
 		<latitud>41.734958</latitud>
 		<altitud>1.841672</altitud>
-		<ciudad>null</ciudad>
+		<ciudad/>
 		<cp>08015</cp>
 		<provincia>Barcelona</provincia>
-		<zona>null</zona>
+		<zona/>
 		<aseos>1</aseos>
 		<banyos>1</banyos>
 		<carpinteria />
 		<carpinext />
 		<comunidadincluida>0</comunidadincluida>
-		tbano/>
+		<tbano/>
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
@@ -2081,16 +2081,16 @@
 		<opcioncompra>0</opcioncompra>
 		<latitud>41.380083</latitud>
 		<altitud>2.145476</altitud>
-		<ciudad>null</ciudad>
+		<ciudad/>
 		<cp>08870</cp>
-		<provincia>null</provincia>
-		<zona>null</zona>
+		<provincia/>
+		<zona/>
 		<aseos>1</aseos>
 		<banyos>1</banyos>
 		<carpinteria />
 		<carpinext />
 		<comunidadincluida>0</comunidadincluida>
-		tbano/>
+		<tbano/>
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
@@ -2194,18 +2194,18 @@
 		<tipo_ofer>Piso</tipo_ofer>
 		<keypromo>0</keypromo>
 		<opcioncompra>0</opcioncompra>
-		<latitud>null</latitud>
-		<altitud>null</altitud>
+		<latitud/>
+		<altitud/>
 		<ciudad>Mresa</ciudad>
-		<cp>null</cp>
+		<cp/>
 		<provincia>Barcelna</provincia>
-		<zona>null</zona>
+		<zona/>
 		<aseos>1</aseos>
 		<banyos>1</banyos>
 		<carpinteria />
 		<carpinext />
 		<comunidadincluida>0</comunidadincluida>
-		tbano/>
+		<tbano/>
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
@@ -2300,7 +2300,7 @@
 		<numpanos>0</numpanos>
 		<videos />
 	</propiedad>
-		<propiedad>
+	<propiedad>
 		<id>iris-location-021</id>
 		<numagencia>2</numagencia>
 		<calidades />
@@ -2309,8 +2309,8 @@
 		<tipo_ofer>Piso</tipo_ofer>
 		<keypromo>0</keypromo>
 		<opcioncompra>0</opcioncompra>
-		<latitud>null</latitud>
-		<altitud>null</altitud>
+		<latitud/>
+		<altitud/>
 		<ciudad>Barcelona</ciudad>
 		<cp>08014</cp>
 		<provincia>Barcelona</provincia>
@@ -2320,7 +2320,7 @@
 		<carpinteria />
 		<carpinext />
 		<comunidadincluida>0</comunidadincluida>
-		tbano/>
+		<tbano/>
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>

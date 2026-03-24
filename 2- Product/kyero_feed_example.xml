@@ -123,7 +123,7 @@
 		</location>
 		<location_detail/>
 		<postal_code>08028</postal_code>	
-		<catastral>null</catastral>
+		<catastral/>
 		<beds>3</beds>
 		<baths>2</baths>
 		<pool>0</pool>
@@ -199,7 +199,7 @@
 		</location>
 		<location_detail/>
 		<postal_code>43330</postal_code>
-		<catastral>null</catastral>
+		<catastral/>
 		<beds>3</beds>
 		<baths>2</baths>
 		<pool>0</pool>
@@ -275,7 +275,7 @@
 		</location>
 		<location_detail/>
 		<postal_code>43330</postal_code>
-		<catastral>null</catastral>
+		<catastral/>
 		<beds>3</beds>
 		<baths>2</baths>
 		<pool>0</pool>
@@ -644,8 +644,8 @@
 		<province>Madrid</province>
 		<country>Spain</country>
 		<location>
-			<latitude>null</latitude>
-			<longitude>null</longitude>
+			<latitude/>
+			<longitude/>
 		</location>
 		<location_detail/>
 		<postal_code>28036</postal_code>
@@ -714,16 +714,16 @@
 		<leasehold>1</leasehold>
 		<new_build>0</new_build>
 		<type>apartment</type>
-		<town>null</town>
-		<province>null</province>
-		<country>null</country>
+		<town/>
+		<province/>
+		<country/>
 		<location>
 			<latitude>47.860908</latitude>
 			<longitude>5.506558</longitude>
 		</location>
 		<location_detail/>
-		<postal_code>null</postal_code>
-		<catastral>null</catastral>
+		<postal_code/>
+		<catastral/>
 		<beds>3</beds>
 		<baths>2</baths>
 		<pool>0</pool>
@@ -871,7 +871,7 @@
 		</location>
 		<location_detail/>
 		<postal_code>13001</postal_code>
-		<catastral>null</catastral>
+		<catastral/>
 		<beds>3</beds>
 		<baths>2</baths>
 		<pool>0</pool>
@@ -1014,8 +1014,8 @@
 		<province>Ariège</province>
 		<country>France</country>
 		<location>
-			<latitude>null</latitude>
-			<longitude>null</longitude>
+			<latitude/>
+			<longitude/>
 		</location>
 		<location_detail/>
 		<postal_code>09110</postal_code>
@@ -1084,16 +1084,16 @@
 		<leasehold>1</leasehold>
 		<new_build>0</new_build>
 		<type>apartment</type>
-		<town>null</town>
-		<province>null</province>
-		<country>null</country>
+		<town/>
+		<province/>
+		<country/>
 		<location>
 			<latitude>41.624278</latitude>
 			<longitude>0.639221</longitude>
 		</location>
 		<location_detail/>
-		<postal_code>null</postal_code>
-		<catastral>null</catastral>
+		<postal_code/>
+		<catastral/>
 		<beds>3</beds>
 		<baths>2</baths>
 		<pool>0</pool>
@@ -1166,8 +1166,8 @@
 			<longitude>2.145476</longitude>
 		</location>
 		<location_detail/>
-		<postal_code>null</postal_code>
-		<catastral>null</catastral>
+		<postal_code/>
+		<catastral/>
 		<beds>3</beds>
 		<baths>2</baths>
 		<pool>0</pool>
@@ -1232,16 +1232,16 @@
 		<leasehold>1</leasehold>
 		<new_build>0</new_build>
 		<type>apartment</type>
-		<town>null</town>
-		<province>null</province>
-		<country>null</country>
+		<town/>
+		<province/>
+		<country/>
 		<location>
 			<latitude>41.380083</latitude>
 			<longitude>2.145476</longitude>
 		</location>
 		<location_detail/>
 		<postal_code>25005</postal_code>
-		<catastral>null</catastral>
+		<catastral/>
 		<beds>3</beds>
 		<baths>2</baths>
 		<pool>0</pool>
@@ -1306,7 +1306,7 @@
 		<leasehold>1</leasehold>
 		<new_build>0</new_build>
 		<type>apartment</type>
-		<town>null</town>
+		<town/>
 		<province>Barcelona</province>
 		<country>Spain</country>
 		<location>
@@ -1315,7 +1315,7 @@
 		</location>
 		<location_detail/>
 		<postal_code>08015</postal_code>
-		<catastral>null</catastral>
+		<catastral/>
 		<beds>3</beds>
 		<baths>2</baths>
 		<pool>0</pool>
@@ -1380,16 +1380,16 @@
 		<leasehold>1</leasehold>
 		<new_build>0</new_build>
 		<type>apartment</type>
-		<town>null</town>
-		<province>null</province>
-		<country>null</country>
+		<town/>
+		<province/>
+		<country/>
 		<location>
 			<latitude>41.380083</latitude>
 			<longitude>2.145476</longitude>
 		</location>
 		<location_detail/>
 		<postal_code>08870</postal_code>
-		<catastral>null</catastral>
+		<catastral/>
 		<beds>3</beds>
 		<baths>2</baths>
 		<pool>0</pool>
@@ -1456,14 +1456,14 @@
 		<type>apartment</type>
 		<town>Mresa</town>
 		<province>Barcelna</province>
-		<country>null</country>
+		<country/>
 		<location>
-			<latitude>null</latitude>
-			<longitude>null</longitude>
+			<latitude/>
+			<longitude/>
 		</location>
 		<location_detail/>
-		<postal_code>null</postal_code>
-		<catastral>null</catastral>
+		<postal_code/>
+		<catastral/>
 		<beds>3</beds>
 		<baths>2</baths>
 		<pool>0</pool>
@@ -1528,12 +1528,12 @@
 		<leasehold>1</leasehold>
 		<new_build>0</new_build>
 		<type>apartment</type>
-		<town>null</town>
+		<town/>
 		<province>Barcelona</province>
 		<country>Barcelona</country>
 		<location>
-			<latitude>null</latitude>
-			<longitude>null</longitude>
+			<latitude/>
+			<longitude/>
 		</location>
 		<location_detail/>
 		<postal_code>08014</postal_code>

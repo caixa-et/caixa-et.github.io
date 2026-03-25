@@ -109,9 +109,16 @@
 		<titulo2><![CDATA[]]></titulo2>
 		<descrip2><![CDATA[]]></descrip2>
 		<numpanos>0</numpanos>
-		<numfotos>2</numfotos>
+		<numfotos>9</numfotos>
 		<foto1>https://caixa-et.github.io/Images/exterior-casa.jpeg</foto1>
 		<foto2>https://caixa-et.github.io/Images/exterior-casa-2.jpeg</foto2>
+		<foto3>https://caixa-et.github.io/Images/habitacion.jpg</foto3>
+		<foto4>https://caixa-et.github.io/Images/habitacion-2.jpg</foto4>
+		<foto5>https://caixa-et.github.io/Images/habitacion-3.jpg</foto5>
+		<foto6>https://caixa-et.github.io/Images/comedor.jpg</foto6>
+		<foto7>https://caixa-et.github.io/Images/cocina-2.jpg</foto7>
+		<foto8>https://caixa-et.github.io/Images/ba%C3%B1o.jpg</foto8>
+		<foto9>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</foto9>
 		<numpanos>0</numpanos>
 		<videos />
 	</propiedad>
@@ -224,9 +231,16 @@
 		<titulo2><![CDATA[]]></titulo2>
 		<descrip2><![CDATA[]]></descrip2>
 		<numpanos>0</numpanos>
-		<numfotos>2</numfotos>
+		<numfotos>9</numfotos>
 		<foto1>https://caixa-et.github.io/Images/exterior-casa.jpeg</foto1>
 		<foto2>https://caixa-et.github.io/Images/exterior-casa-2.jpeg</foto2>
+		<foto3>https://caixa-et.github.io/Images/habitacion.jpg</foto3>
+		<foto4>https://caixa-et.github.io/Images/habitacion-2.jpg</foto4>
+		<foto5>https://caixa-et.github.io/Images/habitacion-3.jpg</foto5>
+		<foto6>https://caixa-et.github.io/Images/comedor.jpg</foto6>
+		<foto7>https://caixa-et.github.io/Images/cocina-2.jpg</foto7>
+		<foto8>https://caixa-et.github.io/Images/ba%C3%B1o.jpg</foto8>
+		<foto9>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</foto9>
 		<numpanos>0</numpanos>
 		<videos />
 	</propiedad>

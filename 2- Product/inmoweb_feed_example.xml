@@ -139,7 +139,7 @@
        <propiedad id="iris-location-inmoweb-002">
         <fecha_alta>21/11/2024 15:57</fecha_alta>
         <fecha_modificacion>18/03/2026 10:33</fecha_modificacion>
-        <referencia>iris-location-001</referencia>
+        <referencia>iris-location-002</referencia>
         <ref_catastral />
         <familia id="24">piso</familia>
         <operacion id="1">Venta</operacion>
@@ -275,7 +275,7 @@
     <propiedad id="iris-location-inmoweb-003">
         <fecha_alta>21/11/2024 15:57</fecha_alta>
         <fecha_modificacion>18/03/2026 10:33</fecha_modificacion>
-        <referencia>iris-location-001</referencia>
+        <referencia>iris-location-003</referencia>
         <ref_catastral />
         <familia id="24">piso</familia>
         <operacion id="1">Venta</operacion>

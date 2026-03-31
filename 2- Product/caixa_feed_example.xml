@@ -4,22 +4,23 @@
         <currency>EUR</currency>
     </qobrix>
     <property last_update="2026-03-04 14:47:50">
-        <name>Maravilloso piso en Centro</name>
-        <state>Madrid</state>
+        <name>test-Maravilloso piso en Centro</name>
         <property_type>apartment</property_type>
         <property_subtype>standard_apartment</property_subtype>
-        <ref>960119</ref>
+        <ref>test-por-defecto</ref>
         <air_condition>0</air_condition>
         <bathrooms>1</bathrooms>
         <bedrooms>1</bedrooms>
-        <city>Madrid</city>
-        <municipality>Chamartin</municipality>
         <common_swimming_pool>0</common_swimming_pool>
         <price_field_amount>890</price_field_amount>
-        <cadastral_reference></cadastral_reference>
         <constructor_year>1905</constructor_year>
+        <cadastral_reference></cadastral_reference>
         <coordinates>40.40862983,-3.70888144</coordinates>
         <country>ES</country>
+        <state>Madrid</state>
+        <city>Madrid</city>
+        <municipality>Chamartin</municipality>
+        <post_code>28006</post_code>
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -30,22 +31,7 @@
         <custom_es_subsidized_housing>0</custom_es_subsidized_housing>
         <custom_es_terrace>0</custom_es_terrace>
         <custom_es_trastero_superficie_util>0</custom_es_trastero_superficie_util>
-        <description>Housfy alquila 🏡 piso en El Rastro, en Madrid. La propiedad cuenta con 33 m²
-            de superficie útil (verificados con la Dirección General de Catastro). Distribución de
-            estancias: -1 Dormitorio -1 Baño -Salón-comedor -Cocina AMUEBLADO y CON
-            ELECTRODOMESTICOS Características específicas: -Posibilidad de incluir muebles -Exterior
-            IBI, comunidad, tasa de basuras incluida en precio! Condiciones adicionales: 1 mes de
-            fianza + 2 meses de garantía adicional Forma de actualización de la renta: IPC y, en su
-            defecto el que sea aplicable según normativa vigente (a día de hoy, IRAV). Plazo del
-            arrendamiento: 1 año prorrogable obligatoriamente por plazos anuales hasta que el
-            arrendamiento alcance una duración mínima de 5 años, de conformidad con el art.9 LAU (7
-            años en caso de que el arrendador sea persona jurídica) Sobre la zona: Ubicado en el
-            barrio de Lavapiés-Embajadores, en el distrito Centro de Madrid. ¿Quieres visitarlo?
-            Contacta con Housfy y agenda tu visita sin compromiso. Más información en: housfy.com
-            Housfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios
-            necesarios para que pueda alquilar la propiedad por su cuenta. Para tu seguridad, nunca
-            cobramos honorarios ni reservas de inmuebles en alquiler antes de la firma del contrato
-            de reserva. Para más información, visítanos en housfy.com. AICAT número: 7922.</description>
+        <description>Se alquila  piso en el centro de Badalona. La propiedad es fantástica y con terraza.</description>
         <elevator>0</elevator>
         <energy_efficiency_grade>d</energy_efficiency_grade>
         <energy_consumption_rating />

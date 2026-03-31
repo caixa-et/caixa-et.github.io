@@ -1406,4 +1406,34 @@
             <img>https://images.century21.pt/dsc-5861-editar_77c91922-93a9-4572-8589-bf58eda19254.jpg</img> 
         </media>
     </property>
+
+      <property last_update="2025-05-05 15:25:47">
+        <bathrooms>3</bathrooms>
+        <bedrooms>3</bedrooms>
+        <building_density>0</building_density>
+        <city>Marbella</city>
+        <construction_stage>resale</construction_stage>
+        <construction_year>1984</construction_year>
+        <coordinates>36.4890928149085,-4.95992484349955</coordinates>
+        <country>ES</country>
+        <custom_es_status_of_conservation>used</custom_es_status_of_conservation>
+        <custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
+        <description>Marta7 - Century 21 Sun vende casa contemporánea con jardín en una urbanización privada al lado de Puerto Banús! Recientemente reformada, en una zona de alta demanda. En la planta principal, se encuentra una luminosa salón-comedor con orientación sur con chimenea y una cocina moderna y totalmente equipada. Ascendiendo a la segunda planta, se descubren dos espaciosos dormitorios y dos baños completos. En la planta inferior, el gran dormitorio principal acompañado por un amplio baño en suite. Una terraza soleada y acceso directamente al jardín y una zona de barbacoa. Comodidad y practicidad se entrelazan en esta propiedad que también incluye una plaza de aparcamiento subterráneo para mayor comodidad. Ubicada en una urbanización cerrada, esta propiedad se distingue por su piscina exclusiva y exuberantes jardines, creando un entorno íntimo con solo unos pocos vecinos. Disfrute del estilo de vida que ofrece esta propiedad, rodeada de renombrados restaurantes y cafeterías, como Breathe Marbella, La Sala y al lado del HardRock Hotel y Casino Marbella. La propiedad se encuentra en proximidad a una amplia variedad de centro de negocios, hoteles, tiendas de lujo y se encuentra a pocos minutos a pie del corazón de Puerto Banús y minutos andando a la playa!</description>
+        <email>dmendoza@century21.es</email>
+        <list_selling_price_amount>675000</list_selling_price_amount>
+        <municipality>Nueva Andalucía</municipality>
+        <name>Casa adosada en una urbanizacion al lado de Puerto Banus!</name>
+        <phone>+34629141650</phone>
+        <property_type>casa</property_type>
+        <ref>Marta_type_casa_CBK</ref>
+        <sale_rent>for_sale</sale_rent>
+        <state>Málaga</state>
+        <street> Calle Las Malvas </street>
+        <total_area_amount>161</total_area_amount>
+        <wc_bathrooms>3</wc_bathrooms>
+        <media>
+            <img>https://images.century21.pt/dsc-7978-hdr-editar-editar_83679355-1a99-4022-b411-37260c5d3a24.jpg</img>
+            <img>https://images.century21.pt/dsc-5861-editar_77c91922-93a9-4572-8589-bf58eda19254.jpg</img> 
+        </media>
+    </property>
 </properties>

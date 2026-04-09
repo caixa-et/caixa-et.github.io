@@ -2109,4 +2109,140 @@
 		<email>hola@husdrommer.com</email>
 		<contact_number>964 749 027</contact_number>
 	</property>
+	<property>
+<id>sofi-ccee-029</id>
+<date>2026-04-09 10:49:02</date>
+<ref>5109</ref>
+<price>419000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership/>
+<leasehold>0</leasehold>
+<new_build>0</new_build>
+<type>apartment</type>
+<town>Barcelona</town>
+<province>Barcelona</province>
+<country>Spain</country>
+<location>
+<latitude>41.376831</latitude>
+<longitude>2.157735</longitude>
+</location>
+<location_detail>Eixample</location_detail>
+<beds>2</beds>
+<baths>2</baths>
+<pool>0</pool>
+<surface_area>
+<built>65</built>
+</surface_area>
+<energy_rating>
+<consumption>E</consumption>
+<consumption_value>202</consumption_value>
+<emissions>E</emissions>
+<emissions_value>42</emissions_value>
+</energy_rating>
+<url>
+<es>http://espigul.mobiliagestion.es/mobilia/5109</es>
+</url>
+<desc>
+<es>La propiedad se distribuye de forma funcional en un amplio y luminoso salón-comedor con acceso directo a balcón, cocina integrada totalmente equipada, dos dormitorios (uno doble con baño en suite y otro individual) y un aseo de cortesía.El inmueble destaca por su gran luminosidad gracias a su orientación hacia una amplia avenida, así como por la conservación de elementos originales como los techos altos con bóveda catalana, que aportan carácter y valor arquitectónico. En cuanto a calidades y equipamiento, dispone de aire acondicionado por splits, calefacción individual mediante radiadores y carpintería exterior de aluminio con doble acristalamiento tipo Climalit, garantizando confort térmico y acústico.La ubicación es inmejorable, con excelentes conexiones de transporte público: líneas de metro L1 (Rocafort y Urgell), L2 (Sant Antoni) y L3 (Poble Sec), así como múltiples líneas de autobús (incluido Aerobús) y cercanía a estación de tren en Plaça Espanya. En el entorno inmediato se encuentran todo tipo de servicios: centros sanitarios, colegios, universidades, zonas infantiles y una amplia oferta comercial.Sant Antoni es uno de los barrios con mayor proyección de Barcelona, reconocido por su calidad de vida, dinamismo y oferta gastronómica y comercial. Destaca el emblemático Mercado de Sant Antoni y su proximidad a puntos clave de la ciudad como la renovada Plaza de España y el centro comercial Las Arenas.Una oportunidad ideal tanto para residencia habitual como para inversión en una de las zonas más demandadas de Barcelona.</es>
+<ca/>
+<en/>
+<fr/>
+</desc>
+<features>
+<feature>Aire Acondicionado</feature>
+<feature>Zonas Comunes</feature>
+<feature>Alarma Interior</feature>
+<feature>Ascensor</feature>
+</features>
+<notes/>
+<images>
+<image id="1">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413146.jpg</url>
+</image>
+<image id="2">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413152.jpg</url>
+</image>
+<image id="3">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413153.jpg</url>
+</image>
+<image id="4">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413158.jpg</url>
+</image>
+<image id="5">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413149.jpg</url>
+</image>
+<image id="6">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413147.jpg</url>
+</image>
+<image id="7">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413167.jpg</url>
+</image>
+<image id="8">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413172.jpg</url>
+</image>
+<image id="9">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413148.jpg</url>
+</image>
+<image id="10">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413163.jpg</url>
+</image>
+<image id="11">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413151.jpg</url>
+</image>
+<image id="12">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413162.jpg</url>
+</image>
+<image id="13">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413161.jpg</url>
+</image>
+<image id="14">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413171.jpg</url>
+</image>
+<image id="15">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413164.jpg</url>
+</image>
+<image id="16">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413166.jpg</url>
+</image>
+<image id="17">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413160.jpg</url>
+</image>
+<image id="18">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413150.jpg</url>
+</image>
+<image id="19">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413154.jpg</url>
+</image>
+<image id="20">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413170.jpg</url>
+</image>
+<image id="21">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413155.jpg</url>
+</image>
+<image id="22">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413156.jpg</url>
+</image>
+<image id="23">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413157.jpg</url>
+</image>
+<image id="24">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413159.jpg</url>
+</image>
+<image id="25">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413165.jpg</url>
+</image>
+<image id="26">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413168.jpg</url>
+</image>
+<image id="27">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413169.jpg</url>
+</image>
+<image id="28">
+<url>https://media.mobiliagestion.es/Portals/inmoespigul/Images/5109/25413518.jpg</url>
+</image>
+</images>
+<email>barcelona@espigul.com</email>
+<contact_number>936404560</contact_number>
+</property>
 </root>

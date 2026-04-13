@@ -11,7 +11,7 @@
         <state>Madrid</state>
         <property_type>apartment</property_type>
         <property_subtype>standard_apartment</property_subtype>
-        <ref>Anna_img</ref>
+        <ref>Anna_img_2</ref>
         <air_condition>0</air_condition>
         <bathrooms>1</bathrooms>
         <bedrooms>1</bedrooms>
@@ -94,7 +94,7 @@
         <state>Madrid</state>
         <property_type>apartment</property_type>
         <property_subtype>standard_apartment</property_subtype>
-        <ref>Anna_img2</ref>
+        <ref>Anna_img_2</ref>
         <air_condition>0</air_condition>
         <bathrooms>1</bathrooms>
         <bedrooms>1</bedrooms>
@@ -196,7 +196,7 @@
         <name>Luminoso triplex al lado del Hardrock Hotel, Puerto Banus!</name>
         <phone>+34629141650</phone>
         <property_type>house</property_type>
-        <ref>Anna_img_CCEE</ref>
+        <ref>Anna_img_CCEE_2</ref>
         <sale_rent>for_sale</sale_rent>
         <state>Málaga</state>
         <street>Calle Malvas </street>
@@ -243,7 +243,7 @@
         <name>Casa adosada en una urbanizacion al lado de Puerto Banus!</name>
         <phone>+34629141650</phone>
         <property_type>house</property_type>
-        <ref>Anna_img_Contacto</ref>
+        <ref>Anna_img_Contacto_2</ref>
         <sale_rent>for_sale</sale_rent>
         <state>Málaga</state>
         <street> Calle Las Malvas </street>
@@ -401,7 +401,7 @@
         <name>Se vende Villa moderna con vistas al mar y montaña cerca de la zona del Restaurante El Higuerón</name>
         <phone>+34694405720</phone>
         <property_type>house</property_type>
-        <ref>Anna_img_Portal</ref>
+        <ref>Anna_img_Portal_2</ref>
         <sale_rent>for_sale</sale_rent>
         <state>Málaga</state>
         <street>Calle Kalmia de Buenavista</street>
@@ -493,7 +493,7 @@
         <name>Piso en venta en Nueva Andalucia, cerca de Centro Plaza! Puerto Banus</name>
         <phone>+34629141650</phone>
         <property_type>apartment</property_type>
-        <ref>Anna_img_Ruina</ref>
+        <ref>Anna_img_Ruina_2</ref>
         <sale_rent>for_sale</sale_rent>
         <state>Málaga</state>
         <street>Avenida Manolete Edificio Casaño </street>
@@ -562,7 +562,7 @@
         <name>PROMOCIÓN OBRA NUEVA DE 15 VILLAS EN MIJAS GOLF</name>
         <phone>+34694405720</phone>
         <property_type>house</property_type>
-        <ref>Anna_img_Tapiado</ref>
+        <ref>Anna_img_Tapiado_2</ref>
         <sale_rent>for_sale</sale_rent>
         <state>Málaga</state>
         <street>La Cala Golf</street>
@@ -603,7 +603,7 @@
         <name>PROMOCIÓN OBRA NUEVA DE 15 VILLAS EN LA CALA GOLF</name>
         <phone>+34694405720</phone>
         <property_type>house</property_type>
-        <ref>Anna_img_Desnudo</ref>
+        <ref>Anna_img_Desnudo_2</ref>
         <sale_rent>for_sale</sale_rent>
         <state>Málaga</state>
         <street>La Cala Golf</street>
@@ -647,7 +647,7 @@
         <name>Exclusivo apartamento en Puerto Banús. Marbella, Málaga.</name>
         <phone>+34629141650</phone>
         <property_type>apartment</property_type>
-        <ref>Anna_img_Persona</ref>
+        <ref>Anna_img_Persona_2</ref>
         <sale_rent>for_sale</sale_rent>
         <state>Málaga</state>
         <street>Puerto Banús, Marbella, Spain</street>
@@ -717,7 +717,7 @@
         <name>Century 21 Sun presenta este impresionante villa de estilo contemporáneo en el campo de golf de Los Naranjos!</name>
         <phone>+34629141650</phone>
         <property_type>house</property_type>
-        <ref>Anna_img_Matricula</ref>
+        <ref>Anna_img_Matricula_2</ref>
         <sale_rent>for_sale</sale_rent>
         <state>Málaga</state>
         <street>Calle Sirio, Marbella, Spain</street>

@@ -3639,4 +3639,134 @@
         </enlaces>
         <videos />
     </propiedad>
+    <propiedad id="sofi-ccee-inmoweb-029">
+        <fecha_alta>21/11/2024 15:57</fecha_alta>
+        <fecha_modificacion>18/03/2026 10:33</fecha_modificacion>
+        <referencia>iris-location-027</referencia>
+        <ref_catastral />
+        <familia id="24">piso</familia>
+        <operacion id="1">Venta</operacion>
+        <estado id="SM" />
+        <status_id>activo</status_id>
+        <interior>0</interior>
+        <dormitorios>4</dormitorios>
+        <banos>2</banos>
+        <banos_reformados />
+        <aseos>1</aseos>
+        <localizacion>
+            <provincia />
+            <poblacion />
+            <cp />
+            <zona>Eixample</zona>
+            <pais />
+        </localizacion>
+        <superficies>
+            <habitable />
+            <construida>141</construida>
+            <parcela>47</parcela>
+            <cocina />
+            <salon />
+            <jardin />
+            <terraza />
+        </superficies>
+        <precio divisa="EUR">60000</precio>
+        <precio_anterior divisa="EUR">69000</precio_anterior>
+        <caracteristicas>
+            <caracteristica id="ano_construccion" />
+            <caracteristica id="amueblado">amueblado</caracteristica>
+            <caracteristica id="terraza" />
+            <caracteristica id="reformado">si</caracteristica>
+            <caracteristica id="ano_reforma">2017</caracteristica>
+            <caracteristica id="vistas" />
+            <caracteristica id="piscina" />
+            <caracteristica id="calefaccion" />
+            <caracteristica id="tipo_calefaccion" />
+            <caracteristica id="tipo_agua">individual</caracteristica>
+            <caracteristica id="tipo_cocina">americana</caracteristica>
+            <caracteristica id="cocina_equipada">1</caracteristica>
+            <caracteristica id="cocina_reformada">1</caracteristica>
+            <caracteristica id="jardin" />
+            <caracteristica id="garaje" />
+            <caracteristica id="garaje_incluido" />
+            <caracteristica id="parking" />
+            <caracteristica id="material_ventanas">PVC</caracteristica>
+            <caracteristica id="pisos_edificio">3</caracteristica>
+            <caracteristica id="estado_edificio">En buen estado</caracteristica>
+            <caracteristica id="contraventanas" />
+            <caracteristica id="tipo_suelo" />
+            <caracteristica id="certificacion_energetica_letra">B</caracteristica>
+            <caracteristica id="certificacion_energetica_valor">40</caracteristica>
+            <caracteristica id="certificacion_emisiones_letra">B</caracteristica>
+            <caracteristica id="certificacion_emisiones_valor">6</caracteristica>
+            <caracteristica id="trastero" />
+            <caracteristica id="puerta_blindada" />
+            <caracteristica id="aa" />
+            <caracteristica id="chimenea" />
+            <caracteristica id="ascensor" />
+            <caracteristica id="amarre" />
+            <caracteristica id="num_planta" />
+            <caracteristica id="de_entidad_financiera" />
+            <caracteristica id="primera_linea" />
+            <caracteristica id="sotano" />
+            <caracteristica id="lavanderia" />
+            <caracteristica id="solarium" />
+            <caracteristica id="armarios_empotrados" />
+            <caracteristica id="doble_acristalamiento" />
+            <caracteristica id="salida_humos">1</caracteristica>
+            <caracteristica id="mascotas">1</caracteristica>
+        </caracteristicas>
+        <etiquetas />
+        <descripciones>
+            <descripcion idioma="es">
+                <titulo>CASA TORRE DE IRIS</titulo>
+                <descripcion>Vivienda, totalmente reformada en 2017, de 191 metros cuadrados situada
+                    en el centro de la población de Badalona.[IW]</descripcion>
+            </descripcion>
+        </descripciones>
+          <imagenes>
+            <imagen
+                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a3eeef30.jpg"
+                principal="1" />
+            <imagen
+                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a479ae33.jpg"
+                principal="0" />
+            <imagen
+                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4a25bc9.jpg"
+                principal="0" />
+            <imagen
+                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4d19d59.jpg"
+                principal="0" />
+            <imagen
+                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a4fc13ed.jpg"
+                principal="0" />
+            <imagen
+                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a5269110.jpg"
+                principal="0" />
+            <imagen
+                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a5516b73.jpg"
+                principal="0" />
+            <imagen
+                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a58de46e.jpg"
+                principal="0" />
+            <imagen
+                url="https://storage.googleapis.com/static.inmoweb.es/clients/3784/property/1424346/image/673f4a5b7e144.jpg"
+                principal="0" />
+        </imagenes>
+        <documentos />
+        <enlaces>
+            <enlace idioma="cat">http://www.ft10459.inmoweb.page/details-cat1424346.html?lan=cat</enlace>
+            <enlace idioma="da">http://www.ft10459.inmoweb.page/details-da1424346.html?lan=da</enlace>
+            <enlace idioma="de">http://www.ft10459.inmoweb.page/details-de1424346.html?lan=de</enlace>
+            <enlace idioma="gb">http://www.ft10459.inmoweb.page/details-gb1424346.html?lan=gb</enlace>
+            <enlace idioma="es">http://www.ft10459.inmoweb.page/details-es1424346.html?lan=es</enlace>
+            <enlace idioma="fi">http://www.ft10459.inmoweb.page/details-fi1424346.html?lan=fi</enlace>
+            <enlace idioma="fr">http://www.ft10459.inmoweb.page/details-fr1424346.html?lan=fr</enlace>
+            <enlace idioma="it">http://www.ft10459.inmoweb.page/details-it1424346.html?lan=it</enlace>
+            <enlace idioma="nl">http://www.ft10459.inmoweb.page/details-nl1424346.html?lan=nl</enlace>
+            <enlace idioma="no">http://www.ft10459.inmoweb.page/details-no1424346.html?lan=no</enlace>
+            <enlace idioma="ru">http://www.ft10459.inmoweb.page/details-ru1424346.html?lan=ru</enlace>
+            <enlace idioma="se">http://www.ft10459.inmoweb.page/details-se1424346.html?lan=se</enlace>
+        </enlaces>
+        <videos />
+    </propiedad>
 </properties>

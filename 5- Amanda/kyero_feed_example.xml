@@ -5840,6 +5840,714 @@
 </images>
 </property>	
 
+<property>
+<id>test_mallorca_1</id>
+<date>2026-01-26 00:00:00</date>
+<ref>R10858</ref>
+<price>1995</price>
+<currency>EUR</currency>
+<price_freq>month</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>0</new_build>
+<type>apartment</type>
+<town>Portals Nous</town>
+<province>Mallorca</province>
+<country>Spain</country>
+<location>
+<latitude>39.53505</latitude>
+<longitude>2.5759</longitude>
+</location>
+<location_detail/>
+<beds>2</beds>
+<baths>1</baths>
+<pool>0</pool>
+<surface_area>
+<built>100</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>G</emissions>
+</energy_rating>
+<url>
+<de>https://firstmallorca.com/de/ffid?rental=R10858</de>
+<en>https://firstmallorca.com/en/ffid?rental=R10858</en>
+<es>https://firstmallorca.com/es/ffid?rental=R10858</es>
+<ru>https://firstmallorca.com/ru/ffid?rental=R10858</ru>
+</url>
+<desc>
+<de>Exclusive</de>
+<en>Exclusive</en>
+<es>Apartamento exclusivo a escasos metros de la Calita de Portals con detalles de interior de alta calidad. Dispone de amplia y comoda sala de estar y cocina que se vinculan a una terraza con vistas parciales al mar. La propiedad cuenta con dos habitaciones, una de ellas con una cama doble y la otra con un sofa cama. Además la comunidad dispone de una gran piscina. No dude en contactar a nuestros representantes. La propiedad está disponible para un alquiler a largo plazo desde octubre.</es>
+<ru/>
+</desc>
+<features>
+<feature/>
+<feature>Close to the sea</feature>
+<feature>Walking distance to the beach</feature>
+</features>
+<images>
+<image id="1">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000qTrdA/p1cbgvlc3018f782p1l78jq61n0ch/IMG_9082.JPG</url>
+</image>
+<image id="2">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000qTrdA/p1cbgvlgjck301kl31vdc1arli1di/IMG_9084.JPG</url>
+</image>
+<image id="3">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000qTrdA/p1cbgvl1kb130lkfv1qrpe529h3f/IMG_9078.JPG</url>
+</image>
+<image id="4">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000qTrdA/k8cbtvoxi/WhatsApp%20Image%202023-12-29%20at%2010.49.15%20AM.jpeg</url>
+</image>
+<image id="5">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000qTrdA/m99hussja/WhatsApp%20Image%202023-12-29%20at%2010.49.14%20AM.jpeg</url>
+</image>
+<image id="6">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000qTrdA/p1cbgvkst6top1uosmqotm6lhpe/IMG_9076.JPG</url>
+</image>
+<image id="7">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000qTrdA/lms59aaei/WhatsApp%20Image%202025-09-08%20at%2014.12.28%20%282%29.jpeg</url>
+</image>
+<image id="8">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000qTrdA/tccmc9r32/WhatsApp%20Image%202025-09-08%20at%2014.12.28%20%281%29.jpeg</url>
+</image>
+<image id="9">
+<url>https://caixa-et.github.io/Images/persona4.png</url>
+</image>
+<image id="10">
+<url>https://caixa-et.github.io/Images/persona3.png</url>
+</image>
+<image id="11">
+<url>https://caixa-et.github.io/Images/persona2.png</url>
+</image>
+<image id="12">
+<url>https://caixa-et.github.io/Images/persona1.png</url>
+</image>
+</images>
+</property>
+
+
+
+
+<property>
+<id>test_mallorca_2</id>
+<date>2026-01-26 00:00:00</date>
+<ref>R10975</ref>
+<price>2500</price>
+<currency>EUR</currency>
+<price_freq>month</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>0</new_build>
+<type>town house</type>
+<town>Sóller</town>
+<province>Mallorca</province>
+<country>Spain</country>
+<location>
+<latitude>39.7657600</latitude>
+<longitude>2.7140500</longitude>
+</location>
+<location_detail/>
+<beds>2</beds>
+<baths>2</baths>
+<pool>0</pool>
+<surface_area>
+<built>90</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<consumption>X</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>
+<de>https://firstmallorca.com/de/ffid?rental=R10975</de>
+<en>https://firstmallorca.com/en/ffid?rental=R10975</en>
+<es>https://firstmallorca.com/es/ffid?rental=R10975</es>
+<ru>https://firstmallorca.com/ru/ffid?rental=R10975</ru>
+</url>
+<desc>
+<de>Kleines</de>
+<en>Small, simple but charming Mallorcan townhouse.</en>
+<es>Pequeña y sencilla, pero encantadora casa adosada mallorquina en el corazón de Sóller, a pocos metros de la plaza principal. Está situada en una zona absolutamente céntrica, pero tranquila y sin tráfico. Está disponible para alquilar desde el 22/11/2025 hasta el 12/05/2026, sujeto a posibles cambios. La casa tiene dos dormitorios dobles, cada uno con baño en suite. Ambos dormitorios están equipados con aire acondicionado, que también sirve como calefacción en los meses de invierno. En la planta baja se encuentran la zona de entrada, el salón completamente amueblado y una sencilla cocina. Sobre la cocina hay un pequeño comedor en un altillo. Desde uno de los dormitorios se accede a una acogedora terraza en la azotea, que invita a relajarse. Debido a su tamaño y diseño, la casa solo es adecuada para dos o tres personas como máximo. Hay plazas de aparcamiento a pocos minutos a pie.</es>
+<ru/>
+</desc>
+<features>
+<feature/>
+<feature>Close to amenities</feature>
+<feature>Old town</feature>
+<feature>Walking distance to restaurants & bars</feature>
+<feature>Walking distance shopping area</feature>
+</features>
+<images>
+<image id="1">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000qUpU9/wncdzpl7p/1.jpg</url>
+</image>
+<image id="2">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000qUpU9/z6pq30aph/2.jpg</url>
+</image>
+<image id="3">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000qUpU9/l1r9xwqa1/3.jpg</url>
+</image>
+<image id="4">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000qUpU9/1wldxxk2r/4.jpg</url>
+</image>
+<image id="5">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000qUpU9/2w1xt3olr/5.jpg</url>
+</image>
+<image id="6">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000qUpU9/8pk7yyass/6.jpg</url>
+</image>
+<image id="7">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000qUpU9/kmtoydg1n/7.jpg</url>
+</image>
+<image id="8">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000qUpU9/o18dqmrld/8.jpg</url>
+</image>
+<image id="9">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000qUpU9/chzs1lgzl/9.jpg</url>
+</image>
+<image id="10">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000qUpU9/b92c7z645/10.jpg</url>
+</image>
+<image id="11">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000qUpU9/twsbqpnv0/11.jpg</url>
+</image>
+<image id="12">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000qUpU9/3wa66g9ap/12.jpg</url>
+</image>
+<image id="13">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000qUpU9/h0mqn5q3s/13.jpg</url>
+</image>
+<image id="14">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000qUpU9/4hy7mid4k/16.jpg</url>
+</image>
+<image id="15">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000qUpU9/taaimqhl3/17.jpg</url>
+</image>
+<image id="16">
+<url>https://caixa-et.github.io/Images/persona4.png</url>
+</image>
+<image id="17">
+<url>https://caixa-et.github.io/Images/persona3.png</url>
+</image>
+<image id="18">
+<url>https://caixa-et.github.io/Images/persona2.png</url>
+</image>
+<image id="19">
+<url>https://caixa-et.github.io/Images/persona1.png</url>
+</image>
+</images>
+</property>
+
+
+
+<property>
+<id>test_palma-de-mallorca</id>
+<date>2026-01-26 00:00:00</date>
+<ref>65123</ref>
+<price>1050000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>0</new_build>
+<type>penthouse</type>
+<town>Palma de Mallorca</town>
+<province>Mallorca</province>
+<country>Spain</country>
+<location>
+<latitude>39.55076</latitude>
+<longitude>2.62244</longitude>
+</location>
+<location_detail/>
+<beds>2</beds>
+<baths>2</baths>
+<pool>0</pool>
+<surface_area>
+<built>150</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<consumption>E</consumption>
+<emissions>E</emissions>
+</energy_rating>
+<url>
+<de>https://firstmallorca.com/de/ffid?sale=65123</de>
+<en>https://firstmallorca.com/en/ffid?sale=65123</en>
+<es>https://firstmallorca.com/es/ffid?sale=65123</es>
+<ru>https://firstmallorca.com/ru/ffid?sale=65123</ru>
+</url>
+<desc>
+<de>Entdecken Sie dieses wunderschöne Penthouse in einer der begehrtesten Lagen Palmas.</de>
+<en>Discover this beautiful penthouse located in one of Palma.</en>
+<es>Descubre este precioso ático situado en una de las zonas más codiciadas de Palma, con restaurantes, tiendas y todos los servicios a solo unos pasos. El luminoso salón, con impresionantes vistas, da acceso a una encantadora terraza de 11 m², ideal para disfrutar del clima mediterráneo. La cocina, completamente equipada, puede integrarse al salón o mantenerse independiente cerrando la puerta corredera que la separa, según tus preferencias. La vivienda cuenta con dos dormitorios: el principal con baño en suite, y una segunda habitación con un baño adicional. Un elegante recibidor y una práctica coladuría completan la distribución. Equipada con aire acondicionado con bomba de calor y radiadores de gas ciudad, esta propiedad garantiza el máximo confort durante todo el año. El precio incluye una plaza de aparcamiento con un trastero. Terraza comunitaria en la azotea con maravillosas vistas. Opción de adquirir una segunda plaza. No dudes en contactar con First Mallorca para programar una visita a esta atractiva propiedad. ¡Te encantará!</es>
+<ru>Откройте для себя этот.</ru>
+</desc>
+<features>
+<feature>Lift</feature>
+<feature>Marble floors</feature>
+<feature>Community terrace</feature>
+<feature>In the city</feature>
+<feature>Walking distance to restaurants & bars</feature>
+<feature>Walking distance shopping area</feature>
+<feature>Walking distance to harbour</feature>
+<feature>Close to harbour</feature>
+</features>
+<images>
+<image id="1">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000rChUd/5fyrbub97/65123%20foto1-min.jpg</url>
+</image>
+<image id="2">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000rChUd/y2y7cmvy2/65123%20foto2-min.jpg</url>
+</image>
+<image id="3">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000rChUd/ego0ev5ke/65123%20foto3-min.jpg</url>
+</image>
+<image id="4">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000rChUd/rhwv1v1e1/65123%20foto4-min.jpg</url>
+</image>
+<image id="5">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000rChUd/e54ryqqra/65123%20foto5-min.jpg</url>
+</image>
+<image id="6">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000rChUd/h8hxdev3g/65123%20foto6-min.jpg</url>
+</image>
+<image id="7">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000rChUd/thfwp9so2/65123%20foto7-min.jpg</url>
+</image>
+<image id="8">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000rChUd/7apij0me7/65123%20foto8-min.jpg</url>
+</image>
+<image id="9">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000rChUd/k9psc40q3/65123%20foto9-min.jpg</url>
+</image>
+<image id="10">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000rChUd/x2d01hy37/65123%20foto10-min.jpg</url>
+</image>
+<image id="11">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000rChUd/zsiik8pqu/65123%20foto11-min.jpg</url>
+</image>
+<image id="12">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000rChUd/5jfeck3ue/65123%20foto12-min.jpg</url>
+</image>
+<image id="13">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000rChUd/b2zbpxkv5/65123%20foto13-min.jpg</url>
+</image>
+<image id="14">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000rChUd/l6li3xrhv/65123%20foto14-min.jpg</url>
+</image>
+<image id="15">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000rChUd/o814d315l/65123%20foto15-min.jpg</url>
+</image>
+<image id="16">
+<url>https://caixa-et.github.io/Images/persona4.png</url>
+</image>
+<image id="17">
+<url>https://caixa-et.github.io/Images/persona3.png</url>
+</image>
+<image id="18">
+<url>https://caixa-et.github.io/Images/persona2.png</url>
+</image>
+<image id="19">
+<url>https://caixa-et.github.io/Images/persona1.png</url>
+</image>
+</images>
+</property>
+
+
+
+<property>
+<id>test_palma-de-mallorca_2</id>
+<date>2026-01-26 00:00:00</date>
+<ref>68211</ref>
+<price>1200000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>apartment</type>
+<town>Palma de Mallorca</town>
+<province>Mallorca</province>
+<country>Spain</country>
+<location>
+<latitude>39.5663100</latitude>
+<longitude>2.6287200</longitude>
+</location>
+<location_detail/>
+<beds>2</beds>
+<baths>2</baths>
+<pool>0</pool>
+<surface_area>
+<built>150</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<consumption>C</consumption>
+<emissions>C</emissions>
+</energy_rating>
+<url>
+<de>https://firstmallorca.com/de/ffid?sale=68211</de>
+<en>https://firstmallorca.com/en/ffid?sale=68211</en>
+<es>https://firstmallorca.com/es/ffid?sale=68211</es>
+<ru>https://firstmallorca.com/ru/ffid?sale=68211</ru>
+</url>
+<desc>
+<de>Dieses im Bau befindliche Apartment.</de>
+<en>This apartment under construction in a prime location on the Paseo Marítimo.</en>
+<es>Este apartamento en construcción con una privilegiada ubicación en el Paseo Marítimo goza de un aprovechamiento máximo de luz natural e de increíbles vistas al puerto de Palma. Además de 2 dormitorios, la propiedad dispone de una cocina y 2 baños, equipados de las mejores marcas. En el interior existe la posibilidad de escoger suelo de piedra natural o parquet natural. El apartamento es parte de un proyecto que combina la elegancia y exclusividad con una alta calidad de acabados e instalaciones en todos sus espacios, cuidando hasta el más mínimo detalle. El diseño utiliza piedra original de las Islas Baleares con lo que se busca conseguir el mejor comportamiento energético de la vivienda. Los interiores y exteriores de la propiedad han sido proyectados con materiales originales de la isla. El diseño es único, con estilo y de la mayor calidad, que respeta la tradición arquitectónica de la ciudad. La fecha de entrega está prevista para verano de 2020. En total hay 10 apartamentos disponibles, con 2 o 3 dormitorios y superficies construidas desde 113 a 160 m². No dude en contactar con nuestra oficina inmobiliaria de FIRST MALLORCA en Palma para obtener más información.</es>
+<ru>Эта строящаяся.</ru>
+</desc>
+<features>
+<feature>Central power supply</feature>
+<feature>Central water supply</feature>
+<feature>Lift</feature>
+<feature>Close to amenities</feature>
+<feature>Close to the sea</feature>
+<feature>Frontline to sea</feature>
+<feature>In the city</feature>
+<feature>Walking distance to restaurants & bars</feature>
+<feature>Walking distance shopping area</feature>
+<feature>Walking distance to harbour</feature>
+</features>
+<images>
+<image id="1">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/xj8vdcelr/68218;1-1%20web-4.jpg</url>
+</image>
+<image id="2">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/74djactds/68218;1-1%20web-9.jpg</url>
+</image>
+<image id="3">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/h1paculmi/68218;1-1%20web-12.jpg</url>
+</image>
+<image id="4">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/v7mah4kmf/68218;1-1%20web-11.jpg</url>
+</image>
+<image id="5">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/v7bsao2gs/68218;1-1%20web-5.jpg</url>
+</image>
+<image id="6">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/u57tgqut2/68218;1-1%20web-7.jpg</url>
+</image>
+<image id="7">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/tcvz0m1sz/68218;1-1%20web-10.jpg</url>
+</image>
+<image id="8">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/q1clvnfs3/68218;1-1%20web.jpg</url>
+</image>
+<image id="9">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/u8szwzola/68218;1-1%20web-6.jpg</url>
+</image>
+<image id="10">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/abnbayadm/68218;1-1%20web-8.jpg</url>
+</image>
+<image id="11">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/2gk7sm7rn/68218;1-1%20web-13.jpg</url>
+</image>
+<image id="12">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/mjdtkumu4/68218;1-1%20web-14.jpg</url>
+</image>
+<image id="13">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/5guanb6i5/68218;1-1%20web-15.jpg</url>
+</image>
+<image id="14">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/joa1x7aob/68218;1-1%20web-16.jpg</url>
+</image>
+<image id="15">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/f51wh2t9k/68218;1-1%20web-17.jpg</url>
+</image>
+<image id="16">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/mbkzpwf4e/68218;1-1%20web-18.jpg</url>
+</image>
+<image id="17">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/fbmynxsab/68218;1-1%20web-19.jpg</url>
+</image>
+<image id="18">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/4zz5cdczl/68218;1-1%20web-2.jpg</url>
+</image>
+<image id="19">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/a6wyw964c/68218;1-1%20web-3.jpg</url>
+</image>
+<image id="20">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/kxtituvax/fachada%20web.jpg</url>
+</image>
+<image id="21">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/hi142veh0/Vista-Port_bona.jpg</url>
+</image>
+<image id="22">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/4mre45xie/02_GR23_1%C2%BA2%C2%AA.pdf</url>
+</image>
+<image id="23">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/9j97hqr9g/0.jpg</url>
+</image>
+<image id="24">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/4eqs6qra2/1.jpg</url>
+</image>
+<image id="25">
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/nt8994ya3/2.jpg</url>
+</image>
+<image id="26">
+<url>https://caixa-et.github.io/Images/persona4.png</url>
+</image>
+<image id="27">
+<url>https://caixa-et.github.io/Images/persona3.png</url>
+</image>
+<image id="28">
+<url>https://caixa-et.github.io/Images/persona2.png</url>
+</image>
+<image id="29">
+<url>https://caixa-et.github.io/Images/persona1.png</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>test_orihuela-costa</id>
+<date>2026-02-03 03:01:41</date>
+<ref>08-1942</ref>
+<price>910000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<type> Detached</type>
+<town>Orihuela Costa</town>
+<province>ALICANTE</province>
+<location_detail>Cabo Roig</location_detail>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<location>
+<latitude>37.9165155</latitude>
+<longitude>-0.7262746000000107</longitude>
+</location>
+<surface_area>
+<built>250</built>
+<plot>550</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/7123/detached/resale/spain/cabo-roig/orihuela-costa/</en>
+</url>
+<desc>
+<en>
+<![CDATA[ Cabo Roig, Detached villa to new brand with 520 mts of plot and a housing in 2 heights plus solarium of 220 mts, 4 bedrooms of which 1 is on the ground floor and 3 have their bathroom en suite and with terrace, 4 bathrooms all With underfloor heating and 1 toilet, large living room with fireplace, equipped semi-independent kitchen, private pool (9x4), air conditioning, 300 meters from the beach. ]]>
+</en>
+<es>
+<![CDATA[ Cabo Roig, Chalet independiente a nuevo estrenar con 520 mts de parcela y una vivienda en 2 alturas más solarium de 220 mts, 4 dormitorios de los cuales 1 están en planta baja y 3 tienen su cuarto de baño incluido y con terraza, 4 baños todos con suelo radiante y 1 aseo, amplio salón con chimenea, cocina semi-independiente equipada, piscina privada (9x4), aire acondicionado, a 300 mts de la playa. ]]>
+</es>
+</desc>
+<features>
+<feature>Solarium</feature>
+<feature>Armored door</feature>
+<feature>Garden</feature>
+<feature>Heating</feature>
+<feature>Terrace</feature>
+<feature>Storage room</feature>
+<feature>Air Conditioning</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+<feature>Electrical appliances</feature>
+<feature>Fireplace</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/1582/22027310/1-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/1582/22027310/1-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/1582/22027310/1-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/1582/22027310/1-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/1582/22027310/1-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/1582/22027310/1-6.jpg</url>
+</image>
+<image id="7">
+<url>https://caixa-et.github.io/Images/persona4.png</url>
+</image>
+<image id="8">
+<url>https://caixa-et.github.io/Images/persona3.png</url>
+</image>
+<image id="9">
+<url>https://caixa-et.github.io/Images/persona2.png</url>
+</image>
+<image id="10">
+<url>https://caixa-et.github.io/Images/persona1.png</url>
+</image>
+</images>
+</property>
+
+
+
+<property>
+<id>test_orihuela-costa</id>
+<date>2026-02-03 03:01:41</date>
+<ref>08-1942</ref>
+<price>910000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<type> Detached</type>
+<town>Orihuela Costa</town>
+<province>ALICANTE</province>
+<location_detail>Cabo Roig</location_detail>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<location>
+<latitude>37.9165155</latitude>
+<longitude>-0.7262746000000107</longitude>
+</location>
+<surface_area>
+<built>250</built>
+<plot>550</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/7123/detached/resale/spain/cabo-roig/orihuela-costa/</en>
+</url>
+<desc>
+<en>
+<![CDATA[ Cabo Roig, Detached villa to new brand with 520 mts of plot and a housing in 2 heights plus solarium of 220 mts, 4 bedrooms of which 1 is on the ground floor and 3 have their bathroom en suite and with terrace, 4 bathrooms all With underfloor heating and 1 toilet, large living room with fireplace, equipped semi-independent kitchen, private pool (9x4), air conditioning, 300 meters from the beach. ]]>
+</en>
+<es>
+<![CDATA[ Cabo Roig, Chalet independiente a nuevo estrenar con 520 mts de parcela y una vivienda en 2 alturas más solarium de 220 mts, 4 dormitorios de los cuales 1 están en planta baja y 3 tienen su cuarto de baño incluido y con terraza, 4 baños todos con suelo radiante y 1 aseo, amplio salón con chimenea, cocina semi-independiente equipada, piscina privada (9x4), aire acondicionado, a 300 mts de la playa. ]]>
+</es>
+</desc>
+<features>
+<feature>Solarium</feature>
+<feature>Armored door</feature>
+<feature>Garden</feature>
+<feature>Heating</feature>
+<feature>Terrace</feature>
+<feature>Storage room</feature>
+<feature>Air Conditioning</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+<feature>Electrical appliances</feature>
+<feature>Fireplace</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/1582/22027310/1-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/1582/22027310/1-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/1582/22027310/1-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/1582/22027310/1-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/1582/22027310/1-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/1582/22027310/1-6.jpg</url>
+</image>
+<image id="7">
+<url>https://caixa-et.github.io/Images/persona4.png</url>
+</image>
+<image id="8">
+<url>https://caixa-et.github.io/Images/persona3.png</url>
+</image>
+<image id="9">
+<url>https://caixa-et.github.io/Images/persona2.png</url>
+</image>
+<image id="10">
+<url>https://caixa-et.github.io/Images/persona1.png</url>
+</image>
+</images>
+</property>
+
+
+<property>
+<id>test_ciudad_quesada</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type> Detached</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<en>
+<![CDATA[ BEAUTIFUL VILLA WITH VIEWS TO THE GOLF COURSE "LA MARQUESA"! This beautiful villa, located 50 meters from the La Marquesa golf course, apart from having clear and beautiful views and offering the tranquility of being in a quiet environment, is a few meters from the commercial center with shops, supermarket, bars and international restaurants . Just 5 minutes from the town of Rojales with all services and 15 minutes from the spectacular blue flag beaches of Guardamar del Segura. Alicante-Elche airport is 35 minutes away. The 3x6 m pool and terraces in the garden and pool area will allow you to enjoy the sun and the Costa Blanca climate throughout the year. In addition, the villa has a solarium and a large parking area. Live in a modern villa, enjoying golf, beach, climate and Mediterranean lifestyle! ]]>
+</en>
+<es>
+<![CDATA[ PRECIOSA VILLA CON VISTAS AL CAMPO DE GOLF “LA MARQUESA”! Esa preciosa villa, situada a 50 metros del campo de Golf La Marquesa, aparte de tener unas vistas despejadas y bonitas y ofrecer la tranquilidad de estar en un entorno tranquilo, está a escasos metros del centro comercial con tiendas, supermercado, bares y restaurantes internacionales. A tan solo 5 minutos del pueblo de Rojales con todos los servicios y a 15 minutos de las espectaculares playas, con bandera azul, de Guardamar del Segura. El aeropuerto Alicante-Elche está a 35 minutos.La piscina de 3x6 m y terrazas en la parte de jardín y piscina te permitirán disfrutar del sol y del clima de Costa Blanca durante todo el año. Además, la villa dispone de solárium y una amplia zona de parking. Vive en una villa moderna, disfrutando del golf, playa, clima y estilo de vida mediterráneo! ]]>
+</es>
+<nl>
+<![CDATA[ MOOIE VILLA MET UITZICHT OP DE GOLFCURSUS "LA MARQUESA"! Deze prachtige villa, gelegen op 50 meter van de golfbaan van La Marquesa, heeft niet alleen een helder en mooi uitzicht en biedt de rust van een rustige omgeving, op een paar meter van het commerciële centrum met winkels, supermarkt, bars en internationale restaurants. Slechts 5 minuten van de stad Rojales met alle voorzieningen en 15 minuten van de spectaculaire stranden met blauwe vlag van Guardamar del Segura. De luchthaven Alicante-Elche ligt op 35 minuten afstand.Het zwembad van 3x6 m en de terrassen in de tuin en het zwembad zorgen ervoor dat u het hele jaar door kunt genieten van de zon en het klimaat van de Costa Blanca. Daarnaast heeft de villa een solarium en een grote parkeerplaats. Wonen in een moderne villa, genieten van golf, strand, klimaat en mediterrane levensstijl! ]]>
+</nl>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/7515/13525871/4-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/7515/13525871/4-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/7515/13525871/4-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/7515/13525871/4-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/7515/13525871/4-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/7515/13525871/4-6.jpg</url>
+</image>
+<image id="7">
+<url>https://caixa-et.github.io/Images/persona4.png</url>
+</image>
+<image id="8">
+<url>https://caixa-et.github.io/Images/persona3.png</url>
+</image>
+<image id="9">
+<url>https://caixa-et.github.io/Images/persona2.png</url>
+</image>
+<image id="10">
+<url>https://caixa-et.github.io/Images/persona1.png</url>
+</image>
+</images>
+</property>
+
+
+
+	
+	
 
 
 	

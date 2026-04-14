@@ -6276,7 +6276,7 @@
 <url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/hi142veh0/Vista-Port_bona.jpg</url>
 </image>
 <image id="22">
-<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/4mre45xie/02_GR23_1%C2%BA2%C2%AA.pdf</url>
+<url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/9j97hqr9g/0.jpg</url>
 </image>
 <image id="23">
 <url>https://s3.amazonaws.com/propertybase-clients/00Db0000000dJIqEAM/a0C0X00000uRHeV/9j97hqr9g/0.jpg</url>
@@ -6309,7 +6309,7 @@
 <price>910000</price>
 <currency>EUR</currency>
 <price_freq>sale</price_freq>
-<type> Detached</type>
+<type>Detached</type>
 <town>Orihuela Costa</town>
 <province>ALICANTE</province>
 <location_detail>Cabo Roig</location_detail>
@@ -6392,7 +6392,7 @@
 <currency>EUR</currency>
 <price_freq>sale</price_freq>
 <new_build>1</new_build>
-<type> Detached</type>
+<type>Detached</type>
 <town>Ciudad Quesada</town>
 <province>ALICANTE</province>
 <location_detail>Costa blanca sur</location_detail>

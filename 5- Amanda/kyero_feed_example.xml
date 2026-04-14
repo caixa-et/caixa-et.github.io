@@ -5926,8 +5926,7 @@
 </image>
 </images>
 </property>
-
-
+	
 <property>
 <id>test_mallorca_2</id>
 <date>2026-01-26 00:00:00</date>
@@ -5972,7 +5971,7 @@
 <features>
 <feature>Close to amenities</feature>
 <feature>Old town</feature>
-<feature>Walking distance to restaurants & bars</feature>
+<feature>Walking distance to restaurants and bars</feature>
 <feature>Walking distance shopping area</feature>
 </features>
 <images>
@@ -6085,7 +6084,7 @@
 <feature>Marble floors</feature>
 <feature>Community terrace</feature>
 <feature>In the city</feature>
-<feature>Walking distance to restaurants & bars</feature>
+<feature>Walking distance to restaurant and bars</feature>
 <feature>Walking distance shopping area</feature>
 <feature>Walking distance to harbour</feature>
 <feature>Close to harbour</feature>
@@ -6203,7 +6202,7 @@
 <feature>Close to the sea</feature>
 <feature>Frontline to sea</feature>
 <feature>In the city</feature>
-<feature>Walking distance to restaurants & bars</feature>
+<feature>Walking distance to restaurants and bars</feature>
 <feature>Walking distance shopping area</feature>
 <feature>Walking distance to harbour</feature>
 </features>

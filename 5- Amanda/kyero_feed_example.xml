@@ -4190,11 +4190,11 @@
 <ref>VS1003DN</ref>
 <price>1290000</price>
 <currency>EUR</currency>
-<price_freq>sale</price_freq>
+<price_freq>rent</price_freq>
 <part_ownership>0</part_ownership>
 <leasehold>0</leasehold>
 <new_build>1</new_build>
-<type>villa</type>
+<type>piso</type>
 <location_id>1521</location_id>
 <town>La Nucia</town>
 <postcode>03530</postcode>
@@ -4221,7 +4221,7 @@
 <da>ejemplo</da>
 <de>ejemplo</de>
 <en>ejemplo</en>
-<es>1-Piso exclusivo para estudiantes.</es>
+<es>Piso exclusivo para estudiantes.</es>
 <fi>ejemplo</fi>
 <fr>ejemplo</fr>
 <it>ejemplo</it>

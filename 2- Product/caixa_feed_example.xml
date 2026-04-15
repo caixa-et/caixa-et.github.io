@@ -14,13 +14,14 @@
         <common_swimming_pool>0</common_swimming_pool>
         <price_field_amount>890</price_field_amount>
         <constructor_year>1905</constructor_year>
-        <cadastral_reference></cadastral_reference>
+        <cadastral_reference />
         <coordinates>40.40862983,-3.70888144</coordinates>
         <country>ES</country>
         <state>Madrid</state>
         <city>Madrid</city>
         <municipality>Chamartin</municipality>
         <post_code>28006</post_code>
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -45,14 +46,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -93,8 +92,9 @@
         <country>ES</country>
         <state>granada</state>
         <city>almunecar</city>
-        <municipality></municipality>
+        <municipality />
         <post_code>18690</post_code>
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -119,14 +119,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -162,13 +160,14 @@
         <common_swimming_pool>0</common_swimming_pool>
         <price_field_amount>890</price_field_amount>
         <constructor_year>1905</constructor_year>
-        <cadastral_reference></cadastral_reference>
+        <cadastral_reference />
         <coordinates>41.383678,2.129357</coordinates>
         <country>ES</country>
         <state>Barcelona</state>
         <city>Barcelona</city>
         <municipality>Les Corts</municipality>
         <post_code>08028</post_code>
+       <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -193,14 +192,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -236,13 +233,14 @@
         <common_swimming_pool>0</common_swimming_pool>
         <price_field_amount>890</price_field_amount>
         <constructor_year>1905</constructor_year>
-        <cadastral_reference></cadastral_reference>
+        <cadastral_reference />
         <coordinates>1.051643,41.138693</coordinates>
         <country>ES</country>
         <state>Tarragona</state>
         <city>Riudoms</city>
         <municipality></municipality>
         <post_code>43330</post_code>
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -267,14 +265,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -310,13 +306,14 @@
         <common_swimming_pool>0</common_swimming_pool>
         <price_field_amount>890</price_field_amount>
         <constructor_year>1905</constructor_year>
-        <cadastral_reference></cadastral_reference>
+        <cadastral_reference />
         <coordinates>41.13562386930004,2.051335554659347332543</coordinates>
         <country>ES</country>
         <state>Tarragona</state>
         <city>Riudoms</city>
-        <municipality></municipality>
+        <municipality />
         <post_code>43330</post_code>
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -341,14 +338,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -389,8 +384,9 @@
         <country>ES</country>
         <state>Barcelona</state>
         <city>Berga</city>
-        <municipality></municipality>
+        <municipality />
         <post_code>08600</post_code>
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -415,14 +411,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -463,8 +457,9 @@
         <country>ES</country>
         <state>Barcelona</state>
         <city>Berga</city>
-        <municipality></municipality>
+        <municipality />
         <post_code>36216</post_code>
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -489,14 +484,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -537,8 +530,9 @@
         <country>ES</country>
         <state>Lleida</state>
         <city>Cardedeu</city>
-        <municipality></municipality>
+        <municipality />
         <post_code>43580</post_code>
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -563,14 +557,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -611,8 +603,9 @@
         <country>ES</country>
         <state>Barcelona</state>
         <city>Calatayud</city>
-        <municipality></municipality>
+        <municipality />
         <post_code>08440</post_code>
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -637,14 +630,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -681,12 +672,13 @@
         <price_field_amount>890</price_field_amount>
         <constructor_year>1905</constructor_year>
         <cadastral_reference>2591204VK4729A0001YT</cadastral_reference>
-        <coordinates></coordinates>
+        <coordinates />
         <country>ES</country>
         <state>Madrid</state>
         <city>Madrid</city>
         <municipality>Atocha</municipality>
         <post_code>28036</post_code>
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -711,14 +703,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -754,13 +744,14 @@
         <common_swimming_pool>0</common_swimming_pool>
         <price_field_amount>890</price_field_amount>
         <constructor_year>1905</constructor_year>
-        <cadastral_reference></cadastral_reference>
+        <cadastral_reference />
         <coordinates>47.860908,5.506558</coordinates>
-        <country></country>
-        <state></state>
-        <city></city>
-        <municipality></municipality>
-        <post_code></post_code>
+        <country />
+        <state />
+        <city />
+        <municipality />
+        <post_code />
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -785,14 +776,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -835,6 +824,7 @@
         <city>Madrid</city>
         <municipality>Chamartín</municipality>
         <post_code>28036</post_code>
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -859,14 +849,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -902,13 +890,14 @@
         <common_swimming_pool>0</common_swimming_pool>
         <price_field_amount>890</price_field_amount>
         <constructor_year>1905</constructor_year>
-        <cadastral_reference></cadastral_reference>
+        <cadastral_reference />
         <coordinates>51.530844,0.051802</coordinates>
         <country>ES</country>
         <state>Tarragona</state>
         <city>Reus</city>
         <municipality>Districte 1</municipality>
         <post_code>0614</post_code>
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -933,14 +922,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -981,8 +968,9 @@
         <country>ES</country>
         <state>Barcelona</state>
         <city>Sitges</city>
-        <municipality></municipality>
+        <municipality />
         <post_code>08870</post_code>
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -1007,14 +995,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -1051,12 +1037,13 @@
         <price_field_amount>890</price_field_amount>
         <constructor_year>1905</constructor_year>
         <cadastral_reference>9860102CF9696S0004DF</cadastral_reference>
-        <coordinates></coordinates>
-        <country></country>
+        <coordinates />
+        <country />
         <state>Ariège</state>
         <city>Ax-les-Thermes</city>
-        <municipality></municipality>
+        <municipality />
         <post_code>09110</post_code>
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -1081,14 +1068,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -1124,13 +1109,14 @@
         <common_swimming_pool>0</common_swimming_pool>
         <price_field_amount>890</price_field_amount>
         <constructor_year>1905</constructor_year>
-        <cadastral_reference></cadastral_reference>
+        <cadastral_reference />
         <coordinates>41.624278,0.639221</coordinates>
-        <country></country>
-        <state></state>
-        <city></city>
-        <municipality></municipality>
-        <post_code></post_code>
+        <country />
+        <state />
+        <city />
+        <municipality />
+        <post_code />
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -1155,14 +1141,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -1198,13 +1182,15 @@
         <common_swimming_pool>0</common_swimming_pool>
         <price_field_amount>890</price_field_amount>
         <constructor_year>1905</constructor_year>
-        <cadastral_reference></cadastral_reference>
+        <cadastral_reference />
         <coordinates>41.380083,2.145476</coordinates>
         <country>ES</country>
         <state>Barcelona</state>
         <city>Riudoms</city>
-        <municipality></municipality>
-        <post_code></post_code>
+        <municipality />
+        <post_code />
+        <street />
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -1229,14 +1215,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -1272,13 +1256,15 @@
         <common_swimming_pool>0</common_swimming_pool>
         <price_field_amount>890</price_field_amount>
         <constructor_year>1905</constructor_year>
-        <cadastral_reference></cadastral_reference>
+        <cadastral_reference />
         <coordinates>41.624278,0.639221</coordinates>
         <country>ES</country>
-        <state></state>
-        <city></city>
-        <municipality></municipality>
+        <state />
+        <city />
+        <municipality />
         <post_code>25005</post_code>
+        <street />
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -1303,14 +1289,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -1346,13 +1330,14 @@
         <common_swimming_pool>0</common_swimming_pool>
         <price_field_amount>890</price_field_amount>
         <constructor_year>1905</constructor_year>
-        <cadastral_reference></cadastral_reference>
+        <cadastral_reference />
         <coordinates>41.734958,1.841672</coordinates>
         <country>ES</country>
         <state>Barcelona</state>
-        <city></city>
-        <municipality></municipality>
+        <city />
+        <municipality />
         <post_code>08015</post_code>
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -1377,14 +1362,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -1420,13 +1403,14 @@
         <common_swimming_pool>0</common_swimming_pool>
         <price_field_amount>890</price_field_amount>
         <constructor_year>1905</constructor_year>
-        <cadastral_reference></cadastral_reference>
+        <cadastral_reference />
         <coordinates>41.380083,2.145476</coordinates>
         <country>ES</country>
-        <state></state>
-        <city></city>
-        <municipality></municipality>
+        <state />
+        <city />
+        <municipality />
         <post_code>08870</post_code>
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -1451,14 +1435,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -1494,13 +1476,14 @@
         <common_swimming_pool>0</common_swimming_pool>
         <price_field_amount>890</price_field_amount>
         <constructor_year>1905</constructor_year>
-        <cadastral_reference></cadastral_reference>
-        <coordinates></coordinates>
-        <country></country>
+        <cadastral_reference />
+        <coordinates />
+        <country />
         <state>Barcelna</state>
         <city>Mresa</city>
-        <municipality></municipality>
-        <post_code></post_code>
+        <municipality />
+        <post_code />
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -1525,14 +1508,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -1569,12 +1550,13 @@
         <price_field_amount>890</price_field_amount>
         <constructor_year>1905</constructor_year>
         <cadastral_reference>8409215DF2880G0001RE</cadastral_reference>
-        <coordinates></coordinates>
-        <country></country>
+        <coordinates />
+        <country />
         <state>Barcelona</state>
         <city>Barcelona</city>
         <municipality>Sants-Montjuïc</municipality>
         <post_code>08014</post_code>
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -1599,14 +1581,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -1642,13 +1622,14 @@
         <common_swimming_pool>0</common_swimming_pool>
         <price_field_amount>890</price_field_amount>
         <constructor_year>1905</constructor_year>
-        <cadastral_reference></cadastral_reference>
-        <coordinates></coordinates>
-        <country></country>
-        <state></state>
-        <city></city>
-        <municipality></municipality>
-        <post_code></post_code>
+        <cadastral_reference />
+        <coordinates />
+        <country />
+        <state />
+        <city />
+        <municipality />
+        <post_code />
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -1673,14 +1654,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -1716,13 +1695,14 @@
         <common_swimming_pool>0</common_swimming_pool>
         <price_field_amount>890</price_field_amount>
         <constructor_year>1905</constructor_year>
-        <cadastral_reference></cadastral_reference>
-        <coordinates></coordinates>
-        <country></country>
-        <state></state>
+        <cadastral_reference />
+        <coordinates />
+        <country />
+        <state />
         <city>Montbrió del Camp</city>
-        <municipality></municipality>
-        <post_code></post_code>
+        <municipality />
+        <post_code />
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -1747,14 +1727,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -1791,12 +1769,13 @@
         <price_field_amount>890</price_field_amount>
         <constructor_year>1905</constructor_year>
         <cadastral_reference>8409215DF2880G0002TR</cadastral_reference>
-        <coordinates></coordinates>
-        <country></country>
-        <state></state>
-        <city></city>
-        <municipality></municipality>
-        <post_code></post_code>
+        <coordinates />
+        <country />
+        <state />
+        <city />
+        <municipality />
+        <post_code />
+         <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -1821,14 +1800,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -1864,13 +1841,14 @@
         <common_swimming_pool>0</common_swimming_pool>
         <price_field_amount>890</price_field_amount>
         <constructor_year>1905</constructor_year>
-        <cadastral_reference></cadastral_reference>
-        <coordinates></coordinates>
-        <country></country>
-        <state></state>
-        <city></city>
-        <municipality></municipality>
+        <cadastral_reference />
+        <coordinates />
+        <country />
+        <state />
+        <city />
+        <municipality />
         <post_code>44510</post_code>
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -1895,14 +1873,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -1938,13 +1914,14 @@
         <common_swimming_pool>0</common_swimming_pool>
         <price_field_amount>890</price_field_amount>
         <constructor_year>1905</constructor_year>
-        <cadastral_reference></cadastral_reference>
-        <coordinates></coordinates>
-        <country></country>
+        <cadastral_reference />
+        <coordinates />
+        <country />
         <state>Asturias</state>
-        <city></city>
-        <municipality></municipality>
-        <post_code></post_code>
+        <city />
+        <municipality />
+        <post_code />
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -1969,14 +1946,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -2012,13 +1987,14 @@
         <common_swimming_pool>0</common_swimming_pool>
         <price_field_amount>890</price_field_amount>
         <constructor_year>1905</constructor_year>
-        <cadastral_reference></cadastral_reference>
-        <coordinates></coordinates>
-        <country></country>
-        <state></state>
-        <city></city>
+        <cadastral_reference />
+        <coordinates />
+        <country />
+        <state />
+        <city />
         <municipality>Eixample</municipality>
-        <post_code></post_code>
+        <post_code />
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -2043,14 +2019,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -2086,13 +2060,14 @@
         <common_swimming_pool>0</common_swimming_pool>
         <price_field_amount>890</price_field_amount>
         <constructor_year>1905</constructor_year>
-        <cadastral_reference></cadastral_reference>
-        <coordinates></coordinates>
-        <country></country>
-        <state></state>
-        <city></city>
+        <cadastral_reference />
+        <coordinates />
+         <country/>
+        <state />
+        <city />
         <municipality>Eixample</municipality>
-        <post_code></post_code>
+        <post_code />
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -2105,11 +2080,11 @@
         <custom_es_trastero_superficie_util>0</custom_es_trastero_superficie_util>
         <description>Se alquila  piso en el centro de Badalona. La propiedad es fantástica y con jardín.</description>
         <elevator>0</elevator>
-        <energy_efficiency_grade>B</energy_efficiency_grade>
-        <energy_consumption_rating>40</energy_consumption_rating>
-        <energy_consumption_value>B</energy_consumption_value>
-        <energy_emission_rating>6</energy_emission_rating>
-        <energy_emission_value>B</energy_emission_value>
+        <energy_efficiency_grade>d</energy_efficiency_grade>
+        <energy_consumption_rating />
+        <energy_consumption_value>0</energy_consumption_value>
+        <energy_emission_rating />
+        <energy_emission_value />
         <floor_number>1</floor_number>
         <floors_building>0</floors_building>
         <internal_area_amount>33</internal_area_amount>
@@ -2117,14 +2092,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>
@@ -2160,13 +2133,14 @@
         <common_swimming_pool>0</common_swimming_pool>
         <price_field_amount>890</price_field_amount>
         <constructor_year>1905</constructor_year>
-        <cadastral_reference></cadastral_reference>
-        <coordinates></coordinates>
-        <country></country>
-        <state></state>
-        <city></city>
+        <cadastral_reference />
+        <coordinates />
+        <country />
+        <state />
+        <city />
         <municipality>Eixample</municipality>
-        <post_code></post_code>
+        <post_code />
+        <street />
         <custom_es_garden>0</custom_es_garden>
         <custom_es_orientation>Sur</custom_es_orientation>
         <custom_es_parking>0</custom_es_parking>
@@ -2179,11 +2153,11 @@
         <custom_es_trastero_superficie_util>0</custom_es_trastero_superficie_util>
         <description>Se alquila  piso en el centro de Badalona. La propiedad es fantástica y con jardín.</description>
         <elevator>0</elevator>
-        <energy_efficiency_grade>B</energy_efficiency_grade>
-        <energy_consumption_rating>40</energy_consumption_rating>
-        <energy_consumption_value>B</energy_consumption_value>
-        <energy_emission_rating>6</energy_emission_rating>
-        <energy_emission_value>B</energy_emission_value>
+        <energy_efficiency_grade>d</energy_efficiency_grade>
+        <energy_consumption_rating />
+        <energy_consumption_value>0</energy_consumption_value>
+        <energy_emission_rating />
+        <energy_emission_value />
         <floor_number>1</floor_number>
         <floors_building>0</floors_building>
         <internal_area_amount>33</internal_area_amount>
@@ -2191,14 +2165,12 @@
         <new_build>0</new_build>
         <pets_allowed>0</pets_allowed>
         <plot_area_amount>0</plot_area_amount>
-        <post_code>28005</post_code>
         <private_swimming_pool>0</private_swimming_pool>
         <sea_view>0</sea_view>
         <secure_door>0</secure_door>
         <short_description>Maravilloso piso en Centro</short_description>
         <status>available</status>
         <store_room>0</store_room>
-        <street>Calle del Carnero</street>
         <total_area_amount>33</total_area_amount>
         <verandas>0</verandas>
         <wc_bathrooms>1</wc_bathrooms>

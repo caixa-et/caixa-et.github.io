@@ -6684,7 +6684,7 @@
 	</property>
 
 	<property>
-		<id>Marta_type_housy</id>
+		<id>Marta_type_housy_KYERO</id>
 		<date>2026-03-11 09:33:35</date>
 		<ref>RI-00169/6319</ref>
 		<price>3200</price>
@@ -6813,7 +6813,7 @@
 	</property>
 
 	<property>
-		<id>Marta_type_parking</id>
+		<id>Marta_type_parking_KYERO</id>
 		<date>2026-03-11 09:33:35</date>
 		<ref>RI-00169/6319</ref>
 		<price>3200</price>
@@ -6942,7 +6942,7 @@
 	</property>
 
 	<property>
-		<id>Marta_type_garaje</id>
+		<id>Marta_type_garaje_KYERO</id>
 		<date>2026-03-11 09:33:35</date>
 		<ref>RI-00169/6319</ref>
 		<price>3200</price>
@@ -7071,7 +7071,7 @@
 	</property>
 
 	<property>
-		<id>Marta_type_local</id>
+		<id>Marta_type_local_KYERO</id>
 		<date>2026-03-11 09:33:35</date>
 		<ref>RI-00169/6319</ref>
 		<price>3200</price>
@@ -7200,7 +7200,7 @@
 	</property>
 
 	<property>
-		<id>Marta_type_null</id>
+		<id>Marta_type_null_KYERO</id>
 		<date>2026-03-11 09:33:35</date>
 		<ref>RI-00169/6319</ref>
 		<price>3200</price>
@@ -7329,7 +7329,7 @@
 	</property>
 
 	<property>
-		<id>Marta_type_null2</id>
+		<id>Marta_type_null2_KYERO</id>
 		<date>2026-03-11 09:33:35</date>
 		<ref>RI-00169/6319</ref>
 		<price>3200</price>
@@ -7458,7 +7458,7 @@
 	</property>
 
 	<property>
-		<id>Marta_type_edificio</id>
+		<id>Marta_type_edificio_KYERO</id>
 		<date>2026-03-11 09:33:35</date>
 		<ref>RI-00169/6319</ref>
 		<price>3200</price>
@@ -7587,7 +7587,7 @@
 	</property>
 
 	<property>
-		<id>Marta_type_aparcamiento</id>
+		<id>Marta_type_aparcamiento_KYERO</id>
 		<date>2026-03-11 09:33:35</date>
 		<ref>RI-00169/6319</ref>
 		<price>3200</price>
@@ -7716,7 +7716,7 @@
 	</property>
 
 	<property>
-		<id>Marta_type_garage</id>
+		<id>Marta_type_garage_KYERO</id>
 		<date>2026-03-11 09:33:35</date>
 		<ref>RI-00169/6319</ref>
 		<price>3200</price>
@@ -7845,7 +7845,7 @@
 	</property>
 
 	<property>
-		<id>Marta_type_terreno</id>
+		<id>Marta_type_terreno_KYERO</id>
 		<date>2026-03-11 09:33:35</date>
 		<ref>RI-00169/6319</ref>
 		<price>3200</price>
@@ -7974,7 +7974,7 @@
 	</property>
 
 	<property>
-		<id>Marta_type_oficina</id>
+		<id>Marta_type_oficina_KYERO</id>
 		<date>2026-03-11 09:33:35</date>
 		<ref>RI-00169/6319</ref>
 		<price>3200</price>
@@ -8103,7 +8103,7 @@
 	</property>
 
 	<property>
-		<id>Marta_type_hotel</id>
+		<id>Marta_type_hotel_KYERO</id>
 		<date>2026-03-11 09:33:35</date>
 		<ref>RI-00169/6319</ref>
 		<price>3200</price>
@@ -8232,7 +8232,7 @@
 	</property>
 
 	<property>
-		<id>Marta_type_estudi</id>
+		<id>Marta_type_estudi_KYERO</id>
 		<date>2026-03-11 09:33:35</date>
 		<ref>RI-00169/6319</ref>
 		<price>3200</price>

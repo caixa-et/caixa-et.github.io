@@ -1242,26 +1242,26 @@
 	</propiedad>
 
 <propiedad>	
-	<id>test-aprobado_2</id>
+	<id>test-aprobado_3</id>
 		<numagencia>2</numagencia>
 		<calidades/>
-		<provincia>TOLEDO</provincia>
+		<provincia>Barcelona</provincia>
 		<key_loca>693799</key_loca>
 		<key_tipo>499</key_tipo>
 		<tipovpo>6</tipovpo>
 		<vpo_name>Libre</vpo_name>
 		<destacado>0</destacado>
 		<antiguedad>1992</antiguedad>
-		<tipo_ofer>Chalet</tipo_ofer>
+		<tipo_ofer>Casa</tipo_ofer>
 		<fecha>2021-07-07 10:56:59</fecha>
 		<fechaact>2025-03-21 19:13:05</fechaact>
 		<keypromo>0</keypromo>
 		<opcioncompra>0</opcioncompra>
 		<aconsultar>0</aconsultar>
-		<latitud>39.9821549424602</latitud>
-		<altitud>-4.28891372541304</altitud>
+		<latitud></latitud>
+		<altitud>-</altitud>
 		<aseos>0</aseos>
-		<banyos>3</banyos>
+		<banyos>4</banyos>
 		<carpint/>
 		<carpext/>
 		<comunidadincluida>0</comunidadincluida>
@@ -1293,9 +1293,9 @@
 		<outlet>231750</outlet>
 		<ref>ILL02TEST</ref>
 		<accion>Vender</accion>
-		<ciudad>Torrijos</ciudad>
+		<ciudad>Barcelona</ciudad>
 		<cp>45500</cp>
-		<zona>TORRIJOS</zona>
+		<zona>Eixample</zona>
 		<adaptadominus>0</adaptadominus>
 		<airecentral>0</airecentral>
 		<aire_con>1</aire_con>
@@ -1389,7 +1389,7 @@
 		<metro>0</metro>
 		<golf>0</golf>
 		<descrip1>
-			<![CDATA[ El hogar de tus sueños te espera en el centro de Torrijos! Este chalet adosado de tres plantas cuenta con una distribución perfecta para tu comodidad. En la planta baja, encontrarás un garaje de más de 100 metros cuadrados con servicios incluidos. En la primera planta, un amplio salón con dos balcones, un dormitorio con ventana a la calle y cuatro dormitorios con salida a dos patios interiores, dos baños y una gran cocina amueblada con despensa y salida a una terraza interior con dependencia cubierta. En la segunda planta, un baño completo y tres dormitorios más.~ ~La vivienda cuenta con excelentes calidades en toda la casa, desde las escaleras de madera hasta los baños solados y alicatados con gres de primera calidad y sanitarios de la marca Roca. También dispone de bombas de calor y frío para una climatización perfecta en cualquier época del año.~ ~Con 375 m² construidos esta vivienda es perfecta para ti y tu familia. Además, tiene plaza de garaje y se encuentra en buen estado, con una antigüedad de 1992. ~ ~¡No dejes pasar esta oportunidad única! Llama ahora para concertar una visita y descubre todo lo que esta vivienda puede ofrecerte. ~ ~ LLAMANOS Y COCIERTA TU VISITA,¡~ ]]>
+			<![CDATA[ El hogar de tus sueños te espera en Barcelona!]]>
 		</descrip1>
 		<titulo1>
 			<![CDATA[ Titulo de la propiedad ]]>
@@ -1586,7 +1586,6 @@
 		<foto4>https://caixa-et.github.io/Images/habitacion-2.jpg</foto4>
 		<foto5>https://caixa-et.github.io/Images/habitacion-3.jpg</foto5>
 		<foto6>https://caixa-et.github.io/Images/comedor.jpg</foto6>
-		<foto7>https://caixa-et.github.io/Images/logo.png</foto7>
 		<numpanos>0</numpanos>
 </propiedad>	
 

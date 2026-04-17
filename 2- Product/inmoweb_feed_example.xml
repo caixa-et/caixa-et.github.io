@@ -80,7 +80,7 @@
         <descripciones>
             <descripcion idioma="es">
                 <titulo>CASA TORRE DE IRIS</titulo>
-                <descripcion>Vivienda, totalmente reformada en 2017, de 127 metros cuadrados situada
+                <descripcion>Vivienda, totalmente reformada, de 127 metros cuadrados situada
                     en el centro de la población de Badalona.[IW]</descripcion>
             </descripcion>
         </descripciones>
@@ -859,7 +859,7 @@
         <descripciones>
             <descripcion idioma="es">
                 <titulo>CASA TORRE DE IRIS</titulo>
-                <descripcion>Vivienda, totalmente reformada en 2017, de 541 metros cuadrados situada
+                <descripcion>Vivienda, totalmente reformada, de 541 metros cuadrados situada
                     en el centro de la población de Badalona.[IW]</descripcion>
             </descripcion>
         </descripciones>
@@ -989,7 +989,7 @@
         <descripciones>
             <descripcion idioma="es">
                 <titulo>CASA TORRE DE IRIS</titulo>
-                <descripcion>Vivienda, totalmente reformada en 2017, de 121 metros cuadrados situada
+                <descripcion>Vivienda, totalmente reformada, de 121 metros cuadrados situada
                     en el centro de la población de Badalona.[IW]</descripcion>
             </descripcion>
         </descripciones>
@@ -1249,7 +1249,7 @@
         <descripciones>
             <descripcion idioma="es">
                 <titulo>CASA TORRE DE IRIS</titulo>
-                <descripcion>Vivienda, totalmente reformada en 2017, de 148 metros cuadrados situada
+                <descripcion>Vivienda, totalmente reformada, de 148 metros cuadrados situada
                     en el centro de la población de Badalona.[IW]</descripcion>
             </descripcion>
         </descripciones>
@@ -1768,7 +1768,7 @@
         <etiquetas />
         <descripciones>
             <descripcion idioma="es">
-                <titulo>CASA TORRE DE IRIS</titulo>
+                <titulo>CASA DE IRIS</titulo>
                 <descripcion>Vivienda, totalmente reformada en 2017, de 181 metros cuadrados situada
                     en el centro de la población de Badalona.[IW]</descripcion>
             </descripcion>
@@ -1898,7 +1898,7 @@
         <etiquetas />
         <descripciones>
             <descripcion idioma="es">
-                <titulo>CASA TORRE DE IRIS</titulo>
+                <titulo> TORRE DE IRIS</titulo>
                 <descripcion>Vivienda, totalmente reformada en 2017, de 145 metros cuadrados situada
                     en el centro de la población de Badalona.[IW]</descripcion>
             </descripcion>
@@ -2109,7 +2109,7 @@
             <jardin />
             <terraza />
         </superficies>
-        <precio divisa="EUR">60000</precio>
+        <precio divisa="EUR">60100</precio>
         <precio_anterior divisa="EUR">69000</precio_anterior>
         <caracteristicas>
             <caracteristica id="ano_construccion" />
@@ -2240,7 +2240,7 @@
             <terraza />
         </superficies>
         <precio divisa="EUR">60000</precio>
-        <precio_anterior divisa="EUR">69000</precio_anterior>
+        <precio_anterior divisa="EUR">71000</precio_anterior>
         <caracteristicas>
             <caracteristica id="ano_construccion" />
             <caracteristica id="amueblado">amueblado</caracteristica>
@@ -2369,7 +2369,7 @@
             <jardin />
             <terraza />
         </superficies>
-        <precio divisa="EUR">60000</precio>
+        <precio divisa="EUR">61000</precio>
         <precio_anterior divisa="EUR">69000</precio_anterior>
         <caracteristicas>
             <caracteristica id="ano_construccion" />
@@ -2809,8 +2809,8 @@
         <descripciones>
             <descripcion idioma="es">
                 <titulo>CASA TORRE DE IRIS</titulo>
-                <descripcion>Vivienda, totalmente reformada en 2017, de 121 metros cuadrados situada
-                    en el centro de la población de Badalona.[IW]</descripcion>
+                <descripcion>Vivienda, totalmente reformada, de 121 metros cuadrados situada
+                    en el centro de la población.[IW]</descripcion>
             </descripcion>
         </descripciones>
           <imagenes>
@@ -2940,7 +2940,7 @@
             <descripcion idioma="es">
                 <titulo>CASA TORRE DE IRIS</titulo>
                 <descripcion>Vivienda, totalmente reformada en 2017, de 181 metros cuadrados situada
-                    en el centro de la población de Badalona.[IW]</descripcion>
+                    en el centro de la población.[IW]</descripcion>
             </descripcion>
         </descripciones>
           <imagenes>
@@ -3070,7 +3070,7 @@
             <descripcion idioma="es">
                 <titulo>CASA TORRE DE IRIS</titulo>
                 <descripcion>Vivienda, totalmente reformada en 2017, de 191 metros cuadrados situada
-                    en el centro de la población de Badalona.[IW]</descripcion>
+                    en el centro de la población.[IW]</descripcion>
             </descripcion>
         </descripciones>
           <imagenes>
@@ -3200,7 +3200,7 @@
             <descripcion idioma="es">
                 <titulo>CASA TORRE DE IRIS</titulo>
                 <descripcion>Vivienda, totalmente reformada en 2017, de 171 metros cuadrados situada
-                    en el centro de la población de Badalona.[IW]</descripcion>
+                    en el centro de la población.[IW]</descripcion>
             </descripcion>
         </descripciones>
           <imagenes>
@@ -3330,7 +3330,7 @@
             <descripcion idioma="es">
                 <titulo>CASA TORRE DE IRIS</titulo>
                 <descripcion>Vivienda, totalmente reformada en 2017, de 171 metros cuadrados situada
-                    en el centro de la población de Badalona.[IW]</descripcion>
+                    en el centro de la población.[IW]</descripcion>
             </descripcion>
         </descripciones>
           <imagenes>
@@ -3460,7 +3460,7 @@
             <descripcion idioma="es">
                 <titulo>CASA TORRE DE IRIS</titulo>
                 <descripcion>Vivienda, totalmente reformada en 2017, de 191 metros cuadrados situada
-                    en el centro de la población de Badalona.[IW]</descripcion>
+                    en el centro de la población.[IW]</descripcion>
             </descripcion>
         </descripciones>
           <imagenes>

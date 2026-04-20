@@ -293,14 +293,14 @@
     <property last_update="2025-06-05 11:43:45">
         <bathrooms>8</bathrooms>
         <bedrooms>7</bedrooms>
-        <building_density>0</building_density>
-        <city>Marbella</city>
+        <building_density></building_density>
+        <city>San Pedro de Alcántara</city>
         <construction_stage>resale</construction_stage>
         <construction_year>2002</construction_year>
         <coordinates>36.47192,-5.0037647</coordinates>
         <country>ES</country>
         <custom_es_status_of_conservation>used</custom_es_status_of_conservation>
-        <custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
+        <custom_es_type_of_land>Urbano</custom_es_type_of_land>
         <description>Test17/04 -  Century21 Sun presenta esta increíble villa con un estilo clásico único en Guadalmina Baja, muy próxima a la playa de San Pedro de Alcántara. Se compone de 1457m2 construidos distribuidos en 3 plantas en una parcela de 2.047m2. Al acceder a la vivienda nos encontraríamos con una recepción que daría acceso al salón y este daría acceso directo al jardín que se compone de piscina, unas amplias zonas ajardinadas, terraza cubierta y zona de barbacoa. La planta baja se compone de hall-recibidor, un salón que daría acceso a una zona de biblioteca y zona de comer, uno de ellos con chimenea, un aseo de cortesía, 2 dormitorios con baño en suite, cocina totalmente equipada con electrodomésticos de alta gama, despensa y zona de lavandería. La vivienda dispone de ascensor con capacidad para 4 personas para facilitar el acceso entre las 3 plantas, además de una preciosa escalera muy amplia. En la planta superior nos encontraríamos con un distribuidor que daría acceso a los 3 dormitorios que hay en esta planta, 2 de los 3 dormitorios disponen de cuarto de baño en suite con plato de ducha, el dormitorio principal dispone de 2 cuartos de baño completos y acceso directo a una terraza abierta, uno de los cuartos de baño es con bañera y otro con plato de ducha. La planta inferior se compone de una espectacular zona de ocio y entretenimiento, ropero, aseo de invitados, una espaciosa bodega, trastero y una casa de invitados con un dormitorio, salón y cocina totalmente equipada. Adicionalmente, en la planta inferior se encuentra el garaje con capacidad para más de 8 coches. La parcela es muy amplia en la cual nos encontramos unas bonitas y cuidadas zonas ajardinadas, zona de barbacoa y una inmensa piscina que se puede disfrutar casi todo el año gracias al clima de Marbella. La ubicación de esta villa es inmejorable, muy próxima a todo tipo de servicios y comercios como son supermercados, farmacias, colegios, transporte público; se encuentra a 4 minutos caminando de la playa y a 5 minutos en coche del centro de San Pedro de Alcántara.</description>
         <email>isilva@century21.es</email>
         <list_selling_price_amount>4200000</list_selling_price_amount>

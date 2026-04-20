@@ -77,7 +77,7 @@
         <list_selling_price_amount>750000</list_selling_price_amount>
     </property>
         <property last_update="2026-03-04 14:47:50">
-        <ref>irisd-location-caixa-001</ref>
+        <ref>irisdd-location-caixa-001</ref>
         <name>test-Maravilloso piso en Centro</name>
         <property_type>apartment</property_type>
         <property_subtype>standard_apartment</property_subtype>
@@ -150,7 +150,7 @@
         <list_selling_price_amount>750000</list_selling_price_amount>
     </property>
       <property last_update="2026-03-04 14:47:50">
-        <ref>irisd-location-caixa-002</ref>
+        <ref>irisdd-location-caixa-002</ref>
         <name>test-Maravilloso piso en Centro</name>
         <property_type>apartment</property_type>
         <property_subtype>standard_apartment</property_subtype>

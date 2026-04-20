@@ -2424,4 +2424,105 @@
 <video_url>https://www.youtube.com/watch?v=ftk52ardrmI</video_url>
 <virtual_tour_url>https://eden-beach.custhome.app/program</virtual_tour_url>
 </property>
+	<property>
+		<id>iris-location-001</id>
+		<date>2026-03-18 12:50:16</date>
+		<ref>iris-location-kyero-028</ref>
+		<price>730</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<part_ownership/>
+		<leasehold>1</leasehold>
+		<new_build>0</new_build>
+		<type>apartment</type>
+		<town>Vila-real</town>
+		<province>Castellón</province>
+		<country>Spain</country>
+		<location>
+			<latitude>39.9365732</latitude>
+			<longitude>-0.0990033</longitude>
+		</location>
+		<location_detail/>
+		<postal_code>18690</postal_code>
+		<catastral>1234567AB1234C0001DE</catastral>
+		<beds>3</beds>
+		<baths>2</baths>
+		<pool>0</pool>
+		<surface_area>
+			<built>100</built>
+		</surface_area>
+		<energy_rating>
+			<consumption>G</consumption>
+			<emissions>G</emissions>
+		</energy_rating>
+		<url>
+			<es>http://husdrommer.mobiliagestion.es/es/vilareal/pisos/ref-95254572</es>
+		</url>
+		<video_url>https://www.youtube.com/watch?v=GrCd27MVJdI</video_url>
+		<desc>
+<es>La propiedad se distribuye de forma funcional en un amplio y luminoso salón-comedor con acceso directo a balcón, cocina integrada totalmente equipada, dos dormitorios (uno doble con baño en suite y otro individual) y un aseo de cortesía.El inmueble destaca por su gran luminosidad gracias a su orientación hacia una amplia avenida.</es>
+<ca/>
+<en/>
+<fr/>
+</desc>
+		<notes/>
+		<images>
+			<image id="1">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637040.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637044.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637048.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637041.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637042.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637043.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637045.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637046.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637047.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637049.jpg</url>
+			</image>
+			<image id="11">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637050.jpg</url>
+			</image>
+			<image id="12">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637051.jpg</url>
+			</image>
+			<image id="13">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637052.jpg</url>
+			</image>
+			<image id="14">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637053.jpg</url>
+			</image>
+			<image id="15">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637054.jpg</url>
+			</image>
+			<image id="16">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637055.jpg</url>
+			</image>
+			<image id="17">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637038.jpg</url>
+			</image>
+			<image id="18">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637039.jpg</url>
+			</image>
+		</images>
+		<email>hola@husdrommer.com</email>
+		<contact_number>964 749 027</contact_number>
+	</property>
 </root>

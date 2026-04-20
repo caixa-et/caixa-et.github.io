@@ -3318,7 +3318,7 @@
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
-		<tinterior><![CDATA[Precioso ático con encanto consta de dos dormitorios , dos baños completos.]]></tinterior>
+		<tinterior><![CDATA[Precioso ático con encanto consta de dos dormitorios y dos baños completos.]]></tinterior>
 		<distmar>0</distmar>
 		<conservacion>Reformado</conservacion>
 		<gastos_com>50</gastos_com>
@@ -3440,7 +3440,7 @@
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
-		<tinterior><![CDATA[Precioso ático con encanto consta de dos dormitorios , dos baños completos.]]></tinterior>
+		<tinterior><![CDATA[Precioso ático con encanto consta de dos dormitorios y dos baños completos.]]></tinterior>
 		<distmar>0</distmar>
 		<conservacion>Reformado</conservacion>
 		<gastos_com>50</gastos_com>
@@ -3562,7 +3562,7 @@
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
-		<tinterior><![CDATA[Precioso ático con encanto consta de dos dormitorios , dos baños completos.]]></tinterior>
+		<tinterior><![CDATA[Precioso ático con encanto consta de dos dormitorios y dos baños completos.]]></tinterior>
 		<distmar>0</distmar>
 		<conservacion>Reformado</conservacion>
 		<gastos_com>50</gastos_com>
@@ -3764,7 +3764,7 @@
 		<emisionesvalor>6</emisionesvalor>
 		<emisionesletra>B</emisionesletra>
 		<energiarecibido>B</energiarecibido>
-		<descrip1><![CDATA[Piso grande zona céntrica, 2 habitaciones dobles, ascensor, balcon.]]></descrip1>
+		<descrip1><![CDATA[Piso grande zona céntrica, 2 habitaciones dobles, ascensor, balcon, terraza.]]></descrip1>
 		<titulo1><![CDATA[Piso grande]]></titulo1>
 		<titulo2><![CDATA[]]></titulo2>
 		<descrip2><![CDATA[]]></descrip2>

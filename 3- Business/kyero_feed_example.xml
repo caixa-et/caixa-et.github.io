@@ -8361,936 +8361,814 @@
 	</property>
 
 	<property>
-        <id>PROVAMARTA_HOUSY</id>
-    
-
-    <ref>ZGZ-1506</ref>
-
-    
-    <date>2026-04-15 14:22:57</date>
-    
-      
-        <price>255000</price>
-      
-    
-    <currency>EUR</currency>
-    
-    
-    <price_freq>sale</price_freq>
-    
-    
-    
-    
-    <type>housy</type>
-    
-    
-    <town>Casetas</town>
-    <province>Zaragoza</province>
-    
-    <country>España</country>
-    
-    <location>
-        <latitude>41.724919595</latitude>
-        <longitude>-1.026515259</longitude>
-    </location>
-    
-        <location_detail>Calle Baleares, 50620</location_detail>
-    
-    <beds>2</beds>
-    <baths>2</baths>
-    <surface_area>
-        
-            <built>75</built>
-        
-        
-    </surface_area>
-    <energy_rating>
-      
-        <consumption>A</consumption>
-      
-      
-        <emissions>A</emissions>
-      
-      
-    </energy_rating>
-          
-            <url>
-                <es>https://www.fincasartal.com/house/4246168-exclusiva-vivienda-a-estrenar-con-gran-terraza-en-urbanizacion-privada-casetas-zaragoza-255000eur-ZGZ1506/</es>
-            </url>
- 
-    
-    <desc>
-        
-        <es>✨ EXCLUSIVA VIVIENDA A ESTRENAR CON GRAN TERRAZA EN URBANIZACIÓN PRIVADA – CASETAS (ZARAGOZA) ✨
-Descubre esta fantástica vivienda de obra nueva recién entregada y totalmente a estrenar, ubicada en la consolidada y demandada Urbanización Baleares en Casetas, un entorno tranquilo, familiar y rodeado de zonas verdes, ideal para quienes buscan calidad de vida sin renunciar a la cercanía con la ciudad.
-La vivienda, situada en planta baja, destaca por su diseño moderno y funcional, donde cada espacio ha sido pensado para ofrecer confort, amplitud y luminosidad. Cuenta con 2 dormitorios, incluyendo un elegante dormitorio principal tipo suite con vestidor y baño incorporado con bañera, además de un segundo baño completo mueble de lavabo y espejo, con plato de ducha.
-El corazón de la vivienda lo encontramos en su amplio Salón-Comedor con Cocina Abierta, totalmente amueblada y equipada, creando un espacio diáfano y actual, perfecto para disfrutar del día a día o recibir invitados. Desde aquí, al igual que desde la cocina, se accede a una espectacular terraza de 37 m² útiles, un auténtico lujo exterior con vistas a la zona común con jardines y piscina, ideal para relajarse, compartir momentos o disfrutar en familia.
-En cuanto a calidades, la vivienda ofrece acabados de alto nivel:
-✔ Suelos laminados en toda la vivienda y gres porcelánico en baños
-✔ Puertas lacadas en blanco y puerta principal blindada con cerradura de seguridad
-✔ Ventanas de PVC oscilobatientes con doble acristalamiento Climalit
-✔ Calefacción y agua caliente central con contador individual
-✔ Preinstalación de aire acondicionado
-✔ Sistema de ventilación mecánica
-Además, incluye en el precio amplia plaza de garaje y trastero, aportando comodidad y espacio extra de almacenaje.
-La urbanización está diseñada para el bienestar de sus residentes, con zonas verdes, piscina comunitaria, acceso adaptado a personas con movilidad reducida (portal a cota 0 y ascensor) y preinstalación para puntos de carga de vehículos eléctricos.
-💎 Una oportunidad única de estrenar hogar en una zona residencial, tranquila y perfecta para familias, donde disfrutar de espacios abiertos, seguridad y calidad de vida.
-📞 No dejes pasar esta oportunidad. ¡Contacta y ven a descubrir tu nuevo hogar!
-Fincas Artal: tu Inmobiliaria de confianza y cercana a tí.  Hacemos realidad tus sueños.</es>
-        
-        
-        <en>Fincas Artal: tu Inmobiliaria de confianza y cercana a tí.  Hacemos realidad tus sueños.</en>
-  
-        
-    </desc>
-   
-    
-    <pool>1</pool>
-    
-    <features>
-        
-        <feature>Calefacción Central con Contador Individual</feature>
-        
-        <feature>Cristales de Climalit</feature>
-        
-        <feature>Garaje</feature>
-        
-        <feature>Ideal Inversores</feature>
-        
-        <feature>Muchas Posibilidades</feature>
-        
-        <feature>Persianas</feature>
-        
-        <feature>Preinstalación de Aire Acondicionado</feature>
-        
-        <feature>Puertas Lacadas en Blanco</feature>
-        
-        <feature>Reforma Integral a Estrenar</feature>
-        
-        <feature>Suelo Laminado AC 5</feature>
-        
-        <feature>Ventilación cruzada</feature>
-        
-        <feature>Vestidor en habitación principal</feature>
-        
-        <feature>Vivienda Seminueva</feature>
-        
-        <feature>Zona Exclusiva</feature>
-        
-        <feature>Zona Tranquila y Familiar</feature>
-        
-        <feature>a estrenar</feature>
-        
-        <feature>a pie de calle</feature>
-        
-        <feature>acceso personas con movilidad reducida</feature>
-        
-        <feature>aire acondicionado</feature>
-        
-        <feature>armarios empotrados</feature>
-        
-        <feature>ascensor</feature>
-        
-        <feature>buen estado</feature>
-        
-        <feature>calefacción gas natural central</feature>
-        
-        <feature>cocina amueblada</feature>
-        
-        <feature>cocina equipada</feature>
-        
-        <feature>céntrico</feature>
-        
-        <feature>edificio con garaje</feature>
-        
-        <feature>estructura de hormigón</feature>
-        
-        <feature>exterior</feature>
-        
-        <feature>gas natural</feature>
-        
-        <feature>jardín comunitario</feature>
-        
-        <feature>lavavajillas</feature>
-        
-        <feature>luminoso</feature>
-        
-        <feature>parking</feature>
-        
-        <feature>pintura lisa</feature>
-        
-        <feature>piscina comunitaria</feature>
-        
-        <feature>plaza garaje incluida</feature>
-        
-        <feature>puerta blindada</feature>
-        
-        <feature>puerta de seguridad</feature>
-        
-        <feature>seguro</feature>
-        
-        <feature>soleado</feature>
-        
-        <feature>suelo gres</feature>
-        
-        <feature>terraza</feature>
-        
-        <feature>trastero</feature>
-        
-        <feature>trastero incluido</feature>
-        
-        <feature>urbanizacion privada</feature>
-        
-        <feature>vado permanente</feature>
-        
-        <feature>ventanas climalit</feature>
-        
-        <feature>videoportero</feature>
-        
-        <feature>zona infantil</feature>
-        
-    </features>
-    
-    
-    <images>
-        
-        <image id="1">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-5f420a03.jpg</url>
-        </image>
-        
-        <image id="2">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-4cb1a91a.jpg</url>
-        </image>
-        
-        <image id="3">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-4a889642.jpg</url>
-        </image>
-        
-        <image id="4">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-0fdbdc8d.jpg</url>
-        </image>
-        
-        <image id="5">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-92784f6e.jpg</url>
-        </image>
-        
-        <image id="6">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-e2e4799f.jpg</url>
-        </image>
-        
-        <image id="7">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-7d0900eb.jpg</url>
-        </image>
-        
-        <image id="8">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-b544aa19.jpg</url>
-        </image>
-        
-        <image id="9">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-95ebf632.jpg</url>
-        </image>
-        
-        <image id="10">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-0ccbb7a4.jpg</url>
-        </image>
-        
-        <image id="11">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-dfc3891b.jpg</url>
-        </image>
-        
-        <image id="12">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-70763bc5.jpg</url>
-        </image>
-        
-        <image id="13">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-6f43dd36.jpg</url>
-        </image>
-        
-        <image id="14">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-2c6299b8.jpg</url>
-        </image>
-        
-        <image id="15">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-129c86e9.jpg</url>
-        </image>
-        
-        <image id="16">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-111f610d.jpg</url>
-        </image>
-        
-        <image id="17">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-4a799a85.jpg</url>
-        </image>
-        
-        <image id="18">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-374feab4.jpg</url>
-        </image>
-        
-        <image id="19">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-0e75d532.jpg</url>
-        </image>
-        
-        <image id="20">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-8c16adb3.jpg</url>
-        </image>
-        
-        <image id="21">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-3ad32032.jpg</url>
-        </image>
-        
-        <image id="22">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-0b02bafe.jpg</url>
-        </image>
-        
-        <image id="23">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-cf010a76.jpg</url>
-        </image>
-        
-        <image id="24">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-c6134e02.jpg</url>
-        </image>
-        
-        <image id="25">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-1a8dcc76.jpg</url>
-        </image>
-        
-        <image id="26">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-2b553e72.jpg</url>
-        </image>
-        
-        <image id="27">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-e800930c.jpg</url>
-        </image>
-        
-    </images> 
-    
+<id>PROVA_HOUSY</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>housy</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<en>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</en>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/7515/13525871/4-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/7515/13525871/4-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/7515/13525871/4-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/7515/13525871/4-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/7515/13525871/4-5.jpg</url>
+</image>
+</images>
 </property>
 
 <property>
-        <id>PROVAMARTA_VILLA</id>
-    
-
-    <ref>ZGZ-1506</ref>
-
-    
-    <date>2026-04-15 14:22:57</date>
-    
-      
-        <price>255000</price>
-      
-    
-    <currency>EUR</currency>
-    
-    
-    <price_freq>sale</price_freq>
-    
-    
-    
-    
-    <type>villa</type>
-    
-    
-    <town>Casetas</town>
-    <province>Zaragoza</province>
-    
-    <country>España</country>
-    
-    <location>
-        <latitude>41.724919595</latitude>
-        <longitude>-1.026515259</longitude>
-    </location>
-    
-        <location_detail>Calle Baleares, 50620</location_detail>
-    
-    <beds>2</beds>
-    <baths>2</baths>
-    <surface_area>
-        
-            <built>75</built>
-        
-        
-    </surface_area>
-    <energy_rating>
-      
-        <consumption>A</consumption>
-      
-      
-        <emissions>A</emissions>
-      
-      
-    </energy_rating>
-          
-            <url>
-                <es>https://www.fincasartal.com/house/4246168-exclusiva-vivienda-a-estrenar-con-gran-terraza-en-urbanizacion-privada-casetas-zaragoza-255000eur-ZGZ1506/</es>
-            </url>
- 
-    
-    <desc>
-        
-        <es>✨ EXCLUSIVA VIVIENDA A ESTRENAR CON GRAN TERRAZA EN URBANIZACIÓN PRIVADA – CASETAS (ZARAGOZA) ✨
-Descubre esta fantástica vivienda de obra nueva recién entregada y totalmente a estrenar, ubicada en la consolidada y demandada Urbanización Baleares en Casetas, un entorno tranquilo, familiar y rodeado de zonas verdes, ideal para quienes buscan calidad de vida sin renunciar a la cercanía con la ciudad.
-La vivienda, situada en planta baja, destaca por su diseño moderno y funcional, donde cada espacio ha sido pensado para ofrecer confort, amplitud y luminosidad. Cuenta con 2 dormitorios, incluyendo un elegante dormitorio principal tipo suite con vestidor y baño incorporado con bañera, además de un segundo baño completo mueble de lavabo y espejo, con plato de ducha.
-El corazón de la vivienda lo encontramos en su amplio Salón-Comedor con Cocina Abierta, totalmente amueblada y equipada, creando un espacio diáfano y actual, perfecto para disfrutar del día a día o recibir invitados. Desde aquí, al igual que desde la cocina, se accede a una espectacular terraza de 37 m² útiles, un auténtico lujo exterior con vistas a la zona común con jardines y piscina, ideal para relajarse, compartir momentos o disfrutar en familia.
-En cuanto a calidades, la vivienda ofrece acabados de alto nivel:
-✔ Suelos laminados en toda la vivienda y gres porcelánico en baños
-✔ Puertas lacadas en blanco y puerta principal blindada con cerradura de seguridad
-✔ Ventanas de PVC oscilobatientes con doble acristalamiento Climalit
-✔ Calefacción y agua caliente central con contador individual
-✔ Preinstalación de aire acondicionado
-✔ Sistema de ventilación mecánica
-Además, incluye en el precio amplia plaza de garaje y trastero, aportando comodidad y espacio extra de almacenaje.
-La urbanización está diseñada para el bienestar de sus residentes, con zonas verdes, piscina comunitaria, acceso adaptado a personas con movilidad reducida (portal a cota 0 y ascensor) y preinstalación para puntos de carga de vehículos eléctricos.
-💎 Una oportunidad única de estrenar hogar en una zona residencial, tranquila y perfecta para familias, donde disfrutar de espacios abiertos, seguridad y calidad de vida.
-📞 No dejes pasar esta oportunidad. ¡Contacta y ven a descubrir tu nuevo hogar!
-Fincas Artal: tu Inmobiliaria de confianza y cercana a tí.  Hacemos realidad tus sueños.</es>
-        
-        
-        <en>Fincas Artal: tu Inmobiliaria de confianza y cercana a tí.  Hacemos realidad tus sueños.</en>
-  
-        
-    </desc>
-   
-    
-    <pool>1</pool>
-    
-    <features>
-        
-        <feature>Calefacción Central con Contador Individual</feature>
-        
-        <feature>Cristales de Climalit</feature>
-        
-        <feature>Garaje</feature>
-        
-        <feature>Ideal Inversores</feature>
-        
-        <feature>Muchas Posibilidades</feature>
-        
-        <feature>Persianas</feature>
-        
-        <feature>Preinstalación de Aire Acondicionado</feature>
-        
-        <feature>Puertas Lacadas en Blanco</feature>
-        
-        <feature>Reforma Integral a Estrenar</feature>
-        
-        <feature>Suelo Laminado AC 5</feature>
-        
-        <feature>Ventilación cruzada</feature>
-        
-        <feature>Vestidor en habitación principal</feature>
-        
-        <feature>Vivienda Seminueva</feature>
-        
-        <feature>Zona Exclusiva</feature>
-        
-        <feature>Zona Tranquila y Familiar</feature>
-        
-        <feature>a estrenar</feature>
-        
-        <feature>a pie de calle</feature>
-        
-        <feature>acceso personas con movilidad reducida</feature>
-        
-        <feature>aire acondicionado</feature>
-        
-        <feature>armarios empotrados</feature>
-        
-        <feature>ascensor</feature>
-        
-        <feature>buen estado</feature>
-        
-        <feature>calefacción gas natural central</feature>
-        
-        <feature>cocina amueblada</feature>
-        
-        <feature>cocina equipada</feature>
-        
-        <feature>céntrico</feature>
-        
-        <feature>edificio con garaje</feature>
-        
-        <feature>estructura de hormigón</feature>
-        
-        <feature>exterior</feature>
-        
-        <feature>gas natural</feature>
-        
-        <feature>jardín comunitario</feature>
-        
-        <feature>lavavajillas</feature>
-        
-        <feature>luminoso</feature>
-        
-        <feature>parking</feature>
-        
-        <feature>pintura lisa</feature>
-        
-        <feature>piscina comunitaria</feature>
-        
-        <feature>plaza garaje incluida</feature>
-        
-        <feature>puerta blindada</feature>
-        
-        <feature>puerta de seguridad</feature>
-        
-        <feature>seguro</feature>
-        
-        <feature>soleado</feature>
-        
-        <feature>suelo gres</feature>
-        
-        <feature>terraza</feature>
-        
-        <feature>trastero</feature>
-        
-        <feature>trastero incluido</feature>
-        
-        <feature>urbanizacion privada</feature>
-        
-        <feature>vado permanente</feature>
-        
-        <feature>ventanas climalit</feature>
-        
-        <feature>videoportero</feature>
-        
-        <feature>zona infantil</feature>
-        
-    </features>
-    
-    
-    <images>
-        
-        <image id="1">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-5f420a03.jpg</url>
-        </image>
-        
-        <image id="2">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-4cb1a91a.jpg</url>
-        </image>
-        
-        <image id="3">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-4a889642.jpg</url>
-        </image>
-        
-        <image id="4">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-0fdbdc8d.jpg</url>
-        </image>
-          
-    </images> 
-    
-</property>
-
-
-	<property>
-        <id>PROVAMARTA_PARKING</id>
-    
-
-    <ref>ZGZ-1506</ref>
-
-    
-    <date>2026-04-15 14:22:57</date>
-    
-      
-        <price>255000</price>
-      
-    
-    <currency>EUR</currency>
-    
-    
-    <price_freq>sale</price_freq>
-    
-    
-    
-    
-    <type>parking</type>
-    
-    
-    <town>Casetas</town>
-    <province>Zaragoza</province>
-    
-    <country>España</country>
-    
-    <location>
-        <latitude>41.724919595</latitude>
-        <longitude>-1.026515259</longitude>
-    </location>
-    
-        <location_detail>Calle Baleares, 50620</location_detail>
-    
-    <beds>2</beds>
-    <baths>2</baths>
-    <surface_area>
-        
-            <built>75</built>
-        
-        
-    </surface_area>
-    <energy_rating>
-      
-        <consumption>A</consumption>
-      
-      
-        <emissions>A</emissions>
-      
-      
-    </energy_rating>
-          
-            <url>
-                <es>https://www.fincasartal.com/house/4246168-exclusiva-vivienda-a-estrenar-con-gran-terraza-en-urbanizacion-privada-casetas-zaragoza-255000eur-ZGZ1506/</es>
-            </url>
- 
-    
-    <desc>
-        
-        <es>✨ EXCLUSIVA VIVIENDA A ESTRENAR CON GRAN TERRAZA EN URBANIZACIÓN PRIVADA – CASETAS (ZARAGOZA) ✨
-Descubre esta fantástica vivienda de obra nueva recién entregada y totalmente a estrenar, ubicada en la consolidada y demandada Urbanización Baleares en Casetas, un entorno tranquilo, familiar y rodeado de zonas verdes, ideal para quienes buscan calidad de vida sin renunciar a la cercanía con la ciudad.
-La vivienda, situada en planta baja, destaca por su diseño moderno y funcional, donde cada espacio ha sido pensado para ofrecer confort, amplitud y luminosidad. Cuenta con 2 dormitorios, incluyendo un elegante dormitorio principal tipo suite con vestidor y baño incorporado con bañera, además de un segundo baño completo mueble de lavabo y espejo, con plato de ducha.
-El corazón de la vivienda lo encontramos en su amplio Salón-Comedor con Cocina Abierta, totalmente amueblada y equipada, creando un espacio diáfano y actual, perfecto para disfrutar del día a día o recibir invitados. Desde aquí, al igual que desde la cocina, se accede a una espectacular terraza de 37 m² útiles, un auténtico lujo exterior con vistas a la zona común con jardines y piscina, ideal para relajarse, compartir momentos o disfrutar en familia.
-En cuanto a calidades, la vivienda ofrece acabados de alto nivel:
-✔ Suelos laminados en toda la vivienda y gres porcelánico en baños
-✔ Puertas lacadas en blanco y puerta principal blindada con cerradura de seguridad
-✔ Ventanas de PVC oscilobatientes con doble acristalamiento Climalit
-✔ Calefacción y agua caliente central con contador individual
-✔ Preinstalación de aire acondicionado
-✔ Sistema de ventilación mecánica
-Además, incluye en el precio amplia plaza de garaje y trastero, aportando comodidad y espacio extra de almacenaje.
-La urbanización está diseñada para el bienestar de sus residentes, con zonas verdes, piscina comunitaria, acceso adaptado a personas con movilidad reducida (portal a cota 0 y ascensor) y preinstalación para puntos de carga de vehículos eléctricos.
-💎 Una oportunidad única de estrenar hogar en una zona residencial, tranquila y perfecta para familias, donde disfrutar de espacios abiertos, seguridad y calidad de vida.
-📞 No dejes pasar esta oportunidad. ¡Contacta y ven a descubrir tu nuevo hogar!
-Fincas Artal: tu Inmobiliaria de confianza y cercana a tí.  Hacemos realidad tus sueños.</es>
-        
-        
-        <en>Fincas Artal: tu Inmobiliaria de confianza y cercana a tí.  Hacemos realidad tus sueños.</en>
-  
-        
-    </desc>
-   
-    
-    <pool>1</pool>
-    
-    <features>
-        
-        <feature>Calefacción Central con Contador Individual</feature>
-        
-        <feature>Cristales de Climalit</feature>
-        
-        <feature>Garaje</feature>
-        
-        <feature>Ideal Inversores</feature>
-        
-        <feature>Muchas Posibilidades</feature>
-        
-        <feature>Persianas</feature>
-        
-        <feature>Preinstalación de Aire Acondicionado</feature>
-        
-        <feature>Puertas Lacadas en Blanco</feature>
-        
-        <feature>Reforma Integral a Estrenar</feature>
-        
-        <feature>Suelo Laminado AC 5</feature>
-        
-        <feature>Ventilación cruzada</feature>
-        
-        <feature>Vestidor en habitación principal</feature>
-        
-        <feature>Vivienda Seminueva</feature>
-        
-        <feature>Zona Exclusiva</feature>
-        
-        <feature>Zona Tranquila y Familiar</feature>
-        
-        <feature>a estrenar</feature>
-        
-        <feature>a pie de calle</feature>
-        
-        <feature>acceso personas con movilidad reducida</feature>
-        
-        <feature>aire acondicionado</feature>
-        
-        <feature>armarios empotrados</feature>
-        
-        <feature>ascensor</feature>
-        
-        <feature>buen estado</feature>
-        
-        <feature>calefacción gas natural central</feature>
-        
-        <feature>cocina amueblada</feature>
-        
-        <feature>cocina equipada</feature>
-        
-        <feature>céntrico</feature>
-        
-        <feature>edificio con garaje</feature>
-        
-        <feature>estructura de hormigón</feature>
-        
-        <feature>exterior</feature>
-        
-        <feature>gas natural</feature>
-        
-        <feature>jardín comunitario</feature>
-        
-        <feature>lavavajillas</feature>
-        
-        <feature>luminoso</feature>
-        
-        <feature>parking</feature>
-        
-        <feature>pintura lisa</feature>
-        
-        <feature>piscina comunitaria</feature>
-        
-        <feature>plaza garaje incluida</feature>
-        
-        <feature>puerta blindada</feature>
-        
-        <feature>puerta de seguridad</feature>
-        
-        <feature>seguro</feature>
-        
-        <feature>soleado</feature>
-        
-        <feature>suelo gres</feature>
-        
-        <feature>terraza</feature>
-        
-        <feature>trastero</feature>
-        
-        <feature>trastero incluido</feature>
-        
-        <feature>urbanizacion privada</feature>
-        
-        <feature>vado permanente</feature>
-        
-        <feature>ventanas climalit</feature>
-        
-        <feature>videoportero</feature>
-        
-        <feature>zona infantil</feature>
-        
-    </features>
-    
-    
-    <images>
-        
-        <image id="1">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-5f420a03.jpg</url>
-        </image>
-        
-        <image id="2">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-4cb1a91a.jpg</url>
-        </image>
-        
-        <image id="3">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-4a889642.jpg</url>
-        </image>
-        
-        <image id="4">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-0fdbdc8d.jpg</url>
-        </image>
-          
-    </images> 
-    
+<id>PROVA_VILLA</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>villa</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<en>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</en>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/7515/13525871/4-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/7515/13525871/4-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/7515/13525871/4-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/7515/13525871/4-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/7515/13525871/4-5.jpg</url>
+</image>
+</images>
 </property>
 
 <property>
-        <id>PROVAMARTA_PARKING_2</id>
-    
-
-    <ref>ZGZ-1506</ref>
-
-    
-    <date>2026-04-15 14:22:57</date>
-    
-      
-        <price>255000</price>
-      
-    
-    <currency>EUR</currency>
-    
-    
-    <price_freq>sale</price_freq>
-    
-    
-    
-    
-    <type>parking</type>
-    
-    
-    <town>Casetas</town>
-    <province>Zaragoza</province>
-    
-    <country>España</country>
-    
-    <location>
-        <latitude>41.724919595</latitude>
-        <longitude>-1.026515259</longitude>
-    </location>
-    
-        <location_detail>Calle Baleares, 50620</location_detail>
-    
-    <beds>2</beds>
-    <baths>2</baths>
-    <surface_area>
-        
-            <built>75</built>
-        
-        
-    </surface_area>
-    <energy_rating>
-      
-        <consumption>A</consumption>
-      
-      
-        <emissions>A</emissions>
-      
-      
-    </energy_rating>
-          
-            <url>
-                <es>https://www.fincasartal.com/house/4246168-exclusiva-vivienda-a-estrenar-con-gran-terraza-en-urbanizacion-privada-casetas-zaragoza-255000eur-ZGZ1506/</es>
-            </url>
- 
-    
-    <desc>
-        
-        <es>✨ Parking espacioso para 2 coches.
-  
-        
-    </desc>
-   
-    
-    <pool>1</pool>
-    
-    <features>
-        
-        <feature>Calefacción Central con Contador Individual</feature>
-        
-        <feature>Cristales de Climalit</feature>
-        
-        <feature>Garaje</feature>
-        
-        <feature>Ideal Inversores</feature>
-        
-        <feature>Muchas Posibilidades</feature>
-        
-        <feature>Persianas</feature>
-        
-        <feature>Preinstalación de Aire Acondicionado</feature>
-        
-        <feature>Puertas Lacadas en Blanco</feature>
-        
-        <feature>Reforma Integral a Estrenar</feature>
-        
-        <feature>Suelo Laminado AC 5</feature>
-        
-        <feature>Ventilación cruzada</feature>
-        
-        <feature>Vestidor en habitación principal</feature>
-        
-        <feature>Vivienda Seminueva</feature>
-        
-        <feature>Zona Exclusiva</feature>
-        
-        <feature>Zona Tranquila y Familiar</feature>
-        
-        <feature>a estrenar</feature>
-        
-        <feature>a pie de calle</feature>
-        
-        <feature>acceso personas con movilidad reducida</feature>
-        
-        <feature>aire acondicionado</feature>
-        
-        <feature>armarios empotrados</feature>
-        
-        <feature>ascensor</feature>
-        
-        <feature>buen estado</feature>
-        
-        <feature>calefacción gas natural central</feature>
-        
-        <feature>cocina amueblada</feature>
-        
-        <feature>cocina equipada</feature>
-        
-        <feature>céntrico</feature>
-        
-        <feature>edificio con garaje</feature>
-        
-        <feature>estructura de hormigón</feature>
-        
-        <feature>exterior</feature>
-        
-        <feature>gas natural</feature>
-        
-        <feature>jardín comunitario</feature>
-        
-        <feature>lavavajillas</feature>
-        
-        <feature>luminoso</feature>
-        
-        <feature>parking</feature>
-        
-        <feature>pintura lisa</feature>
-        
-        <feature>piscina comunitaria</feature>
-        
-        <feature>plaza garaje incluida</feature>
-        
-        <feature>puerta blindada</feature>
-        
-        <feature>puerta de seguridad</feature>
-        
-        <feature>seguro</feature>
-        
-        <feature>soleado</feature>
-        
-        <feature>suelo gres</feature>
-        
-        <feature>terraza</feature>
-        
-        <feature>trastero</feature>
-        
-        <feature>trastero incluido</feature>
-        
-        <feature>urbanizacion privada</feature>
-        
-        <feature>vado permanente</feature>
-        
-        <feature>ventanas climalit</feature>
-        
-        <feature>videoportero</feature>
-        
-        <feature>zona infantil</feature>
-        
-    </features>
-    
-    
-    <images>
-        
-        <image id="1">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-5f420a03.jpg</url>
-        </image>
-        
-        <image id="2">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-4cb1a91a.jpg</url>
-        </image>
-        
-        <image id="3">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-4a889642.jpg</url>
-        </image>
-        
-        <image id="4">
-            <url>https://d2ctzk1imdlpfx.cloudfront.net/pics/4246168-0fdbdc8d.jpg</url>
-        </image>
-          
-    </images> 
-    
+<id>PROVA_PARKING</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>parking</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<en>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</en>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/7515/13525871/4-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/7515/13525871/4-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/7515/13525871/4-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/7515/13525871/4-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/7515/13525871/4-5.jpg</url>
+</image>
+</images>
 </property>
-	
-	
-	
+
+<property>
+<id>PROVA_GARAJE</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>garaje</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<en>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</en>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/7515/13525871/4-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/7515/13525871/4-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/7515/13525871/4-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/7515/13525871/4-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/7515/13525871/4-5.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>PROVA_LOCAL</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>local</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<en>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</en>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/7515/13525871/4-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/7515/13525871/4-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/7515/13525871/4-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/7515/13525871/4-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/7515/13525871/4-5.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>PROVA_NULL</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type></type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<en>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</en>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/7515/13525871/4-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/7515/13525871/4-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/7515/13525871/4-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/7515/13525871/4-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/7515/13525871/4-5.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>PROVA_NULL2</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>null2</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<en>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</en>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/7515/13525871/4-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/7515/13525871/4-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/7515/13525871/4-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/7515/13525871/4-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/7515/13525871/4-5.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>PROVA_EDIFICIO</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>edificio</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<en>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</en>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/7515/13525871/4-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/7515/13525871/4-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/7515/13525871/4-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/7515/13525871/4-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/7515/13525871/4-5.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>PROVA_APARCAMIENTO</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>aparcamiento</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<en>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</en>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/7515/13525871/4-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/7515/13525871/4-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/7515/13525871/4-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/7515/13525871/4-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/7515/13525871/4-5.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>PROVA_GARAGE</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>garage</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<en>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</en>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/7515/13525871/4-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/7515/13525871/4-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/7515/13525871/4-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/7515/13525871/4-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/7515/13525871/4-5.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>PROVA_TERRENO</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>terreno</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<en>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</en>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/7515/13525871/4-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/7515/13525871/4-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/7515/13525871/4-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/7515/13525871/4-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/7515/13525871/4-5.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>PROVA_OFICINA</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>oficina</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<en>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</en>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/7515/13525871/4-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/7515/13525871/4-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/7515/13525871/4-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/7515/13525871/4-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/7515/13525871/4-5.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>PROVA_APARTMENT</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>apartment</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<en>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</en>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/7515/13525871/4-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/7515/13525871/4-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/7515/13525871/4-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/7515/13525871/4-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/7515/13525871/4-5.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>PROVA_ESTUDI</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>estudi</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<en>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</en>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/7515/13525871/4-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/7515/13525871/4-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/7515/13525871/4-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/7515/13525871/4-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/7515/13525871/4-5.jpg</url>
+</image>
+</images>
+</property>
 </root>

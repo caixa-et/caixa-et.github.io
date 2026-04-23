@@ -3782,5 +3782,612 @@
 		<numpanos>0</numpanos>
 		<videos />
 	</propiedad>
+<propiedad>
+<id>sofi-ccee-inmovilla-033_2</id>
+<numagencia>7533</numagencia>
+<calidades/>
+<provincia>TOLEDO</provincia>
+<key_loca>683299</key_loca>
+<key_tipo>399</key_tipo>
+<tipovpo>6</tipovpo>
+<vpo_name>Libre</vpo_name>
+<destacado>0</destacado>
+<antiguedad>1960</antiguedad>
+<tipo_ofer>Casa</tipo_ofer>
+<fecha>2024-10-01 17:45:13</fecha>
+<fechaact>2025-03-21 19:12:04</fechaact>
+<keypromo>0</keypromo>
+<opcioncompra>0</opcioncompra>
+<aconsultar>0</aconsultar>
+<latitud>39.96527872699</latitud>
+<altitud>-4.30463534377645</altitud>
+<aseos>0</aseos>
+<banyos>1</banyos>
+<carpint/>
+<carpext/>
+<comunidadincluida>0</comunidadincluida>
+<tfachada/>
+<tcocina/>
+<tpostigo/>
+<tbano/>
+<tinterior>
+<![CDATA[ ]]>
+</tinterior>
+<distmar>0</distmar>
+<planta>0</planta>
+<conservacion>Para reformar</conservacion>
+<gastos_com>0</gastos_com>
+<habdobles>0</habdobles>
+<habitaciones>3</habitaciones>
+<m_cons>186.00</m_cons>
+<m_parcela>237</m_parcela>
+<m_uties>180.00</m_uties>
+<m_cocina>0.00</m_cocina>
+<m_comedor>0.00</m_comedor>
+<m_terraza>0.00</m_terraza>
+<numplanta>0</numplanta>
+<orientacion/>
+<salon>0</salon>
+<precioinmo>50000</precioinmo>
+<preciotraspaso>0</preciotraspaso>
+<precioalq>0</precioalq>
+<outlet>0</outlet>
+<ref>P143</ref>
+<accion>Vender</accion>
+<ciudad>Gerindote</ciudad>
+<cp>45518</cp>
+<zona>GERINDOTE</zona>
+<adaptadominus>0</adaptadominus>
+<airecentral>0</airecentral>
+<aire_con>0</aire_con>
+<alarma>0</alarma>
+<alarmaincendio>0</alarmaincendio>
+<alarmarobo>0</alarmarobo>
+<arma_empo>0</arma_empo>
+<ascensor>0</ascensor>
+<balcon>0</balcon>
+<bar>0</bar>
+<jardin>1</jardin>
+<barbacoa>0</barbacoa>
+<cajafuerte>0</cajafuerte>
+<keycalefa>0</keycalefa>
+<keysuelo>0</keysuelo>
+<calefacentral>0</calefacentral>
+<calefaccion>0</calefaccion>
+<chimenea>0</chimenea>
+<depoagua>0</depoagua>
+<descalcificador>0</descalcificador>
+<despensa>0</despensa>
+<diafano>0</diafano>
+<electro>0</electro>
+<esquina>0</esquina>
+<galeria>0</galeria>
+<plaza_gara>0</plaza_gara>
+<garajedoble>0</garajedoble>
+<gasciudad>0</gasciudad>
+<gimnasio>0</gimnasio>
+<habjuegos>0</habjuegos>
+<tipomensual>MES</tipomensual>
+<hidromasaje>0</hidromasaje>
+<jacuzzi>0</jacuzzi>
+<lavanderia>0</lavanderia>
+<linea_tlf>0</linea_tlf>
+<luminoso>0</luminoso>
+<ibi>0.00</ibi>
+<luz>0</luz>
+<muebles>0</muebles>
+<ojobuey>0</ojobuey>
+<parking>0</parking>
+<patio>0</patio>
+<piscina_com>0</piscina_com>
+<piscina_prop>0</piscina_prop>
+<preinstaacc>0</preinstaacc>
+<primera_line>0</primera_line>
+<puerta_blin>0</puerta_blin>
+<satelite>0</satelite>
+<sauna>0</sauna>
+<solarium>0</solarium>
+<sotano>0</sotano>
+<mirador>0</mirador>
+<apartseparado>0</apartseparado>
+<bombafriocalor>0</bombafriocalor>
+<buhardilla>0</buhardilla>
+<pergola>0</pergola>
+<tv>0</tv>
+<terraza>0</terraza>
+<terrazaacris>0</terrazaacris>
+<todoext>0</todoext>
+<trastero>0</trastero>
+<urbanizacion>0</urbanizacion>
+<nplazasparking>0</nplazasparking>
+<vestuarios>0</vestuarios>
+<precioparking/>
+<preciogaraje/>
+<vistasalmar>0</vistasalmar>
+<energialetra/>
+<energiarecibido>3</energiarecibido>
+<energiavalor>0</energiavalor>
+<emisionesletra/>
+<emisionesvalor>0</emisionesvalor>
+<cocina_inde>0</cocina_inde>
+<keyelectricidad>0</keyelectricidad>
+<keyfachada>0</keyfachada>
+<keyagua>0</keyagua>
+<keyvista>0</keyvista>
+<keytecho>0</keytecho>
+<montana>0</montana>
+<rural>0</rural>
+<costa>0</costa>
+<vallado>0</vallado>
+<autobuses>1</autobuses>
+<centros_comerciales>0</centros_comerciales>
+<tranvia>0</tranvia>
+<zonas_infantiles>0</zonas_infantiles>
+<colegios>1</colegios>
+<arboles>0</arboles>
+<hospitales>0</hospitales>
+<tren>0</tren>
+<metro>0</metro>
+<golf>0</golf>
+<descrip1>
+<![CDATA[ ¡Increíble oportunidad de adquirir tu nuevo hogar en Gerindote! Esta vivienda distribuida en una única planta y con varias superficies construidas te ofrece todo lo que necesitas para vivir cómodamente y con gran espacios de almacenamiento. ~~Actualmente cuenta con una superfice de 186 metros cuadrados construidos en un terreno de 237 metros cuasrados. Este inmuelbe situado en el corazón de la localidad ofrece grandes posiblidades ya que se encuentra para reformar.~~Confía en nuestra experiencia de más de 15 años en el mercado inmobiliario y en nuestra estrecha colaboración con diferentes entidades financieras. Te ofrecemos ayuda en la búsqueda de financiación para que puedas hacer realidad tu sueño de tener tu propio hogar. No pierdas esta oportunidad única y ven a visitar esta maravillosa casa sin ningún compromiso. ¡Te esperamos con los brazos abiertos!~ ]]>
+</descrip1>
+<titulo1>
+<![CDATA[ ]]>
+</titulo1>
+<titulo2>
+<![CDATA[ ]]>
+</titulo2>
+<descrip2>
+<![CDATA[ ]]>
+</descrip2>
+<titulo3>
+<![CDATA[ ]]>
+</titulo3>
+<descrip3>
+<![CDATA[ ]]>
+</descrip3>
+<titulo4>
+<![CDATA[ ]]>
+</titulo4>
+<descrip4>
+<![CDATA[ ]]>
+</descrip4>
+<titulo5>
+<![CDATA[ ]]>
+</titulo5>
+<descrip5>
+<![CDATA[ ]]>
+</descrip5>
+<titulo6>
+<![CDATA[ ]]>
+</titulo6>
+<descrip6>
+<![CDATA[ ]]>
+</descrip6>
+<titulo7>
+<![CDATA[ ]]>
+</titulo7>
+<descrip7>
+<![CDATA[ ]]>
+</descrip7>
+<titulo8>
+<![CDATA[ ]]>
+</titulo8>
+<descrip8>
+<![CDATA[ ]]>
+</descrip8>
+<titulo9>
+<![CDATA[ ]]>
+</titulo9>
+<descrip9>
+<![CDATA[ ]]>
+</descrip9>
+<titulo10>
+<![CDATA[ ]]>
+</titulo10>
+<descrip10>
+<![CDATA[ ]]>
+</descrip10>
+<titulo11>
+<![CDATA[ ]]>
+</titulo11>
+<descrip11>
+<![CDATA[ ]]>
+</descrip11>
+<titulo12>
+<![CDATA[ ]]>
+</titulo12>
+<descrip12>
+<![CDATA[ ]]>
+</descrip12>
+<titulo15>
+<![CDATA[ ]]>
+</titulo15>
+<descrip15>
+<![CDATA[ ]]>
+</descrip15>
+<titulo16>
+<![CDATA[ ]]>
+</titulo16>
+<descrip16>
+<![CDATA[ ]]>
+</descrip16>
+<titulo17>
+<![CDATA[ ]]>
+</titulo17>
+<descrip17>
+<![CDATA[ ]]>
+</descrip17>
+<titulo18>
+<![CDATA[ ]]>
+</titulo18>
+<descrip18>
+<![CDATA[ ]]>
+</descrip18>
+<titulo19>
+<![CDATA[ ]]>
+</titulo19>
+<descrip19>
+<![CDATA[ ]]>
+</descrip19>
+<titulo22>
+<![CDATA[ ]]>
+</titulo22>
+<descrip22>
+<![CDATA[ ]]>
+</descrip22>
+<titulo23>
+<![CDATA[ ]]>
+</titulo23>
+<descrip23>
+<![CDATA[ ]]>
+</descrip23>
+<titulo24>
+<![CDATA[ ]]>
+</titulo24>
+<descrip24>
+<![CDATA[ ]]>
+</descrip24>
+<titulo25>
+<![CDATA[ ]]>
+</titulo25>
+<descrip25>
+<![CDATA[ ]]>
+</descrip25>
+<estadoficha>1</estadoficha>
+<exclu>0</exclu>
+<tour/>
+<keyagente>174130</keyagente>
+<agente>
+<![CDATA[ ANDRES ]]>
+</agente>
+<email_agente/>
+<prefijo_tlf_agente>34</prefijo_tlf_agente>
+<tlf_agente>925764106</tlf_agente>
+<numpanos>0</numpanos>
+<numfotos>22</numfotos>
+<foto1>https://fotos15.apinmo.com/7533/22665055/3-1.jpg</foto1>
+<foto2>https://fotos15.apinmo.com/7533/22665055/3-2.jpg</foto2>
+<foto3>https://fotos15.apinmo.com/7533/22665055/3-3.jpg</foto3>
+<foto4>https://fotos15.apinmo.com/7533/22665055/3-4.jpg</foto4>
+<foto5>https://fotos15.apinmo.com/7533/22665055/3-5.jpg</foto5>
+<foto6>https://fotos15.apinmo.com/7533/22665055/3-6.jpg</foto6>
+<foto7>https://fotos15.apinmo.com/7533/22665055/3-7.jpg</foto7>
+<foto8>https://fotos15.apinmo.com/7533/22665055/3-8.jpg</foto8>
+<foto9>https://fotos15.apinmo.com/7533/22665055/3-9.jpg</foto9>
+<foto10>https://fotos15.apinmo.com/7533/22665055/3-10.jpg</foto10>
+<foto11>https://fotos15.apinmo.com/7533/22665055/3-11.jpg</foto11>
+<foto12>https://fotos15.apinmo.com/7533/22665055/3-12.jpg</foto12>
+<foto13>https://fotos15.apinmo.com/7533/22665055/3-13.jpg</foto13>
+<foto14>https://fotos15.apinmo.com/7533/22665055/3-14.jpg</foto14>
+<foto15>https://fotos15.apinmo.com/7533/22665055/3-15.jpg</foto15>
+<foto16>https://fotos15.apinmo.com/7533/22665055/3-16.jpg</foto16>
+<foto17>https://fotos15.apinmo.com/7533/22665055/3-17.jpg</foto17>
+<foto18>https://fotos15.apinmo.com/7533/22665055/3-18.jpg</foto18>
+<foto19>https://fotos15.apinmo.com/7533/22665055/3-19.jpg</foto19>
+<foto20>https://fotos15.apinmo.com/7533/22665055/3-20.jpg</foto20>
+<foto21>https://fotos15.apinmo.com/7533/22665055/3-21.jpg</foto21>
+<foto22>https://fotos15.apinmo.com/7533/22665055/3-22.jpg</foto22>
+<numpanos>0</numpanos>
+<videos/>
+</propiedad>
+<propiedad>
+<id>sofi-ccee-inmovilla-034_2</id>
+<numagencia>7533</numagencia>
+<calidades/>
+<provincia>TOLEDO</provincia>
+<key_loca>693799</key_loca>
+<key_tipo>1299</key_tipo>
+<tipovpo>6</tipovpo>
+<vpo_name>Libre</vpo_name>
+<destacado>0</destacado>
+<antiguedad>1978</antiguedad>
+<tipo_ofer>Local comercial</tipo_ofer>
+<fecha>2025-02-22 13:18:14</fecha>
+<fechaact>2025-11-15 13:31:33</fechaact>
+<keypromo>0</keypromo>
+<opcioncompra>0</opcioncompra>
+<aconsultar>0</aconsultar>
+<latitud>39.98724257</latitud>
+<altitud>-4.279645879</altitud>
+<aseos>0</aseos>
+<banyos>0</banyos>
+<carpint/>
+<carpext/>
+<comunidadincluida>0</comunidadincluida>
+<tfachada/>
+<tcocina/>
+<tpostigo/>
+<tbano/>
+<tinterior>
+<![CDATA[ ]]>
+</tinterior>
+<distmar>0</distmar>
+<planta>0</planta>
+<conservacion>Reformar Parcialmente</conservacion>
+<gastos_com>0</gastos_com>
+<habdobles>0</habdobles>
+<habitaciones>0</habitaciones>
+<m_cons>128.00</m_cons>
+<m_parcela>0</m_parcela>
+<m_uties>123.00</m_uties>
+<m_cocina>0.00</m_cocina>
+<m_comedor>0.00</m_comedor>
+<m_terraza>0.00</m_terraza>
+<numplanta>0</numplanta>
+<orientacion/>
+<salon>0</salon>
+<precioinmo>85000</precioinmo>
+<preciotraspaso>0</preciotraspaso>
+<precioalq>0</precioalq>
+<outlet>0</outlet>
+<ref>LOC15</ref>
+<accion>Vender</accion>
+<ciudad>Torrijos</ciudad>
+<cp>45500</cp>
+<zona>Castilla la mancha</zona>
+<adaptadominus>0</adaptadominus>
+<airecentral>0</airecentral>
+<aire_con>0</aire_con>
+<alarma>0</alarma>
+<alarmaincendio>0</alarmaincendio>
+<alarmarobo>0</alarmarobo>
+<arma_empo>0</arma_empo>
+<ascensor>0</ascensor>
+<balcon>0</balcon>
+<bar>0</bar>
+<jardin>0</jardin>
+<barbacoa>0</barbacoa>
+<cajafuerte>0</cajafuerte>
+<keycalefa>0</keycalefa>
+<keysuelo>0</keysuelo>
+<calefacentral>0</calefacentral>
+<calefaccion>0</calefaccion>
+<chimenea>0</chimenea>
+<depoagua>0</depoagua>
+<descalcificador>0</descalcificador>
+<despensa>0</despensa>
+<diafano>0</diafano>
+<electro>0</electro>
+<esquina>0</esquina>
+<galeria>0</galeria>
+<plaza_gara>0</plaza_gara>
+<garajedoble>0</garajedoble>
+<gasciudad>0</gasciudad>
+<gimnasio>0</gimnasio>
+<habjuegos>0</habjuegos>
+<tipomensual>MES</tipomensual>
+<hidromasaje>0</hidromasaje>
+<jacuzzi>0</jacuzzi>
+<lavanderia>0</lavanderia>
+<linea_tlf>0</linea_tlf>
+<luminoso>1</luminoso>
+<ibi>0.00</ibi>
+<luz>1</luz>
+<muebles>0</muebles>
+<ojobuey>0</ojobuey>
+<parking>0</parking>
+<patio>0</patio>
+<piscina_com>0</piscina_com>
+<piscina_prop>0</piscina_prop>
+<preinstaacc>0</preinstaacc>
+<primera_line>0</primera_line>
+<puerta_blin>0</puerta_blin>
+<satelite>0</satelite>
+<sauna>0</sauna>
+<solarium>0</solarium>
+<sotano>0</sotano>
+<mirador>0</mirador>
+<apartseparado>0</apartseparado>
+<bombafriocalor>0</bombafriocalor>
+<buhardilla>0</buhardilla>
+<pergola>0</pergola>
+<tv>0</tv>
+<terraza>0</terraza>
+<terrazaacris>0</terrazaacris>
+<todoext>2</todoext>
+<trastero>0</trastero>
+<urbanizacion>0</urbanizacion>
+<nplazasparking>0</nplazasparking>
+<vestuarios>0</vestuarios>
+<precioparking/>
+<preciogaraje/>
+<vistasalmar>0</vistasalmar>
+<energialetra/>
+<energiarecibido>3</energiarecibido>
+<energiavalor>0</energiavalor>
+<emisionesletra/>
+<emisionesvalor>0</emisionesvalor>
+<cocina_inde>0</cocina_inde>
+<keyelectricidad>0</keyelectricidad>
+<keyfachada>0</keyfachada>
+<keyagua>0</keyagua>
+<keyvista>0</keyvista>
+<keytecho>0</keytecho>
+<montana>0</montana>
+<rural>0</rural>
+<costa>0</costa>
+<vallado>0</vallado>
+<autobuses>1</autobuses>
+<centros_comerciales>0</centros_comerciales>
+<tranvia>0</tranvia>
+<zonas_infantiles>0</zonas_infantiles>
+<colegios>1</colegios>
+<arboles>0</arboles>
+<hospitales>0</hospitales>
+<tren>0</tren>
+<metro>0</metro>
+<golf>0</golf>
+<descrip1>
+<![CDATA[ ¡Gran oportunidad de inversión! Este local comercial en planta baja se encuentra ubicado estratégicamente en el epicentro comercial de de Torrijos muy cercano a la avenida de la estación, una vía principal comercial. Con 123m² construidos, este local ofrece un amplio espacio para desarrollar tu negocio.~~Además de su excelente ubicación, esta propiedad cuenta con un precio muy atractivo, convirtiéndola en una oportunidad imperdible. Nuestra inmobiliaria, con más de 15 años de experiencia, te garantiza un servicio de calidad y confianza.~~No dudes en concertar una visita para conocer personalmente este local. Te invitamos a aprovechar esta oportunidad única y visitar este inmueble sin ningún compromiso. ¡No pierdas la oportunidad de hacer crecer tu negocio en este increíble local comercial!~ ]]>
+</descrip1>
+<titulo1>
+<![CDATA[ ]]>
+</titulo1>
+<titulo2>
+<![CDATA[ ]]>
+</titulo2>
+<descrip2>
+<![CDATA[ ]]>
+</descrip2>
+<titulo3>
+<![CDATA[ ]]>
+</titulo3>
+<descrip3>
+<![CDATA[ ]]>
+</descrip3>
+<titulo4>
+<![CDATA[ ]]>
+</titulo4>
+<descrip4>
+<![CDATA[ ]]>
+</descrip4>
+<titulo5>
+<![CDATA[ ]]>
+</titulo5>
+<descrip5>
+<![CDATA[ ]]>
+</descrip5>
+<titulo6>
+<![CDATA[ ]]>
+</titulo6>
+<descrip6>
+<![CDATA[ ]]>
+</descrip6>
+<titulo7>
+<![CDATA[ ]]>
+</titulo7>
+<descrip7>
+<![CDATA[ ]]>
+</descrip7>
+<titulo8>
+<![CDATA[ ]]>
+</titulo8>
+<descrip8>
+<![CDATA[ ]]>
+</descrip8>
+<titulo9>
+<![CDATA[ ]]>
+</titulo9>
+<descrip9>
+<![CDATA[ ]]>
+</descrip9>
+<titulo10>
+<![CDATA[ ]]>
+</titulo10>
+<descrip10>
+<![CDATA[ ]]>
+</descrip10>
+<titulo11>
+<![CDATA[ ]]>
+</titulo11>
+<descrip11>
+<![CDATA[ ]]>
+</descrip11>
+<titulo12>
+<![CDATA[ ]]>
+</titulo12>
+<descrip12>
+<![CDATA[ ]]>
+</descrip12>
+<titulo15>
+<![CDATA[ ]]>
+</titulo15>
+<descrip15>
+<![CDATA[ ]]>
+</descrip15>
+<titulo16>
+<![CDATA[ ]]>
+</titulo16>
+<descrip16>
+<![CDATA[ ]]>
+</descrip16>
+<titulo17>
+<![CDATA[ ]]>
+</titulo17>
+<descrip17>
+<![CDATA[ ]]>
+</descrip17>
+<titulo18>
+<![CDATA[ ]]>
+</titulo18>
+<descrip18>
+<![CDATA[ ]]>
+</descrip18>
+<titulo19>
+<![CDATA[ ]]>
+</titulo19>
+<descrip19>
+<![CDATA[ ]]>
+</descrip19>
+<titulo22>
+<![CDATA[ ]]>
+</titulo22>
+<descrip22>
+<![CDATA[ ]]>
+</descrip22>
+<titulo23>
+<![CDATA[ ]]>
+</titulo23>
+<descrip23>
+<![CDATA[ ]]>
+</descrip23>
+<titulo24>
+<![CDATA[ ]]>
+</titulo24>
+<descrip24>
+<![CDATA[ ]]>
+</descrip24>
+<titulo25>
+<![CDATA[ ]]>
+</titulo25>
+<descrip25>
+<![CDATA[ ]]>
+</descrip25>
+<estadoficha>1</estadoficha>
+<exclu>0</exclu>
+<tour/>
+<keyagente>174130</keyagente>
+<agente>
+<![CDATA[ ANDRES ]]>
+</agente>
+<email_agente/>
+<prefijo_tlf_agente>34</prefijo_tlf_agente>
+<tlf_agente>925764106</tlf_agente>
+<numpanos>0</numpanos>
+<numfotos>9</numfotos>
+<foto1>https://fotos15.apinmo.com/7533/23863849/2-1.jpg</foto1>
+<foto2>https://fotos15.apinmo.com/7533/23863849/2-2.jpg</foto2>
+<foto3>https://fotos15.apinmo.com/7533/23863849/2-3.jpg</foto3>
+<foto4>https://fotos15.apinmo.com/7533/23863849/2-4.jpg</foto4>
+<foto5>https://fotos15.apinmo.com/7533/23863849/2-5.jpg</foto5>
+<foto6>https://fotos15.apinmo.com/7533/23863849/2-6.jpg</foto6>
+<foto7>https://fotos15.apinmo.com/7533/23863849/2-7.jpg</foto7>
+<foto8>https://fotos15.apinmo.com/7533/23863849/2-8.jpg</foto8>
+<foto9>https://fotos15.apinmo.com/7533/23863849/2-9.jpg</foto9>
+<numpanos>0</numpanos>
+<videos/>
+</propiedad>
 </propiedades>
 <!-- Fecha Creacion: 23-01-2025 1:01:47 -->

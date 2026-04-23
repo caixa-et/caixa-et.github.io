@@ -8359,5 +8359,816 @@
 			</image>
 		</images>
 	</property>
-	
+
+	<property>
+<id>PROVA_HOUSY</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>housy</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<es>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</es>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+</image>
+<image id="5">
+<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>PROVA_VILLA</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>villa</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<es>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</es>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+</image>
+<image id="5">
+<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>PROVA_PARKING</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>parking</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<es>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</es>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+</image>
+<image id="5">
+<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>PROVA_GARAJE</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>garaje</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<es>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</es>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+</image>
+<image id="5">
+<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>PROVA_LOCAL</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>local</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<es>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</es>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+</image>
+<image id="5">
+<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>PROVA_NULL</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type></type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<es>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</es>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+</image>
+<image id="5">
+<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>PROVA_NULL2</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>null2</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<es>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</es>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+</image>
+<image id="5">
+<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>PROVA_EDIFICIO</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>edificio</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<es>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</es>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+</image>
+<image id="5">
+<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>PROVA_APARCAMIENTO</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>aparcamiento</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<es>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</es>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+</image>
+<image id="5">
+<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>PROVA_GARAGE</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>garage</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<es>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</es>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+</image>
+<image id="5">
+<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>PROVA_TERRENO</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>terreno</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<es>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</es>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+</image>
+<image id="5">
+<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>PROVA_OFICINA</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>oficina</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<es>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</es>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+</image>
+<image id="5">
+<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>PROVA_APARTMENT</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>apartment</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<es>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</es>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+</image>
+<image id="5">
+<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>PROVA_ESTUDI</id>
+<date>2026-02-03 03:01:41</date>
+<ref>N6033</ref>
+<price>449500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>estudi</type>
+<town>Ciudad Quesada</town>
+<province>ALICANTE</province>
+<location_detail>Costa blanca sur</location_detail>
+<beds>3</beds>
+<baths>2</baths>
+<pool>1</pool>
+<location>
+<latitude>38.07487531026982</latitude>
+<longitude>-0.7084744107600045</longitude>
+</location>
+<surface_area>
+<built>189</built>
+<plot>248</plot>
+</surface_area>
+<url>
+<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
+</url>
+<desc>
+<es>
+<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
+</es>
+</desc>
+<features>
+<feature>Parking space</feature>
+<feature>Garden</feature>
+<feature>Terrace</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Private swimming pool</feature>
+<feature>Urbanization</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+</image>
+<image id="5">
+<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+</image>
+</images>
+</property>
 </root>

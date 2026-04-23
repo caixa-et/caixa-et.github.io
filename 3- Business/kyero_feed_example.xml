@@ -8361,814 +8361,1397 @@
 	</property>
 
 	<property>
-<id>PROVA_HOUSY</id>
-<date>2026-02-03 03:01:41</date>
-<ref>N6033</ref>
-<price>449500</price>
-<currency>EUR</currency>
-<price_freq>sale</price_freq>
-<new_build>1</new_build>
-<type>housy</type>
-<town>Ciudad Quesada</town>
-<province>ALICANTE</province>
-<location_detail>Costa blanca sur</location_detail>
-<beds>3</beds>
-<baths>2</baths>
-<pool>1</pool>
-<location>
-<latitude>38.07487531026982</latitude>
-<longitude>-0.7084744107600045</longitude>
-</location>
-<surface_area>
-<built>189</built>
-<plot>248</plot>
-</surface_area>
-<url>
-<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
-</url>
-<desc>
-<es>
-<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
-</es>
-</desc>
-<features>
-<feature>Parking space</feature>
-<feature>Garden</feature>
-<feature>Terrace</feature>
-<feature>Fitted wardrobes</feature>
-<feature>Private swimming pool</feature>
-<feature>Urbanization</feature>
-</features>
-<images>
-<image id="1">
-<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
-</image>
-<image id="2">
-<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
-</image>
-<image id="3">
-<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
-</image>
-<image id="4">
-<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
-</image>
-<image id="5">
-<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
-</image>
-</images>
-</property>
+		<id>PROVA_HOUSY_2</id>
+		<date>2026-03-11 09:33:35</date>
+		<ref>RI-00169/6319</ref>
+		<price>3200</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>1</leasehold>
+		<type>housy</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Sa Cabaneta</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Sa Cabaneta)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.756263</altitud>
+		<latitud>39.614576</latitud>
+		<location>
+			<latitude>39.614576</latitude>
+			<longitude>2.756263</longitude>
+		</location>
+		<virtual_tour_dominio>inmovilla</virtual_tour_dominio>
+		<virtual_tour_url>https://ap.apinmo.com/fotosvr/tour.php?cod=10763281.6319</virtual_tour_url>
+		<beds>4</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+			<built>345</built>
+			<plot>822</plot>
+		</surface_area>
+		<energy_rating></energy_rating>
+		<desc>
+			<es>
+				<![CDATA[Espacioso y perfecto para familias]]>
+			</es>
+		</desc>
+		<features>
+			<feature>Balcon</feature>
+			<feature>porch</feature>
+			<feature>Solarium</feature>
+			<feature>Terrace</feature>
+			<feature>Wardrobes cupboard</feature>
+			<feature>Storeroom</feature>
+			<feature>Appliances</feature>
+			<feature>Heating</feature>
+			<feature>Air-Conditioning</feature>
+			<feature>Pool Own </feature>
+			<feature>Light</feature>
+			<feature>Laundry</feature>
+			<feature>Ceilings</feature>
+			<feature>Parking</feature>
+			<feature>Terrace </feature>
+			<feature>Barbecue</feature>
+			<feature>Gymnasium</feature>
+			<feature>Garden</feature>
+			<feature>Vistas al mar</feature>
+		</features>
+		<images>
+			<image id="1">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+			</image>
+		</images>
+	</property>
 
-<property>
-<id>PROVA_VILLA</id>
-<date>2026-02-03 03:01:41</date>
-<ref>N6033</ref>
-<price>449500</price>
-<currency>EUR</currency>
-<price_freq>sale</price_freq>
-<new_build>1</new_build>
-<type>villa</type>
-<town>Ciudad Quesada</town>
-<province>ALICANTE</province>
-<location_detail>Costa blanca sur</location_detail>
-<beds>3</beds>
-<baths>2</baths>
-<pool>1</pool>
-<location>
-<latitude>38.07487531026982</latitude>
-<longitude>-0.7084744107600045</longitude>
-</location>
-<surface_area>
-<built>189</built>
-<plot>248</plot>
-</surface_area>
-<url>
-<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
-</url>
-<desc>
-<es>
-<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
-</es>
-</desc>
-<features>
-<feature>Parking space</feature>
-<feature>Garden</feature>
-<feature>Terrace</feature>
-<feature>Fitted wardrobes</feature>
-<feature>Private swimming pool</feature>
-<feature>Urbanization</feature>
-</features>
-<images>
-<image id="1">
-<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
-</image>
-<image id="2">
-<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
-</image>
-<image id="3">
-<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
-</image>
-<image id="4">
-<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
-</image>
-<image id="5">
-<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
-</image>
-</images>
-</property>
+	<property>
+		<id>PROVA_VILLA_2</id>
+		<date>2026-03-11 09:33:35</date>
+		<ref>RI-00169/6319</ref>
+		<price>3200</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>1</leasehold>
+		<type>villa</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Sa Cabaneta</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Sa Cabaneta)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.756263</altitud>
+		<latitud>39.614576</latitud>
+		<location>
+			<latitude>39.614576</latitude>
+			<longitude>2.756263</longitude>
+		</location>
+		<virtual_tour_dominio>inmovilla</virtual_tour_dominio>
+		<virtual_tour_url>https://ap.apinmo.com/fotosvr/tour.php?cod=10763281.6319</virtual_tour_url>
+		<beds>4</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+			<built>345</built>
+			<plot>822</plot>
+		</surface_area>
+		<energy_rating></energy_rating>
+		<desc>
+			<es>
+				<![CDATA[Espacioso y perfecto para familias]]>
+			</es>
+		</desc>
+		<features>
+			<feature>Balcon</feature>
+			<feature>porch</feature>
+			<feature>Solarium</feature>
+			<feature>Terrace</feature>
+			<feature>Wardrobes cupboard</feature>
+			<feature>Storeroom</feature>
+			<feature>Appliances</feature>
+			<feature>Heating</feature>
+			<feature>Air-Conditioning</feature>
+			<feature>Pool Own </feature>
+			<feature>Light</feature>
+			<feature>Laundry</feature>
+			<feature>Ceilings</feature>
+			<feature>Parking</feature>
+			<feature>Terrace </feature>
+			<feature>Barbecue</feature>
+			<feature>Gymnasium</feature>
+			<feature>Garden</feature>
+			<feature>Vistas al mar</feature>
+		</features>
+		<images>
+			<image id="1">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+			</image>
+		</images>
+	</property>
 
-<property>
-<id>PROVA_PARKING</id>
-<date>2026-02-03 03:01:41</date>
-<ref>N6033</ref>
-<price>449500</price>
-<currency>EUR</currency>
-<price_freq>sale</price_freq>
-<new_build>1</new_build>
-<type>parking</type>
-<town>Ciudad Quesada</town>
-<province>ALICANTE</province>
-<location_detail>Costa blanca sur</location_detail>
-<beds>3</beds>
-<baths>2</baths>
-<pool>1</pool>
-<location>
-<latitude>38.07487531026982</latitude>
-<longitude>-0.7084744107600045</longitude>
-</location>
-<surface_area>
-<built>189</built>
-<plot>248</plot>
-</surface_area>
-<url>
-<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
-</url>
-<desc>
-<es>
-<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
-</es>
-</desc>
-<features>
-<feature>Parking space</feature>
-<feature>Garden</feature>
-<feature>Terrace</feature>
-<feature>Fitted wardrobes</feature>
-<feature>Private swimming pool</feature>
-<feature>Urbanization</feature>
-</features>
-<images>
-<image id="1">
-<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
-</image>
-<image id="2">
-<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
-</image>
-<image id="3">
-<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
-</image>
-<image id="4">
-<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
-</image>
-<image id="5">
-<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
-</image>
-</images>
-</property>
+	<property>
+		<id>PROVA_PARKING_2</id>
+		<date>2026-03-11 09:33:35</date>
+		<ref>RI-00169/6319</ref>
+		<price>3200</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>1</leasehold>
+		<type>parking</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Sa Cabaneta</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Sa Cabaneta)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.756263</altitud>
+		<latitud>39.614576</latitud>
+		<location>
+			<latitude>39.614576</latitude>
+			<longitude>2.756263</longitude>
+		</location>
+		<virtual_tour_dominio>inmovilla</virtual_tour_dominio>
+		<virtual_tour_url>https://ap.apinmo.com/fotosvr/tour.php?cod=10763281.6319</virtual_tour_url>
+		<beds>4</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+			<built>345</built>
+			<plot>822</plot>
+		</surface_area>
+		<energy_rating></energy_rating>
+		<desc>
+			<es>
+				<![CDATA[Espacioso y perfecto para familias]]>
+			</es>
+		</desc>
+		<features>
+			<feature>Balcon</feature>
+			<feature>porch</feature>
+			<feature>Solarium</feature>
+			<feature>Terrace</feature>
+			<feature>Wardrobes cupboard</feature>
+			<feature>Storeroom</feature>
+			<feature>Appliances</feature>
+			<feature>Heating</feature>
+			<feature>Air-Conditioning</feature>
+			<feature>Pool Own </feature>
+			<feature>Light</feature>
+			<feature>Laundry</feature>
+			<feature>Ceilings</feature>
+			<feature>Parking</feature>
+			<feature>Terrace </feature>
+			<feature>Barbecue</feature>
+			<feature>Gymnasium</feature>
+			<feature>Garden</feature>
+			<feature>Vistas al mar</feature>
+		</features>
+		<images>
+			<image id="1">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+			</image>
+		</images>
+	</property>
 
-<property>
-<id>PROVA_GARAJE</id>
-<date>2026-02-03 03:01:41</date>
-<ref>N6033</ref>
-<price>449500</price>
-<currency>EUR</currency>
-<price_freq>sale</price_freq>
-<new_build>1</new_build>
-<type>garaje</type>
-<town>Ciudad Quesada</town>
-<province>ALICANTE</province>
-<location_detail>Costa blanca sur</location_detail>
-<beds>3</beds>
-<baths>2</baths>
-<pool>1</pool>
-<location>
-<latitude>38.07487531026982</latitude>
-<longitude>-0.7084744107600045</longitude>
-</location>
-<surface_area>
-<built>189</built>
-<plot>248</plot>
-</surface_area>
-<url>
-<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
-</url>
-<desc>
-<es>
-<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
-</es>
-</desc>
-<features>
-<feature>Parking space</feature>
-<feature>Garden</feature>
-<feature>Terrace</feature>
-<feature>Fitted wardrobes</feature>
-<feature>Private swimming pool</feature>
-<feature>Urbanization</feature>
-</features>
-<images>
-<image id="1">
-<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
-</image>
-<image id="2">
-<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
-</image>
-<image id="3">
-<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
-</image>
-<image id="4">
-<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
-</image>
-<image id="5">
-<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
-</image>
-</images>
-</property>
+	<property>
+		<id>PROVA_GARAJE_2</id>
+		<date>2026-03-11 09:33:35</date>
+		<ref>RI-00169/6319</ref>
+		<price>3200</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>1</leasehold>
+		<type>garaje</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Sa Cabaneta</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Sa Cabaneta)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.756263</altitud>
+		<latitud>39.614576</latitud>
+		<location>
+			<latitude>39.614576</latitude>
+			<longitude>2.756263</longitude>
+		</location>
+		<virtual_tour_dominio>inmovilla</virtual_tour_dominio>
+		<virtual_tour_url>https://ap.apinmo.com/fotosvr/tour.php?cod=10763281.6319</virtual_tour_url>
+		<beds>4</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+			<built>345</built>
+			<plot>822</plot>
+		</surface_area>
+		<energy_rating></energy_rating>
+		<desc>
+			<es>
+				<![CDATA[Espacioso y perfecto para familias]]>
+			</es>
+		</desc>
+		<features>
+			<feature>Balcon</feature>
+			<feature>porch</feature>
+			<feature>Solarium</feature>
+			<feature>Terrace</feature>
+			<feature>Wardrobes cupboard</feature>
+			<feature>Storeroom</feature>
+			<feature>Appliances</feature>
+			<feature>Heating</feature>
+			<feature>Air-Conditioning</feature>
+			<feature>Pool Own </feature>
+			<feature>Light</feature>
+			<feature>Laundry</feature>
+			<feature>Ceilings</feature>
+			<feature>Parking</feature>
+			<feature>Terrace </feature>
+			<feature>Barbecue</feature>
+			<feature>Gymnasium</feature>
+			<feature>Garden</feature>
+			<feature>Vistas al mar</feature>
+		</features>
+		<images>
+			<image id="1">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+			</image>
+		</images>
+	</property>
 
-<property>
-<id>PROVA_LOCAL</id>
-<date>2026-02-03 03:01:41</date>
-<ref>N6033</ref>
-<price>449500</price>
-<currency>EUR</currency>
-<price_freq>sale</price_freq>
-<new_build>1</new_build>
-<type>local</type>
-<town>Ciudad Quesada</town>
-<province>ALICANTE</province>
-<location_detail>Costa blanca sur</location_detail>
-<beds>3</beds>
-<baths>2</baths>
-<pool>1</pool>
-<location>
-<latitude>38.07487531026982</latitude>
-<longitude>-0.7084744107600045</longitude>
-</location>
-<surface_area>
-<built>189</built>
-<plot>248</plot>
-</surface_area>
-<url>
-<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
-</url>
-<desc>
-<es>
-<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
-</es>
-</desc>
-<features>
-<feature>Parking space</feature>
-<feature>Garden</feature>
-<feature>Terrace</feature>
-<feature>Fitted wardrobes</feature>
-<feature>Private swimming pool</feature>
-<feature>Urbanization</feature>
-</features>
-<images>
-<image id="1">
-<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
-</image>
-<image id="2">
-<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
-</image>
-<image id="3">
-<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
-</image>
-<image id="4">
-<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
-</image>
-<image id="5">
-<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
-</image>
-</images>
-</property>
+	<property>
+		<id>PROVA_LOCAL_2</id>
+		<date>2026-03-11 09:33:35</date>
+		<ref>RI-00169/6319</ref>
+		<price>3200</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>1</leasehold>
+		<type>local</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Sa Cabaneta</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Sa Cabaneta)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.756263</altitud>
+		<latitud>39.614576</latitud>
+		<location>
+			<latitude>39.614576</latitude>
+			<longitude>2.756263</longitude>
+		</location>
+		<virtual_tour_dominio>inmovilla</virtual_tour_dominio>
+		<virtual_tour_url>https://ap.apinmo.com/fotosvr/tour.php?cod=10763281.6319</virtual_tour_url>
+		<beds>4</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+			<built>345</built>
+			<plot>822</plot>
+		</surface_area>
+		<energy_rating></energy_rating>
+		<desc>
+			<es>
+				<![CDATA[Espacioso y perfecto para familias]]>
+			</es>
+		</desc>
+		<features>
+			<feature>Balcon</feature>
+			<feature>porch</feature>
+			<feature>Solarium</feature>
+			<feature>Terrace</feature>
+			<feature>Wardrobes cupboard</feature>
+			<feature>Storeroom</feature>
+			<feature>Appliances</feature>
+			<feature>Heating</feature>
+			<feature>Air-Conditioning</feature>
+			<feature>Pool Own </feature>
+			<feature>Light</feature>
+			<feature>Laundry</feature>
+			<feature>Ceilings</feature>
+			<feature>Parking</feature>
+			<feature>Terrace </feature>
+			<feature>Barbecue</feature>
+			<feature>Gymnasium</feature>
+			<feature>Garden</feature>
+			<feature>Vistas al mar</feature>
+		</features>
+		<images>
+			<image id="1">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+			</image>
+		</images>
+	</property>
 
-<property>
-<id>PROVA_NULL</id>
-<date>2026-02-03 03:01:41</date>
-<ref>N6033</ref>
-<price>449500</price>
-<currency>EUR</currency>
-<price_freq>sale</price_freq>
-<new_build>1</new_build>
-<type></type>
-<town>Ciudad Quesada</town>
-<province>ALICANTE</province>
-<location_detail>Costa blanca sur</location_detail>
-<beds>3</beds>
-<baths>2</baths>
-<pool>1</pool>
-<location>
-<latitude>38.07487531026982</latitude>
-<longitude>-0.7084744107600045</longitude>
-</location>
-<surface_area>
-<built>189</built>
-<plot>248</plot>
-</surface_area>
-<url>
-<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
-</url>
-<desc>
-<es>
-<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
-</es>
-</desc>
-<features>
-<feature>Parking space</feature>
-<feature>Garden</feature>
-<feature>Terrace</feature>
-<feature>Fitted wardrobes</feature>
-<feature>Private swimming pool</feature>
-<feature>Urbanization</feature>
-</features>
-<images>
-<image id="1">
-<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
-</image>
-<image id="2">
-<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
-</image>
-<image id="3">
-<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
-</image>
-<image id="4">
-<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
-</image>
-<image id="5">
-<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
-</image>
-</images>
-</property>
+		<property>
+		<id>PROVA_NULL_2</id>
+		<date>2026-03-11 09:33:35</date>
+		<ref>RI-00169/6319</ref>
+		<price>3200</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>1</leasehold>
+		<type></type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Sa Cabaneta</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Sa Cabaneta)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.756263</altitud>
+		<latitud>39.614576</latitud>
+		<location>
+			<latitude>39.614576</latitude>
+			<longitude>2.756263</longitude>
+		</location>
+		<virtual_tour_dominio>inmovilla</virtual_tour_dominio>
+		<virtual_tour_url>https://ap.apinmo.com/fotosvr/tour.php?cod=10763281.6319</virtual_tour_url>
+		<beds>4</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+			<built>345</built>
+			<plot>822</plot>
+		</surface_area>
+		<energy_rating></energy_rating>
+		<desc>
+			<es>
+				<![CDATA[Espacioso y perfecto para familias]]>
+			</es>
+		</desc>
+		<features>
+			<feature>Balcon</feature>
+			<feature>porch</feature>
+			<feature>Solarium</feature>
+			<feature>Terrace</feature>
+			<feature>Wardrobes cupboard</feature>
+			<feature>Storeroom</feature>
+			<feature>Appliances</feature>
+			<feature>Heating</feature>
+			<feature>Air-Conditioning</feature>
+			<feature>Pool Own </feature>
+			<feature>Light</feature>
+			<feature>Laundry</feature>
+			<feature>Ceilings</feature>
+			<feature>Parking</feature>
+			<feature>Terrace </feature>
+			<feature>Barbecue</feature>
+			<feature>Gymnasium</feature>
+			<feature>Garden</feature>
+			<feature>Vistas al mar</feature>
+		</features>
+		<images>
+			<image id="1">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+			</image>
+		</images>
+	</property>
 
-<property>
-<id>PROVA_NULL2</id>
-<date>2026-02-03 03:01:41</date>
-<ref>N6033</ref>
-<price>449500</price>
-<currency>EUR</currency>
-<price_freq>sale</price_freq>
-<new_build>1</new_build>
-<type>null2</type>
-<town>Ciudad Quesada</town>
-<province>ALICANTE</province>
-<location_detail>Costa blanca sur</location_detail>
-<beds>3</beds>
-<baths>2</baths>
-<pool>1</pool>
-<location>
-<latitude>38.07487531026982</latitude>
-<longitude>-0.7084744107600045</longitude>
-</location>
-<surface_area>
-<built>189</built>
-<plot>248</plot>
-</surface_area>
-<url>
-<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
-</url>
-<desc>
-<es>
-<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
-</es>
-</desc>
-<features>
-<feature>Parking space</feature>
-<feature>Garden</feature>
-<feature>Terrace</feature>
-<feature>Fitted wardrobes</feature>
-<feature>Private swimming pool</feature>
-<feature>Urbanization</feature>
-</features>
-<images>
-<image id="1">
-<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
-</image>
-<image id="2">
-<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
-</image>
-<image id="3">
-<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
-</image>
-<image id="4">
-<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
-</image>
-<image id="5">
-<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
-</image>
-</images>
-</property>
+	<property>
+		<id>PROVA_NULL2_2</id>
+		<date>2026-03-11 09:33:35</date>
+		<ref>RI-00169/6319</ref>
+		<price>3200</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>1</leasehold>
+		<type>null</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Sa Cabaneta</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Sa Cabaneta)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.756263</altitud>
+		<latitud>39.614576</latitud>
+		<location>
+			<latitude>39.614576</latitude>
+			<longitude>2.756263</longitude>
+		</location>
+		<virtual_tour_dominio>inmovilla</virtual_tour_dominio>
+		<virtual_tour_url>https://ap.apinmo.com/fotosvr/tour.php?cod=10763281.6319</virtual_tour_url>
+		<beds>4</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+			<built>345</built>
+			<plot>822</plot>
+		</surface_area>
+		<energy_rating></energy_rating>
+		<desc>
+			<es>
+				<![CDATA[Espacioso y perfecto para familias]]>
+			</es>
+		</desc>
+		<features>
+			<feature>Balcon</feature>
+			<feature>porch</feature>
+			<feature>Solarium</feature>
+			<feature>Terrace</feature>
+			<feature>Wardrobes cupboard</feature>
+			<feature>Storeroom</feature>
+			<feature>Appliances</feature>
+			<feature>Heating</feature>
+			<feature>Air-Conditioning</feature>
+			<feature>Pool Own </feature>
+			<feature>Light</feature>
+			<feature>Laundry</feature>
+			<feature>Ceilings</feature>
+			<feature>Parking</feature>
+			<feature>Terrace </feature>
+			<feature>Barbecue</feature>
+			<feature>Gymnasium</feature>
+			<feature>Garden</feature>
+			<feature>Vistas al mar</feature>
+		</features>
+		<images>
+			<image id="1">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+			</image>
+		</images>
+	</property>
 
-<property>
-<id>PROVA_EDIFICIO</id>
-<date>2026-02-03 03:01:41</date>
-<ref>N6033</ref>
-<price>449500</price>
-<currency>EUR</currency>
-<price_freq>sale</price_freq>
-<new_build>1</new_build>
-<type>edificio</type>
-<town>Ciudad Quesada</town>
-<province>ALICANTE</province>
-<location_detail>Costa blanca sur</location_detail>
-<beds>3</beds>
-<baths>2</baths>
-<pool>1</pool>
-<location>
-<latitude>38.07487531026982</latitude>
-<longitude>-0.7084744107600045</longitude>
-</location>
-<surface_area>
-<built>189</built>
-<plot>248</plot>
-</surface_area>
-<url>
-<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
-</url>
-<desc>
-<es>
-<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
-</es>
-</desc>
-<features>
-<feature>Parking space</feature>
-<feature>Garden</feature>
-<feature>Terrace</feature>
-<feature>Fitted wardrobes</feature>
-<feature>Private swimming pool</feature>
-<feature>Urbanization</feature>
-</features>
-<images>
-<image id="1">
-<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
-</image>
-<image id="2">
-<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
-</image>
-<image id="3">
-<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
-</image>
-<image id="4">
-<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
-</image>
-<image id="5">
-<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
-</image>
-</images>
-</property>
+	<property>
+		<id>PROVA_EDIFICIO_2</id>
+		<date>2026-03-11 09:33:35</date>
+		<ref>RI-00169/6319</ref>
+		<price>3200</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>1</leasehold>
+		<type>edificio</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Sa Cabaneta</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Sa Cabaneta)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.756263</altitud>
+		<latitud>39.614576</latitud>
+		<location>
+			<latitude>39.614576</latitude>
+			<longitude>2.756263</longitude>
+		</location>
+		<virtual_tour_dominio>inmovilla</virtual_tour_dominio>
+		<virtual_tour_url>https://ap.apinmo.com/fotosvr/tour.php?cod=10763281.6319</virtual_tour_url>
+		<beds>4</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+			<built>345</built>
+			<plot>822</plot>
+		</surface_area>
+		<energy_rating></energy_rating>
+		<desc>
+			<es>
+				<![CDATA[Espacioso y perfecto para familias]]>
+			</es>
+		</desc>
+		<features>
+			<feature>Balcon</feature>
+			<feature>porch</feature>
+			<feature>Solarium</feature>
+			<feature>Terrace</feature>
+			<feature>Wardrobes cupboard</feature>
+			<feature>Storeroom</feature>
+			<feature>Appliances</feature>
+			<feature>Heating</feature>
+			<feature>Air-Conditioning</feature>
+			<feature>Pool Own </feature>
+			<feature>Light</feature>
+			<feature>Laundry</feature>
+			<feature>Ceilings</feature>
+			<feature>Parking</feature>
+			<feature>Terrace </feature>
+			<feature>Barbecue</feature>
+			<feature>Gymnasium</feature>
+			<feature>Garden</feature>
+			<feature>Vistas al mar</feature>
+		</features>
+		<images>
+			<image id="1">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+			</image>
+		</images>
+	</property>
 
-<property>
-<id>PROVA_APARCAMIENTO</id>
-<date>2026-02-03 03:01:41</date>
-<ref>N6033</ref>
-<price>449500</price>
-<currency>EUR</currency>
-<price_freq>sale</price_freq>
-<new_build>1</new_build>
-<type>aparcamiento</type>
-<town>Ciudad Quesada</town>
-<province>ALICANTE</province>
-<location_detail>Costa blanca sur</location_detail>
-<beds>3</beds>
-<baths>2</baths>
-<pool>1</pool>
-<location>
-<latitude>38.07487531026982</latitude>
-<longitude>-0.7084744107600045</longitude>
-</location>
-<surface_area>
-<built>189</built>
-<plot>248</plot>
-</surface_area>
-<url>
-<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
-</url>
-<desc>
-<es>
-<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
-</es>
-</desc>
-<features>
-<feature>Parking space</feature>
-<feature>Garden</feature>
-<feature>Terrace</feature>
-<feature>Fitted wardrobes</feature>
-<feature>Private swimming pool</feature>
-<feature>Urbanization</feature>
-</features>
-<images>
-<image id="1">
-<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
-</image>
-<image id="2">
-<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
-</image>
-<image id="3">
-<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
-</image>
-<image id="4">
-<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
-</image>
-<image id="5">
-<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
-</image>
-</images>
-</property>
+	<property>
+		<id>PROVA_APARCAMIENTO_2</id>
+		<date>2026-03-11 09:33:35</date>
+		<ref>RI-00169/6319</ref>
+		<price>3200</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>1</leasehold>
+		<type>aparcamiento</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Sa Cabaneta</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Sa Cabaneta)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.756263</altitud>
+		<latitud>39.614576</latitud>
+		<location>
+			<latitude>39.614576</latitude>
+			<longitude>2.756263</longitude>
+		</location>
+		<virtual_tour_dominio>inmovilla</virtual_tour_dominio>
+		<virtual_tour_url>https://ap.apinmo.com/fotosvr/tour.php?cod=10763281.6319</virtual_tour_url>
+		<beds>4</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+			<built>345</built>
+			<plot>822</plot>
+		</surface_area>
+		<energy_rating></energy_rating>
+		<desc>
+			<es>
+				<![CDATA[Espacioso y perfecto para familias]]>
+			</es>
+		</desc>
+		<features>
+			<feature>Balcon</feature>
+			<feature>porch</feature>
+			<feature>Solarium</feature>
+			<feature>Terrace</feature>
+			<feature>Wardrobes cupboard</feature>
+			<feature>Storeroom</feature>
+			<feature>Appliances</feature>
+			<feature>Heating</feature>
+			<feature>Air-Conditioning</feature>
+			<feature>Pool Own </feature>
+			<feature>Light</feature>
+			<feature>Laundry</feature>
+			<feature>Ceilings</feature>
+			<feature>Parking</feature>
+			<feature>Terrace </feature>
+			<feature>Barbecue</feature>
+			<feature>Gymnasium</feature>
+			<feature>Garden</feature>
+			<feature>Vistas al mar</feature>
+		</features>
+		<images>
+			<image id="1">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+			</image>
+		</images>
+	</property>
 
-<property>
-<id>PROVA_GARAGE</id>
-<date>2026-02-03 03:01:41</date>
-<ref>N6033</ref>
-<price>449500</price>
-<currency>EUR</currency>
-<price_freq>sale</price_freq>
-<new_build>1</new_build>
-<type>garage</type>
-<town>Ciudad Quesada</town>
-<province>ALICANTE</province>
-<location_detail>Costa blanca sur</location_detail>
-<beds>3</beds>
-<baths>2</baths>
-<pool>1</pool>
-<location>
-<latitude>38.07487531026982</latitude>
-<longitude>-0.7084744107600045</longitude>
-</location>
-<surface_area>
-<built>189</built>
-<plot>248</plot>
-</surface_area>
-<url>
-<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
-</url>
-<desc>
-<es>
-<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
-</es>
-</desc>
-<features>
-<feature>Parking space</feature>
-<feature>Garden</feature>
-<feature>Terrace</feature>
-<feature>Fitted wardrobes</feature>
-<feature>Private swimming pool</feature>
-<feature>Urbanization</feature>
-</features>
-<images>
-<image id="1">
-<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
-</image>
-<image id="2">
-<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
-</image>
-<image id="3">
-<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
-</image>
-<image id="4">
-<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
-</image>
-<image id="5">
-<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
-</image>
-</images>
-</property>
+	<property>
+		<id>PROVA_GARAGE_2</id>
+		<date>2026-03-11 09:33:35</date>
+		<ref>RI-00169/6319</ref>
+		<price>3200</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>1</leasehold>
+		<type>garage</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Sa Cabaneta</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Sa Cabaneta)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.756263</altitud>
+		<latitud>39.614576</latitud>
+		<location>
+			<latitude>39.614576</latitude>
+			<longitude>2.756263</longitude>
+		</location>
+		<virtual_tour_dominio>inmovilla</virtual_tour_dominio>
+		<virtual_tour_url>https://ap.apinmo.com/fotosvr/tour.php?cod=10763281.6319</virtual_tour_url>
+		<beds>4</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+			<built>345</built>
+			<plot>822</plot>
+		</surface_area>
+		<energy_rating></energy_rating>
+		<desc>
+			<es>
+				<![CDATA[Espacioso y perfecto para familias]]>
+			</es>
+		</desc>
+		<features>
+			<feature>Balcon</feature>
+			<feature>porch</feature>
+			<feature>Solarium</feature>
+			<feature>Terrace</feature>
+			<feature>Wardrobes cupboard</feature>
+			<feature>Storeroom</feature>
+			<feature>Appliances</feature>
+			<feature>Heating</feature>
+			<feature>Air-Conditioning</feature>
+			<feature>Pool Own </feature>
+			<feature>Light</feature>
+			<feature>Laundry</feature>
+			<feature>Ceilings</feature>
+			<feature>Parking</feature>
+			<feature>Terrace </feature>
+			<feature>Barbecue</feature>
+			<feature>Gymnasium</feature>
+			<feature>Garden</feature>
+			<feature>Vistas al mar</feature>
+		</features>
+		<images>
+			<image id="1">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+			</image>
+		</images>
+	</property>
 
-<property>
-<id>PROVA_TERRENO</id>
-<date>2026-02-03 03:01:41</date>
-<ref>N6033</ref>
-<price>449500</price>
-<currency>EUR</currency>
-<price_freq>sale</price_freq>
-<new_build>1</new_build>
-<type>terreno</type>
-<town>Ciudad Quesada</town>
-<province>ALICANTE</province>
-<location_detail>Costa blanca sur</location_detail>
-<beds>3</beds>
-<baths>2</baths>
-<pool>1</pool>
-<location>
-<latitude>38.07487531026982</latitude>
-<longitude>-0.7084744107600045</longitude>
-</location>
-<surface_area>
-<built>189</built>
-<plot>248</plot>
-</surface_area>
-<url>
-<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
-</url>
-<desc>
-<es>
-<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
-</es>
-</desc>
-<features>
-<feature>Parking space</feature>
-<feature>Garden</feature>
-<feature>Terrace</feature>
-<feature>Fitted wardrobes</feature>
-<feature>Private swimming pool</feature>
-<feature>Urbanization</feature>
-</features>
-<images>
-<image id="1">
-<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
-</image>
-<image id="2">
-<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
-</image>
-<image id="3">
-<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
-</image>
-<image id="4">
-<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
-</image>
-<image id="5">
-<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
-</image>
-</images>
-</property>
+		<property>
+		<id>PROVA_TERRENO_2</id>
+		<date>2026-03-11 09:33:35</date>
+		<ref>RI-00169/6319</ref>
+		<price>3200</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>1</leasehold>
+		<type>terreno</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Sa Cabaneta</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Sa Cabaneta)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.756263</altitud>
+		<latitud>39.614576</latitud>
+		<location>
+			<latitude>39.614576</latitude>
+			<longitude>2.756263</longitude>
+		</location>
+		<virtual_tour_dominio>inmovilla</virtual_tour_dominio>
+		<virtual_tour_url>https://ap.apinmo.com/fotosvr/tour.php?cod=10763281.6319</virtual_tour_url>
+		<beds>4</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+			<built>345</built>
+			<plot>822</plot>
+		</surface_area>
+		<energy_rating></energy_rating>
+		<desc>
+			<es>
+				<![CDATA[Espacioso y perfecto para familias]]>
+			</es>
+		</desc>
+		<features>
+			<feature>Balcon</feature>
+			<feature>porch</feature>
+			<feature>Solarium</feature>
+			<feature>Terrace</feature>
+			<feature>Wardrobes cupboard</feature>
+			<feature>Storeroom</feature>
+			<feature>Appliances</feature>
+			<feature>Heating</feature>
+			<feature>Air-Conditioning</feature>
+			<feature>Pool Own </feature>
+			<feature>Light</feature>
+			<feature>Laundry</feature>
+			<feature>Ceilings</feature>
+			<feature>Parking</feature>
+			<feature>Terrace </feature>
+			<feature>Barbecue</feature>
+			<feature>Gymnasium</feature>
+			<feature>Garden</feature>
+			<feature>Vistas al mar</feature>
+		</features>
+		<images>
+			<image id="1">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+			</image>
+		</images>
+	</property>
 
-<property>
-<id>PROVA_OFICINA</id>
-<date>2026-02-03 03:01:41</date>
-<ref>N6033</ref>
-<price>449500</price>
-<currency>EUR</currency>
-<price_freq>sale</price_freq>
-<new_build>1</new_build>
-<type>oficina</type>
-<town>Ciudad Quesada</town>
-<province>ALICANTE</province>
-<location_detail>Costa blanca sur</location_detail>
-<beds>3</beds>
-<baths>2</baths>
-<pool>1</pool>
-<location>
-<latitude>38.07487531026982</latitude>
-<longitude>-0.7084744107600045</longitude>
-</location>
-<surface_area>
-<built>189</built>
-<plot>248</plot>
-</surface_area>
-<url>
-<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
-</url>
-<desc>
-<es>
-<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
-</es>
-</desc>
-<features>
-<feature>Parking space</feature>
-<feature>Garden</feature>
-<feature>Terrace</feature>
-<feature>Fitted wardrobes</feature>
-<feature>Private swimming pool</feature>
-<feature>Urbanization</feature>
-</features>
-<images>
-<image id="1">
-<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
-</image>
-<image id="2">
-<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
-</image>
-<image id="3">
-<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
-</image>
-<image id="4">
-<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
-</image>
-<image id="5">
-<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
-</image>
-</images>
-</property>
+	<property>
+		<id>PROVA_OFICINA_2</id>
+		<date>2026-03-11 09:33:35</date>
+		<ref>RI-00169/6319</ref>
+		<price>3200</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>1</leasehold>
+		<type>oficina</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Sa Cabaneta</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Sa Cabaneta)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.756263</altitud>
+		<latitud>39.614576</latitud>
+		<location>
+			<latitude>39.614576</latitude>
+			<longitude>2.756263</longitude>
+		</location>
+		<virtual_tour_dominio>inmovilla</virtual_tour_dominio>
+		<virtual_tour_url>https://ap.apinmo.com/fotosvr/tour.php?cod=10763281.6319</virtual_tour_url>
+		<beds>4</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+			<built>345</built>
+			<plot>822</plot>
+		</surface_area>
+		<energy_rating></energy_rating>
+		<desc>
+			<es>
+				<![CDATA[Espacioso y perfecto para familias]]>
+			</es>
+		</desc>
+		<features>
+			<feature>Balcon</feature>
+			<feature>porch</feature>
+			<feature>Solarium</feature>
+			<feature>Terrace</feature>
+			<feature>Wardrobes cupboard</feature>
+			<feature>Storeroom</feature>
+			<feature>Appliances</feature>
+			<feature>Heating</feature>
+			<feature>Air-Conditioning</feature>
+			<feature>Pool Own </feature>
+			<feature>Light</feature>
+			<feature>Laundry</feature>
+			<feature>Ceilings</feature>
+			<feature>Parking</feature>
+			<feature>Terrace </feature>
+			<feature>Barbecue</feature>
+			<feature>Gymnasium</feature>
+			<feature>Garden</feature>
+			<feature>Vistas al mar</feature>
+		</features>
+		<images>
+			<image id="1">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+			</image>
+		</images>
+	</property>
 
-<property>
-<id>PROVA_APARTMENT</id>
-<date>2026-02-03 03:01:41</date>
-<ref>N6033</ref>
-<price>449500</price>
-<currency>EUR</currency>
-<price_freq>sale</price_freq>
-<new_build>1</new_build>
-<type>apartment</type>
-<town>Ciudad Quesada</town>
-<province>ALICANTE</province>
-<location_detail>Costa blanca sur</location_detail>
-<beds>3</beds>
-<baths>2</baths>
-<pool>1</pool>
-<location>
-<latitude>38.07487531026982</latitude>
-<longitude>-0.7084744107600045</longitude>
-</location>
-<surface_area>
-<built>189</built>
-<plot>248</plot>
-</surface_area>
-<url>
-<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
-</url>
-<desc>
-<es>
-<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
-</es>
-</desc>
-<features>
-<feature>Parking space</feature>
-<feature>Garden</feature>
-<feature>Terrace</feature>
-<feature>Fitted wardrobes</feature>
-<feature>Private swimming pool</feature>
-<feature>Urbanization</feature>
-</features>
-<images>
-<image id="1">
-<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
-</image>
-<image id="2">
-<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
-</image>
-<image id="3">
-<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
-</image>
-<image id="4">
-<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
-</image>
-<image id="5">
-<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
-</image>
-</images>
-</property>
+		<property>
+		<id>PROVA_HOTEL_2</id>
+		<date>2026-03-11 09:33:35</date>
+		<ref>RI-00169/6319</ref>
+		<price>3200</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>1</leasehold>
+		<type>hotel</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Sa Cabaneta</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Sa Cabaneta)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.756263</altitud>
+		<latitud>39.614576</latitud>
+		<location>
+			<latitude>39.614576</latitude>
+			<longitude>2.756263</longitude>
+		</location>
+		<virtual_tour_dominio>inmovilla</virtual_tour_dominio>
+		<virtual_tour_url>https://ap.apinmo.com/fotosvr/tour.php?cod=10763281.6319</virtual_tour_url>
+		<beds>4</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+			<built>345</built>
+			<plot>822</plot>
+		</surface_area>
+		<energy_rating></energy_rating>
+		<desc>
+			<es>
+				<![CDATA[Espacioso y perfecto para familias]]>
+			</es>
+		</desc>
+		<features>
+			<feature>Balcon</feature>
+			<feature>porch</feature>
+			<feature>Solarium</feature>
+			<feature>Terrace</feature>
+			<feature>Wardrobes cupboard</feature>
+			<feature>Storeroom</feature>
+			<feature>Appliances</feature>
+			<feature>Heating</feature>
+			<feature>Air-Conditioning</feature>
+			<feature>Pool Own </feature>
+			<feature>Light</feature>
+			<feature>Laundry</feature>
+			<feature>Ceilings</feature>
+			<feature>Parking</feature>
+			<feature>Terrace </feature>
+			<feature>Barbecue</feature>
+			<feature>Gymnasium</feature>
+			<feature>Garden</feature>
+			<feature>Vistas al mar</feature>
+		</features>
+		<images>
+			<image id="1">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+			</image>
+		</images>
+	</property>
 
-<property>
-<id>PROVA_ESTUDI</id>
-<date>2026-02-03 03:01:41</date>
-<ref>N6033</ref>
-<price>449500</price>
-<currency>EUR</currency>
-<price_freq>sale</price_freq>
-<new_build>1</new_build>
-<type>estudi</type>
-<town>Ciudad Quesada</town>
-<province>ALICANTE</province>
-<location_detail>Costa blanca sur</location_detail>
-<beds>3</beds>
-<baths>2</baths>
-<pool>1</pool>
-<location>
-<latitude>38.07487531026982</latitude>
-<longitude>-0.7084744107600045</longitude>
-</location>
-<surface_area>
-<built>189</built>
-<plot>248</plot>
-</surface_area>
-<url>
-<en>http://golfsun.net/property/20973/detached/new-build/spain/costa-blanca-sur/ciudad-quesada/</en>
-</url>
-<desc>
-<es>
-<![CDATA[ BEAUTIFUL VIEWS TO THE GOLF COURSE "LA MARQUESA"!]]>
-</es>
-</desc>
-<features>
-<feature>Parking space</feature>
-<feature>Garden</feature>
-<feature>Terrace</feature>
-<feature>Fitted wardrobes</feature>
-<feature>Private swimming pool</feature>
-<feature>Urbanization</feature>
-</features>
-<images>
-<image id="1">
-<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
-</image>
-<image id="2">
-<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
-</image>
-<image id="3">
-<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
-</image>
-<image id="4">
-<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
-</image>
-<image id="5">
-<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
-</image>
-</images>
-</property>
+	<property>
+		<id>PROVA_ATTICAPARTMEN_2</id>
+		<date>2026-03-11 09:33:35</date>
+		<ref>RI-00169/6319</ref>
+		<price>3200</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>1</leasehold>
+		<type>attic apartment</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Sa Cabaneta</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Sa Cabaneta)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.756263</altitud>
+		<latitud>39.614576</latitud>
+		<location>
+			<latitude>39.614576</latitude>
+			<longitude>2.756263</longitude>
+		</location>
+		<virtual_tour_dominio>inmovilla</virtual_tour_dominio>
+		<virtual_tour_url>https://ap.apinmo.com/fotosvr/tour.php?cod=10763281.6319</virtual_tour_url>
+		<beds>4</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+			<built>345</built>
+			<plot>822</plot>
+		</surface_area>
+		<energy_rating></energy_rating>
+		<desc>
+			<es>
+				<![CDATA[Espacioso y perfecto para familias]]>
+			</es>
+		</desc>
+		<features>
+			<feature>Balcon</feature>
+			<feature>porch</feature>
+			<feature>Solarium</feature>
+			<feature>Terrace</feature>
+			<feature>Wardrobes cupboard</feature>
+			<feature>Storeroom</feature>
+			<feature>Appliances</feature>
+			<feature>Heating</feature>
+			<feature>Air-Conditioning</feature>
+			<feature>Pool Own </feature>
+			<feature>Light</feature>
+			<feature>Laundry</feature>
+			<feature>Ceilings</feature>
+			<feature>Parking</feature>
+			<feature>Terrace </feature>
+			<feature>Barbecue</feature>
+			<feature>Gymnasium</feature>
+			<feature>Garden</feature>
+			<feature>Vistas al mar</feature>
+		</features>
+		<images>
+			<image id="1">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+			</image>
+		</images>
+	</property>
+
+		<property>
+		<id>PROVA_ESTUDI_2</id>
+		<date>2026-03-11 09:33:35</date>
+		<ref>RI-00169/6319</ref>
+		<price>3200</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>1</leasehold>
+		<type>estudi</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Sa Cabaneta</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Sa Cabaneta)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.756263</altitud>
+		<latitud>39.614576</latitud>
+		<location>
+			<latitude>39.614576</latitude>
+			<longitude>2.756263</longitude>
+		</location>
+		<virtual_tour_dominio>inmovilla</virtual_tour_dominio>
+		<virtual_tour_url>https://ap.apinmo.com/fotosvr/tour.php?cod=10763281.6319</virtual_tour_url>
+		<beds>4</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+			<built>345</built>
+			<plot>822</plot>
+		</surface_area>
+		<energy_rating></energy_rating>
+		<desc>
+			<es>
+				<![CDATA[Espacioso y perfecto para familias]]>
+			</es>
+		</desc>
+		<features>
+			<feature>Balcon</feature>
+			<feature>porch</feature>
+			<feature>Solarium</feature>
+			<feature>Terrace</feature>
+			<feature>Wardrobes cupboard</feature>
+			<feature>Storeroom</feature>
+			<feature>Appliances</feature>
+			<feature>Heating</feature>
+			<feature>Air-Conditioning</feature>
+			<feature>Pool Own </feature>
+			<feature>Light</feature>
+			<feature>Laundry</feature>
+			<feature>Ceilings</feature>
+			<feature>Parking</feature>
+			<feature>Terrace </feature>
+			<feature>Barbecue</feature>
+			<feature>Gymnasium</feature>
+			<feature>Garden</feature>
+			<feature>Vistas al mar</feature>
+		</features>
+		<images>
+			<image id="1">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+			</image>
+		</images>
+	</property>
 </root>

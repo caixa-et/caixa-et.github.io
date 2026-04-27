@@ -1249,7 +1249,7 @@
         <descripciones>
             <descripcion idioma="es">
                 <titulo>CASA TORRE DE IRIS</titulo>
-                <descripcion>Vivienda, totalmente reformada, de 148 metros cuadrados situada
+                <descripcion>Vivienda totalmente reformada, de 148 metros cuadrados situada
                     en el centro.[IW]</descripcion>
             </descripcion>
         </descripciones>
@@ -1769,7 +1769,7 @@
         <descripciones>
             <descripcion idioma="es">
                 <titulo>CASA DE IRIS</titulo>
-                <descripcion>Vivienda, totalmente reformada en 2017, de 181 metros cuadrados situada
+                <descripcion>Vivienda, totalmente reformada en 2017 de 181 metros cuadrados situada
                     en el centro.[IW]</descripcion>
             </descripcion>
         </descripciones>
@@ -1899,7 +1899,7 @@
         <descripciones>
             <descripcion idioma="es">
                 <titulo> TORRE DE IRIS</titulo>
-                <descripcion>Vivienda, totalmente reformada en 2017, de 145 metros cuadrados situada
+                <descripcion>Vivienda, totalmente reformada en 2017 de 145 metros cuadrados situada
                     en el centro.[IW]</descripcion>
             </descripcion>
         </descripciones>
@@ -2159,7 +2159,7 @@
         <descripciones>
             <descripcion idioma="es">
                 <titulo>CASA TORRE DE IRIS</titulo>
-                <descripcion>Vivienda, totalmente reformada en 2017, de 148 metros cuadrados situada
+                <descripcion>Vivienda, totalmente reformada en 2017 de 148 metros cuadrados situada
                     en el centro.[IW]</descripcion>
             </descripcion>
         </descripciones>
@@ -2289,7 +2289,7 @@
         <descripciones>
             <descripcion idioma="es">
                 <titulo>CASA TORRE DE IRIS</titulo>
-                <descripcion>Vivienda, totalmente reformada en 2017, de 143 metros cuadrados situada
+                <descripcion>Vivienda, totalmente reformada en 2017 de 143 metros cuadrados situada
                     en el centro.[IW]</descripcion>
             </descripcion>
         </descripciones>
@@ -2809,7 +2809,7 @@
         <descripciones>
             <descripcion idioma="es">
                 <titulo>CASA TORRE DE IRIS</titulo>
-                <descripcion>Vivienda, totalmente reformada, de 121 metros cuadrados situada
+                <descripcion>Vivienda, totalmente reformada de 121 metros cuadrados situada
                     en el centro de la población.[IW]</descripcion>
             </descripcion>
         </descripciones>
@@ -2939,7 +2939,7 @@
         <descripciones>
             <descripcion idioma="es">
                 <titulo>CASA TORRE DE IRIS</titulo>
-                <descripcion>Vivienda, totalmente reformada en 2017, de 181 metros cuadrados situada
+                <descripcion>Vivienda, totalmente reformada en 2017 de 181 metros cuadrados situada
                     en el centro de la población.[IW]</descripcion>
             </descripcion>
         </descripciones>
@@ -3264,7 +3264,7 @@
         <banos_reformados />
         <aseos>1</aseos>
         <localizacion>
-            <provincia />
+            <provincia><Asturias/>
             <poblacion />
             <cp />
             <zona />
@@ -3329,7 +3329,7 @@
         <descripciones>
             <descripcion idioma="es">
                 <titulo>CASA TORRE DE IRIS</titulo>
-                <descripcion>Vivienda, totalmente reformada en 2017, de 171 metros cuadrados situada
+                <descripcion>Vivienda, totalmente reformada en 2017 de 171 metros cuadrados situada
                     en el centro de la población.[IW]</descripcion>
             </descripcion>
         </descripciones>

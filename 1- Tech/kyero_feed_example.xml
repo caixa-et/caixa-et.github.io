@@ -844,7 +844,7 @@
 		</url>
 		<desc>
 			<es>
-				<![CDATA[ Os presentamos una casa de pueblo con terreno a la venta, ideal para casa de Turismo Rural, Hotel con encanto, Viviendas de alquiler, o si te gusta vivir en espacios grandes se puede destinar a vivienda.~~Te podemos ayudar en todo lo que necesites para rehabilitar la casa, facilitarte los técnicos y profesiones de la zona que sin duda te podrán aconsejar y sugerir las mejores soluciones. ~~Al ser una edificación muy grande se puede dividir en varias partes, con lo que seguro que podemos adaptarlo a tus necesidades, dependiendo de tu presupuesto y preferencias. ~~No dejes pasar ésta gran oportunidad y reserva una cita para visitarla. Estás muy cerca de tomar la mejor decisión de tu vida. ~~ ]]>
+				<![CDATA[ TEST - Os presentamos una casa de pueblo con terreno a la venta, ideal para casa de Turismo Rural, Hotel con encanto, Viviendas de alquiler, o si te gusta vivir en espacios grandes se puede destinar a vivienda.~~Te podemos ayudar en todo lo que necesites para rehabilitar la casa, facilitarte los técnicos y profesiones de la zona que sin duda te podrán aconsejar y sugerir las mejores soluciones. ~~Al ser una edificación muy grande se puede dividir en varias partes, con lo que seguro que podemos adaptarlo a tus necesidades, dependiendo de tu presupuesto y preferencias. ~~No dejes pasar ésta gran oportunidad y reserva una cita para visitarla. Estás muy cerca de tomar la mejor decisión de tu vida. ~~ ]]>
 			</es>
 		</desc>
 		<title_extra/>
@@ -931,7 +931,7 @@
 		<new_build>0</new_build>
 		<part_ownership>0</part_ownership>
 		<leasehold>0</leasehold>
-		<type>casa</type>
+		<type>piso</type>
 		<country>España</country>
 		<province>HUESCA</province>
 		<town>Montanuy</town>
@@ -1044,7 +1044,7 @@
 		<ref>CarlosTEST2</ref>
 		<state>Free</state>
 		<operation_type>For sale</operation_type>
-		<price>199999</price>
+		<price>123456</price>
 		<currency>EUR</currency>
 		<price_freq>sale</price_freq>
 		<new_build>0</new_build>
@@ -1171,7 +1171,7 @@
 		<leasehold>0</leasehold>
 		<type>casa</type>
 		<country>España</country>
-		<province>HUESCA</province>
+		<province>Barcelona</province>
 		<town>Montanuy</town>
 		<location_detail>Montanuy</location_detail>
 		<cp>22474</cp>
@@ -1291,7 +1291,7 @@
 		<type>casa</type>
 		<country>España</country>
 		<province>HUESCA</province>
-		<town>Montanuy</town>
+		<town>Rubi</town>
 		<location_detail>Montanuy</location_detail>
 		<cp>22474</cp>
 		<postal_code>22474</postal_code>
@@ -1411,7 +1411,7 @@
 		<country>España</country>
 		<province>HUESCA</province>
 		<town>Montanuy</town>
-		<location_detail>Montanuy</location_detail>
+		<location_detail>Rubi</location_detail>
 		<cp>22474</cp>
 		<postal_code>22474</postal_code>
 		<location>
@@ -1531,8 +1531,8 @@
 		<province>HUESCA</province>
 		<town>Montanuy</town>
 		<location_detail>Montanuy</location_detail>
-		<cp>22474</cp>
-		<postal_code>22474</postal_code>
+		<cp>08191</cp>
+		<postal_code>08191</postal_code>
 		<location>
 			<latitude>42.469956</latitude>
 			<longitude>0.657844</longitude>
@@ -1653,7 +1653,7 @@
 		<cp>22474</cp>
 		<postal_code>22474</postal_code>
 		<location>
-			<latitude>42.469956</latitude>
+			<latitude>32.369956</latitude>
 			<longitude>0.657844</longitude>
 		</location>
 		<beds>5</beds>
@@ -1773,7 +1773,7 @@
 		<postal_code>22474</postal_code>
 		<location>
 			<latitude>42.469956</latitude>
-			<longitude>0.657844</longitude>
+			<longitude>0.357144</longitude>
 		</location>
 		<beds>5</beds>
 		<baths>2</baths>
@@ -1884,7 +1884,7 @@
 		<part_ownership>0</part_ownership>
 		<leasehold>0</leasehold>
 		<type>casa</type>
-		<country>España</country>
+		<country>Portugal</country>
 		<province>HUESCA</province>
 		<town>Montanuy</town>
 		<location_detail>Montanuy</location_detail>
@@ -2027,7 +2027,7 @@
 			<consumption_value>15.765</consumption_value>
 			<emissions>A</emissions>
 			<emissions_value>37.233</emissions_value>
-			<efficiency_grade>E</efficiency_grade>
+			<efficiency_grade>B</efficiency_grade>
 		</energy_rating>
 		<url>
 			<es>http://adelanteinversiones.es/ficha/index.php?codigo=9951_21637891</es>
@@ -2142,7 +2142,7 @@
 			<plot>1500</plot>
 		</surface_area>
 		<energy_rating>
-			<consumption>B</consumption>
+			<consumption>A</consumption>
 			<consumption_value>15.765</consumption_value>
 			<emissions>A</emissions>
 			<emissions_value>37.233</emissions_value>
@@ -2262,7 +2262,7 @@
 		</surface_area>
 		<energy_rating>
 			<consumption>B</consumption>
-			<consumption_value>15.765</consumption_value>
+			<consumption_value>10.165</consumption_value>
 			<emissions>A</emissions>
 			<emissions_value>37.233</emissions_value>
 			<efficiency_grade>E</efficiency_grade>
@@ -2382,7 +2382,7 @@
 		<energy_rating>
 			<consumption>B</consumption>
 			<consumption_value>15.765</consumption_value>
-			<emissions>A</emissions>
+			<emissions>B</emissions>
 			<emissions_value>37.233</emissions_value>
 			<efficiency_grade>E</efficiency_grade>
 		</energy_rating>
@@ -2502,7 +2502,7 @@
 			<consumption>B</consumption>
 			<consumption_value>15.765</consumption_value>
 			<emissions>A</emissions>
-			<emissions_value>37.233</emissions_value>
+			<emissions_value>17.233</emissions_value>
 			<efficiency_grade>E</efficiency_grade>
 		</energy_rating>
 		<url>
@@ -2658,7 +2658,7 @@
 		</features>
 		<images>
 			<image id="1">
-				<url>https://caixa-et.github.io/Images/exterior-casa.jpeg</url>
+				<url>https://caixa-et.github.io/Images/comedor.jpg</url>
 			</image>
 			<image id="2">
 				<url>https://caixa-et.github.io/Images/exterior-casa-2.jpeg</url>
@@ -2723,6 +2723,7 @@
 		<location_detail>Montanuy</location_detail>
 		<cp>22474</cp>
 		<postal_code>22474</postal_code>
+		<catastral>1234567AB1234C0001DE</catastral>
 		<location>
 			<latitude>42.469956</latitude>
 			<longitude>0.657844</longitude>

@@ -3264,7 +3264,7 @@
         <banos_reformados />
         <aseos>1</aseos>
         <localizacion>
-            <provincia><Asturias/>
+            <provincia>Asturias</provincia>
             <poblacion />
             <cp />
             <zona />

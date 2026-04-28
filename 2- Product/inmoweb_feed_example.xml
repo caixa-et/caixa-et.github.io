@@ -3279,7 +3279,7 @@
             <jardin />
             <terraza />
         </superficies>
-        <precio divisa="EUR">60000</precio>
+        <precio divisa="EUR">62000</precio>
         <precio_anterior divisa="EUR">69000</precio_anterior>
         <caracteristicas>
             <caracteristica id="ano_construccion" />
@@ -3410,7 +3410,7 @@
             <terraza />
         </superficies>
         <precio divisa="EUR">60000</precio>
-        <precio_anterior divisa="EUR">69000</precio_anterior>
+        <precio_anterior divisa="EUR">79000</precio_anterior>
         <caracteristicas>
             <caracteristica id="ano_construccion" />
             <caracteristica id="amueblado">amueblado</caracteristica>
@@ -3459,7 +3459,7 @@
         <descripciones>
             <descripcion idioma="es">
                 <titulo>CASA TORRE DE IRIS</titulo>
-                <descripcion>Vivienda, totalmente reformada en 2017, de 191 metros cuadrados situada
+                <descripcion>Vivienda, reformada en 2017, de 191 metros cuadrados situada
                     en el centro de la población.[IW]</descripcion>
             </descripcion>
         </descripciones>

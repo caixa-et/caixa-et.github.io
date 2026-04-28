@@ -817,10 +817,10 @@
 <bedrooms>4</bedrooms>
 <building_density>0</building_density>
 <cadastral_reference>0882114VK4708B00020D</cadastral_reference>
-<city>Tiana</city>
+<city></city>
 <construction_stage>resale</construction_stage>
 <construction_year>2021</construction_year>
-<coordinates>41.4804007,2.2668049</coordinates>
+<coordinates></coordinates>
 <country>ES</country>
 <custom_es_status_of_conservation>almost_new</custom_es_status_of_conservation>
 <custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
@@ -838,7 +838,7 @@
 <ref>irisd-location-caixa-021_ref_madrid_resto_bcn</ref>
 <sale_rent>for_sale</sale_rent>
 <state>Barcelona</state>
-<street>Carrer Telèfon, Tiana, Spain</street>
+<street></street>
 <total_area_amount>175</total_area_amount>
 <video_link>https://cdnstorage.century21.pt/object/public/external-cdn/d77ff624-0c65-4421-9762-b4643111ed1f/VideoCarrertelefon.mp4</video_link>
 <wc_bathrooms>3</wc_bathrooms>

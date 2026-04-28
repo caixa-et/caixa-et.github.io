@@ -6751,6 +6751,63 @@
 <video_url>https://vimeo.com/672019180</video_url>
 </property>
 
+<property>
+<id>test-manresa</id>
+<date>2026-04-22 17:26:05</date>
+<ref>2238</ref>
+<price>64200</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership/>
+<leasehold>0</leasehold>
+<new_build>0</new_build>
+<type>apartment</type>
+<town>Mnresa</town>
+<province>Barcelona</province>
+<country>Spain</country>
+<location>
+<latitude>41.7239193</latitude>
+<longitude>1.8285287</longitude>
+</location>
+<location_detail/>
+<beds>3</beds>
+<baths>1</baths>
+<pool>0</pool>
+<surface_area>
+<built>136</built>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<consumption_value>999</consumption_value>
+<emissions>G</emissions>
+<emissions_value>48</emissions_value>
+</energy_rating>
+<url>
+<es>http://akris.mobiliagestion.es/es/manresa/pisos/ref-2238</es>
+</url>
+<catastral>2700705DG0220A0010RU</catastral>
+<desc>
+<es>"ALQUILADO-NO VISITABLE"¡¡¡GRAN OPORTUNIDAD!!!Inmobiliaria Akris presenta:Piso en la provincia de Barcelona, en el municipio de Manresa.Cuenta con salón, cocina, 3 dormitorios, 1 cuarto de baño y terraza.El Inmueble se transmite sin conocerse por parte del vendedor el estado de conservación actual así como tampoco los servicios y suministros.Inmobiliaria Akris vende la propiedad en las condiciones mencionadas con anterioridad.CONTACTANOS PARA RECIBIR ASESORAMIENTO!En Akris os ayudamos a cumplir vuestros Sueños Inmobiliarios.Encuentre mas inmuebles en www.akris.es</es>
+<de>Wohnung zu verkaufen in Manresa, mit 136 m2 und 3 schlafzimmer und 1 badezimmer.</de>
+<en>Flat for sale in Manresa, with 136 m2 and 3 rooms and 1 bathrooms.</en>
+<fr>Appartement en vente á Manresa, avec 136 m2 et 3 chambres et 1 salles de bain.</fr>
+<it>Appartamento in vendita in Manresa, con 136 m2 e 3 camere e 1 bagni.</it>
+<pt>Apartamento à venda en Manresa, com 136 m2 e 3 quartos e 1 quartos de banho..</pt>
+<ru>квартира на продажу в Manresa, с 136 m2 и 3 комнаты и 1 Ванные комнаты.</ru>
+</desc>
+<notes/>
+<images>
+<image id="1">
+<url>https://media.mobiliagestion.es/Portals/inmoakris/Images/2238/25547687.jpg</url>
+</image>
+<image id="2">
+<url>https://media.mobiliagestion.es/Portals/inmoakris/Images/2238/25547665.jpg</url>
+</image>
+</images>
+<email>publicacion@akris.es</email>
+<contact_number>671645664</contact_number>
+</property>	
+
 
 
 	

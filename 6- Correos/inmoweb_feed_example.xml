@@ -451,11 +451,10 @@
         <videos/>
     </propiedad>
 
-   </propiedad>
-       <propiedad id="TC-CORREO-14_pending_aprobado">
+    <propiedad id="TC-CORREO-13.1_rechazado_descr_img_ubi">
         <fecha_alta>21/11/2024 15:57</fecha_alta>
         <fecha_modificacion>18/03/2026 10:33</fecha_modificacion>
-        <referencia>TC-CORREO-14_pending_aprobado</referencia>
+        <referencia>TC-CORREO-13.1_rechazado_descr_img_ubi</referencia>
         <ref_catastral />
         <familia id="24">piso</familia>
         <operacion id="1">Venta</operacion>
@@ -467,11 +466,11 @@
         <banos_reformados />
         <aseos>1</aseos>
         <localizacion>
-            <provincia>Barcelona</provincia>
-            <poblacion id="4724">Barcelona</poblacion>
-            <cp>08028</cp>
-            <zona>Les Corts</zona>
-            <pais>ES</pais>
+            <provincia />
+            <poblacion />
+            <cp />
+            <zona />
+            <pais />
         </localizacion>
         <superficies>
             <habitable />
@@ -532,11 +531,11 @@
         <descripciones>
             <descripcion idioma="es">
                 <titulo>CASA TORRE DE IRIS</titulo>
-                <descripcion>Inmueble con comunidad que no acepta a vecinos homosexuales.</descripcion>
+                <descripcion>Inmueble con comunidad que no acepta a vecinos homosexuales</descripcion>
             </descripcion>
         </descripciones>
-             <imagenes>
-            <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_102950_465.jpg" principal="1"/>
+          <imagenes>
+          <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_102950_465.jpg" principal="1"/>
             <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_102403_999.jpg" principal="0"/>
             <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_103200_896.jpg" principal="0"/>
             <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1574503/image/dji_20250516_103129_202.jpg" principal="0"/>
@@ -561,7 +560,7 @@
             <imagen url="https://caixa-et.github.io/Images/Desnudo3.png" principal="0"/>
             <imagen url="https://caixa-et.github.io/Images/Desnudo2.png" principal="0"/>
             <imagen url="https://caixa-et.github.io/Images/Desnudo1.jpg" principal="0"/>
-            <imagen url="https://caixa-et.github.io/Images/Desnudo.png" principal="0"/>            
+            <imagen url="https://caixa-et.github.io/Images/Desnudo.png" principal="0"/>       
         </imagenes>
         <documentos />
         <enlaces>
@@ -580,6 +579,7 @@
         </enlaces>
         <videos />
     </propiedad>
+   
 
   <propiedad id="TC-CORREO-14_pending_aprobado">
         <fecha_alta>18/02/2026 10:48</fecha_alta>
@@ -788,7 +788,7 @@
  <propiedad id="TC-CORREO_aprobado_CCEE">
         <fecha_alta>18/02/2026 10:48</fecha_alta>
         <fecha_modificacion>12/03/2026 12:18</fecha_modificacion>
-        <referencia>TC-CORREO-11_aprobado</referencia>
+        <referencia>TC-CORREO_aprobado_CCEE</referencia>
         <ref_catastral/>
         <familia id="1">Estudio</familia>
         <operacion id="1">Venta</operacion>

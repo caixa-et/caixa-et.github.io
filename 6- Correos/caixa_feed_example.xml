@@ -21,7 +21,7 @@
         <name>Casa adosada en una urbanizacion al lado de Puerto Banus!</name>
         <phone>+34629141650</phone>
         <property_type>estudio</property_type>
-        <ref>TC-CORREO-01_aprobado</ref>
+        <ref>TC-CORREO-16_aprobado</ref>
         <sale_rent>for_sale</sale_rent>
         <state>Málaga</state>
         <street> Calle Las Malvas </street>
@@ -54,7 +54,7 @@
         <name>Casa adosada en una urbanizacion al lado de Puerto Banus!</name>
         <phone>+34629141650</phone>
         <property_type>estudio</property_type>
-        <ref>TC-CORREO-02_persona</ref>
+        <ref>TC-CORREO-17_persona</ref>
         <sale_rent>for_sale</sale_rent>
         <state>Málaga</state>
         <street> Calle Las Malvas </street>
@@ -123,7 +123,7 @@
         <name>Casa adosada en una urbanizacion al lado de Puerto Banus!</name>
         <phone>+34629141650</phone>
         <property_type>estudio</property_type>
-        <ref>TC-CORREO-03_rechazado_descr</ref>
+        <ref>TC-CORREO-18_rechazado_descr</ref>
         <sale_rent>for_sale</sale_rent>
         <state>Málaga</state>
         <street> Calle Las Malvas </street>
@@ -156,7 +156,7 @@
         <name>Casa adosada en una urbanizacion al lado de Puerto Banus!</name>
         <phone>+34629141650</phone>
         <property_type>estudio</property_type>
-        <ref>TC-CORREO-03.2_rechazado_img_desc</ref>
+        <ref>TC-CORREO-18.1_rechazado_img_desc</ref>
         <sale_rent>for_sale</sale_rent>
         <state>Málaga</state>
         <street> Calle Las Malvas </street>
@@ -208,7 +208,7 @@
     </property>    
 
   <property last_update="2026-03-04 14:47:50">
-        <ref>TC-CORREO-03.2_rechazado_img_desc_ubi</ref>
+        <ref>TC-CORREO-18.2_rechazado_img_desc_ubi</ref>
         <name>test-Maravilloso piso en Centro</name>
         <property_type>apartment</property_type>
         <property_subtype>standard_apartment</property_subtype>
@@ -299,7 +299,7 @@
         <name>Casa adosada en una urbanizacion al lado de Puerto Banus!</name>
         <phone>+34629141650</phone>
         <property_type>estudio</property_type>
-        <ref>TC-CORREO-04_pending_aprobado</ref>
+        <ref>TC-CORREO-19_pending_aprobado</ref>
         <sale_rent>for_sale</sale_rent>
         <state>Málaga</state>
         <street> Calle Las Malvas </street>
@@ -332,7 +332,7 @@
         <name>Casa adosada en una urbanizacion al lado de Puerto Banus!</name>
         <phone>+34629141650</phone>
         <property_type>estudio</property_type>
-        <ref>TC-CORREO-05_pending_rechazado</ref>
+        <ref>TC-CORREO-20_pending_rechazado</ref>
         <sale_rent>for_sale</sale_rent>
         <state>Málaga</state>
         <street> Calle Las Malvas </street>

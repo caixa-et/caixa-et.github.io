@@ -347,5 +347,50 @@
         </media>
     </property> 
 
+    <property last_update="2025-05-05 15:25:47">
+        <bathrooms>3</bathrooms>
+        <bedrooms>3</bedrooms>
+        <building_density>0</building_density>
+        <city>Marbella</city>
+        <construction_stage>resale</construction_stage>
+        <construction_year>1984</construction_year>
+        <coordinates>36.4890928149085,-4.95992484349955</coordinates>
+        <country>ES</country>
+        <custom_es_status_of_conservation>used</custom_es_status_of_conservation>
+        <custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
+        <description>Testing Facilitea -Espacioso y perfecto para familias</description>
+        <email>dmendoza@century21.es</email>
+        <list_selling_price_amount>675000</list_selling_price_amount>
+        <municipality>Nueva Andalucía</municipality>
+        <name>Casa adosada en una urbanizacion al lado de Puerto Banus!</name>
+        <phone>+34629141650</phone>
+        <property_type>estudio</property_type>
+        <ref>TC-CORREO_aprobado_CCEE</ref>
+        <sale_rent>for_sale</sale_rent>
+        <state>Málaga</state>
+        <street> Calle Las Malvas </street>
+        <total_area_amount>161</total_area_amount>
+        <wc_bathrooms>3</wc_bathrooms>
+        <media>
+            <img>https://images.century21.pt/per-puerto-banu-s-20_7a743a57-0bbc-4b94-906e-82f759540cb1.jpg</img>
+            <img>https://images.century21.pt/per-puerto-banu-s-10_2268ed80-6619-4829-b112-818dbb9c7321.jpg</img>
+            <img>https://images.century21.pt/per-puerto-banu-s-11_d3bbca27-fcf9-48a5-b3b2-425fa3ba7716.jpg</img>
+            <img>https://images.century21.pt/per-puerto-banu-s-12_e5bf5ffa-8812-4dd2-9fcb-22675816ef59.jpg</img>
+            <img>https://images.century21.pt/per-puerto-banu-s-8_086febcc-9060-47ab-a4d3-9ee528f7fd96.jpg</img>
+            <img>https://images.century21.pt/per-puerto-banu-s-4_11b300dd-84ee-41d1-8717-0a9d4839a38c.jpg</img>
+            <img>https://images.century21.pt/per-puerto-banu-s-9_2af75f6f-93f2-46ed-ac50-b47a724234e5.jpg</img>
+            <img>https://images.century21.pt/per-puerto-banu-s-5_ab270a05-ad63-4527-91a2-0becc49574ae.jpg</img>
+            <img>https://images.century21.pt/per-puerto-banu-s-21_a7821660-d2c2-4feb-9c83-cd5da55bc73c.jpg</img>
+            <img>https://images.century21.pt/per-puerto-banu-s-6_f247523e-a697-4a5b-99ab-3c5953d0f001.jpg</img>
+            <img>https://images.century21.pt/per-puerto-banu-s-18-1-_04def8a2-2d47-4a6c-93c8-a171d5e12763.jpg</img>
+            <img>https://images.century21.pt/per-puerto-banu-s-16_b2c8ab11-a1f1-4dfc-ab58-f6556eab8737.jpg</img>
+            <img>https://images.century21.pt/per-puerto-banu-s-17_f7898624-81e8-4b5e-b3e5-3fb270127fb2.jpg</img>
+            <img>https://images.century21.pt/per-puerto-banu-s-22_a11f00a3-ba39-4bd7-8414-76c939859229.jpg</img>
+            <img>https://images.century21.pt/per-puerto-banu-s-23_42e3f4b4-121b-475f-adc5-3932b0f509e0.jpg</img>
+            <img>https://images.century21.pt/per-puerto-banu-s-24_4b4ea169-c312-4b89-a139-c33aa25a8051.jpg</img>
+            <img>https://caixa-et.github.io/Images/ccee_en_tramite.png</img>
+            <img>https://caixa-et.github.io/Images/ccee.png</img>
+        </media>
+    </property>    
     
 </properties>

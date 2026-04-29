@@ -7582,6 +7582,129 @@
 		<email>hola@husdrommer.com</email>
 		<contact_number>964 749 027</contact_number>
 	</property>
+
+	<property>
+<id>Marta_type_estudi_test</id>
+<date>2026-04-28 00:00:00</date>
+<ref>722</ref>
+<price>98000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<type>estudi</type>
+<town>Torremolinos</town>
+<province>Málaga</province>
+<postcode>29620</postcode>
+<country>spain</country>
+<location>
+<latitude>36.627169</latitude>
+<longitude>-4.500163</longitude>
+</location>
+<location_detail>Centro</location_detail>
+<address>
+<![CDATA[ Calle EDUARDO AGUILERA ROMERO, 9, 29620 ]]>
+</address>
+<beds>0</beds>
+<baths>1</baths>
+<pool>0</pool>
+<surface_area>
+<built>22</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<consumption>X</consumption>
+<consumption_value>0</consumption_value>
+<emissions>D</emissions>
+<emissions_value>0</emissions_value>
+</energy_rating>
+<url>
+<es>
+<![CDATA[ http://www.investcasa.es/venta-comprar/estudio/malaga/torremolinos/centro/venta-comprar-estudio-malaga-torremolinos-centro-722.html ]]>
+</es>
+</url>
+<desc>
+<de>
+<![CDATA[ Gewerbefläche im Herzen von Torremolinos zu einer Wohnung umgebaut ? jetzt zu verkaufen! Diese einladende 22 m² große Wohnung verfügt über ein Badezimmer und eine offene, voll ausgestattete Küche. Dank der guten Anbindung an den öffentlichen Nahverkehr und der Nähe zu Geschäften und Dienstleistungen bietet sie großes Potenzial. Nutzen Sie diese Gelegenheit und erwerben Sie diese Gewerbefläche in Toplage von Torremolinos! Kontaktieren Sie uns für weitere Informationen! ]]>
+</de>
+<da>
+<![CDATA[ ]]>
+</da>
+<en>
+<![CDATA[ Commercial space converted into an apartment for sale in the heart of Torremolinos. This welcoming 22m² apartment features a bathroom and an open-plan kitchen furnished with appliances. Located in an area with easy access to public transport and surrounded by shops and services, it offers great potential thanks to its proximity to all amenities. Don't miss this opportunity to acquire this commercial space in a prime location in Torremolinos! Contact us for more information! ]]>
+</en>
+<es>
+<![CDATA[ Local reformado a apartamento en venta en el centro de Torremolinos. Con una superficie de 22m2, este acogedor espacio cuenta con un baño y una cocina americana amueblada con electrodomésticos. Se encuentra en una zona con fácil acceso a transporte público, rodeado de comercios y servicios. Aunque necesita reformas, ofrece un gran potencial por todos los servicios cercanos.. ¡No pierdas la oportunidad de adquirir este local en una ubicación privilegiada en Torremolinos! ¡Contáctanos para más información! ]]>
+</es>
+<fr>
+<![CDATA[ Local commercial transformé en appartement à vendre en plein c?ur de Torremolinos. Ce charmant appartement de 22 m² comprend une salle de bains et une cuisine américaine entièrement équipée. Situé dans un quartier bien desservi par les transports en commun et entouré de commerces et de services, il offre un excellent potentiel grâce à sa proximité avec toutes les commodités. Ne manquez pas cette opportunité d'acquérir ce local commercial idéalement situé à Torremolinos ! Contactez-nous pour plus d'informations ! ]]>
+</fr>
+<it>
+<![CDATA[ ]]>
+</it>
+<nl>
+<![CDATA[ ]]>
+</nl>
+<pt>
+<![CDATA[ ]]>
+</pt>
+<ru>
+<![CDATA[ ]]>
+</ru>
+</desc>
+<features>
+<feature/>
+<feature>Segunda Mano</feature>
+<feature>Necesita Reformas</feature>
+<feature>Cocina Americana - Amueblada con...</feature>
+<feature>Gastos Comunidad 15.00</feature>
+<feature>Suelo Gres</feature>
+<feature>Agua Caliente Termo Electrico</feature>
+<feature>Techo Altos</feature>
+<feature>Acceso desde la calle </feature>
+<feature>Altillo Superficie (m2) </feature>
+<feature>Adaptado a discapacitados bloque </feature>
+<feature>Bus </feature>
+</features>
+<notes/>
+<images>
+<image id="1">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_4.jpg</url>
+</image>
+<image id="2">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_1.jpg</url>
+</image>
+<image id="3">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_3.jpg</url>
+</image>
+<image id="4">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_6.jpg</url>
+</image>
+<image id="5">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_7.jpg</url>
+</image>
+<image id="6">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_5.jpg</url>
+</image>
+<image id="7">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_10.jpg</url>
+</image>
+<image id="8">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_11.jpg</url>
+</image>
+<image id="9">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_9.jpg</url>
+</image>
+<image id="10">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_2.jpg</url>
+</image>
+<image id="11">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_12.jpg</url>
+</image>
+<image id="12">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_8.jpg</url>
+</image>
+</images>
+</property>
 	
 	
 

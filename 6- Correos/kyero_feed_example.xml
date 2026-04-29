@@ -800,7 +800,7 @@
 	</property>	
 
 <property>
-		<id>TC-CORREO-06_aprobado_CCEE</id>
+		<id>TC-CORREO_aprobado_CCEE</id>
 		<date>2026-03-11 09:33:35</date>
 		<ref>RI-00169/6319</ref>
 		<price>3200</price>

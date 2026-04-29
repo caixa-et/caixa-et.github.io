@@ -576,7 +576,7 @@
 		<![CDATA[ Espectacular casa adosada a estrena en Castalla.~La vivienda está distribuida de la siguiente forma:~Planta baja: Salón con cocina abierta, aseo de cortesía y gran terraza/jardín que comunica con el garaje con capacidad para dos vehículos.~Planta superior: 4 dormitorios, el principal con baño en suite y un baño completo.~Aire acondicionado por conductos separado en las dos plantas. ~Perfecta comunicación con la autovía A7.~~Kapitalia Inmobiliaria~Sant Llorenç 29. 5ª planta.~96 238 76 81~ ]]>
 		</descrip1>
 		<titulo1>
-		<![CDATA[ Adosado de obra nueva en Castalla TEST1 ]]>
+		<![CDATA[ Adosado de obra nueva en Castalla ]]>
 		</titulo1>
 		<titulo2>
 		<![CDATA[ Spectacular new semi-detached house in Castalla. ]]>
@@ -624,7 +624,7 @@
 		<videos/>
 	</propiedad>
 	<propiedad>
-		<id>26838934</id>
+		<id>26838935</id>
 		<numagencia>991</numagencia>
 		<calidades/>
 		<destacado>0</destacado>
@@ -728,7 +728,7 @@
 		<energialetra>A</energialetra>
 		<energiarecibido>1</energiarecibido>
 		<descrip1>
-		<![CDATA[ TEST2 Espectacular casa adosada a estrena en Castalla.~La vivienda está distribuida de la siguiente forma:~Planta baja: Salón con cocina abierta, aseo de cortesía y gran terraza/jardín que comunica con el garaje con capacidad para dos vehículos.~Planta superior: 4 dormitorios, el principal con baño en suite y un baño completo.~Aire acondicionado por conductos separado en las dos plantas. ~Perfecta comunicación con la autovía A7.~~Kapitalia Inmobiliaria~Sant Llorenç 29. 5ª planta.~96 238 76 81~ ]]>
+		<![CDATA[ Espectacular casa adosada a estrena en Castalla.~La vivienda está distribuida de la siguiente forma:~Planta baja: Salón con cocina abierta, aseo de cortesía y gran terraza/jardín que comunica con el garaje con capacidad para dos vehículos.~Planta superior: 4 dormitorios, el principal con baño en suite y un baño completo.~Aire acondicionado por conductos separado en las dos plantas. ~Perfecta comunicación con la autovía A7.~~Kapitalia Inmobiliaria~Sant Llorenç 29. 5ª planta.~96 238 76 81~ ]]>
 		</descrip1>
 		<titulo1>
 		<![CDATA[ Adosado de obra nueva en Castalla ]]>
@@ -779,12 +779,12 @@
 		<videos/>
 	</propiedad>
 	<propiedad>
-		<id>26838934</id>
+		<id>26838936</id>
 		<numagencia>991</numagencia>
 		<calidades/>
 		<destacado>0</destacado>
 		<antiguedad>2025</antiguedad>
-		<tipo_ofer>Casa</tipo_ofer>
+		<tipo_ofer>Adosado</tipo_ofer>
 		<fechaact>2025-11-04 19:11:47</fechaact>
 		<keypromo>0</keypromo>
 		<opcioncompra>0</opcioncompra>
@@ -934,7 +934,7 @@
 		<videos/>
 	</propiedad>
 	<propiedad>
-		<id>26838934</id>
+		<id>26838937</id>
 		<numagencia>991</numagencia>
 		<calidades/>
 		<destacado>0</destacado>
@@ -972,7 +972,7 @@
 		<numplanta>0</numplanta>
 		<orientacion/>
 		<salon>0</salon>
-		<precioinmo>280000</precioinmo>
+		<precioinmo>250000</precioinmo>
 		<precioalq>0</precioalq>
 		<ref>CarlosTestILL4</ref>
 		<accion>Vender</accion>
@@ -1089,7 +1089,7 @@
 		<videos/>
 	</propiedad>
 	<propiedad>
-		<id>26838934</id>
+		<id>26838938</id>
 		<numagencia>991</numagencia>
 		<calidades/>
 		<destacado>0</destacado>
@@ -1131,7 +1131,7 @@
 		<precioalq>0</precioalq>
 		<ref>CarlosTestILL5</ref>
 		<accion>Vender</accion>
-		<provincia>Barcelona</provincia>
+		<provincia>Alicante</provincia>
 		<ciudad>Castalla</ciudad>
 		<cp>03420</cp>
 		<zona>CASTALLA</zona>
@@ -1244,7 +1244,7 @@
 		<videos/>
 	</propiedad>
 	<propiedad>
-		<id>26838934</id>
+		<id>26838939</id>
 		<numagencia>991</numagencia>
 		<calidades/>
 		<destacado>0</destacado>
@@ -1286,8 +1286,8 @@
 		<precioalq>0</precioalq>
 		<ref>CarlosTestILL6</ref>
 		<accion>Vender</accion>
-		<provincia>Barcelona</provincia>
-		<ciudad>Rubi</ciudad>
+		<provincia>Alicante</provincia>
+		<ciudad>Castalla</ciudad>
 		<cp>03420</cp>
 		<zona>CASTALLA</zona>
 		<adaptadominus>1</adaptadominus>
@@ -1399,7 +1399,7 @@
 		<videos/>
 	</propiedad>
 	<propiedad>
-		<id>26838934</id>
+		<id>26838940</id>
 		<numagencia>991</numagencia>
 		<calidades/>
 		<destacado>0</destacado>
@@ -1441,10 +1441,10 @@
 		<precioalq>0</precioalq>
 		<ref>CarlosTestILL7</ref>
 		<accion>Vender</accion>
-		<provincia>Barcelona</provincia>
-		<ciudad>Rubi</ciudad>
+		<provincia>Alicante</provincia>
+		<ciudad>Castalla</ciudad>
 		<cp>03420</cp>
-		<zona>Centro</zona>
+		<zona>CASTALLA</zona>
 		<adaptadominus>1</adaptadominus>
 		<airecentral>1</airecentral>
 		<aire_con>0</aire_con>
@@ -1554,7 +1554,7 @@
 		<videos/>
 	</propiedad>
 	<propiedad>
-		<id>26838934</id>
+		<id>26838941</id>
 		<numagencia>991</numagencia>
 		<calidades/>
 		<destacado>0</destacado>
@@ -1596,10 +1596,10 @@
 		<precioalq>0</precioalq>
 		<ref>CarlosTestILL8</ref>
 		<accion>Vender</accion>
-		<provincia>Barcelona</provincia>
-		<ciudad>Rubi</ciudad>
-		<cp>08191</cp>
-		<zona>Centro</zona>
+		<provincia>Alicante</provincia>
+		<ciudad>Castalla</ciudad>
+		<cp>03420</cp>
+		<zona>CASTALLA</zona>
 		<adaptadominus>1</adaptadominus>
 		<airecentral>1</airecentral>
 		<aire_con>0</aire_con>
@@ -1709,7 +1709,7 @@
 		<videos/>
 	</propiedad>
 	<propiedad>
-		<id>26838934</id>
+		<id>26838942</id>
 		<numagencia>991</numagencia>
 		<calidades/>
 		<destacado>0</destacado>
@@ -1718,8 +1718,8 @@
 		<fechaact>2025-11-04 19:11:47</fechaact>
 		<keypromo>0</keypromo>
 		<opcioncompra>0</opcioncompra>
-		<latitud>32.598008411</latitud>
-		<altitud>-0.619182005</altitud>
+		<latitud>38.598008411</latitud>
+		<altitud>-0.669182005</altitud>
 		<aseos>1</aseos>
 		<banyos>2</banyos>
 		<carpint/>
@@ -1864,7 +1864,7 @@
 		<videos/>
 	</propiedad>
 	<propiedad>
-		<id>26838934</id>
+		<id>26838943</id>
 		<numagencia>991</numagencia>
 		<calidades/>
 		<destacado>0</destacado>
@@ -1965,11 +1965,8 @@
 		<urbanizacion>0</urbanizacion>
 		<vestuarios>0</vestuarios>
 		<vistasalmar>0</vistasalmar>
-		<energialetra>E</energialetra>
+		<energialetra>A</energialetra>
 		<energiarecibido>1</energiarecibido>
-		<energiavalor>270.41</energiavalor>
-		<emisionesletra>G</emisionesletra>
-		<emisionesvalor>56.33</emisionesvalor>
 		<descrip1>
 		<![CDATA[ Espectacular casa adosada a estrena en Castalla.~La vivienda está distribuida de la siguiente forma:~Planta baja: Salón con cocina abierta, aseo de cortesía y gran terraza/jardín que comunica con el garaje con capacidad para dos vehículos.~Planta superior: 4 dormitorios, el principal con baño en suite y un baño completo.~Aire acondicionado por conductos separado en las dos plantas. ~Perfecta comunicación con la autovía A7.~~Kapitalia Inmobiliaria~Sant Llorenç 29. 5ª planta.~96 238 76 81~ ]]>
 		</descrip1>
@@ -2022,7 +2019,7 @@
 		<videos/>
 	</propiedad>
 	<propiedad>
-		<id>26838934</id>
+		<id>26838944</id>
 		<numagencia>991</numagencia>
 		<calidades/>
 		<destacado>0</destacado>
@@ -2123,11 +2120,8 @@
 		<urbanizacion>0</urbanizacion>
 		<vestuarios>0</vestuarios>
 		<vistasalmar>0</vistasalmar>
-		<energialetra>E</energialetra>
+		<energialetra>A</energialetra>
 		<energiarecibido>1</energiarecibido>
-		<energiavalor>270.41</energiavalor>
-		<emisionesletra>G</emisionesletra>
-		<emisionesvalor>56.33</emisionesvalor>
 		<descrip1>
 		<![CDATA[ Espectacular casa adosada a estrena en Castalla.~La vivienda está distribuida de la siguiente forma:~Planta baja: Salón con cocina abierta, aseo de cortesía y gran terraza/jardín que comunica con el garaje con capacidad para dos vehículos.~Planta superior: 4 dormitorios, el principal con baño en suite y un baño completo.~Aire acondicionado por conductos separado en las dos plantas. ~Perfecta comunicación con la autovía A7.~~Kapitalia Inmobiliaria~Sant Llorenç 29. 5ª planta.~96 238 76 81~ ]]>
 		</descrip1>
@@ -2180,7 +2174,7 @@
 		<videos/>
 	</propiedad>
 	<propiedad>
-		<id>26838934</id>
+		<id>26838945</id>
 		<numagencia>991</numagencia>
 		<calidades/>
 		<destacado>0</destacado>
@@ -2281,11 +2275,8 @@
 		<urbanizacion>0</urbanizacion>
 		<vestuarios>0</vestuarios>
 		<vistasalmar>0</vistasalmar>
-		<energialetra>E</energialetra>
+		<energialetra>A</energialetra>
 		<energiarecibido>1</energiarecibido>
-		<energiavalor>270.41</energiavalor>
-		<emisionesletra>G</emisionesletra>
-		<emisionesvalor>56.33</emisionesvalor>
 		<descrip1>
 		<![CDATA[ Espectacular casa adosada a estrena en Castalla.~La vivienda está distribuida de la siguiente forma:~Planta baja: Salón con cocina abierta, aseo de cortesía y gran terraza/jardín que comunica con el garaje con capacidad para dos vehículos.~Planta superior: 4 dormitorios, el principal con baño en suite y un baño completo.~Aire acondicionado por conductos separado en las dos plantas. ~Perfecta comunicación con la autovía A7.~~Kapitalia Inmobiliaria~Sant Llorenç 29. 5ª planta.~96 238 76 81~ ]]>
 		</descrip1>
@@ -2338,7 +2329,7 @@
 		<videos/>
 	</propiedad>
 	<propiedad>
-		<id>26838934</id>
+		<id>26838946</id>
 		<numagencia>991</numagencia>
 		<calidades/>
 		<destacado>0</destacado>
@@ -2439,11 +2430,8 @@
 		<urbanizacion>0</urbanizacion>
 		<vestuarios>0</vestuarios>
 		<vistasalmar>0</vistasalmar>
-		<energialetra>E</energialetra>
+		<energialetra>A</energialetra>
 		<energiarecibido>1</energiarecibido>
-		<energiavalor>270.41</energiavalor>
-		<emisionesletra>G</emisionesletra>
-		<emisionesvalor>56.33</emisionesvalor>
 		<descrip1>
 		<![CDATA[ Espectacular casa adosada a estrena en Castalla.~La vivienda está distribuida de la siguiente forma:~Planta baja: Salón con cocina abierta, aseo de cortesía y gran terraza/jardín que comunica con el garaje con capacidad para dos vehículos.~Planta superior: 4 dormitorios, el principal con baño en suite y un baño completo.~Aire acondicionado por conductos separado en las dos plantas. ~Perfecta comunicación con la autovía A7.~~Kapitalia Inmobiliaria~Sant Llorenç 29. 5ª planta.~96 238 76 81~ ]]>
 		</descrip1>
@@ -2496,7 +2484,7 @@
 		<videos/>
 	</propiedad>
 	<propiedad>
-		<id>26838934</id>
+		<id>26838947</id>
 		<numagencia>991</numagencia>
 		<calidades/>
 		<destacado>0</destacado>
@@ -2597,11 +2585,8 @@
 		<urbanizacion>0</urbanizacion>
 		<vestuarios>0</vestuarios>
 		<vistasalmar>0</vistasalmar>
-		<energialetra>E</energialetra>
+		<energialetra>A</energialetra>
 		<energiarecibido>1</energiarecibido>
-		<energiavalor>270.41</energiavalor>
-		<emisionesletra>G</emisionesletra>
-		<emisionesvalor>56.33</emisionesvalor>
 		<descrip1>
 		<![CDATA[ Espectacular casa adosada a estrena en Castalla.~La vivienda está distribuida de la siguiente forma:~Planta baja: Salón con cocina abierta, aseo de cortesía y gran terraza/jardín que comunica con el garaje con capacidad para dos vehículos.~Planta superior: 4 dormitorios, el principal con baño en suite y un baño completo.~Aire acondicionado por conductos separado en las dos plantas. ~Perfecta comunicación con la autovía A7.~~Kapitalia Inmobiliaria~Sant Llorenç 29. 5ª planta.~96 238 76 81~ ]]>
 		</descrip1>
@@ -2654,7 +2639,7 @@
 		<videos/>
 	</propiedad>
 	<propiedad>
-		<id>26838934</id>
+		<id>26838948</id>
 		<numagencia>991</numagencia>
 		<calidades/>
 		<destacado>0</destacado>
@@ -2775,7 +2760,7 @@
 		<numpanos>0</numpanos>
 		<numfotos>31</numfotos>
 		<foto1>https://fotos15.apinmo.com/991/26838934/4-1.jpg</foto1>
-		<foto2>https://fotos15.apinmo.com/991/26838934/4-25.jpg</foto2>
+		<foto2>https://fotos15.apinmo.com/991/26838934/4-2.jpg</foto2>
 		<foto3>https://fotos15.apinmo.com/991/26838934/4-3.jpg</foto3>
 		<foto4>https://fotos15.apinmo.com/991/26838934/4-4.jpg</foto4>
 		<foto5>https://fotos15.apinmo.com/991/26838934/4-5.jpg</foto5>
@@ -2809,7 +2794,7 @@
 		<videos/>
 	</propiedad>
 	<propiedad>
-		<id>26838934</id>
+		<id>26838949</id>
 		<numagencia>991</numagencia>
 		<calidades/>
 		<destacado>0</destacado>

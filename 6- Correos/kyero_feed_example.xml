@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+	<kyero>
+		<feed_version>3</feed_version>
+	</kyero>
+
+<property>
+		<id>TC-CORREO-01_aprobado</id>
+		<date>2026-03-11 09:33:35</date>
+		<ref>RI-00169/6319</ref>
+		<price>3200</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>1</leasehold>
+		<type>estudio</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Sa Cabaneta</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Sa Cabaneta)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.756263</altitud>
+		<latitud>39.614576</latitud>
+		<location>
+			<latitude>39.614576</latitude>
+			<longitude>2.756263</longitude>
+		</location>
+		<virtual_tour_dominio>inmovilla</virtual_tour_dominio>
+		<virtual_tour_url>https://ap.apinmo.com/fotosvr/tour.php?cod=10763281.6319</virtual_tour_url>
+		<beds>4</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+			<built>345</built>
+			<plot>822</plot>
+		</surface_area>
+		<energy_rating></energy_rating>
+		<desc>
+			<es>
+				<![CDATA[Testing Facilitea -Espacioso y perfecto para familias]]>
+			</es>
+		</desc>
+		<features>
+			<feature>Balcon</feature>
+			<feature>porch</feature>
+			<feature>Solarium</feature>
+			<feature>Terrace</feature>
+			<feature>Wardrobes cupboard</feature>
+			<feature>Storeroom</feature>
+			<feature>Appliances</feature>
+			<feature>Heating</feature>
+			<feature>Air-Conditioning</feature>
+			<feature>Pool Own </feature>
+			<feature>Light</feature>
+			<feature>Laundry</feature>
+			<feature>Ceilings</feature>
+			<feature>Parking</feature>
+			<feature>Terrace </feature>
+			<feature>Barbecue</feature>
+			<feature>Gymnasium</feature>
+			<feature>Garden</feature>
+			<feature>Vistas al mar</feature>
+		</features>
+		<images>
+			<image id="1">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+			</image>
+		</images>
+	</property>	
+	
+<property>
+		<id>TC-CORREO-02_ruina</id>
+		<date>2026-03-11 09:33:35</date>
+		<ref>RI-00169/6319</ref>
+		<price>3200</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>1</leasehold>
+		<type>estudio</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Sa Cabaneta</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Sa Cabaneta)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.756263</altitud>
+		<latitud>39.614576</latitud>
+		<location>
+			<latitude>39.614576</latitude>
+			<longitude>2.756263</longitude>
+		</location>
+		<virtual_tour_dominio>inmovilla</virtual_tour_dominio>
+		<virtual_tour_url>https://ap.apinmo.com/fotosvr/tour.php?cod=10763281.6319</virtual_tour_url>
+		<beds>4</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+			<built>345</built>
+			<plot>822</plot>
+		</surface_area>
+		<energy_rating></energy_rating>
+		<desc>
+			<es>
+				<![CDATA[Testing Facilitea -Espacioso y perfecto para familias]]>
+			</es>
+		</desc>
+		<features>
+			<feature>Balcon</feature>
+			<feature>porch</feature>
+			<feature>Solarium</feature>
+			<feature>Terrace</feature>
+			<feature>Wardrobes cupboard</feature>
+			<feature>Storeroom</feature>
+			<feature>Appliances</feature>
+			<feature>Heating</feature>
+			<feature>Air-Conditioning</feature>
+			<feature>Pool Own </feature>
+			<feature>Light</feature>
+			<feature>Laundry</feature>
+			<feature>Ceilings</feature>
+			<feature>Parking</feature>
+			<feature>Terrace </feature>
+			<feature>Barbecue</feature>
+			<feature>Gymnasium</feature>
+			<feature>Garden</feature>
+			<feature>Vistas al mar</feature>
+		</features>
+		<images>
+			<image id="1">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-1.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-2.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-3.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-4.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-5.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-6.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-7.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-8.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-9.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-10.jpg</url>
+			</image>
+			<image id="11">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-11.jpg</url>
+			</image>
+			<image id="12">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-12.jpg</url>
+			</image>
+			<image id="13">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-13.jpg</url>
+			</image>
+			<image id="14">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-14.jpg</url>
+			</image>
+			<image id="15">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-15.jpg</url>
+			</image>
+			<image id="16">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-16.jpg</url>
+			</image>
+			<image id="17">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-17.jpg</url>
+			</image>
+			<image id="18">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-18.jpg</url>
+			</image>
+			<image id="19">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-19.jpg</url>
+			</image>
+			<image id="20">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-20.jpg</url>
+			</image>
+			<image id="21">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-21.jpg</url>
+			</image>
+			<image id="22">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-22.jpg</url>
+			</image>
+			<image id="23">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-23.jpg</url>
+			</image>
+			<image id="24">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-24.jpg</url>
+			</image>
+			<image id="25">
+				<url>https://caixa-et.github.io/Images/Ruina4.png</url>
+			</image>
+			<image id="26">
+				<url>https://caixa-et.github.io/Images/Ruina5.png</url>
+			</image>
+			<image id="27">
+				<url>https://caixa-et.github.io/Images/Ruina6.png</url>
+			</image>
+			<image id="28">
+				<url>https://caixa-et.github.io/Images/Ruina7.png</url>
+			</image>
+		</images>
+	</property>	
+
+<property>
+		<id>TC-CORREO-03_rechazado_descr</id>
+		<date>2026-03-11 09:33:35</date>
+		<ref>RI-00169/6319</ref>
+		<price>3200</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>1</leasehold>
+		<type>estudio</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Sa Cabaneta</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Sa Cabaneta)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.756263</altitud>
+		<latitud>39.614576</latitud>
+		<location>
+			<latitude>39.614576</latitude>
+			<longitude>2.756263</longitude>
+		</location>
+		<virtual_tour_dominio>inmovilla</virtual_tour_dominio>
+		<virtual_tour_url>https://ap.apinmo.com/fotosvr/tour.php?cod=10763281.6319</virtual_tour_url>
+		<beds>4</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+			<built>345</built>
+			<plot>822</plot>
+		</surface_area>
+		<energy_rating></energy_rating>
+		<desc>
+			<es>
+				<![CDATA[Inmueble con comunidad que no acepta a vecinos homosexuales]]>
+			</es>
+		</desc>
+		<features>
+			<feature>Balcon</feature>
+			<feature>porch</feature>
+			<feature>Solarium</feature>
+			<feature>Terrace</feature>
+			<feature>Wardrobes cupboard</feature>
+			<feature>Storeroom</feature>
+			<feature>Appliances</feature>
+			<feature>Heating</feature>
+			<feature>Air-Conditioning</feature>
+			<feature>Pool Own </feature>
+			<feature>Light</feature>
+			<feature>Laundry</feature>
+			<feature>Ceilings</feature>
+			<feature>Parking</feature>
+			<feature>Terrace </feature>
+			<feature>Barbecue</feature>
+			<feature>Gymnasium</feature>
+			<feature>Garden</feature>
+			<feature>Vistas al mar</feature>
+		</features>
+		<images>
+			<image id="1">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+			</image>
+		</images>
+	</property>	
+
+<property>
+		<id>TC-CORREO-03.1_rechazado_descr_img</id>
+		<date>2026-03-11 09:33:35</date>
+		<ref>RI-00169/6319</ref>
+		<price>3200</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>1</leasehold>
+		<type>estudio</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Sa Cabaneta</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Sa Cabaneta)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.756263</altitud>
+		<latitud>39.614576</latitud>
+		<location>
+			<latitude>39.614576</latitude>
+			<longitude>2.756263</longitude>
+		</location>
+		<virtual_tour_dominio>inmovilla</virtual_tour_dominio>
+		<virtual_tour_url>https://ap.apinmo.com/fotosvr/tour.php?cod=10763281.6319</virtual_tour_url>
+		<beds>4</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+			<built>345</built>
+			<plot>822</plot>
+		</surface_area>
+		<energy_rating></energy_rating>
+		<desc>
+			<es>
+				<![CDATA[Inmueble con comunidad que no acepta a vecinos homosexuales]]>
+			</es>
+		</desc>
+		<features>
+			<feature>Balcon</feature>
+			<feature>porch</feature>
+			<feature>Solarium</feature>
+			<feature>Terrace</feature>
+			<feature>Wardrobes cupboard</feature>
+			<feature>Storeroom</feature>
+			<feature>Appliances</feature>
+			<feature>Heating</feature>
+			<feature>Air-Conditioning</feature>
+			<feature>Pool Own </feature>
+			<feature>Light</feature>
+			<feature>Laundry</feature>
+			<feature>Ceilings</feature>
+			<feature>Parking</feature>
+			<feature>Terrace </feature>
+			<feature>Barbecue</feature>
+			<feature>Gymnasium</feature>
+			<feature>Garden</feature>
+			<feature>Vistas al mar</feature>
+		</features>
+		<images>
+			<image id="1">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-1.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-2.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-3.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-4.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-5.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-6.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-7.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-8.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-9.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-10.jpg</url>
+			</image>
+			<image id="11">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-11.jpg</url>
+			</image>
+			<image id="12">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-12.jpg</url>
+			</image>
+			<image id="13">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-13.jpg</url>
+			</image>
+			<image id="14">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-14.jpg</url>
+			</image>
+			<image id="15">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-15.jpg</url>
+			</image>
+			<image id="16">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-16.jpg</url>
+			</image>
+			<image id="17">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-17.jpg</url>
+			</image>
+			<image id="18">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-18.jpg</url>
+			</image>
+			<image id="19">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-19.jpg</url>
+			</image>
+			<image id="20">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-20.jpg</url>
+			</image>
+			<image id="21">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-21.jpg</url>
+			</image>
+			<image id="22">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-22.jpg</url>
+			</image>
+			<image id="23">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-23.jpg</url>
+			</image>
+			<image id="24">
+				<url>https://fotos15.apinmo.com/6319/16256067/80-24.jpg</url>
+			</image>
+			<image id="25">
+				<url>https://caixa-et.github.io/Images/Ruina4.png</url>
+			</image>
+			<image id="26">
+				<url>https://caixa-et.github.io/Images/Ruina5.png</url>
+			</image>
+			<image id="27">
+				<url>https://caixa-et.github.io/Images/Ruina6.png</url>
+			</image>
+			<image id="28">
+				<url>https://caixa-et.github.io/Images/Ruina7.png</url>
+			</image>
+		</images>
+	</property>	
+
+<property>
+		<id>TC-CORREO-03.2_rechazado_descr_img_ubi</id>
+		<date>2026-03-18 12:50:16</date>
+		<ref>iris-location-001</ref>
+		<price>730</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<part_ownership/>
+		<leasehold>1</leasehold>
+		<new_build>0</new_build>
+		<type>apartment</type>
+		<town>Vila-real</town>
+		<province>Castellón</province>
+		<country>Spain</country>
+		<location>
+			<latitude>39.9365732</latitude>
+			<longitude>-0.0990033</longitude>
+		</location>
+		<location_detail/>
+		<postal_code>18690</postal_code>
+		<catastral>1234567AB1234C0001DE</catastral>
+		<beds>3</beds>
+		<baths>2</baths>
+		<pool>0</pool>
+		<surface_area>
+			<built>100</built>
+		</surface_area>
+		<energy_rating>
+			<consumption>G</consumption>
+			<emissions>G</emissions>
+		</energy_rating>
+		<url>
+			<es>http://husdrommer.mobiliagestion.es/es/vilareal/pisos/ref-95254572</es>
+		</url>
+		<video_url>https://www.youtube.com/watch?v=GrCd27MVJdI</video_url>
+		<desc>
+			<es>Inmueble con comunidad que no acepta a vecinos homosexuales.</es>
+		</desc>
+		<notes/>
+		<images>
+			<image id="1">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637040.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637044.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637048.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637041.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637042.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637043.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637045.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637046.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637047.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637049.jpg</url>
+			</image>
+			<image id="11">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637050.jpg</url>
+			</image>
+			<image id="12">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637051.jpg</url>
+			</image>
+			<image id="13">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637052.jpg</url>
+			</image>
+			<image id="14">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637053.jpg</url>
+			</image>
+			<image id="15">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637054.jpg</url>
+			</image>
+			<image id="16">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637055.jpg</url>
+			</image>
+			<image id="17">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637038.jpg</url>
+			</image>
+			<image id="18">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637039.jpg</url>
+			</image>
+		</images>
+		<email>hola@husdrommer.com</email>
+		<contact_number>964 749 027</contact_number>
+	</property>
+
+<property>
+		<id>TC-CORREO-04_pending_aprobado</id>
+		<date>2026-03-11 09:33:35</date>
+		<ref>RI-00169/6319</ref>
+		<price>3200</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>1</leasehold>
+		<type>estudio</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Sa Cabaneta</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Sa Cabaneta)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.756263</altitud>
+		<latitud>39.614576</latitud>
+		<location>
+			<latitude>39.614576</latitude>
+			<longitude>2.756263</longitude>
+		</location>
+		<virtual_tour_dominio>inmovilla</virtual_tour_dominio>
+		<virtual_tour_url>https://ap.apinmo.com/fotosvr/tour.php?cod=10763281.6319</virtual_tour_url>
+		<beds>4</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+			<built>345</built>
+			<plot>822</plot>
+		</surface_area>
+		<energy_rating></energy_rating>
+		<desc>
+			<es>
+				<![CDATA[Comprando esta casa obtienes un 2x1 de promoción. La venta se realizará mediante puja entre interesados.]]>
+			</es>
+		</desc>
+		<features>
+			<feature>Balcon</feature>
+			<feature>porch</feature>
+			<feature>Solarium</feature>
+			<feature>Terrace</feature>
+			<feature>Wardrobes cupboard</feature>
+			<feature>Storeroom</feature>
+			<feature>Appliances</feature>
+			<feature>Heating</feature>
+			<feature>Air-Conditioning</feature>
+			<feature>Pool Own </feature>
+			<feature>Light</feature>
+			<feature>Laundry</feature>
+			<feature>Ceilings</feature>
+			<feature>Parking</feature>
+			<feature>Terrace </feature>
+			<feature>Barbecue</feature>
+			<feature>Gymnasium</feature>
+			<feature>Garden</feature>
+			<feature>Vistas al mar</feature>
+		</features>
+		<images>
+			<image id="1">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+			</image>
+		</images>
+	</property>	
+
+	<property>
+		<id>TC-CORREO-05_pending_rechazado</id>
+		<date>2026-03-11 09:33:35</date>
+		<ref>RI-00169/6319</ref>
+		<price>3200</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>1</leasehold>
+		<type>estudio</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Sa Cabaneta</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Sa Cabaneta)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.756263</altitud>
+		<latitud>39.614576</latitud>
+		<location>
+			<latitude>39.614576</latitude>
+			<longitude>2.756263</longitude>
+		</location>
+		<virtual_tour_dominio>inmovilla</virtual_tour_dominio>
+		<virtual_tour_url>https://ap.apinmo.com/fotosvr/tour.php?cod=10763281.6319</virtual_tour_url>
+		<beds>4</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+			<built>345</built>
+			<plot>822</plot>
+		</surface_area>
+		<energy_rating></energy_rating>
+		<desc>
+			<es>
+				<![CDATA[Piso exclusivo para estudiantes. Se alquilan habitaciones individuales.]]>
+			</es>
+		</desc>
+		<features>
+			<feature>Balcon</feature>
+			<feature>porch</feature>
+			<feature>Solarium</feature>
+			<feature>Terrace</feature>
+			<feature>Wardrobes cupboard</feature>
+			<feature>Storeroom</feature>
+			<feature>Appliances</feature>
+			<feature>Heating</feature>
+			<feature>Air-Conditioning</feature>
+			<feature>Pool Own </feature>
+			<feature>Light</feature>
+			<feature>Laundry</feature>
+			<feature>Ceilings</feature>
+			<feature>Parking</feature>
+			<feature>Terrace </feature>
+			<feature>Barbecue</feature>
+			<feature>Gymnasium</feature>
+			<feature>Garden</feature>
+			<feature>Vistas al mar</feature>
+		</features>
+		<images>
+			<image id="1">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</url>
+			</image>
+		</images>
+	</property>	
+
+<property>
+		<id>TC-CORREO_aprobado_CCEE</id>
+		<date>2026-03-11 09:33:35</date>
+		<ref>RI-00169/6319</ref>
+		<price>3200</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<new_build>0</new_build>
+		<part_ownership>0</part_ownership>
+		<leasehold>1</leasehold>
+		<type>estudio</type>
+		<country>España</country>
+		<province>BALEARES</province>
+		<town>Marratxí</town>
+		<location_detail>Sa Cabaneta</location_detail>
+		<cp>07141</cp>
+		<postal_code>07141</postal_code>
+		<calle/>
+		<access_type/>
+		<numero/>
+		<block/>
+		<bloque/>
+		<stairs/>
+		<escalera/>
+		<floor/>
+		<planta/>
+		<door/>
+		<puerta/>
+		<address>, (Sa Cabaneta)</address>
+		<refcatastral/>
+		<catastral/>
+		<altitud>2.756263</altitud>
+		<latitud>39.614576</latitud>
+		<location>
+			<latitude>39.614576</latitude>
+			<longitude>2.756263</longitude>
+		</location>
+		<virtual_tour_dominio>inmovilla</virtual_tour_dominio>
+		<virtual_tour_url>https://ap.apinmo.com/fotosvr/tour.php?cod=10763281.6319</virtual_tour_url>
+		<beds>4</beds>
+		<baths>2</baths>
+		<pool>1</pool>
+		<orientation>Sur</orientation>
+		<surface_area>
+			<built>345</built>
+			<plot>822</plot>
+		</surface_area>
+		<energy_rating></energy_rating>
+		<desc>
+			<es>
+				<![CDATA[Testing Facilitea -Espacioso y perfecto para familias]]>
+			</es>
+		</desc>
+		<features>
+			<feature>Balcon</feature>
+			<feature>porch</feature>
+			<feature>Solarium</feature>
+			<feature>Terrace</feature>
+			<feature>Wardrobes cupboard</feature>
+			<feature>Storeroom</feature>
+			<feature>Appliances</feature>
+			<feature>Heating</feature>
+			<feature>Air-Conditioning</feature>
+			<feature>Pool Own </feature>
+			<feature>Light</feature>
+			<feature>Laundry</feature>
+			<feature>Ceilings</feature>
+			<feature>Parking</feature>
+			<feature>Terrace </feature>
+			<feature>Barbecue</feature>
+			<feature>Gymnasium</feature>
+			<feature>Garden</feature>
+			<feature>Vistas al mar</feature>
+		</features>
+		<images>
+			<image id="1">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-1.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-2.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-3.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-4.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-5.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-6.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-7.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-8.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-9.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-10.jpg</url>
+			</image>
+			<image id="11">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-11.jpg</url>
+			</image>
+			<image id="12">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-12.jpg</url>
+			</image>
+			<image id="13">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-13.jpg</url>
+			</image>
+			<image id="14">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-14.jpg</url>
+			</image>
+			<image id="15">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-15.jpg</url>
+			</image>
+			<image id="16">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-16.jpg</url>
+			</image>
+			<image id="17">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-17.jpg</url>
+			</image>
+			<image id="18">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-18.jpg</url>
+			</image>
+			<image id="19">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-19.jpg</url>
+			</image>
+			<image id="20">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-20.jpg</url>
+			</image>
+			<image id="21">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-21.jpg</url>
+			</image>
+			<image id="22">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-22.jpg</url>
+			</image>
+			<image id="23">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-23.jpg</url>
+			</image>
+			<image id="24">
+				<url>https://fotos15.apinmo.com/6319/8802047/63-24.jpg</url>
+			</image>
+			<image id="25">
+				<url>https://caixa-et.github.io/Images/ccee_en_tramite.png</url>
+			</image>
+			<image id="26">
+				<url>https://caixa-et.github.io/Images/ccee.png</url>
+			</image>
+		</images>
+	
+	</property>	
+</root>

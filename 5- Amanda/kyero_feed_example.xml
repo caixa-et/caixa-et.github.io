@@ -7582,6 +7582,776 @@
 		<email>hola@husdrommer.com</email>
 		<contact_number>964 749 027</contact_number>
 	</property>
+
+	<property>
+<id>Marta_type_estudi_test</id>
+<date>2026-04-28 00:00:00</date>
+<ref>722</ref>
+<price>98000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<type>estudi</type>
+<town>Torremolinos</town>
+<province>Málaga</province>
+<postcode>29620</postcode>
+<country>spain</country>
+<location>
+<latitude>36.627169</latitude>
+<longitude>-4.500163</longitude>
+</location>
+<location_detail>Centro</location_detail>
+<address>
+<![CDATA[ Calle EDUARDO AGUILERA ROMERO, 9, 29620 ]]>
+</address>
+<beds>0</beds>
+<baths>1</baths>
+<pool>0</pool>
+<surface_area>
+<built>22</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<consumption>X</consumption>
+<consumption_value>0</consumption_value>
+<emissions>D</emissions>
+<emissions_value>0</emissions_value>
+</energy_rating>
+<url>
+<es>
+<![CDATA[ http://www.investcasa.es/venta-comprar/estudio/malaga/torremolinos/centro/venta-comprar-estudio-malaga-torremolinos-centro-722.html ]]>
+</es>
+</url>
+<desc>
+<de>
+<![CDATA[ Gewerbefläche im Herzen von Torremolinos zu einer Wohnung umgebaut ? jetzt zu verkaufen! Diese einladende 22 m² große Wohnung verfügt über ein Badezimmer und eine offene, voll ausgestattete Küche. Dank der guten Anbindung an den öffentlichen Nahverkehr und der Nähe zu Geschäften und Dienstleistungen bietet sie großes Potenzial. Nutzen Sie diese Gelegenheit und erwerben Sie diese Gewerbefläche in Toplage von Torremolinos! Kontaktieren Sie uns für weitere Informationen! ]]>
+</de>
+<da>
+<![CDATA[ ]]>
+</da>
+<en>
+<![CDATA[ Commercial space converted into an apartment for sale in the heart of Torremolinos. This welcoming 22m² apartment features a bathroom and an open-plan kitchen furnished with appliances. Located in an area with easy access to public transport and surrounded by shops and services, it offers great potential thanks to its proximity to all amenities. Don't miss this opportunity to acquire this commercial space in a prime location in Torremolinos! Contact us for more information! ]]>
+</en>
+<es>
+<![CDATA[ Local reformado a apartamento en venta en el centro de Torremolinos. Con una superficie de 22m2, este acogedor espacio cuenta con un baño y una cocina americana amueblada con electrodomésticos. Se encuentra en una zona con fácil acceso a transporte público, rodeado de comercios y servicios. Aunque necesita reformas, ofrece un gran potencial por todos los servicios cercanos.. ¡No pierdas la oportunidad de adquirir este local en una ubicación privilegiada en Torremolinos! ¡Contáctanos para más información! ]]>
+</es>
+<fr>
+<![CDATA[ Local commercial transformé en appartement à vendre en plein c?ur de Torremolinos. Ce charmant appartement de 22 m² comprend une salle de bains et une cuisine américaine entièrement équipée. Situé dans un quartier bien desservi par les transports en commun et entouré de commerces et de services, il offre un excellent potentiel grâce à sa proximité avec toutes les commodités. Ne manquez pas cette opportunité d'acquérir ce local commercial idéalement situé à Torremolinos ! Contactez-nous pour plus d'informations ! ]]>
+</fr>
+<it>
+<![CDATA[ ]]>
+</it>
+<nl>
+<![CDATA[ ]]>
+</nl>
+<pt>
+<![CDATA[ ]]>
+</pt>
+<ru>
+<![CDATA[ ]]>
+</ru>
+</desc>
+<features>
+<feature/>
+<feature>Segunda Mano</feature>
+<feature>Necesita Reformas</feature>
+<feature>Cocina Americana - Amueblada con...</feature>
+<feature>Gastos Comunidad 15.00</feature>
+<feature>Suelo Gres</feature>
+<feature>Agua Caliente Termo Electrico</feature>
+<feature>Techo Altos</feature>
+<feature>Acceso desde la calle </feature>
+<feature>Altillo Superficie (m2) </feature>
+<feature>Adaptado a discapacitados bloque </feature>
+<feature>Bus </feature>
+</features>
+<notes/>
+<images>
+<image id="1">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_4.jpg</url>
+</image>
+<image id="2">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_1.jpg</url>
+</image>
+<image id="3">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_3.jpg</url>
+</image>
+<image id="4">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_6.jpg</url>
+</image>
+<image id="5">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_7.jpg</url>
+</image>
+<image id="6">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_5.jpg</url>
+</image>
+<image id="7">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_10.jpg</url>
+</image>
+<image id="8">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_11.jpg</url>
+</image>
+<image id="9">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_9.jpg</url>
+</image>
+<image id="10">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_2.jpg</url>
+</image>
+<image id="11">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_12.jpg</url>
+</image>
+<image id="12">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_8.jpg</url>
+</image>
+</images>
+</property>
+	<property>
+<id>test_matricula</id>
+<date>2026-03-04 13:49:22</date>
+<agencia>Vidamar</agencia>
+<email>i.vidamar.4004@inmovilla.com</email>
+<telefono>871515303</telefono>
+<ref>VD576/4004</ref>
+<state>Free</state>
+<operation_type>For sale</operation_type>
+<price>367500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>Flat</type>
+<country>España</country>
+<province>BALEARES</province>
+<town>Capdepera</town>
+<location_detail>Capdepera</location_detail>
+<cp>07580</cp>
+<postal_code>07580</postal_code>
+<location>
+<latitude>39.705613</latitude>
+<longitude>3.437614</longitude>
+</location>
+<beds>3</beds>
+<baths>2</baths>
+<estado_propiedad>30</estado_propiedad>
+<antiguedad>2001</antiguedad>
+<pool>0</pool>
+<surface_area>
+<built>92</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<status>Provided</status>
+<consumption>E</consumption>
+<emissions>E</emissions>
+<consumption_value>159</consumption_value>
+<emissions_value>39</emissions_value>
+</energy_rating>
+<url>
+<es>http://www.vidamar.net/ficha/index.php?codigo=4004_28899047</es>
+</url>
+<desc>
+<es>
+<![CDATA[ pUna oportunidad inigualable para adquirir una vivienda que combina la comodidad de una planta baja con las ventajas de un complejo residencial en uno de los municipios más auténticos de Mallorca..Este magnífico piso, muy bien conservado (construido en 2001), cuenta con tres dormitorios y dos baños, incluyendo uno en suite en el dormitorio principal..Lo que realmente distingue a esta propiedad es terraza privada con vistas a la piscina y con barbacoa. Es el lugar ideal para organizar reuniones con amigos o simplemente relajarse al sol mediterráneo. Para tu confort, dispone de calefacción por gas ciudad y splits de aire acondicionado..La propiedad forma parte de un complejo residencial que ofrece piscina comunitaria y cuidados jardines, ideal para disfrutar del clima sin salir de casa..Un punto fuerte fundamental es su ubicación privilegiada: frente a la vivienda, el solar es una zona verde protegida, garantizando que no se podrá construir en el futuro. Esto asegura la tranquilidad y la sensación de espacio abierto que tanto se valora..Y, aunque no cuenta con parking privado, la zona de la Calle de la Mar es conocida por la gran facilidad para aparcar en la calle, resolviendo cómodamente la necesidad de estacionamiento..Estar en Capdepera te otorga el verdadero privilegio de la vida mallorquina. La zona combina la tranquilidad y autenticidad del pueblo con la cercanía a joyas naturales como las playas de Cala Agulla y Cala Mesquida. Además, estarás a un paso del histórico Castillo Medieval y cerca de prestigiosos campos de golf..En resumen: Un hogar moderno con jardín privado, piscina y la garantía de un entorno verde inmutable, todo ello en la mejor zona de Capdepera..¡No sueñes con el Mediterráneo, vívelo! Llámanos para concertar tu visita.. ./ppEl precio de venta del inmueble incluye los honorarios de la agencia inmobiliaria que serán satisfechos por la parte vendedora y no incluye el impuesto de ITP que será 8% hasta compraventas por importe de 400.000 EUR o IVA correspondiente. Los gastos notariales y registrales se estiman orientativamente en un 2% del valor de la compraventa, y deberán ser abonados al firmar la correspondiente escritura pública por los compradores. El porcentaje de los impuestos se calculan sobre el precio final de escritura pública y puede variar, en función de las subvenciones, ayudas, edad, precio de compraventa y otras circunstancias del contribuyente./ppInmobiliaria inscrita en el Registro Oficial dAgents Inmobiliaris de les Illes Balears con el NÚMERO DE REGISTRO: GOIBE730402/2024./p ]]>
+</es>
+<en>
+<![CDATA[ ]]>
+</en>
+<de>
+<![CDATA[ ]]>
+</de>
+<da>
+<![CDATA[ ]]>
+</da>
+<fr>
+<![CDATA[ ]]>
+</fr>
+<it>
+<![CDATA[ ]]>
+</it>
+<nl>
+<![CDATA[ ]]>
+</nl>
+<ru>
+<![CDATA[ ]]>
+</ru>
+<fi>
+<![CDATA[ ]]>
+</fi>
+<ca>
+<![CDATA[ ]]>
+</ca>
+<no>
+<![CDATA[ ]]>
+</no>
+<pt>
+<![CDATA[ ]]>
+</pt>
+<sv>
+<![CDATA[ ]]>
+</sv>
+<eu>
+<![CDATA[ ]]>
+</eu>
+<cn>
+<![CDATA[ ]]>
+</cn>
+<gl>
+<![CDATA[ ]]>
+</gl>
+<lt>
+<![CDATA[ ]]>
+</lt>
+<cs>
+<![CDATA[ ]]>
+</cs>
+<bg>
+<![CDATA[ ]]>
+</bg>
+<pl>
+<![CDATA[ ]]>
+</pl>
+</desc>
+<title_extra/>
+<desc_extra/>
+<features>
+<feature>Wardrobes cupboard</feature>
+<feature>Terrace</feature>
+<feature>Elevator</feature>
+<feature>Air-Conditioning</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/4004/28899047/3-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/4004/28899047/3-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/4004/28899047/3-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/4004/28899047/3-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/4004/28899047/3-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/4004/28899047/3-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/4004/28899047/3-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/4004/28899047/3-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/4004/28899047/3-9.jpg</url>
+</image>
+<image id="10">
+<url>https://fotos15.apinmo.com/4004/28899047/3-10.jpg</url>
+</image>
+<image id="11">
+<url>https://fotos15.apinmo.com/4004/28899047/3-11.jpg</url>
+</image>
+<image id="12">
+<url>https://fotos15.apinmo.com/4004/28899047/3-12.jpg</url>
+</image>
+<image id="13">
+<url>https://fotos15.apinmo.com/4004/28899047/3-13.jpg</url>
+</image>
+<image id="14">
+<url>https://fotos15.apinmo.com/4004/28899047/3-14.jpg</url>
+</image>
+<image id="15">
+<url>https://fotos15.apinmo.com/4004/28899047/3-15.jpg</url>
+</image>
+<image id="16">
+<url>https://fotos15.apinmo.com/4004/28899047/3-16.jpg</url>
+</image>
+<image id="17">
+<url>https://fotos15.apinmo.com/4004/28899047/3-17.jpg</url>
+</image>
+<image id="18">
+<url>https://fotos15.apinmo.com/4004/28899047/3-18.jpg</url>
+</image>
+<image id="19">
+<url>https://fotos15.apinmo.com/4004/28899047/3-19.jpg</url>
+</image>
+<image id="20">
+<url>https://fotos15.apinmo.com/4004/28899047/3-20.jpg</url>
+</image>
+<image id="21">
+<url>https://fotos15.apinmo.com/4004/28899047/3-21.jpg</url>
+</image>
+<image id="22">
+<url>https://fotos15.apinmo.com/4004/28899047/3-22.jpg</url>
+</image>
+<image id="23">
+<url>https://fotos15.apinmo.com/4004/28899047/3-23.jpg</url>
+</image>
+<image id="24">
+<url>https://fotos15.apinmo.com/4004/28899047/3-24.jpg</url>
+</image>
+<image id="25">
+<url>https://fotos15.apinmo.com/4004/28899047/3-25.jpg</url>
+</image>
+<image id="26">
+<url>https://fotos15.apinmo.com/4004/28899047/3-26.jpg</url>
+</image>
+<image id="27">
+<url>https://fotos15.apinmo.com/4004/28899047/3-27.jpg</url>
+</image>
+<image id="28">
+<url>https://fotos15.apinmo.com/4004/28899047/3-28.jpg</url>
+</image>
+<image id="29">
+<url>https://fotos15.apinmo.com/4004/28899047/3-29.jpg</url>
+</image>
+<image id="30">
+<url>https://fotos15.apinmo.com/4004/28899047/3-30.jpg</url>
+</image>
+<image id="31">
+<url>https://fotos15.apinmo.com/4004/28899047/3-31.jpg</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>image_persona</id>
+<date>2026-04-27 11:58:21</date>
+<agencia>Guadiana Haus</agencia>
+<email>i.guadianahaus.11122@inmovilla.com</email>
+<telefono>647492423</telefono>
+<ref>550/11122</ref>
+<state>Free</state>
+<operation_type>For sale</operation_type>
+<price>559000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>Country House</type>
+<country>España</country>
+<province>HUELVA</province>
+<town>Ayamonte</town>
+<location_detail>Costa Esuri</location_detail>
+<cp>21400</cp>
+<postal_code>21400</postal_code>
+<location>
+<latitude>37.241219</latitude>
+<longitude>-7.380124</longitude>
+</location>
+<beds>8</beds>
+<baths>3</baths>
+<estado_propiedad>20</estado_propiedad>
+<antiguedad>1950</antiguedad>
+<pool>1</pool>
+<surface_area>
+<built>660</built>
+<plot>23000</plot>
+</surface_area>
+<energy_rating>
+<status>In process</status>
+<consumption>X</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>
+<es>http://guadianahaus.es/ficha/index.php?codigo=11122_20354508</es>
+</url>
+<desc>
+<es>
+<![CDATA[ Finca en Ayamonte, provincia de Huelva. Finca con parcela de 2,3ha, con 3 edificaciones. Primera edificación reformada recientemente, con ventanas de PVC, 2 chimeneas y vestidor. Se distribuye en salón, cocina americana, 3 dormitorios y un baño, La segunda edificación es una casa típica de campo de 2 plantas con techos altos con vigas de madera. Se distribuye en la planta baja hall de entrada, cocina, 2 comedores un salón con chimenea y cuarto de baño completo. En la segunda planta tiene 2 salones, uno de ellos con chimenea, 5 dormitorios y un baño. Desde la segunda planta se accede a la azotea que ocupa la misma superficie que la vivienda. La tercera edificación aún no está terminada, pero sería una casa para invitados. El exterior de la casa esta equipado con una piscina, zona de barbacoa, huerto y gallinero. En cuanto a los suministros básicos, el agua es procedente de 1 pozo artesiano, extraída por una bomba eléctrica, y la electricidad conectada al suministro de la ciudad, con la compañía Endesa. La finca tiene un muy buen acceso desde la autovía A49 y se encuentra a tan solo 2km de Ayamonte. Solicite más información ya, no deje pasar esta oportunidad. ]]>
+</es>
+<en>
+<![CDATA[ Farm in Ayamonte, province of Huelva. Farm with a 2.3ha plot, with 3 buildings. First building recently renovated, with PVC windows, 2 fireplaces and dressing room. It is distributed in a living room, open-plan kitchen, 3 bedrooms and a bathroom. The second building is a typical 2-story country house with high ceilings with wooden beams. It is distributed on the ground floor: entrance hall, kitchen, 2 dining rooms, a living room with fireplace and a complete bathroom. On the second floor there are 2 living rooms, one of them with a fireplace, 5 bedrooms and a bathroom. From the second floor there is access to the roof terrace which occupies the same area as the house. The third building is not yet finished, but it would be a guest house. The exterior of the house is equipped with a swimming pool, barbecue area, garden and chicken coop. As for basic supplies, the water comes from 1 artesian well, extracted by an electric pump, and the electricity connected to the city supply, with the Endesa company. The farm has very good access from the A49 highway and is located just 2km from Ayamonte. Request more information now, don't miss this opportunity. ]]>
+</en>
+<de>
+<![CDATA[ Bauernhof in Ayamonte, Provinz Huelva. Bauernhof mit 2,3 ha großem Grundstück, mit 3 Gebäuden. Erstes Gebäude vor kurzem renoviert, mit PVC-Fenstern, 2 Kaminen und Ankleidezimmer. Es ist in ein Wohnzimmer, eine offene Küche, 3 Schlafzimmer und ein Badezimmer aufgeteilt. Das zweite Gebäude ist ein typisches zweistöckiges Landhaus mit hohen Decken und Holzbalken. Es ist im Erdgeschoss verteilt: Eingangshalle, Küche, 2 Esszimmer, ein Wohnzimmer mit Kamin und ein komplettes Badezimmer. Im zweiten Stock befinden sich 2 Wohnzimmer, eines davon mit Kamin, 5 Schlafzimmer und ein Badezimmer. Von der zweiten Etage gibt es Zugang zur Dachterrasse, die die gleiche Fläche wie das Haus einnimmt. Das dritte Gebäude ist noch nicht fertig, es soll aber ein Gästehaus werden. Der Außenbereich des Hauses ist mit einem Swimmingpool, einem Grillplatz, einem Garten und einem Hühnerstall ausgestattet. Was die Grundversorgung betrifft, so stammt das Wasser aus einem artesischen Brunnen, der von einer elektrischen Pumpe gefördert wird, und der Strom ist an die Stadtversorgung der Firma Endesa angeschlossen. Die Farm verfügt über eine sehr gute Anbindung an die Autobahn A49 und liegt nur 2 km von Ayamonte entfernt. Fordern Sie jetzt weitere Informationen an, lassen Sie sich diese Gelegenheit nicht entgehen. ]]>
+</de>
+<da>
+<![CDATA[ ]]>
+</da>
+<fr>
+<![CDATA[ Ferme à Ayamonte, province de Huelva.Ferme avec un terrain de 2,3ha, avec 3 bâtiments.Premier immeuble récemment rénové, avec fenêtres PVC, 2 cheminées et dressing.Il est distribué dans un salon, une cuisine américaine, 3 chambres et une salle de bains.Le deuxième bâtiment est une maison de campagne typique de 2 étages avec de hauts plafonds et des poutres en bois.Il est distribué au rez-de-chaussée : hall d'entrée, cuisine, 2 salles à manger, un salon avec cheminée et une salle de bain complète.Au deuxième étage, il y a 2 salons dont un avec cheminée, 5 chambres et une salle de bain.Depuis le deuxième étage, on accède au toit-terrasse qui occupe la même superficie que la maison.Le troisième bâtiment n'est pas encore terminé, mais il s'agirait d'une maison d'hôtes.L'extérieur de la maison est équipé d'une piscine, d'un espace barbecue, d'un jardin et d'un poulailler.Quant à l'approvisionnement de base, l'eau provient d'un puits artésien, extrait par une pompe électrique, et l'électricité est raccordée au réseau de la ville, avec l'entreprise Endesa.La ferme bénéficie d'un très bon accès depuis l'autoroute A49 et est située à seulement 2 km d'Ayamonte.Demandez plus d’informations maintenant, ne manquez pas cette opportunité. ]]>
+</fr>
+<it>
+<![CDATA[ Fattoria ad Ayamonte, provincia di Huelva.Azienda agricola con terreno di 2,3 ettari, con 3 fabbricati.Primo fabbricato recentemente ristrutturato, con infissi in PVC, 2 camini e antibagno.È distribuito in soggiorno, cucina a vista, 3 camere da letto e un bagno.Il secondo edificio è una tipica casa di campagna a 2 piani con soffitti alti con travi in legno.È distribuito al piano terra: ingresso, cucina, 2 sale da pranzo, un soggiorno con camino e un bagno completo.Al secondo piano ci sono 2 soggiorni di cui uno con camino, 5 camere da letto e un bagno.Dal secondo piano si accede alla terrazza sul tetto che occupa la stessa superficie della casa.Il terzo edificio non è ancora finito, ma sarebbe una guest house.L'esterno della casa è attrezzato con piscina, zona barbecue, giardino e pollaio.Per quanto riguarda le forniture di base, l'acqua proviene da 1 pozzo artesiano, estratto da una elettropompa, e l'energia elettrica collegata alla rete cittadina, con la società Endesa.L'azienda agricola ha un ottimo accesso dall'autostrada A49 e si trova a soli 2 km da Ayamonte.Richiedi subito maggiori informazioni, non perdere questa occasione. ]]>
+</it>
+<nl>
+<![CDATA[ Boerderij in Ayamonte, provincie Huelva.Boerderij met een perceel van 2,3 ha, met 3 gebouwen.Eerste gebouw onlangs gerenoveerd, met PVC-ramen, 2 open haarden en kleedkamer.Het is verdeeld in een woonkamer, een kitchenette, 3 slaapkamers en een badkamer.Het tweede gebouw is een typisch landhuis van 2 verdiepingen met hoge plafonds met houten balken.Het is verdeeld over de begane grond: inkomhal, keuken, 2 eetkamers, een woonkamer met open haard en een complete badkamer.Op de tweede verdieping bevinden zich 2 woonkamers, waarvan één met open haard, 5 slaapkamers en een badkamer.Vanaf de tweede verdieping is er toegang tot het dakterras dat hetzelfde oppervlak beslaat als de woning.Het derde gebouw is nog niet klaar, maar het zou een gastenverblijf worden.De buitenkant van het huis is uitgerust met een zwembad, een barbecueplek, een tuin en een kippenhok.Wat de basisvoorzieningen betreft, komt het water uit 1 geboorde put, gewonnen door een elektrische pomp, en is de elektriciteit aangesloten op de stadsvoorziening van het bedrijf Endesa.De boerderij is zeer goed bereikbaar vanaf de snelweg A49 en ligt op slechts 2 km van Ayamonte.Vraag nu meer informatie aan en mis deze kans niet. ]]>
+</nl>
+<ru>
+<![CDATA[ ]]>
+</ru>
+<fi>
+<![CDATA[ ]]>
+</fi>
+<ca>
+<![CDATA[ ]]>
+</ca>
+<no>
+<![CDATA[ ]]>
+</no>
+<pt>
+<![CDATA[ Quinta em Ayamonte, província de Huelva.Quinta com lote de 2,3ha, com 3 edifícios.Primeiro prédio recentemente remodelado, com janelas em PVC, 2 lareiras e vestiário.Distribui-se por sala, cozinha americana, 3 quartos e casa de banho.O segundo edifício é uma típica casa de campo de 2 pisos com tectos altos e vigas de madeira.Distribui-se no rés-do-chão: hall de entrada, cozinha, 2 salas de jantar, sala de estar com lareira e casa de banho completa.No segundo andar existem 2 salas, uma delas com lareira, 5 quartos e uma casa de banho.A partir do segundo andar dá-se acesso ao terraço que ocupa a mesma área da casa.O terceiro edifício ainda não está concluído, mas seria uma casa de hóspedes.O exterior da casa está equipado com piscina, zona de churrasqueira, jardim e galinheiro.Quanto ao abastecimento básico, a água provém de 1 poço artesiano, extraído por bomba eléctrica, e a electricidade ligada ao abastecimento municipal, com a empresa Endesa.A quinta tem muito bons acessos pela autoestrada A49 e está localizada a apenas 2km de Ayamonte.Solicite já mais informações, não perca esta oportunidade. ]]>
+</pt>
+<sv>
+<![CDATA[ ]]>
+</sv>
+<eu>
+<![CDATA[ ]]>
+</eu>
+<cn>
+<![CDATA[ ]]>
+</cn>
+<gl>
+<![CDATA[ ]]>
+</gl>
+<lt>
+<![CDATA[ ]]>
+</lt>
+<cs>
+<![CDATA[ ]]>
+</cs>
+<bg>
+<![CDATA[ ]]>
+</bg>
+<pl>
+<![CDATA[ ]]>
+</pl>
+</desc>
+<title_extra/>
+<desc_extra/>
+<features>
+<feature>Ceilings</feature>
+<feature>Terrace</feature>
+<feature>Community Pool</feature>
+<feature>Garden</feature>
+<feature>Storeroom</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/11122/20354508/1-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/11122/20354508/1-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/11122/20354508/1-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/11122/20354508/1-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/11122/20354508/1-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/11122/20354508/1-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/11122/20354508/1-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/11122/20354508/1-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/11122/20354508/1-9.jpg</url>
+</image>
+<image id="10">
+<url>https://fotos15.apinmo.com/11122/20354508/1-10.jpg</url>
+</image>
+<image id="11">
+<url>https://fotos15.apinmo.com/11122/20354508/1-11.jpg</url>
+</image>
+<image id="12">
+<url>https://fotos15.apinmo.com/11122/20354508/1-12.jpg</url>
+</image>
+<image id="13">
+<url>https://fotos15.apinmo.com/11122/20354508/1-13.jpg</url>
+</image>
+<image id="14">
+<url>https://fotos15.apinmo.com/11122/20354508/1-14.jpg</url>
+</image>
+<image id="15">
+<url>https://fotos15.apinmo.com/11122/20354508/1-15.jpg</url>
+</image>
+<image id="16">
+<url>https://fotos15.apinmo.com/11122/20354508/1-16.jpg</url>
+</image>
+<image id="17">
+<url>https://fotos15.apinmo.com/11122/20354508/1-17.jpg</url>
+</image>
+<image id="18">
+<url>https://fotos15.apinmo.com/11122/20354508/1-18.jpg</url>
+</image>
+<image id="19">
+<url>https://fotos15.apinmo.com/11122/20354508/1-19.jpg</url>
+</image>
+<image id="20">
+<url>https://fotos15.apinmo.com/11122/20354508/1-20.jpg</url>
+</image>
+<image id="21">
+<url>https://fotos15.apinmo.com/11122/20354508/1-21.jpg</url>
+</image>
+<image id="22">
+<url>https://fotos15.apinmo.com/11122/20354508/1-22.jpg</url>
+</image>
+<image id="23">
+<url>https://fotos15.apinmo.com/11122/20354508/1-23.jpg</url>
+</image>
+<image id="24">
+<url>https://fotos15.apinmo.com/11122/20354508/1-24.jpg</url>
+</image>
+<image id="25">
+<url>https://fotos15.apinmo.com/11122/20354508/1-25.jpg</url>
+</image>
+<image id="26">
+<url>https://fotos15.apinmo.com/11122/20354508/1-26.jpg</url>
+</image>
+<image id="27">
+<url>https://fotos15.apinmo.com/11122/20354508/1-27.jpg</url>
+</image>
+<image id="28">
+<url>https://fotos15.apinmo.com/11122/20354508/1-28.jpg</url>
+</image>
+<image id="29">
+<url>https://fotos15.apinmo.com/11122/20354508/1-29.jpg</url>
+</image>
+<image id="30">
+<url>https://fotos15.apinmo.com/11122/20354508/1-30.jpg</url>
+</image>
+<image id="31">
+<url>https://fotos15.apinmo.com/11122/20354508/1-31.jpg</url>
+</image>
+<image id="32">
+<url>https://fotos15.apinmo.com/11122/20354508/1-32.jpg</url>
+</image>
+<image id="33">
+<url>https://fotos15.apinmo.com/11122/20354508/1-33.jpg</url>
+</image>
+<image id="34">
+<url>https://fotos15.apinmo.com/11122/20354508/1-34.jpg</url>
+</image>
+<image id="35">
+<url>https://fotos15.apinmo.com/11122/20354508/1-35.jpg</url>
+</image>
+<image id="36">
+<url>https://fotos15.apinmo.com/11122/20354508/1-36.jpg</url>
+</image>
+<image id="37">
+<url>https://fotos15.apinmo.com/11122/20354508/1-37.jpg</url>
+</image>
+<image id="38">
+<url>https://fotos15.apinmo.com/11122/20354508/1-38.jpg</url>
+</image>
+<image id="39">
+<url>https://fotos15.apinmo.com/11122/20354508/1-39.jpg</url>
+</image>
+<image id="40">
+<url>https://fotos15.apinmo.com/11122/20354508/1-40.jpg</url>
+</image>
+<image id="41">
+<url>https://fotos15.apinmo.com/11122/20354508/1-41.jpg</url>
+</image>
+<image id="42">
+<url>https://fotos15.apinmo.com/11122/20354508/1-42.jpg</url>
+</image>
+<image id="43">
+<url>https://fotos15.apinmo.com/11122/20354508/1-43.jpg</url>
+</image>
+<image id="44">
+<url>https://fotos15.apinmo.com/11122/20354508/1-44.jpg</url>
+</image>
+<image id="45">
+<url>https://fotos15.apinmo.com/11122/20354508/1-45.jpg</url>
+</image>
+<image id="46">
+<url>https://fotos15.apinmo.com/11122/20354508/1-46.jpg</url>
+</image>
+<image id="47">
+<url>https://fotos15.apinmo.com/11122/20354508/1-47.jpg</url>
+</image>
+<image id="48">
+<url>https://fotos15.apinmo.com/11122/20354508/1-48.jpg</url>
+</image>
+<image id="49">
+<url>https://fotos15.apinmo.com/11122/20354508/1-49.jpg</url>
+</image>
+<image id="50">
+<url>https://fotos15.apinmo.com/11122/20354508/1-50.jpg</url>
+</image>
+</images>
+</property>
+
+
+	<property>
+<id>test_ccee_en_tramite</id>
+<date>2026-04-28 18:31:22</date>
+<ref>2249076</ref>
+<price>1850</price>
+<currency>EUR</currency>
+<price_freq>month</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>1</leasehold>
+<new_build>0</new_build>
+<type>Piso</type>
+<town>PAMPLONA</town>
+<province>Navarra</province>
+<country>spain</country>
+<location>
+<latitude>42.8139426</latitude>
+<longitude>-1.6584446</longitude>
+</location>
+<location_detail>AVDA. DE BAYONA 4, 4</location_detail>
+<beds>6</beds>
+<baths>2</baths>
+<pool>1</pool>
+<surface_area>
+<built>175</built>
+</surface_area>
+<energy_rating/>
+<url/>
+<desc>
+<es> Gran piso luminoso y céntrico con piscina solarium. Se presenta una excelente oportunidad de alquiler TEMPORAL en la prestigiosa zona de San Juan, en el corazón de Pamplona. Este amplio piso, situado en la quinta planta de un edificio construido en 1976, ofrece todo lo necesario para una vida cómoda y confortable en la ciudad.Con un total de 175 metros cuadrados construidos, la vivienda destaca por su generosa distribución y el aprovechamiento del espacio. Se compone de seis habitaciones, perfectas  para quienes necesiten disponer de espacio adicional para oficinas o cuartos de hobby. Todas las estancias cuentan con una magnífica iluminación natural, creando un ambiente cálido y acogedor. Una estancia está adaptada como comedor cercano a cocina, otra como salita de Tv y la sexta a despachoEl salón comedor es uno de los puntos fuertes de esta propiedad, con sus impresionantes 50 metros que lo convierten en el lugar ideal para disfrutar de reuniones familiares, celebraciones o simplemente relajarse después de un largo día. La decoración actual y el mobiliario de calidad, que se incluye en el alquiler, garantizan una estancia confortable desde el primer momento. Aire acondicionado.Dos baños completos  ( uno en suite) y un práctico aseo completan la oferta interna del piso, ofreciendo comodidad adicional a los habitantes y a sus invitados. La cocina, completamente equipada con modernos electrodomésticos, facilita el día a día con su diseño funcional y sus amplios espacios de almacenamiento.El edificio ofrece servicios comunitarios que destacan, como portero físico, ascensor, que facilita el acceso a la vivienda, y una atractiva piscina con zona de solarium ideal para el disfrute durante los meses más calurosos. La comodidad de los habitantes está asegurada con estas instalaciones que añaden valor a la experiencia de vivir en este inmueble.La ubicación es otro de los atractivos de esta vivienda. Situada en la codiciada zona de San Juan, al lado del centro de la ciudad, con el parque de Antoniutti y la Vuelta del Castillo ( pulmón de la ciudad) a la vuelta de la esquina. La propiedad se beneficia de la cercanía a las facultades universitarias de Ciencias y a la zona hospitalaria además de una excelente red de transporte público, con paradas de autobús en las inmediaciones que conectan rápidamente con el resto de la ciudad. La zona ofrece además una amplia gama de servicios cercanos, incluyendo colegios, supermercados, parques y una variada oferta gastronómica y de ocio, lo que hace de este barrio un lugar perfecto para establecerse.Además, al estar amueblado, el piso permite una mudanza prácticamente instantánea, sin preocupaciones adicionales por la adquisición de mobiliario, y los electrodomésticos incluidos aseguran que todas tus necesidades diarias estén cubiertas desde el primer día de residencia.En conclusión, este piso en la zona de San Juan es una oportunidad inigualable para aquellos que buscan una combinación de espacio, comodidad y ubicación privilegiada en Pamplona. La amplitud de sus habitaciones, el espectacular salón, las comodidades del edificio y la excelente ubicación lo convierten en una opción sobresaliente en el mercado de alquiler actual.No pierdas la oportunidad de visitarlo y descubrir por ti mismo todas las ventajas que este inmueble tiene para ofrecer. ¡Estamos seguros de que estará a la altura de tus expectativas! Ponte en contacto con nosotros para agendar una visita y dar el primer paso hacia tu nuevo hogar. </es>
+</desc>
+<images>
+<image id="1">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/UABX3z.jpg</url>
+</image>
+<image id="2">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/WI7Y6a.jpg</url>
+</image>
+<image id="3">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/sPnvwx.jpg</url>
+</image>
+<image id="4">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/uJeVoo.jpg</url>
+</image>
+<image id="5">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/utB0WY.jpg</url>
+</image>
+<image id="6">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/FiF8Nz.jpg</url>
+</image>
+<image id="7">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/WSj6Sd.jpg</url>
+</image>
+<image id="8">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/lF7Ras.jpg</url>
+</image>
+<image id="9">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/fn7f1P.jpg</url>
+</image>
+<image id="10">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/6DacLG.jpg</url>
+</image>
+<image id="11">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/Z0CLc6.jpg</url>
+</image>
+<image id="12">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/1LNYQB.jpg</url>
+</image>
+<image id="13">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/ns7aca.jpg</url>
+</image>
+<image id="14">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/iJfkbZ.jpg</url>
+</image>
+<image id="15">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/IyBh2S.jpg</url>
+</image>
+<image id="16">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/p5wd5W.jpg</url>
+</image>
+<image id="17">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/Yrp5Iy.jpg</url>
+</image>
+<image id="18">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/bjxpO6.jpg</url>
+</image>
+<image id="19">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/d54p1a.jpg</url>
+</image>
+<image id="20">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/QVyYSX.jpg</url>
+</image>
+<image id="21">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/xd2558.jpg</url>
+</image>
+<image id="22">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/yDFbi1.jpg</url>
+</image>
+<image id="23">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/6xScgZ.jpg</url>
+</image>
+<image id="24">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/gtwO9T.jpg</url>
+</image>
+<image id="25">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/PKHpdV.jpg</url>
+</image>
+<image id="26">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/jnQ1g3.jpg</url>
+</image>
+<image id="27">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/VpfV22.jpg</url>
+</image>
+<image id="28">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/1gxzJE.jpg</url>
+</image>
+<image id="29">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/78j0v6.jpg</url>
+</image>
+<image id="30">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/Mxpssm.jpg</url>
+</image>
+<image id="31">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/OoIB57.jpg</url>
+</image>
+<image id="32">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/KCJ0K6.jpg</url>
+</image>
+<image id="33">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/LTN6TB.jpg</url>
+</image>
+<image id="34">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/I6gsVF.jpg</url>
+</image>
+<image id="35">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/rEdGOq.jpg</url>
+</image>
+<image id="36">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/qHRNCD.jpg</url>
+</image>
+<image id="37">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/ycrXEu.jpg</url>
+</image>
+<image id="38">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/4Y6Jfw.jpg</url>
+</image>
+<image id="39">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/ahEO07.jpg</url>
+</image>
+<image id="40">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/bPuj2Z.jpg</url>
+</image>
+<image id="41">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/MJW2KJ.jpg</url>
+</image>
+<image id="42">
+<url>https://app.iagestion.com/administra/herramientas/generador_certificado_jpg.php?id=2249076</url>
+</image>
+</images>
+<features>
+<feature>pool</feature>
+<feature>lift</feature>
+<feature>terrace</feature>
+</features>
+</property>
+
+	
 	
 	
 

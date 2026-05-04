@@ -1459,7 +1459,7 @@
             <jardin />
             <terraza />
         </superficies>
-        <precio divisa="EUR">60000</precio>
+        <precio divisa="EUR">62000</precio>
         <precio_anterior divisa="EUR">69000</precio_anterior>
         <caracteristicas>
             <caracteristica id="ano_construccion" />
@@ -1980,7 +1980,7 @@
             <terraza />
         </superficies>
         <precio divisa="EUR">60000</precio>
-        <precio_anterior divisa="EUR">69000</precio_anterior>
+        <precio_anterior divisa="EUR">79000</precio_anterior>
         <caracteristicas>
             <caracteristica id="ano_construccion" />
             <caracteristica id="amueblado">amueblado</caracteristica>

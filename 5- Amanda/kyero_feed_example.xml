@@ -4113,7 +4113,7 @@
 </property>
 
 	<property>
-<id>tc_desc_54</id>
+<id>tc_desc_54_2</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1290000</price>
@@ -4185,7 +4185,7 @@
 </property>
 
 	<property>
-<id>tc_desc_55</id>
+<id>tc_desc_55_2</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1290000</price>
@@ -4977,7 +4977,7 @@
 </property>
 
 		<property>
-<id>tc_desc_66</id>
+<id>tc_desc_66_2</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1290000</price>
@@ -5445,7 +5445,7 @@
 <da>ejemplo</da>
 <de>ejemplo</de>
 <en>ejemplo</en>
-<es>Test 17/04- Inmueble gravado con hipoteca pendiente de cancelación registral a cargo del vendedor.</es>
+<es>Test 04/05 Inmueble no hipotecable.</es>
 <fi>ejemplo</fi>
 <fr>ejemplo</fr>
 <it>ejemplo</it>
@@ -5700,9 +5700,9 @@
 <id>tc_desc_ownership</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
-<price>1290000</price>
+<price>12900</price>
 <currency>EUR</currency>
-<price_freq>sale</price_freq>
+<price_freq>rent</price_freq>
 <part_ownership>0</part_ownership>
 <leasehold>0</leasehold>
 <new_build>1</new_build>

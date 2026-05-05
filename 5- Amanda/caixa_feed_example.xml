@@ -211,15 +211,15 @@
         <country>ES</country>
         <custom_es_status_of_conservation>used</custom_es_status_of_conservation>
         <custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
-        <description>Test 17/04 Inmueble no disponible Piso exclusivo para estudiantes. Se alquilan habitaciones individuales.</description>
+        <description>Test 04/05 Inmueble no disponible Piso exclusivo para estudiantes. Se alquilan habitaciones individuales.</description>
         <email>calidade@century21.es</email>
         <energy_efficiency_grade>d</energy_efficiency_grade>
-        <list_selling_price_amount>3500000</list_selling_price_amount>
+        <list_selling_price_amount>3500</list_selling_price_amount>
         <name>ESPECTACULAR CHALET INDEPENDIENTE EN LAS LOMAS</name>
         <phone>+34915295492</phone>
         <property_type>house</property_type>
-        <ref>tc_desc_ownership</ref>
-        <sale_rent>for_sale</sale_rent>
+        <ref>tc_desc_ownership_2</ref>
+        <sale_rent>for_rent</sale_rent>
         <state>Madrid</state>
         <street>Las Lomas</street>
         <total_area_amount>4809</total_area_amount>
@@ -254,14 +254,14 @@
         <country>ES</country>
         <custom_es_status_of_conservation>used</custom_es_status_of_conservation>
         <custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
-        <description>Test 17/04 Inmueble sin Licencia de Primera Ocupación. Vivienda en bruto sin terminar. Inmueble actualmente reservado. Vivienda con contrato de renta antigua. Inmueble no disponible Piso exclusivo para estudiantes. Comprando esta casa obtienes un 2x1 de promoción. Ver más detalles en https://www.engelvoelkers.com/.</description>
+        <description>Test 04/05 Inmueble sin Licencia de Primera Ocupación. Vivienda en bruto. Inmueble actualmente reservado. Vivienda con contrato de renta antigua. Inmueble no disponible Piso exclusivo para estudiantes. Comprando esta casa obtienes un 2x1 de promoción. Ver más detalles en https://www.engelvoelkers.com/.</description>
         <email>calidade@century21.es</email>
         <energy_efficiency_grade>d</energy_efficiency_grade>
         <list_selling_price_amount>3500000</list_selling_price_amount>
         <name>ESPECTACULAR CHALET INDEPENDIENTE EN LAS LOMAS</name>
         <phone>+34915295492</phone>
         <property_type>house</property_type>
-        <ref>tc_desc_fakegreen</ref>
+        <ref>tc_desc_fakegreen_2</ref>
         <sale_rent>for_sale</sale_rent>
         <state>Madrid</state>
         <street>Las Lomas</street>

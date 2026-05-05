@@ -711,7 +711,7 @@
 	</propiedad>
 
 	<propiedad>
-		<id>tc_desc_ownership</id>
+		<id>tc_desc_ownership_2</id>
 		<numagencia>2</numagencia>
 		<calidades/>
 		<provincia>TOLEDO</provincia>
@@ -858,7 +858,7 @@
 		<metro>0</metro>
 		<golf>0</golf>
 		<descrip1>
-			<![CDATA[ Inmueble no disponible Piso exclusivo para estudiantes. Se alquilan habitaciones individuales. ]]>
+			<![CDATA[ Inmueble no disponible. ]]>
 		</descrip1>
 		<titulo1>
 			<![CDATA[ Titulo de la propiedad ]]>

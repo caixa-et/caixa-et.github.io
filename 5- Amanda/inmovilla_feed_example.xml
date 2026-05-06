@@ -2208,7 +2208,7 @@
 		<tpostigo/>
 		<tinterior><![CDATA[ Test Precioso piso con encanto ta de dos dormitorios dobles, 2 baños completos.]]></tinterior>
 		<distmar>0</distmar>
-		<ervacion>Reformado</conservacion>
+		<conservacion>Reformado</conservacion>
 		<gastos_com>50</gastos_com>
 		<habdobles>2</habdobles>
 		<habitaciones>1</habitaciones>

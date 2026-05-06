@@ -2741,12 +2741,12 @@
         <videos/>
     </propiedad>
 
-<propiedad id="PRUEBAMARTA_type_Error2_INMOWEB">
+<propiedad id="PruebaMarta_Price_IMW">
         <fecha_alta>18/02/2026 10:48</fecha_alta>
         <fecha_modificacion>12/03/2026 12:18</fecha_modificacion>
-        <referencia>PRUEBAMARTA_type_Error2_INMOWEB</referencia>
+        <referencia>PruebaMarta_Price_IMW</referencia>
         <ref_catastral/>
-        <familia id="1">Estdio</familia>
+        <familia id="1">Apartment</familia>
         <operacion id="1">Venta</operacion>
         <estado id="ON"/>
         <status_id>activo</status_id>

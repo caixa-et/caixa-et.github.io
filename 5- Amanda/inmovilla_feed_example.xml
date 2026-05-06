@@ -1886,6 +1886,7 @@
 <videos/>
 </propiedad>
 
+	<propiedad>
 	<id>test-null_2</id>
 		<numagencia>2</numagencia>
 		<calidades/>
@@ -2062,6 +2063,7 @@
 		<numpanos>0</numpanos>
 	</propiedad>
 
+	<propiedad>
 <id>iris-location-inmovilla-004_ccee_datos_ok</id>
 		<numagencia>2</numagencia>
 		<calidades />
@@ -2184,6 +2186,7 @@
 		<videos />
 	</propiedad>
 
+	<propiedad>
 			<id>iris-location-inmovilla-004_ccee_sin_datos</id>
 		<numagencia>2</numagencia>
 		<calidades />
@@ -2305,14 +2308,6 @@
 		<numpanos>0</numpanos>
 		<videos />
 	</propiedad>
-
-
-
-
-
-
-
-
 
 
 

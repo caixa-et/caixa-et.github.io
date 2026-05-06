@@ -2203,7 +2203,7 @@
 		<tcocina/>
 		<tfachada/>
 		<tpostigo/>
-		<tinterior><![CDATA[Precioso piso con encanto ta de dos dormitorios dobles, 2 baños completos.]]></tinterior>
+		<tinterior><![CDATA[ Test Precioso piso con encanto ta de dos dormitorios dobles, 2 baños completos.]]></tinterior>
 		<distmar>0</distmar>
 		<ervacion>Reformado</conservacion>
 		<gastos_com>50</gastos_com>

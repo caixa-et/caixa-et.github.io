@@ -11735,7 +11735,7 @@
 	</propiedad>
 
 <propiedad>
-		<id>PRUEBAMARTA_GARATGE</id>
+		<id>PruebaMarta_Price_IMV</id>
 		<numagencia>2</numagencia>
 		<calidades/>
 		<provincia>TOLEDO</provincia>
@@ -11745,7 +11745,7 @@
 		<vpo_name>Libre</vpo_name>
 		<destacado>0</destacado>
 		<antiguedad>1992</antiguedad>
-		<tipo_ofer>garatge</tipo_ofer>
+		<tipo_ofer>apartment</tipo_ofer>
 		<fecha>2021-07-07 10:56:59</fecha>
 		<fechaact>2025-03-21 19:13:05</fechaact>
 		<keypromo>0</keypromo>

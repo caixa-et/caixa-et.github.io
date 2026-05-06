@@ -1601,8 +1601,8 @@
         <municipality>Nueva Andalucía</municipality>
         <name>Casa adosada en una urbanizacion al lado de Puerto Banus!</name>
         <phone>+34629141650</phone>
-        <property_type>estdio</property_type>
-        <ref>PRUEBAMARTA_type_errores2_CBK</ref>
+        <property_type>apartment</property_type>
+        <ref>PruebaMarta_Price_CBK</ref>
         <sale_rent>for_sale</sale_rent>
         <state>Málaga</state>
         <street> Calle Las Malvas </street>

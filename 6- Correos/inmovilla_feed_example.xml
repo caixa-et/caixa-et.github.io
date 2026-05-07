@@ -723,7 +723,7 @@
 <propiedad>
 		<id>TC-CORREO-08.2_rechazado_descr_img_ubi</id>
 		<numagencia>2</numagencia>
-		<calidades />
+		<calidades/>
 		<destacado>1</destacado>
 		<antiguedad>1995</antiguedad>
 		<tipo_ofer>Piso</tipo_ofer>
@@ -733,8 +733,8 @@
 		<altitud>-3.693466</altitud>
 		<aseos>1</aseos>
 		<banyos>1</banyos>
-		<carpinteria />
-		<carpinext />
+		<carpinteria/>
+		<carpinext/>
 		<comunidadincluida>0</comunidadincluida>
 		<tbano/>
 		<tcocina/>
@@ -753,9 +753,9 @@
 		<m_comedor>0.00</m_comedor>
 		<m_terraza>0.00</m_terraza>
 		<numplanta>4</numplanta>
-		<orientacion />
+		<orientacion/>
 		<salon>0</salon>
-		<suelo />
+		<suelo/>
 		<precioinmo>212736.842105263</precioinmo>
 		<precioalq>0</precioalq>
 		<ref>00060</ref>

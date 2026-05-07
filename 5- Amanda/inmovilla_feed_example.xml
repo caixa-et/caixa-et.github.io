@@ -1886,6 +1886,7 @@
 <videos/>
 </propiedad>
 
+	<propiedad>
 	<id>test-null_2</id>
 		<numagencia>2</numagencia>
 		<calidades/>
@@ -2061,6 +2062,268 @@
 		<foto9>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</foto9>
 		<numpanos>0</numpanos>
 	</propiedad>
+
+	<propiedad>
+<id>iris-location-inmovilla-004_ccee_datos_ok</id>
+		<numagencia>2</numagencia>
+		<calidades />
+		<destacado>1</destacado>
+		<antiguedad>1995</antiguedad>
+		<tipo_ofer>Piso</tipo_ofer>
+		<keypromo>0</keypromo>
+		<opcioncompra>0</opcioncompra>
+		<latitud>41.13562386930004</latitud>
+		<altitud>1.051335554659347332543</altitud>
+		<aseos>1</aseos>
+		<banyos>1</banyos>
+		<carpinteria />
+		<carpinext />
+		<comunidadincluida>0</comunidadincluida>
+		<tbano/>
+		<tcocina/>
+		<tfachada/>
+		<tpostigo/>
+		<tinterior><![CDATA[Precioso piso con encanto ta de dos dormitorios dobles, 2 baños completos.]]></tinterior>
+		<distmar>0</distmar>
+		<conservacion>Reformado</conservacion>
+		<gastos_com>50</gastos_com>
+		<habdobles>2</habdobles>
+		<habitaciones>1</habitaciones>
+		<m_cons>110.00</m_cons>
+		<m_parcela>0</m_parcela>
+		<m_uties>90.00</m_uties>
+		<m_cocina>0.00</m_cocina>
+		<m_comedor>0.00</m_comedor>
+		<m_terraza>0.00</m_terraza>
+		<numplanta>4</numplanta>
+		<orientacion />
+		<salon>0</salon>
+		<suelo />
+		<precioinmo>212736.842105263</precioinmo>
+		<precioalq>0</precioalq>
+		<ref>00060</ref>
+		<accion>Vender</accion>
+		<ciudad>Riudoms</ciudad>
+		<cp>43330</cp>
+		<provincia>Tarragona</provincia>
+		<zona/>
+		<adaptadominus>0</adaptadominus>
+		<airecentral>0</airecentral>
+		<aire_con>1</aire_con>
+		<alarma>0</alarma>
+		<alarmaincendio>0</alarmaincendio>
+		<alarmarobo>0</alarmarobo>
+		<arma_empo>0</arma_empo>
+		<ascensor>1</ascensor>
+		<balcon>1</balcon>
+		<bar>0</bar>
+		<barbacoa>0</barbacoa>
+		<cajafuerte>0</cajafuerte>
+		<calefacentral>0</calefacentral>
+		<calefaccion>1</calefaccion>
+		<chimenea>0</chimenea>
+		<cocina_inde>1</cocina_inde>
+		<depoagua>0</depoagua>
+		<descalcificador>1</descalcificador>
+		<despensa>1</despensa>
+		<diafano>1</diafano>
+		<electro>1</electro>
+		<esquina>0</esquina>
+		<galeria>0</galeria>
+		<plaza_gara>1</plaza_gara>
+		<garajedoble>0</garajedoble>
+		<gasciudad>0</gasciudad>
+		<gimnasio>1</gimnasio>
+		<habjuegos>0</habjuegos>
+		<hidromasaje>0</hidromasaje>
+		<jacuzzi>0</jacuzzi>
+		<lavanderia>0</lavanderia>
+		<linea_tlf>1</linea_tlf>
+		<luminoso>1</luminoso>
+		<luz>1</luz>
+		<muebles>1</muebles>
+		<ojobuey>1</ojobuey>
+		<parking>0</parking>
+		<patio>0</patio>
+		<piscina_com>0</piscina_com>
+		<piscina_prop>0</piscina_prop>
+		<preinstaacc>0</preinstaacc>
+		<primera_line>0</primera_line>
+		<puerta_blin>1</puerta_blin>
+		<satelite>0</satelite>
+		<sauna>0</sauna>
+		<solarium>0</solarium>
+		<sotano>0</sotano>
+		<tv>1</tv>
+		<terraza>1</terraza>
+		<terrazaacris>0</terrazaacris>
+		<todoext>0</todoext>
+		<trastero>0</trastero>
+		<urbanizacion>0</urbanizacion>
+		<vestuarios>0</vestuarios>
+		<vistasalmar>0</vistasalmar>
+		<energialetra>G</energialetra>
+		<energiavalor>0</energiavalor>
+		<emisionesvalor>0</emisionesvalor>
+		<emisionesletra>G</emisionesletra>
+		<energiarecibido>0</energiarecibido>
+		<descrip1><![CDATA[Piso en zona céntrica, 2 habitaciones dobles, ascensor, balcon.]]></descrip1>
+		<titulo1><![CDATA[Piso grande]]></titulo1>
+		<titulo2><![CDATA[]]></titulo2>
+		<descrip2><![CDATA[]]></descrip2>
+		<numpanos>0</numpanos>
+		<numfotos>9</numfotos>
+		<foto1>https://caixa-et.github.io/Images/exterior-casa.jpeg</foto1>
+		<foto2>https://caixa-et.github.io/Images/exterior-casa-2.jpeg</foto2>
+		<foto3>https://caixa-et.github.io/Images/habitacion.jpg</foto3>
+		<foto4>https://caixa-et.github.io/Images/habitacion-2.jpg</foto4>
+		<foto5>https://caixa-et.github.io/Images/habitacion-3.jpg</foto5>
+		<foto6>https://caixa-et.github.io/Images/comedor.jpg</foto6>
+		<foto7>https://caixa-et.github.io/Images/cocina-2.jpg</foto7>
+		<foto8>https://caixa-et.github.io/Images/ba%C3%B1o.jpg</foto8>
+		<foto9>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</foto9>
+		<numpanos>0</numpanos>
+		<videos />
+	</propiedad>
+
+	<propiedad>
+			<id>iris-location-inmovilla-004_ccee_sin_datos</id>
+		<numagencia>2</numagencia>
+		<calidades />
+		<destacado>1</destacado>
+		<antiguedad>1995</antiguedad>
+		<tipo_ofer>Piso</tipo_ofer>
+		<keypromo>0</keypromo>
+		<opcioncompra>0</opcioncompra>
+		<latitud>41.13562386930004</latitud>
+		<altitud>1.051335554659347332543</altitud>
+		<aseos>1</aseos>
+		<banyos>1</banyos>
+		<carpinteria />
+		<carpinext />
+		<comunidadincluida>0</comunidadincluida>
+		<tbano/>
+		<tcocina/>
+		<tfachada/>
+		<tpostigo/>
+		<tinterior><![CDATA[ Test Precioso piso con encanto ta de dos dormitorios dobles, 2 baños completos.]]></tinterior>
+		<distmar>0</distmar>
+		<conservacion>Reformado</conservacion>
+		<gastos_com>50</gastos_com>
+		<habdobles>2</habdobles>
+		<habitaciones>1</habitaciones>
+		<m_cons>110.00</m_cons>
+		<m_parcela>0</m_parcela>
+		<m_uties>90.00</m_uties>
+		<m_cocina>0.00</m_cocina>
+		<m_comedor>0.00</m_comedor>
+		<m_terraza>0.00</m_terraza>
+		<numplanta>4</numplanta>
+		<orientacion />
+		<salon>0</salon>
+		<suelo />
+		<precioinmo>212736.842105263</precioinmo>
+		<precioalq>0</precioalq>
+		<ref>00060</ref>
+		<accion>Vender</accion>
+		<ciudad>Riudoms</ciudad>
+		<cp>43330</cp>
+		<provincia>Tarragona</provincia>
+		<zona/>
+		<adaptadominus>0</adaptadominus>
+		<airecentral>0</airecentral>
+		<aire_con>1</aire_con>
+		<alarma>0</alarma>
+		<alarmaincendio>0</alarmaincendio>
+		<alarmarobo>0</alarmarobo>
+		<arma_empo>0</arma_empo>
+		<ascensor>1</ascensor>
+		<balcon>1</balcon>
+		<bar>0</bar>
+		<barbacoa>0</barbacoa>
+		<cajafuerte>0</cajafuerte>
+		<calefacentral>0</calefacentral>
+		<calefaccion>1</calefaccion>
+		<chimenea>0</chimenea>
+		<cocina_inde>1</cocina_inde>
+		<depoagua>0</depoagua>
+		<descalcificador>1</descalcificador>
+		<despensa>1</despensa>
+		<diafano>1</diafano>
+		<electro>1</electro>
+		<esquina>0</esquina>
+		<galeria>0</galeria>
+		<plaza_gara>1</plaza_gara>
+		<garajedoble>0</garajedoble>
+		<gasciudad>0</gasciudad>
+		<gimnasio>1</gimnasio>
+		<habjuegos>0</habjuegos>
+		<hidromasaje>0</hidromasaje>
+		<jacuzzi>0</jacuzzi>
+		<lavanderia>0</lavanderia>
+		<linea_tlf>1</linea_tlf>
+		<luminoso>1</luminoso>
+		<luz>1</luz>
+		<muebles>1</muebles>
+		<ojobuey>1</ojobuey>
+		<parking>0</parking>
+		<patio>0</patio>
+		<piscina_com>0</piscina_com>
+		<piscina_prop>0</piscina_prop>
+		<preinstaacc>0</preinstaacc>
+		<primera_line>0</primera_line>
+		<puerta_blin>1</puerta_blin>
+		<satelite>0</satelite>
+		<sauna>0</sauna>
+		<solarium>0</solarium>
+		<sotano>0</sotano>
+		<tv>1</tv>
+		<terraza>1</terraza>
+		<terrazaacris>0</terrazaacris>
+		<todoext>0</todoext>
+		<trastero>0</trastero>
+		<urbanizacion>0</urbanizacion>
+		<vestuarios>0</vestuarios>
+		<vistasalmar>0</vistasalmar>
+		<energialetra>0</energialetra>
+		<energiavalor>0</energiavalor>
+		<emisionesvalor>0</emisionesvalor>
+		<emisionesletra>0</emisionesletra>
+		<energiarecibido>0</energiarecibido>
+		<descrip1><![CDATA[Piso en zona céntrica, 2 habitaciones dobles, ascensor, balcon.]]></descrip1>
+		<titulo1><![CDATA[Piso grande]]></titulo1>
+		<titulo2><![CDATA[]]></titulo2>
+		<descrip2><![CDATA[]]></descrip2>
+		<numpanos>0</numpanos>
+		<numfotos>9</numfotos>
+		<foto1>https://caixa-et.github.io/Images/exterior-casa.jpeg</foto1>
+		<foto2>https://caixa-et.github.io/Images/exterior-casa-2.jpeg</foto2>
+		<foto3>https://caixa-et.github.io/Images/habitacion.jpg</foto3>
+		<foto4>https://caixa-et.github.io/Images/habitacion-2.jpg</foto4>
+		<foto5>https://caixa-et.github.io/Images/habitacion-3.jpg</foto5>
+		<foto6>https://caixa-et.github.io/Images/comedor.jpg</foto6>
+		<foto7>https://caixa-et.github.io/Images/cocina-2.jpg</foto7>
+		<foto8>https://caixa-et.github.io/Images/ba%C3%B1o.jpg</foto8>
+		<foto9>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</foto9>
+		<numpanos>0</numpanos>
+		<videos />
+	</propiedad>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 </propiedades>
 <!-- Fecha Creacion: 23-01-2025 1:01:47 -->

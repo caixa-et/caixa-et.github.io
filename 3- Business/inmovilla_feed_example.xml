@@ -11735,7 +11735,7 @@
 	</propiedad>
 
 <propiedad>
-		<id>PRUEBAMARTA_GARATGE</id>
+		<id>PruebaMarta_Price_IMV</id>
 		<numagencia>2</numagencia>
 		<calidades/>
 		<provincia>TOLEDO</provincia>
@@ -11745,7 +11745,7 @@
 		<vpo_name>Libre</vpo_name>
 		<destacado>0</destacado>
 		<antiguedad>1992</antiguedad>
-		<tipo_ofer>garatge</tipo_ofer>
+		<tipo_ofer>apartment</tipo_ofer>
 		<fecha>2021-07-07 10:56:59</fecha>
 		<fechaact>2025-03-21 19:13:05</fechaact>
 		<keypromo>0</keypromo>
@@ -11780,7 +11780,7 @@
 		<numplanta>3</numplanta>
 		<orientacion/>
 		<salon>1</salon>
-		<precioinmo>215000</precioinmo>
+		<precioinmo>115000</precioinmo>
 		<preciotraspaso>0</preciotraspaso>
 		<precioalq>0</precioalq>
 		<outlet>231750</outlet>
@@ -11885,7 +11885,7 @@
 			<![CDATA[Testing Facilitea - !te espera en el centro de Torrijos!]]>
 		</descrip1>
 		<titulo1>
-			<![CDATA[ Titulo de la propiedad ]]>
+			<![CDATA[ PruebaMarta Price]]>
 		</titulo1>
 		<estadoficha>1</estadoficha>
 		<exclu>0</exclu>
@@ -11907,7 +11907,7 @@
 		<foto6>https://caixa-et.github.io/Images/comedor.jpg</foto6>
 		<foto7>https://caixa-et.github.io/Images/cocina-2.jpg</foto7>
 		<foto8>https://caixa-et.github.io/Images/ba%C3%B1o.jpg</foto8>
-		<foto9>https://caixa-et.github.io/Images/ba%C3%B1o-2.jpg</foto9>
+		<foto9>https://caixa-et.github.io/Images/comedor.jpg</foto9>
 		<numpanos>0</numpanos>
 	</propiedad>
 </propiedades>

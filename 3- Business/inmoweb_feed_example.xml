@@ -2741,12 +2741,12 @@
         <videos/>
     </propiedad>
 
-<propiedad id="PRUEBAMARTA_type_Error2_INMOWEB">
+<propiedad id="PruebaMarta_Price_IMW">
         <fecha_alta>18/02/2026 10:48</fecha_alta>
         <fecha_modificacion>12/03/2026 12:18</fecha_modificacion>
-        <referencia>PRUEBAMARTA_type_Error2_INMOWEB</referencia>
+        <referencia>PruebaMarta_Price_IMW</referencia>
         <ref_catastral/>
-        <familia id="1">Estdio</familia>
+        <familia id="1">Apartment</familia>
         <operacion id="1">Venta</operacion>
         <estado id="ON"/>
         <status_id>activo</status_id>
@@ -2815,7 +2815,7 @@
         <etiquetas/>
        <descripciones>
         <descripcion idioma="es">
-        <titulo>Bonito piso en zona de Amanecer</titulo>
+        <titulo>Prueba Marta Price</titulo>
         <descripcion>Testing Facilitea -  ---  Se vende casa preciosa</descripcion>
         </descripcion>
         </descripciones>
@@ -2824,7 +2824,7 @@
         <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1698655/image/WhatsApp%20Image%202026-02-13%20at%2008.33.51.jpg" principal="0"/>
         <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1698655/image/WhatsApp%20Image%202026-02-18%20at%2010.20.43.jpg" principal="0"/>
         <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1698655/image/WhatsApp%20Image%202026-02-18%20at%2010.37.41.jpg" principal="0"/>
-        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1698655/image/WhatsApp%20Image%202026-02-18%20at%2009.42.08.jpg" principal="0"/>
+        <imagen url="https://caixa-et.github.io/Images/comedor.jpg" principal="0"/>
         </imagenes>
         <enlaces>
         <enlace idioma="cat">http://www.inmodomum.com/details-cat1698655.html?lan=cat</enlace>

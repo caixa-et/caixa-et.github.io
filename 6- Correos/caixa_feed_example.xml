@@ -16,10 +16,10 @@
         <custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
         <description>Pruebas Comunicación -Espacioso y perfecto para familias</description>
      <energy_efficiency_grade>d</energy_efficiency_grade>
-        <energy_consumption_rating />
-        <energy_consumption_value>0</energy_consumption_value>
-        <energy_emission_rating />
-        <energy_emission_value />
+        <energy_consumption_rating>g<energy_consumption_rating />
+        <energy_consumption_value>100</energy_consumption_value>
+         <energy_emission_rating>g<energy_emission_rating />
+        <energy_emission_value>53<energy_emission_value />
         <email>dmendoza@century21.es</email>
         <list_selling_price_amount>675000</list_selling_price_amount>
         <municipality>Nueva Andalucía</municipality>

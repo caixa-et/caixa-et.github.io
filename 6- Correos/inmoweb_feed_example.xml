@@ -5,7 +5,7 @@
         <fecha_alta>18/02/2026 10:48</fecha_alta>
         <fecha_modificacion>12/03/2026 12:18</fecha_modificacion>
         <referencia>TC-CORREO-11_aprobado</referencia>
-        <ref_catastral/>
+        <ref_catastral>1234567AB1234C0001DE</ref_catastral>
         <familia id="1">Estudio</familia>
         <operacion id="1">Venta</operacion>
         <estado id="ON"/>

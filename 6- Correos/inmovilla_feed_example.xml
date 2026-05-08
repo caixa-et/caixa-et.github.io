@@ -1325,11 +1325,11 @@
 		<precioparking/>
 		<preciogaraje/>
 		<vistasalmar>0</vistasalmar>
-		<energialetra>E</energialetra>
-		<energiarecibido>1</energiarecibido>
-		<energiavalor>270.41</energiavalor>
-		<emisionesletra>G</emisionesletra>
-		<emisionesvalor>56.33</emisionesvalor>
+		<energialetra></energialetra>
+		<energiarecibido></energiarecibido>
+		<energiavalor></energiavalor>
+		<emisionesletra></emisionesletra>
+		<emisionesvalor></emisionesvalor>
 		<cocina_inde>0</cocina_inde>
 		<keyelectricidad>0</keyelectricidad>
 		<keyfachada>0</keyfachada>

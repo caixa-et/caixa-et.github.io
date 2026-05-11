@@ -178,7 +178,7 @@
        <descripciones>
         <descripcion idioma="es">
         <titulo>Bonito piso en zona de Amanecer</titulo>
-        <descripcion>Pruebas Comunicación -  ---  Se vende casa preciosa</descripcion>
+        <descripcion>Pruebas Comunicación -  Test- Se vende casa preciosa</descripcion>
         </descripcion>
         </descripciones>
         <imagenes>
@@ -207,7 +207,7 @@
             <imagen url="https://caixa-et.github.io/Images/Desnudo3.png" principal="0"/>
             <imagen url="https://caixa-et.github.io/Images/Desnudo2.png" principal="0"/>
             <imagen url="https://caixa-et.github.io/Images/Desnudo1.jpg" principal="0"/>
-            <imagen url="https://caixa-et.github.io/Images/Desnudo.png" principal="0"/>            
+            <imagen url="https://media.posterlounge.com/img/products/420000/416777/416777_slim-black.jpg" principal="0"/>            
         </imagenes>
         <enlaces>
         <enlace idioma="cat">http://www.inmodomum.com/details-cat1698655.html?lan=cat</enlace>
@@ -871,6 +871,108 @@
         <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1698655/image/WhatsApp%20Image%202026-02-18%20at%2009.42.08.jpg" principal="0"/>
         <imagen url="https://caixa-et.github.io/Images/ccee_en_tramite.png" principal="0"/>
         <imagen url="https://caixa-et.github.io/Images/ccee.png" principal="0"/>
+        </imagenes>
+        <enlaces>
+        <enlace idioma="cat">http://www.inmodomum.com/details-cat1698655.html?lan=cat</enlace>
+        <enlace idioma="da">http://www.inmodomum.com/details-da1698655.html?lan=da</enlace>
+        <enlace idioma="de">http://www.inmodomum.com/details-de1698655.html?lan=de</enlace>
+        <enlace idioma="gb">http://www.inmodomum.com/details-gb1698655.html?lan=gb</enlace>
+        <enlace idioma="es">http://www.inmodomum.com/details-es1698655.html?lan=es</enlace>
+        <enlace idioma="fi">http://www.inmodomum.com/details-fi1698655.html?lan=fi</enlace>
+        <enlace idioma="fr">http://www.inmodomum.com/details-fr1698655.html?lan=fr</enlace>
+        <enlace idioma="it">http://www.inmodomum.com/details-it1698655.html?lan=it</enlace>
+        <enlace idioma="nl">http://www.inmodomum.com/details-nl1698655.html?lan=nl</enlace>
+        <enlace idioma="no">http://www.inmodomum.com/details-no1698655.html?lan=no</enlace>
+        <enlace idioma="ru">http://www.inmodomum.com/details-ru1698655.html?lan=ru</enlace>
+        <enlace idioma="se">http://www.inmodomum.com/details-se1698655.html?lan=se</enlace>
+        </enlaces>
+        <videos/>
+    </propiedad>
+
+    <propiedad id="TC-CORREO_aprobado_CCEE_2">
+        <fecha_alta>18/02/2026 10:48</fecha_alta>
+        <fecha_modificacion>12/03/2026 12:18</fecha_modificacion>
+        <referencia>TC-CORREO_aprobado_CCEE_2</referencia>
+        <ref_catastral/>
+        <familia id="1">Estudio</familia>
+        <operacion id="1">Venta</operacion>
+        <estado id="ON"/>
+        <status_id>activo</status_id>
+        <interior/>
+        <dormitorios/>
+        <banos/>
+        <banos_reformados/>
+        <aseos/>
+        <localizacion>
+        <provincia>Baleares</provincia>
+        <poblacion id="33">Palma</poblacion>
+        <cp/>
+        <zona>Amanecer</zona>
+        <pais>ES</pais>
+        </localizacion>
+        <superficies>
+        <habitable>52</habitable>
+        <construida>57</construida> 
+        <parcela/>
+        <cocina/>
+        <salon/>
+        <jardin/>
+        <terraza/>
+        </superficies>
+        <precio divisa="EUR">169000</precio>
+        <precio_anterior divisa="EUR"/>
+        <caracteristicas>
+        <caracteristica id="ano_construccion"/>
+        <caracteristica id="amueblado"/>
+        <caracteristica id="terraza"/>
+        <caracteristica id="reformado"/>
+        <caracteristica id="ano_reforma"/>
+        <caracteristica id="vistas"/>
+        <caracteristica id="piscina"/>
+        <caracteristica id="calefaccion"/>
+        <caracteristica id="tipo_calefaccion"/>
+        <caracteristica id="tipo_agua"/>
+        <caracteristica id="tipo_cocina"/>
+        <caracteristica id="cocina_equipada"/>
+        <caracteristica id="cocina_reformada"/>
+        <caracteristica id="jardin"/>
+        <caracteristica id="garaje"/>
+        <caracteristica id="garaje_incluido"/>
+        <caracteristica id="parking"/>
+        <caracteristica id="contraventanas"/>
+        <caracteristica id="tipo_suelo"/>
+        <caracteristica id="certificacion_energetica_letra">TA</caracteristica>
+        <caracteristica id="certificacion_energetica_valor"/>
+        <caracteristica id="certificacion_emisiones_letra">TA</caracteristica>
+        <caracteristica id="certificacion_emisiones_valor"/>
+        <caracteristica id="trastero"/>
+        <caracteristica id="puerta_blindada"/>
+        <caracteristica id="aa"/>
+        <caracteristica id="chimenea"/>
+        <caracteristica id="ascensor"/>
+        <caracteristica id="amarre"/>
+        <caracteristica id="num_planta"/>
+        <caracteristica id="de_entidad_financiera"/>
+        <caracteristica id="primera_linea"/>
+        <caracteristica id="sotano"/>
+        <caracteristica id="lavanderia"/>
+        <caracteristica id="solarium"/>
+        <caracteristica id="armarios_empotrados"/>
+        <caracteristica id="doble_acristalamiento"/>
+        </caracteristicas>
+        <etiquetas/>
+       <descripciones>
+        <descripcion idioma="es">
+        <titulo>Bonito piso en zona de Amanecer</titulo>
+        <descripcion>Pruebas Comunicación -  ---  Se vende casa preciosa</descripcion>
+        </descripcion>
+        </descripciones>
+        <imagenes>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1698655/image/WhatsApp%20Image%202026-02-13%20at%2008.29.20.jpg" principal="1"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1698655/image/WhatsApp%20Image%202026-02-13%20at%2008.33.51.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1698655/image/WhatsApp%20Image%202026-02-18%20at%2010.20.43.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1698655/image/WhatsApp%20Image%202026-02-18%20at%2010.37.41.jpg" principal="0"/>
+        <imagen url="https://storage.googleapis.com/static.inmoweb.es/clients/1252/property/1698655/image/WhatsApp%20Image%202026-02-18%20at%2009.42.08.jpg" principal="0"/>
         </imagenes>
         <enlaces>
         <enlace idioma="cat">http://www.inmodomum.com/details-cat1698655.html?lan=cat</enlace>

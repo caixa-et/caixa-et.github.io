@@ -689,7 +689,7 @@
         <referencia>TC-CORREO-15_pending_rechazado</referencia>
         <ref_catastral/>
         <familia id="1">Estudio</familia>
-         <operacion id="1">Rent</operacion>
+         <operacion id="1">Venta</operacion>
         <estado id="ON"/>
         <status_id>activo</status_id>
         <interior/>
@@ -758,7 +758,7 @@
        <descripciones>
         <descripcion idioma="es">
         <titulo>Bonito piso en zona de Amanecer</titulo>
-        <descripcion>Pruebas Comunicación - Piso exclusivo para estudiantes. Se alquilan habitaciones individuales.</descripcion>
+        <descripcion>Pruebas Comunicación - Piso en construcción con licencia turística.</descripcion>
         </descripcion>
         </descripciones>
         <imagenes>

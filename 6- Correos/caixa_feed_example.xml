@@ -65,7 +65,7 @@
         <name>Estudio al lado de Puerto Banus!</name>
         <phone>+34629141650</phone>
         <property_type>estudio</property_type>
-        <ref>TC-CORREO-16_aprobado</ref>
+        <ref>TC-CORREO_pendingaprobadomarta</ref>
         <sale_rent>for_sale</sale_rent>
         <state>Málaga</state>
         <street> Calle Las Malvas </street>
@@ -103,7 +103,7 @@
         <name>Estudio al lado de Puerto Banus!</name>
         <phone>+34629141650</phone>
         <property_type>estudio</property_type>
-        <ref>TC-CORREO-16_aprobado</ref>
+        <ref>TC-CORREO_pendingrechazadomarta</ref>
         <sale_rent>for_sale</sale_rent>
         <state>Málaga</state>
         <street> Calle Las Malvas </street>

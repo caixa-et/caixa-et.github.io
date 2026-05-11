@@ -50,10 +50,12 @@
 			<built>345</built>
 			<plot>822</plot>
 		</surface_area>
-		<energy_rating>
-			<consumption>G</consumption>
-			<emissions>G</emissions>
-		</energy_rating>
+<energy_rating>
+<consumption>G</consumption>
+<consumption_value>356</consumption_value>
+<emissions>G</emissions>
+<emissions_value>73</emissions_value>
+</energy_rating>
 		<desc>
 			<es>
 				<![CDATA[Pruebas Comunicación - Espacioso y perfecto para familias]]>
@@ -146,7 +148,12 @@
 			<built>345</built>
 			<plot>822</plot>
 		</surface_area>
-		<energy_rating></energy_rating>
+		<energy_rating>
+<consumption>G</consumption>
+<consumption_value>356</consumption_value>
+<emissions>G</emissions>
+<emissions_value>73</emissions_value>
+</energy_rating>
 		<desc>
 			<es>
 				<![CDATA[Pruebas Comunicación - Espacioso y perfecto para familias]]>

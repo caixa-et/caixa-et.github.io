@@ -1,7 +1,7 @@
 <properties>
     <qobrix>
         <version>0.2</version>
-        <currency>EUR</currency>
+        <currency>EUR</currency> 
     </qobrix>
 <property last_update="2025-05-05 15:25:47">
         <bathrooms>3</bathrooms>

@@ -426,7 +426,7 @@
         <etiquetas />
         <descripciones>
             <descripcion idioma="es">
-                <titulo>CASA Montanuy</titulo>
+                <titulo>CASA Montanuy TEST</titulo>
                 <descripcion>Vivienda, totalmente reformada en 2017, de 141 metros cuadrados situada
                     en el centro de la población de Torre de Don Miguel. Consta de dos salones,
                     cocina totalmente equipada, dos baños y cuatro dormitorios. Tiene trastero.En la
@@ -542,7 +542,7 @@
         <descripciones>
             <descripcion idioma="es">
                 <titulo>CASA Montanuy</titulo>
-                <descripcion>Vivienda, totalmente reformada en 2017, de 141 metros cuadrados situada
+                <descripcion>TEST Vivienda, totalmente reformada en 2017, de 141 metros cuadrados situada
                     en el centro de la población de Torre de Don Miguel. Consta de dos salones,
                     cocina totalmente equipada, dos baños y cuatro dormitorios. Tiene trastero.En la
                     reforma se cambiaron: tuberías, instalación eléctrica, suelos, aislamiento en
@@ -583,7 +583,7 @@
         <fecha_modificacion>21/01/2026 10:33</fecha_modificacion>
         <referencia>CarlosTESTIW3</referencia>
         <ref_catastral>0542804CH1004S0001KY</ref_catastral>
-        <familia id="21">Casa adosada</familia>
+        <familia id="21">Piso</familia>
         <operacion id="2">Alquiler</operacion>
         <estado id="SM" />
         <status_id>activo</status_id>
@@ -723,7 +723,7 @@
             <jardin>100</jardin>
             <terraza>20</terraza>
         </superficies>
-        <precio divisa="EUR">100000</precio>
+        <precio divisa="EUR">110000</precio>
         <precio_anterior divisa="EUR">90000</precio_anterior>
         <caracteristicas>
             <caracteristica id="ano_construccion" />
@@ -823,7 +823,7 @@
         <banos_reformados/>
         <aseos>2</aseos>
         <localizacion>
-            <provincia>HUESCA</provincia>
+            <provincia>Barcelona</provincia>
             <poblacion id="4724">Montanuy</poblacion>
             <cp>22474</cp>
             <zona>Montanuy</zona>
@@ -939,7 +939,7 @@
         <aseos>2</aseos>
         <localizacion>
             <provincia>HUESCA</provincia>
-            <poblacion id="4724">Montanuy</poblacion>
+            <poblacion id="4724">Rubi</poblacion>
             <cp>22474</cp>
             <zona>Montanuy</zona>
             <pais>ES</pais>
@@ -1056,7 +1056,7 @@
             <provincia>HUESCA</provincia>
             <poblacion id="4724">Montanuy</poblacion>
             <cp>22474</cp>
-            <zona>Montanuy</zona>
+            <zona>Centro</zona>
             <pais>ES</pais>
         </localizacion>
         <superficies>
@@ -1170,7 +1170,7 @@
         <localizacion>
             <provincia>HUESCA</provincia>
             <poblacion id="4724">Montanuy</poblacion>
-            <cp>22474</cp>
+            <cp>08191</cp>
             <zona>Montanuy</zona>
             <pais>ES</pais>
         </localizacion>
@@ -1287,7 +1287,7 @@
             <poblacion id="4724">Montanuy</poblacion>
             <cp>22474</cp>
             <zona>Montanuy</zona>
-            <pais>ES</pais>
+            <pais>PT</pais>
         </localizacion>
         <superficies>
             <habitable>423</habitable>
@@ -1438,7 +1438,7 @@
             <caracteristica id="estado_edificio">En buen estado</caracteristica>
             <caracteristica id="contraventanas" />
             <caracteristica id="tipo_suelo" />
-            <caracteristica id="certificacion_energetica_letra">b</caracteristica>
+            <caracteristica id="certificacion_energetica_letra">E</caracteristica>
             <caracteristica id="certificacion_energetica_valor">178.78</caracteristica>
             <caracteristica id="certificacion_emisiones_letra">e</caracteristica>
             <caracteristica id="certificacion_emisiones_valor">123.89</caracteristica>
@@ -1554,7 +1554,7 @@
             <caracteristica id="contraventanas" />
             <caracteristica id="tipo_suelo" />
             <caracteristica id="certificacion_energetica_letra">b</caracteristica>
-            <caracteristica id="certificacion_energetica_valor">178.78</caracteristica>
+            <caracteristica id="certificacion_energetica_valor">78.78</caracteristica>
             <caracteristica id="certificacion_emisiones_letra">e</caracteristica>
             <caracteristica id="certificacion_emisiones_valor">123.89</caracteristica>
             <caracteristica id="trastero" />
@@ -1670,7 +1670,7 @@
             <caracteristica id="tipo_suelo" />
             <caracteristica id="certificacion_energetica_letra">b</caracteristica>
             <caracteristica id="certificacion_energetica_valor">178.78</caracteristica>
-            <caracteristica id="certificacion_emisiones_letra">e</caracteristica>
+            <caracteristica id="certificacion_emisiones_letra">C</caracteristica>
             <caracteristica id="certificacion_emisiones_valor">123.89</caracteristica>
             <caracteristica id="trastero" />
             <caracteristica id="puerta_blindada" />
@@ -1786,7 +1786,7 @@
             <caracteristica id="certificacion_energetica_letra">b</caracteristica>
             <caracteristica id="certificacion_energetica_valor">178.78</caracteristica>
             <caracteristica id="certificacion_emisiones_letra">e</caracteristica>
-            <caracteristica id="certificacion_emisiones_valor">123.89</caracteristica>
+            <caracteristica id="certificacion_emisiones_valor">13.89</caracteristica>
             <caracteristica id="trastero" />
             <caracteristica id="puerta_blindada" />
             <caracteristica id="chimenea" />
@@ -1931,7 +1931,7 @@
             </descripcion>
         </descripciones>
         <imagenes>
-            <imagen url="https://caixa-et.github.io/Images/exterior-casa.jpeg" principal="1" />
+            <imagen url="https://caixa-et.github.io/Images/habitacion-2.jpg" principal="1" />
             <imagen url="https://caixa-et.github.io/Images/exterior-casa-2.jpeg" principal="0" />
             <imagen url="https://caixa-et.github.io/Images/habitacion.jpg" principal="0" />
             <imagen url="https://caixa-et.github.io/Images/habitacion-2.jpg" principal="0" />
@@ -1962,7 +1962,7 @@
         <fecha_alta>21/12/2025 15:57</fecha_alta>
         <fecha_modificacion>21/01/2026 10:33</fecha_modificacion>
         <referencia>CarlosTESTIW15</referencia>
-        <ref_catastral>0542804CH1004S0001KY</ref_catastral>
+        <ref_catastral>0542804AH1304S0001KY</ref_catastral>
         <familia id="21">Casa adosada</familia>
         <operacion id="2">Alquiler</operacion>
         <estado id="SM" />

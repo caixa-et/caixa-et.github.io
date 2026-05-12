@@ -33,7 +33,8 @@
 		<door/>
 		<puerta/>
 		<address>, (Sa Cabaneta)</address>
-		<catastral>8409215DF2880G0002TR</catastral>
+		<refcatastral/>
+		<catastral/>
 		<altitud>2.756263</altitud>
 		<latitud>39.614576</latitud>
 		<location>
@@ -50,15 +51,10 @@
 			<built>345</built>
 			<plot>822</plot>
 		</surface_area>
-<energy_rating>
-<consumption>G</consumption>
-<consumption_value>356</consumption_value>
-<emissions>G</emissions>
-<emissions_value>73</emissions_value>
-</energy_rating>
+		<energy_rating></energy_rating>
 		<desc>
 			<es>
-				<![CDATA[Pruebas Comunicación - Espacioso y perfecto para familias_TEST 1]]>
+				<![CDATA[Testing Facilitea -Espacioso y perfecto para familias]]>
 			</es>
 		</desc>
 		<features>
@@ -148,15 +144,10 @@
 			<built>345</built>
 			<plot>822</plot>
 		</surface_area>
-		<energy_rating>
-<consumption>G</consumption>
-<consumption_value>356</consumption_value>
-<emissions>G</emissions>
-<emissions_value>73</emissions_value>
-</energy_rating>
+		<energy_rating></energy_rating>
 		<desc>
 			<es>
-				<![CDATA[Pruebas Comunicación - Espacioso y perfecto para familias_TEST 1]]>
+				<![CDATA[Testing Facilitea -Espacioso y perfecto para familias]]>
 			</es>
 		</desc>
 		<features>
@@ -318,7 +309,7 @@
 		<energy_rating></energy_rating>
 		<desc>
 			<es>
-				<![CDATA[Pruebas Comunicación - Inmueble con comunidad que no acepta a vecinos homosexuales]]>
+				<![CDATA[Inmueble con comunidad que no acepta a vecinos homosexuales]]>
 			</es>
 		</desc>
 		<features>
@@ -411,7 +402,7 @@
 		<energy_rating></energy_rating>
 		<desc>
 			<es>
-				<![CDATA[Pruebas Comunicación - Inmueble con comunidad que no acepta a vecinos homosexuales]]>
+				<![CDATA[Inmueble con comunidad que no acepta a vecinos homosexuales]]>
 			</es>
 		</desc>
 		<features>
@@ -559,7 +550,7 @@
 		</url>
 		<video_url>https://www.youtube.com/watch?v=GrCd27MVJdI</video_url>
 		<desc>
-			<es>Pruebas Comunicación - Inmueble con comunidad que no acepta a vecinos homosexuales.</es>
+			<es>Inmueble con comunidad que no acepta a vecinos homosexuales.</es>
 		</desc>
 		<notes/>
 		<images>
@@ -672,7 +663,7 @@
 		<energy_rating></energy_rating>
 		<desc>
 			<es>
-				<![CDATA[Pruebas Comunicación - Comprando esta casa obtienes un 2x1 de promoción. La venta se realizará mediante puja entre interesados.]]>
+				<![CDATA[Comprando esta casa obtienes un 2x1 de promoción. La venta se realizará mediante puja entre interesados.]]>
 			</es>
 		</desc>
 		<features>
@@ -765,7 +756,7 @@
 		<energy_rating></energy_rating>
 		<desc>
 			<es>
-				<![CDATA[Pruebas Comunicación - Piso exclusivo para estudiantes. Se alquilan habitaciones individuales.]]>
+				<![CDATA[Piso exclusivo para estudiantes. Se alquilan habitaciones individuales.]]>
 			</es>
 		</desc>
 		<features>
@@ -858,7 +849,7 @@
 		<energy_rating></energy_rating>
 		<desc>
 			<es>
-				<![CDATA[Pruebas Comunicación - Espacioso y perfecto para familias]]>
+				<![CDATA[Testing Facilitea -Espacioso y perfecto para familias]]>
 			</es>
 		</desc>
 		<features>

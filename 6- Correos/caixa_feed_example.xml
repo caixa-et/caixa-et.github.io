@@ -53,7 +53,7 @@
         <country>ES</country>
         <custom_es_status_of_conservation>used</custom_es_status_of_conservation>
         <custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
-        <description>Pruebas Comunicación - Piso exclusivo para estudiantes. Se alquilan habitaciones individuales.</description>
+        <description>Pruebas Comunicación - Estudio en cesión de remate.</description>
      <energy_efficiency_grade>d</energy_efficiency_grade>
         <energy_consumption_rating>g</energy_consumption_rating>
         <energy_consumption_value>100</energy_consumption_value>
@@ -65,7 +65,7 @@
         <name>Estudio al lado de Puerto Banus!</name>
         <phone>+34629141650</phone>
         <property_type>estudio</property_type>
-        <ref>TC-CORREO_pendingaprobadomarta</ref>
+        <ref>TC-CORREO_PENDINGaprobadomarta</ref>
         <sale_rent>for_sale</sale_rent>
         <state>Málaga</state>
         <street> Calle Las Malvas </street>
@@ -91,7 +91,7 @@
         <country>ES</country>
         <custom_es_status_of_conservation>used</custom_es_status_of_conservation>
         <custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
-        <description>Pruebas Comunicación - Piso exclusivo para estudiantes. Se alquilan 2 habitaciones individuales.</description>
+        <description>Pruebas Comunicación - Estudio en cesión de remate.</description>
      <energy_efficiency_grade>d</energy_efficiency_grade>
         <energy_consumption_rating>g</energy_consumption_rating>
         <energy_consumption_value>100</energy_consumption_value>
@@ -103,7 +103,7 @@
         <name>Estudio al lado de Puerto Banus!</name>
         <phone>+34629141650</phone>
         <property_type>estudio</property_type>
-        <ref>TC-CORREO_pendingrechazadomarta</ref>
+        <ref>TC-CORREO_PENDINGrechazadomarta</ref>
         <sale_rent>for_sale</sale_rent>
         <state>Málaga</state>
         <street> Calle Las Malvas </street>

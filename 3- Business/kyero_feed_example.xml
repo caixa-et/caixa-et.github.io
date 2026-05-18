@@ -10136,7 +10136,7 @@
 		<price_freq>month</price_freq>
 		<new_build>0</new_build>
 		<part_ownership>0</part_ownership>
-		<leasehold>1</leasehold>
+		<leasehold>0</leasehold>
 		<type>apartment</type>
 		<country>España</country>
 		<province>BALEARES</province>

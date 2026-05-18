@@ -10131,7 +10131,7 @@
 		<id>PruebaMarta_Price</id>
 		<date>2026-03-11 09:33:35</date>
 		<ref>RI-00169/6319</ref>
-		<price>320000</price>
+		<price>3200</price>
 		<currency>EUR</currency>
 		<price_freq>month</price_freq>
 		<new_build>0</new_build>

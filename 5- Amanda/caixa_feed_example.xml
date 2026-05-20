@@ -1228,7 +1228,7 @@
         </media>
     </property>
 
-    property last_update="2026-04-29 14:26:20">
+    <property last_update="2026-01-13 11:11:17">
 <name>Acogedor piso en Medina del Campo</name>
 <state>Valladolid</state>
 <property_type>apartment</property_type>
@@ -1311,7 +1311,7 @@
 <img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251110-rEFzlCasfG-1200x800.jpg</img>
 </media>
 <list_selling_price_amount>110000</list_selling_price_amount>
-</property>
+    </property>
 
     <property last_update="2026-01-13 11:11:17">
         <bathrooms>7</bathrooms>

@@ -4113,7 +4113,7 @@
 </property>
 
 	<property>
-<id>tc_desc_54</id>
+<id>tc_desc_54_2</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1290000</price>
@@ -4149,7 +4149,7 @@
 <da>ejemplo</da>
 <de>ejemplo</de>
 <en>ejemplo</en>
-<es>Test 17/04-Inmueble no disponible.</es>
+<es>Test 24/04-Inmueble no disponible.</es>
 <fi>ejemplo</fi>
 <fr>ejemplo</fr>
 <it>ejemplo</it>
@@ -4185,7 +4185,7 @@
 </property>
 
 	<property>
-<id>tc_desc_55</id>
+<id>tc_desc_55_2</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1290000</price>
@@ -4221,7 +4221,7 @@
 <da>ejemplo</da>
 <de>ejemplo</de>
 <en>ejemplo</en>
-<es>Test 17/04 Piso exclusivo para estudiantes.</es>
+<es>Test 24/04 Piso exclusivo para estudiantes.</es>
 <fi>ejemplo</fi>
 <fr>ejemplo</fr>
 <it>ejemplo</it>
@@ -4977,7 +4977,7 @@
 </property>
 
 		<property>
-<id>tc_desc_66</id>
+<id>tc_desc_66_2</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1290000</price>
@@ -5445,7 +5445,7 @@
 <da>ejemplo</da>
 <de>ejemplo</de>
 <en>ejemplo</en>
-<es>Test 17/04- Inmueble gravado con hipoteca pendiente de cancelación registral a cargo del vendedor.</es>
+<es>Test 04/05 Inmueble no hipotecable.</es>
 <fi>ejemplo</fi>
 <fr>ejemplo</fr>
 <it>ejemplo</it>
@@ -5700,9 +5700,9 @@
 <id>tc_desc_ownership</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
-<price>1290000</price>
+<price>12900</price>
 <currency>EUR</currency>
-<price_freq>sale</price_freq>
+<price_freq>rent</price_freq>
 <part_ownership>0</part_ownership>
 <leasehold>0</leasehold>
 <new_build>1</new_build>
@@ -5879,7 +5879,7 @@
 <desc>
 <de>Exclusive</de>
 <en>Exclusive</en>
-<es>Test-2 Apartamento exclusivo a escasos metros de la Calita de Portals con detalles de interior de alta calidad. Dispone de amplia y comoda sala de estar y cocina que se vinculan a una terraza con vistas parciales al mar. La propiedad cuenta con dos habitaciones, una de ellas con una cama doble y la otra con un sofa cama. Además la comunidad dispone de una gran piscina. No dude en contactar a nuestros representantes. La propiedad está disponible para un alquiler a largo plazo desde octubre.</es>
+<es>Test 24/04. Apartamento exclusivo a escasos metros de la Calita de Portals con detalles de interior de alta calidad. Dispone de amplia y comoda sala de estar y cocina que se vinculan a una terraza con vistas parciales al mar. La propiedad cuenta con dos habitaciones, una de ellas con una cama doble y la otra con un sofa cama. Además la comunidad dispone de una gran piscina. No dude en contactar a nuestros representantes. La propiedad está disponible para un alquiler a largo plazo desde octubre.</es>
 <ru/>
 </desc>
 <features>
@@ -5966,7 +5966,7 @@
 <desc>
 <de>Kleines</de>
 <en>Small, simple but charming Mallorcan townhouse.</en>
-<es>Test-2 Pequeña y sencilla, pero encantadora casa adosada mallorquina en el corazón de Sóller, a pocos metros de la plaza principal. Está situada en una zona absolutamente céntrica, pero tranquila y sin tráfico. Está disponible para alquilar desde el 22/11/2025 hasta el 12/05/2026, sujeto a posibles cambios. La casa tiene dos dormitorios dobles, cada uno con baño en suite. Ambos dormitorios están equipados con aire acondicionado, que también sirve como calefacción en los meses de invierno. En la planta baja se encuentran la zona de entrada, el salón completamente amueblado y una sencilla cocina. Sobre la cocina hay un pequeño comedor en un altillo. Desde uno de los dormitorios se accede a una acogedora terraza en la azotea, que invita a relajarse. Debido a su tamaño y diseño, la casa solo es adecuada para dos o tres personas como máximo. Hay plazas de aparcamiento a pocos minutos a pie.</es>
+<es>Test 24/04. Pequeña y sencilla, pero encantadora casa adosada mallorquina en el corazón de Sóller, a pocos metros de la plaza principal. Está situada en una zona absolutamente céntrica, pero tranquila y sin tráfico. Está disponible para alquilar desde el 22/11/2025 hasta el 12/05/2026, sujeto a posibles cambios. La casa tiene dos dormitorios dobles, cada uno con baño en suite. Ambos dormitorios están equipados con aire acondicionado, que también sirve como calefacción en los meses de invierno. En la planta baja se encuentran la zona de entrada, el salón completamente amueblado y una sencilla cocina. Sobre la cocina hay un pequeño comedor en un altillo. Desde uno de los dormitorios se accede a una acogedora terraza en la azotea, que invita a relajarse. Debido a su tamaño y diseño, la casa solo es adecuada para dos o tres personas como máximo. Hay plazas de aparcamiento a pocos minutos a pie.</es>
 </desc>
 <features>
 <feature>Close to amenities</feature>
@@ -6075,7 +6075,7 @@
 <desc>
 <de>Entdecken Sie dieses wunderschöne Penthouse in einer der begehrtesten Lagen Palmas.</de>
 <en>Discover this beautiful penthouse located in one of Palma.</en>
-<es>Test-2 Descubre este precioso ático situado en una de las zonas más codiciadas de Palma, con restaurantes, tiendas y todos los servicios a solo unos pasos. El luminoso salón, con impresionantes vistas, da acceso a una encantadora terraza de 11 m², ideal para disfrutar del clima mediterráneo. La cocina, completamente equipada, puede integrarse al salón o mantenerse independiente cerrando la puerta corredera que la separa, según tus preferencias. La vivienda cuenta con dos dormitorios: el principal con baño en suite, y una segunda habitación con un baño adicional. Un elegante recibidor y una práctica coladuría completan la distribución. Equipada con aire acondicionado con bomba de calor y radiadores de gas ciudad, esta propiedad garantiza el máximo confort durante todo el año. El precio incluye una plaza de aparcamiento con un trastero. Terraza comunitaria en la azotea con maravillosas vistas. Opción de adquirir una segunda plaza. No dudes en contactar con First Mallorca para programar una visita a esta atractiva propiedad. ¡Te encantará!</es>
+<es>Test 24/04. Descubre este precioso ático situado en una de las zonas más codiciadas de Palma, con restaurantes, tiendas y todos los servicios a solo unos pasos. El luminoso salón, con impresionantes vistas, da acceso a una encantadora terraza de 11 m², ideal para disfrutar del clima mediterráneo. La cocina, completamente equipada, puede integrarse al salón o mantenerse independiente cerrando la puerta corredera que la separa, según tus preferencias. La vivienda cuenta con dos dormitorios: el principal con baño en suite, y una segunda habitación con un baño adicional. Un elegante recibidor y una práctica coladuría completan la distribución. Equipada con aire acondicionado con bomba de calor y radiadores de gas ciudad, esta propiedad garantiza el máximo confort durante todo el año. El precio incluye una plaza de aparcamiento con un trastero. Terraza comunitaria en la azotea con maravillosas vistas. Opción de adquirir una segunda plaza. No dudes en contactar con First Mallorca para programar una visita a esta atractiva propiedad. ¡Te encantará!</es>
 <ru>Откройте для себя этот.</ru>
 </desc>
 <features>
@@ -6190,7 +6190,7 @@
 <desc>
 <de>Dieses im Bau befindliche Apartment.</de>
 <en>This apartment under construction in a prime location on the Paseo Marítimo.</en>
-<es>Test-2 Este apartamento en construcción con una privilegiada ubicación en el Paseo Marítimo goza de un aprovechamiento máximo de luz natural e de increíbles vistas al puerto de Palma. Además de 2 dormitorios, la propiedad dispone de una cocina y 2 baños, equipados de las mejores marcas. En el interior existe la posibilidad de escoger suelo de piedra natural o parquet natural. El apartamento es parte de un proyecto que combina la elegancia y exclusividad con una alta calidad de acabados e instalaciones en todos sus espacios, cuidando hasta el más mínimo detalle. El diseño utiliza piedra original de las Islas Baleares con lo que se busca conseguir el mejor comportamiento energético de la vivienda. Los interiores y exteriores de la propiedad han sido proyectados con materiales originales de la isla. El diseño es único, con estilo y de la mayor calidad, que respeta la tradición arquitectónica de la ciudad. La fecha de entrega está prevista para verano de 2020. En total hay 10 apartamentos disponibles, con 2 o 3 dormitorios y superficies construidas desde 113 a 160 m². No dude en contactar con nuestra oficina inmobiliaria de FIRST MALLORCA en Palma para obtener más información.</es>
+<es>Test 24/04. Este apartamento en construcción con una privilegiada ubicación en el Paseo Marítimo goza de un aprovechamiento máximo de luz natural e de increíbles vistas al puerto de Palma. Además de 2 dormitorios, la propiedad dispone de una cocina y 2 baños, equipados de las mejores marcas. En el interior existe la posibilidad de escoger suelo de piedra natural o parquet natural. El apartamento es parte de un proyecto que combina la elegancia y exclusividad con una alta calidad de acabados e instalaciones en todos sus espacios, cuidando hasta el más mínimo detalle. El diseño utiliza piedra original de las Islas Baleares con lo que se busca conseguir el mejor comportamiento energético de la vivienda. Los interiores y exteriores de la propiedad han sido proyectados con materiales originales de la isla. El diseño es único, con estilo y de la mayor calidad, que respeta la tradición arquitectónica de la ciudad. La fecha de entrega está prevista para verano de 2020. En total hay 10 apartamentos disponibles, con 2 o 3 dormitorios y superficies construidas desde 113 a 160 m². No dude en contactar con nuestra oficina inmobiliaria de FIRST MALLORCA en Palma para obtener más información.</es>
 <ru>Эта строящаяся.</ru>
 </desc>
 <features>
@@ -6300,7 +6300,7 @@
 <id>test_orihuela-costa</id>
 <date>2026-02-03 03:01:41</date>
 <ref>08-1942</ref>
-<price>910000</price>
+<price>0</price>
 <currency>EUR</currency>
 <price_freq>sale</price_freq>
 <type>Detached</type>
@@ -6326,7 +6326,7 @@
 <![CDATA[ Cabo Roig, Detached villa to new brand with 520 mts of plot and a housing in 2 heights plus solarium of 220 mts, 4 bedrooms of which 1 is on the ground floor and 3 have their bathroom en suite and with terrace, 4 bathrooms all With underfloor heating and 1 toilet, large living room with fireplace, equipped semi-independent kitchen, private pool (9x4), air conditioning, 300 meters from the beach. ]]>
 </en>
 <es>
-<![CDATA[ Test-2 Cabo Roig, Chalet independiente a nuevo estrenar con 520 mts de parcela y una vivienda en 2 alturas más solarium de 220 mts, 4 dormitorios de los cuales 1 están en planta baja y 3 tienen su cuarto de baño incluido y con terraza, 4 baños todos con suelo radiante y 1 aseo, amplio salón con chimenea, cocina semi-independiente equipada, piscina privada (9x4), aire acondicionado, a 300 mts de la playa. ]]>
+<![CDATA[ Test 24/04. Cabo Roig, Chalet independiente a nuevo estrenar con 520 mts de parcela y una vivienda en 2 alturas más solarium de 220 mts, 4 dormitorios de los cuales 1 están en planta baja y 3 tienen su cuarto de baño incluido y con terraza, 4 baños todos con suelo radiante y 1 aseo, amplio salón con chimenea, cocina semi-independiente equipada, piscina privada (9x4), aire acondicionado, a 300 mts de la playa. ]]>
 </es>
 </desc>
 <features>
@@ -6409,7 +6409,7 @@
 <![CDATA[ BEAUTIFUL VILLA WITH VIEWS TO THE GOLF COURSE "LA MARQUESA"! This beautiful villa, located 50 meters from the La Marquesa golf course, apart from having clear and beautiful views and offering the tranquility of being in a quiet environment, is a few meters from the commercial center with shops, supermarket, bars and international restaurants . Just 5 minutes from the town of Rojales with all services and 15 minutes from the spectacular blue flag beaches of Guardamar del Segura. Alicante-Elche airport is 35 minutes away. The 3x6 m pool and terraces in the garden and pool area will allow you to enjoy the sun and the Costa Blanca climate throughout the year. In addition, the villa has a solarium and a large parking area. Live in a modern villa, enjoying golf, beach, climate and Mediterranean lifestyle! ]]>
 </en>
 <es>
-<![CDATA[ Test-2 PRECIOSA VILLA CON VISTAS AL CAMPO DE GOLF “LA MARQUESA”! Esa preciosa villa, situada a 50 metros del campo de Golf La Marquesa, aparte de tener unas vistas despejadas y bonitas y ofrecer la tranquilidad de estar en un entorno tranquilo, está a escasos metros del centro comercial con tiendas, supermercado, bares y restaurantes internacionales. A tan solo 5 minutos del pueblo de Rojales con todos los servicios y a 15 minutos de las espectaculares playas, con bandera azul, de Guardamar del Segura. El aeropuerto Alicante-Elche está a 35 minutos.La piscina de 3x6 m y terrazas en la parte de jardín y piscina te permitirán disfrutar del sol y del clima de Costa Blanca durante todo el año. Además, la villa dispone de solárium y una amplia zona de parking. Vive en una villa moderna, disfrutando del golf, playa, clima y estilo de vida mediterráneo! ]]>
+<![CDATA[ Test 24/04. PRECIOSA VILLA CON VISTAS AL CAMPO DE GOLF “LA MARQUESA”! Esa preciosa villa, situada a 50 metros del campo de Golf La Marquesa, aparte de tener unas vistas despejadas y bonitas y ofrecer la tranquilidad de estar en un entorno tranquilo, está a escasos metros del centro comercial con tiendas, supermercado, bares y restaurantes internacionales. A tan solo 5 minutos del pueblo de Rojales con todos los servicios y a 15 minutos de las espectaculares playas, con bandera azul, de Guardamar del Segura. El aeropuerto Alicante-Elche está a 35 minutos.La piscina de 3x6 m y terrazas en la parte de jardín y piscina te permitirán disfrutar del sol y del clima de Costa Blanca durante todo el año. Además, la villa dispone de solárium y una amplia zona de parking. Vive en una villa moderna, disfrutando del golf, playa, clima y estilo de vida mediterráneo! ]]>
 </es>
 <nl>
 <![CDATA[ MOOIE VILLA MET UITZICHT OP DE GOLFCURSUS "LA MARQUESA"! Deze prachtige villa, gelegen op 50 meter van de golfbaan van La Marquesa, heeft niet alleen een helder en mooi uitzicht en biedt de rust van een rustige omgeving, op een paar meter van het commerciële centrum met winkels, supermarkt, bars en internationale restaurants. Slechts 5 minuten van de stad Rojales met alle voorzieningen en 15 minuten van de spectaculaire stranden met blauwe vlag van Guardamar del Segura. De luchthaven Alicante-Elche ligt op 35 minuten afstand.Het zwembad van 3x6 m en de terrassen in de tuin en het zwembad zorgen ervoor dat u het hele jaar door kunt genieten van de zon en het klimaat van de Costa Blanca. Daarnaast heeft de villa een solarium en een grote parkeerplaats. Wonen in een moderne villa, genieten van golf, strand, klimaat en mediterrane levensstijl! ]]>
@@ -6492,7 +6492,7 @@
 <es>http://immogrupstar.mobiliagestion.es/es/calonge/centro/aticos/ref-1180</es>
 </url>
 <desc>
-<es>Ático con carácter y gran terraza en el centro de Calonge Te presentamos este ático único, con un estilo diferente gracias a sus desniveles interiores y su gran terraza soleada. Ubicado en una comunidad tranquila de solo 3 vecinos, sin ascensor, en pleno corazón de Calonge. Distribución: Salón-comedor con chimenea y salida directa a una amplia terraza de 52 m² con sol todo el día y vistas abiertas al pueblo y a las montañas. Cocina independiente con acceso a un balcón y trastero. 1 dormitorio doble con baño en suite y armarios empotrados en la planta principal. 2 dormitorios adicionales y 1 baño completo en la planta superior, conectados mediante escaleras interiores. Otros detalles: Vivienda con encanto, luminosa y con mucha personalidad. Ideal como residencia habitual o segunda residencia cerca de la Costa Brava. Los gastos notariales, registrales e impuestos que le sean de aplicación (ITP o IVA + AJD) y otros gastos inherentes a la compraventa no estan incluidos en el precio de venta.</es>
+<es>>Test 24/04.Ático con carácter y gran terraza en el centro de Calonge Te presentamos este ático único, con un estilo diferente gracias a sus desniveles interiores y su gran terraza soleada. Ubicado en una comunidad tranquila de solo 3 vecinos, sin ascensor, en pleno corazón de Calonge. Distribución: Salón-comedor con chimenea y salida directa a una amplia terraza de 52 m² con sol todo el día y vistas abiertas al pueblo y a las montañas. Cocina independiente con acceso a un balcón y trastero. 1 dormitorio doble con baño en suite y armarios empotrados en la planta principal. 2 dormitorios adicionales y 1 baño completo en la planta superior, conectados mediante escaleras interiores. Otros detalles: Vivienda con encanto, luminosa y con mucha personalidad. Ideal como residencia habitual o segunda residencia cerca de la Costa Brava. Los gastos notariales, registrales e impuestos que le sean de aplicación (ITP o IVA + AJD) y otros gastos inherentes a la compraventa no estan incluidos en el precio de venta.</es>
 <ca>Àtic amb caràcter i gran terrassa al centre de Calonge Et presentem aquest àtic únic, amb un estil diferent gràcies als desnivells interiors i la gran terrassa assolellada. Ubicat en una comunitat tranquil·la de només 3 veïns, sense ascensor, al cor de Calonge. Distribució: Saló-menjador amb llar de foc i sortida directa a una àmplia terrassa de 52m² amb sol tot el dia i vistes obertes al poble ia les muntanyes. Cuina independent amb accés a un balcó i traster. 1 dormitori doble amb bany en suite i armaris encastats a la planta principal. 2 dormitoris addicionals i 1 bany complet a la planta superior, connectats mitjançant escales interiors. Altres detalls: Habitatge amb encant, lluminosa i amb molta personalitat. Ideal com a residència habitual o segona residència a prop de la Costa Brava. Les despeses notarials, registrals i impostos que li siguin aplicables (ITP o IVA + AJD) i altres despeses inherents a la compravenda no estan incloses al preu de venda.</ca>
 <en>Penthouse with character and a large terrace in the center of Calonge. We present this unique penthouse, with a distinctive style thanks to its interior slopes and large sunny terrace. Located in a quiet community of only 3 neighbors, without an elevator, in the heart of Calonge. Layout: Living-dining room with fireplace and direct access to a spacious 52m² terrace with all-day sun and open views of the town and mountains. Separate kitchen with access to a balcony and storage room. 1 double bedroom with en-suite bathroom and built-in wardrobes on the main floor. 2 additional bedrooms and 1 full bathroom on the upper floor, connected by an interior staircase. Other details: Charming, bright, and full of personality. Ideal as a primary or secondary residence near the Costa Brava. Notary and registry fees, applicable taxes (ITP or VAT + AJD) and other expenses inherent to the sale are not included in the sale price.</en>
 <fr>Penthouse de caractère avec grande terrasse en plein centre de Calonge. Nous vous présentons ce penthouse unique, au style distinctif grâce à ses pentes intérieures et sa grande terrasse ensoleillée. Situé dans une résidence calme de seulement 3 voisins, sans ascenseur, au cœur de Calonge. Composition;: salon-salle à manger avec cheminée et accès direct à une spacieuse terrasse de 52n;m² ensoleillée toute la journée et offrant une vue dégagée sur la ville et les montagnes. Cuisine indépendante avec accès à un balcon et débarras. 1 chambre double avec salle de bains privative et placards intégrés au rez-de-chaussée. 2 chambres supplémentaires et une salle de bains complète à l'étage, reliées par un escalier intérieur. Autres détailsn;: Charmant, lumineux et plein de personnalité. Idéal comme résidence principale ou secondaire près de la Costa Brava. Les frais de notaire et d'enregistrement, les taxes applicables (ITP ou TVA + AJD) et autres frais inhérents à la vente ne sont pas inclus dans le prix de vente.</fr>
@@ -6637,7 +6637,7 @@
 <de>https://www.aproperties.es/de/barcelona/eixample-esquerra/149-qm-wohnung-zum-miete-in-eixample-esquerra-barcelona</de>
 </url>
 <desc>
-<es>Disponible a partir del 28 de Abril de 2026. Espectacular piso reformado de 149m2 en Gran Via, un barrio con todo tipo de comercios y cerca de paradas de transporte p&amp;uacute;blico. El piso consta de dos zonas bien diferenciadas, en la zona de d&amp;iacute;a se encuentra un gran sal&amp;oacute;n comedor con grandes ventanales con mucha luz. La cocina es independiente y est&amp;aacute; equipada. Desde la cocina, se accede a la zona de aguas con lavadora y secadora. En la zona de noche, se encuentran las cuatro habitaciones, todas dobles, una suite y otras tres habitaciones comparten un ba&amp;ntilde;o completo. El suelo es de parquet y la calefacci&amp;oacute;n de gas por radiadores, dispone de aire acondicionado en el sal&amp;oacute;n principal. La finca dispone de ascensor, servicio de conserjer&amp;iacute;a y acceso para personas con necesidades especiales. La finalidad del contrato es temporal.&amp;nbsp; &amp;nbsp;&lt;br&gt;* En cumplimiento de la Ley 12/2023 y la Ley 18/2007 informamos que:&lt;br&gt;Índice de R.P.LL: 10,94 € / m2 &lt;br&gt;Precio de referencia estatal 2.037,00 €&lt;br&gt;Renta del último contrato de arrendamiento: 1.525,90 €&lt;br&gt;Este propietario no ostenta la condición de gran tenedor.&lt;br&gt; Nº AICAT: 8446 Cédula de habitabilidad: CHB02411420*** Se omiten los últimos tres dígitos para preservar el uso correcto de la información; el número completo está disponible bajo solicitud de los interesados.</es>
+<es>Test 24/04. Disponible a partir del 28 de Abril de 2026. Espectacular piso reformado de 149m2 en Gran Via, un barrio con todo tipo de comercios y cerca de paradas de transporte p&amp;uacute;blico. El piso consta de dos zonas bien diferenciadas, en la zona de d&amp;iacute;a se encuentra un gran sal&amp;oacute;n comedor con grandes ventanales con mucha luz. La cocina es independiente y est&amp;aacute; equipada. Desde la cocina, se accede a la zona de aguas con lavadora y secadora. En la zona de noche, se encuentran las cuatro habitaciones, todas dobles, una suite y otras tres habitaciones comparten un ba&amp;ntilde;o completo. El suelo es de parquet y la calefacci&amp;oacute;n de gas por radiadores, dispone de aire acondicionado en el sal&amp;oacute;n principal. La finca dispone de ascensor, servicio de conserjer&amp;iacute;a y acceso para personas con necesidades especiales. La finalidad del contrato es temporal.&amp;nbsp; &amp;nbsp;&lt;br&gt;* En cumplimiento de la Ley 12/2023 y la Ley 18/2007 informamos que:&lt;br&gt;Índice de R.P.LL: 10,94 € / m2 &lt;br&gt;Precio de referencia estatal 2.037,00 €&lt;br&gt;Renta del último contrato de arrendamiento: 1.525,90 €&lt;br&gt;Este propietario no ostenta la condición de gran tenedor.&lt;br&gt; Nº AICAT: 8446 Cédula de habitabilidad: CHB02411420*** Se omiten los últimos tres dígitos para preservar el uso correcto de la información; el número completo está disponible bajo solicitud de los interesados.</es>
 <ca>Disponible a partir del 28 d&amp;rsquo;abril de 2026. Espectacular pis reformat de 149 m&amp;sup2; a la Gran Via, en una zona amb tota mena de comer&amp;ccedil;os i a prop de parades de transport p&amp;uacute;blic. El pis consta de dues zones ben diferenciades. A la zona de dia hi trobem un gran sal&amp;oacute;-menjador amb grans finestrals que aporten molta llum natural. La cuina &amp;eacute;s independent i est&amp;agrave; equipada. Des de la cuina s&amp;rsquo;accedeix a la zona d&amp;rsquo;aig&amp;uuml;es amb rentadora i assecadora. A la zona de nit hi ha quatre habitacions, totes dobles: una en suite i les altres tres comparteixen un bany complet. El terra &amp;eacute;s de parquet i la calefacci&amp;oacute; &amp;eacute;s de gas per radiadors. Disposa d&amp;rsquo;aire condicionat al sal&amp;oacute; principal. La finca disposa d&amp;rsquo;ascensor, servei de consergeria i acc&amp;eacute;s adaptat per a persones amb mobilitat redu&amp;iuml;da. La finalitat del contracte &amp;eacute;s temporal.&amp;nbsp;&lt;br&gt;* En compliment de la Llei 12/2023 i la Llei 18/2007 informem que:&lt;br&gt;Índex de R.P.LL: 10,94 € / m2 &lt;br&gt;Preu de referència estatal 2.037,00 €&lt;br&gt;Lloguer de l&apos;últim contracte d&apos;arrendament: 1.525,90 €&lt;br&gt;Aquest propietari no ostenta la condició de gran tenidor.&lt;br&gt; Nº AICAT: 8446 Cèdula Habitabilitat: CHB02411420*** S’ometen els tres últims dígits per preservar l’ús correcte de la informació; el número complet està disponible a petició dels interessats.</ca>
 <en>Available from April 28, 2026. Spectacular renovated 149 m&amp;sup2; apartment located on Gran Via, in an area with all kinds of shops and close to public transport stops. The apartment is divided into two well-defined areas. The day area features a large living-dining room with big windows that provide abundant natural light. The kitchen is separate and fully equipped. From the kitchen, there is access to the utility area with a washing machine and dryer. The night area comprises four bedrooms, all of them double: one en suite and the other three sharing a full bathroom. The flooring is parquet and the heating is gas-powered via radiators. Air conditioning is installed in the main living room. The building has a lift, concierge service, and adapted access for people with reduced mobility. &amp;nbsp;&lt;br&gt;* In compliance with Law 12/2023 and Law 18/2007, we hereby inform that:&lt;br&gt;R.P.LL Index: 10,94 € / m2 &lt;br&gt;State reference rental price 2.037,00 €&lt;br&gt;Rent of the last lease agreement: 1.525,90 €&lt;br&gt;This owner does not qualify as a large property holder.&lt;br&gt; Nº AICAT: 8446 Habitability Certificate: CHB02411420*** The last three digits are omitted to ensure the proper use of the information; the full number is available upon request for interested parties.</en>
 <fr>Appartement de 149 m2 dans la région de Eixample Esquerra, Barcelona.La propriété dispose de 4 chambres, 2 salles de bain, climatisation, armoires intégrées, chauffage et concierge.&lt;br&gt;* Conformément à la Loi 12/2023 et à la Loi 18/2007, nous informons que :&lt;br&gt;Indice R.P.LL : 10,94 € / m2 &lt;br&gt;Prix de référence étatique 2.037,00 €&lt;br&gt;Loyer du dernier contrat de location : 1.525,90 €&lt;br&gt;Ce propriétaire n&apos;est pas considéré comme un grand détenteur immobilier.&lt;br&gt; Nº AICAT: 8446 Cédula de habitabilidad: CHB02411420*** Se omiten los últimos tres dígitos para preservar el uso correcto de la información; el número completo está disponible bajo solicitud de los interesados.</fr>
@@ -6751,6 +6751,2062 @@
 <video_url>https://vimeo.com/672019180</video_url>
 </property>
 
+<property>
+<id>test-manresa</id>
+<date>2026-04-22 17:26:05</date>
+<ref>2238</ref>
+<price>64200</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership/>
+<leasehold>0</leasehold>
+<new_build>0</new_build>
+<type>apartment</type>
+<town>Mnresa</town>
+<province>Barcelona</province>
+<country>Spain</country>
+<location>
+<latitude>41.7239193</latitude>
+<longitude>1.8285287</longitude>
+</location>
+<location_detail/>
+<beds>3</beds>
+<baths>1</baths>
+<pool>0</pool>
+<surface_area>
+<built>136</built>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<consumption_value>999</consumption_value>
+<emissions>G</emissions>
+<emissions_value>48</emissions_value>
+</energy_rating>
+<url>
+<es>http://akris.mobiliagestion.es/es/manresa/pisos/ref-2238</es>
+</url>
+<catastral>2700705DG0220A0010RU</catastral>
+<desc>
+<es>"ALQUILADO-NO VISITABLE"¡¡¡GRAN OPORTUNIDAD!!!Inmobiliaria Akris presenta:Piso en la provincia de Barcelona, en el municipio de Manresa.Cuenta con salón, cocina, 3 dormitorios, 1 cuarto de baño y terraza.El Inmueble se transmite sin conocerse por parte del vendedor el estado de conservación actual así como tampoco los servicios y suministros.Inmobiliaria Akris vende la propiedad en las condiciones mencionadas con anterioridad.CONTACTANOS PARA RECIBIR ASESORAMIENTO!En Akris os ayudamos a cumplir vuestros Sueños Inmobiliarios.Encuentre mas inmuebles en www.akris.es</es>
+<de>Wohnung zu verkaufen in Manresa, mit 136 m2 und 3 schlafzimmer und 1 badezimmer.</de>
+<en>Flat for sale in Manresa, with 136 m2 and 3 rooms and 1 bathrooms.</en>
+<fr>Appartement en vente á Manresa, avec 136 m2 et 3 chambres et 1 salles de bain.</fr>
+<it>Appartamento in vendita in Manresa, con 136 m2 e 3 camere e 1 bagni.</it>
+<pt>Apartamento à venda en Manresa, com 136 m2 e 3 quartos e 1 quartos de banho..</pt>
+<ru>квартира на продажу в Manresa, с 136 m2 и 3 комнаты и 1 Ванные комнаты.</ru>
+</desc>
+<notes/>
+<images>
+<image id="1">
+<url>https://media.mobiliagestion.es/Portals/inmoakris/Images/2238/25547687.jpg</url>
+</image>
+<image id="2">
+<url>https://media.mobiliagestion.es/Portals/inmoakris/Images/2238/25547665.jpg</url>
+</image>
+</images>
+<email>publicacion@akris.es</email>
+<contact_number>671645664</contact_number>
+</property>	
 
+	<property>
+<id>iris-location-006_codigo_postal</id>
+<date>2026-03-17 20:01:33</date>
+<agencia>Finques Marivent S.l.</agencia>
+<email>i.finquesmarivent.7036@inmovilla.com</email>
+<telefono>977707373</telefono>
+<ref>MA0018/7036</ref>
+<state>Free</state>
+<operation_type>For sale</operation_type>
+<price>149000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>Flat</type>
+<country>España</country>
+<province>BARCELONA</province>
+<town>Berga</town>
+<location_detail>Berga</location_detail>
+<cp>036216</cp>
+<postal_code>36216</postal_code>
+<location>
+<latitude>42.099448</latitude>
+<longitude>1.840537</longitude>
+</location>
+<beds>4</beds>
+<baths>1</baths>
+<estado_propiedad>20</estado_propiedad>
+<antiguedad>1972</antiguedad>
+<pool>0</pool>
+<surface_area>
+<built>87</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<status>Provided</status>
+<consumption>E</consumption>
+<emissions>E</emissions>
+<consumption_value>0</consumption_value>
+<emissions_value>1234.99</emissions_value>
+</energy_rating>
+<url>
+<es>http://www.finquesmarivent.com/ficha/index.php?codigo=7036_27540697</es>
+</url>
+<desc>
+<es>
+<![CDATA[ Se vende magnífica vivienda situada en Berga, ideal para familias que buscan espacio, comodidad y una excelente ubicación. La propiedad dispone de cuatro habitaciones, ofreciendo múltiples posibilidades tanto como dormitorios, despacho o sala de estudio.~~La habitación principal, de matrimonio, es exterior y da a la calle, lo que le proporciona buena luz natural. Las otras tres habitaciones tienen orientación a un patio de luz, garantizando tranquilidad y silencio, ideales para descanso o trabajo.~~La vivienda cuenta con una cocina amplia y funcional, completamente equipada, con espacio suficiente para el día a día. El baño es completo, con ducha y acabados modernos. El salón-dormitorio es acogedor y bien iluminado, creando un ambiente confortable.~~Entre sus características destacan los suelos de parquet, buena distribución y un estado general muy cuidado, listo para entrar a vivir.~~Ubicada en una zona consolidada de Berga, con todos los servicios cercanos: comercios, colegios, transporte y zonas verdes.~~Una excelente oportunidad para quienes buscan una vivienda espaciosa en una de las zonas más demandadas del Berguedà. ]]>
+</es>
+<en>
+<![CDATA[ Magnificent house for sale in Berga, ideal for families looking for space, comfort and an excellent location. The property has four rooms, offering multiple possibilities as bedrooms, office or study room.~~The master bedroom is exterior and overlooks the street, providing good natural light. The other three rooms face a light well, ensuring tranquillity and silence, ideal for rest or work.~~The house has a spacious and functional kitchen, fully equipped, with enough space for everyday use. The bathroom is complete, with a shower and modern finishes. The living room-bedroom is cosy and well lit, creating a comfortable atmosphere.~~Its features include parquet flooring, good layout and a very well-maintained general condition, ready to move into.~~Located in an established area of Berga, with all amenities nearby: shops, schools, transport and green spaces.~~An excellent opportunity for those looking for a spacious home in one of the most sought-after areas of Berguedà. ]]>
+</en>
+<de>
+<![CDATA[ ]]>
+</de>
+<da>
+<![CDATA[ ]]>
+</da>
+<fr>
+<![CDATA[ ]]>
+</fr>
+<it>
+<![CDATA[ ]]>
+</it>
+<nl>
+<![CDATA[ ]]>
+</nl>
+<ru>
+<![CDATA[ ]]>
+</ru>
+<fi>
+<![CDATA[ ]]>
+</fi>
+<ca>
+<![CDATA[ Es ven magnífic habitatge situat a Berga, ideal per a famílies que busquen espai, comoditat i una excel·lent ubicació. La propietat disposa de quatre habitacions, oferint múltiples possibilitats tant com dormitoris, despatx o sala d'estudi.~~L'habitació principal, de matrimoni, és exterior i dona al carrer, la qual cosa li proporciona bona llum natural. Les altres tres habitacions tenen orientació a un pati de llum, garantint tranquil·litat i silenci, ideals per a descans o treball.~~L'habitatge compta amb una cuina àmplia i funcional, completament equipada, amb espai suficient per al dia a dia. El bany és complet, amb dutxa i acabats moderns. El saló-dormitori és acollidor i ben il·luminat, creant un ambient confortable.~~Entre les seves característiques destaquen els sòls de parquet, bona distribució i un estat general molt cuidat, llest per a entrar a viure.~~Situada en una zona consolidada de Berga, amb tots els serveis pròxims: comerços, col·legis, transport i zones verdes.~~Una excel·lent oportunitat per als qui busquen un habitatge espaiós en una de les zones més demandades del Berguedà.~ ]]>
+</ca>
+<no>
+<![CDATA[ ]]>
+</no>
+<pt>
+<![CDATA[ ]]>
+</pt>
+<sv>
+<![CDATA[ ]]>
+</sv>
+<eu>
+<![CDATA[ ]]>
+</eu>
+<cn>
+<![CDATA[ ]]>
+</cn>
+<gl>
+<![CDATA[ ]]>
+</gl>
+<lt>
+<![CDATA[ ]]>
+</lt>
+<cs>
+<![CDATA[ ]]>
+</cs>
+<bg>
+<![CDATA[ ]]>
+</bg>
+<pl>
+<![CDATA[ ]]>
+</pl>
+</desc>
+<title_extra/>
+<desc_extra/>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/7036/27540697/4-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/7036/27540697/4-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/7036/27540697/4-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/7036/27540697/4-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/7036/27540697/4-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/7036/27540697/4-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/7036/27540697/4-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/7036/27540697/4-8.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>iris-location-007_provincia</id>
+<date>2026-04-15 16:23:11</date>
+<ref>16627</ref>
+<price>590000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership/>
+<leasehold>0</leasehold>
+<new_build>0</new_build>
+<type>villa</type>
+<town>Cardedeu</town>
+<province>Lleida</province>
+<country>Spain</country>
+<postal_code>43580</postal_code>
+<location>
+<latitude>41.637713</latitude>
+<longitude>2.352248</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>2</baths>
+<pool>1</pool>
+<surface_area>
+<built>258</built>
+<plot>200</plot>
+</surface_area>
+<energy_rating>
+<consumption>E</consumption>
+<consumption_value>242</consumption_value>
+<emissions>E</emissions>
+<emissions_value>50</emissions_value>
+</energy_rating>
+<url>
+<es>http://guinotprunera.mobiliagestion.es/es/casas-casas-/cardedeu/ref-16627</es>
+</url>
+<desc>
+<es>ZONA RIERA / CARDEDEUCasa adosada de segunda mano de 200 m² útiles en venta en Cardedeu, Barcelona, distribuida en tres alturas. Esta vivienda ofrece espacios amplios y una distribución pensada para la vida familiar, con 4 habitaciones y 2 baños.La casa dispone de ascensor que conecta todas las plantas, desde el garaje tipo box de 60 m² ubicado en la planta -1 a la tercera planta, lo que facilita la movilidad diaria y el acceso a las zonas comunes. La cocina está amueblada y equipada, con muebles prácticos y funcionales que optimizan el día a día.testLa climatización es mediante aire acondicionado y calefacción a gas natural, garantizando confort en cualquier estación. Las estancias son luminosas, con gran entrada de luz natural que realza la sensación de amplitud en cada planta.La vivienda cuenta con lavadero, trastero y un trastero adicional que aporta espacio de almacenamiento útil. . La luminosa vivienda destaca por su distribución en tres alturas y por sus amplios huecos, que favorecen la circulación y la percepción de amplitud. También dispone de armarios empotrados en varios dormitorios, aportando orden y eficiencia en el uso del espacio.En cuanto a exteriores, la vivienda dispone de una terraza privada de 20 m², un jardín y zonas verdes comunitarias que invitan a disfrutar del aire libre sin salir de casa. La piscina comunitaria es un valor añadido para familias que buscan ocio y relax sin complicaciones. Las zonas comunes están bien cuidadas y permiten encuentros en un entorno agradable.Este adosado combina funcionalidad y confort para familias que buscan un hogar práctico y bien ubicado. Las ventajas de la vivienda se reflejan en su extensa superficie útil y sus múltiples estancias, que permiten adaptar los espacios a diferentes usos, desde despacho en casa hasta zona de recreo para los niños. La combinación de jardín, terraza y zonas verdes cercanas crea un entorno agradable para el descanso y el ocio al aire libre, sin renunciar al confort de una vivienda moderna.testLos acabados y detalles están pensados para un uso cotidiano sin complicaciones, con soluciones de almacenamiento abundantes y una distribución que facilita la vida diaria. En resumen, un adosado completo, con espacios generosos, buenas calidades y un entorno que invita a vivir con comodidad y eficiencia. Si buscas un inmueble práctico, muy bien ubicado dentro de la población y con servicios accesibles, como comercios y transporte publico, esta opción merece una visita para valorar su potencial. Contáctanos y ven a conocer todos los detalles en persona.</es>
+<ca>ZONA RIERA / CARDEDEU Casa adossada de segona mà de 200 m² útils en venda a Cardedeu, Barcelona, ​​distribuïda en tres altures. Aquest habitatge ofereix espais amplis i una distribució pensada per a la vida familiar, amb 4 habitacions i 2 banys. La casa disposa d'ascensor que connecta totes les plantes, des del garatge tipus box de 60 m² ubicat a la planta -1 a la tercera planta, cosa que facilita la mobilitat diària i l'accés a les zones comunes. La cuina està moblada i equipada amb mobles pràctics i funcionals que optimitzen el dia a dia. La climatització és mitjançant aire condicionat i calefacció de gas natural, garantint confort a qualsevol estació. Les estances són lluminoses, amb gran entrada de llum natural que realça la sensació d'amplitud a cada planta. L'habitatge compta amb safareig, traster i traster addicional que aporta espai d'emmagatzematge útil. El lluminós habitatge destaca per la distribució en tres altures i pels amplis buits, que afavoreixen la circulació i la percepció d'amplitud. També disposa d'armaris encastats en diversos dormitoris, aportant ordre i eficiència en l'ús de l'espai. Quant a exteriors, l'habitatge disposa d'una terrassa privada de 20 m², un jardí i zones verdes comunitàries que conviden a gaudir de l'aire lliure sense sortir de casa. La piscina comunitària és un valor afegit per a famílies que busquen lleure i relaxació sense complicacions. Les zones comunes estan ben cuidades i permeten trobades en un entorn agradable. Aquest adossat combina funcionalitat i confort per a famílies que busquen una llar pràctica i ben ubicada. Els avantatges de l'habitatge es reflecteixen en la seva extensa superfície útil i les múltiples estances, que permeten adaptar els espais a diferents usos, des de despatx a casa fins a zona d'esbarjo per als nens. La combinació de jardí, terrassa i zones verdes properes crea un entorn agradable per al descans i l'oci exterior, sense renunciar al confort d'un habitatge modern. Els acabats i detalls estan pensats per a un ús quotidià sense complicacions, amb abundants solucions d'emmagatzematge i una distribució que facilita la vida diària. En resum, un adossat complet, amb espais generosos, bones qualitats i un entorn que convida a viure amb comoditat i eficiència. Si busques un immoble pràctic, molt ben ubicat dins de la població i amb serveis accessibles, com ara comerços i transport públic, aquesta opció mereix una visita per valorar-ne el potencial. Contacta amb nosaltres i vine a conèixer tots els detalls en persona.</ca>
+<en>House for sale in Cardedeu, with 258 m2, 4 rooms and 2 bathrooms, Swimming pool, 3 Garage space, Storage room, Lift and Air conditioning.</en>
+<fr>Maison en vente á Cardedeu, avec 258 m2, 4 chambres et 2 salles de bain, Piscine, 3 Places de parking, Pièce de stockage, Ascenseur et Air conditionné.</fr>
+</desc>
+<features>
+<feature>Aire Acondicionado</feature>
+<feature>Zonas Comunes</feature>
+<feature>Ascensor</feature>
+<feature>Piscina</feature>
+<feature>Garaje</feature>
+</features>
+<notes/>
+<images>
+<image id="1">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809733.jpg</url>
+</image>
+<image id="2">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809676.jpg</url>
+</image>
+<image id="3">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809674.jpg</url>
+</image>
+<image id="4">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809673.jpg</url>
+</image>
+<image id="5">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809682.jpg</url>
+</image>
+<image id="6">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809689.jpg</url>
+</image>
+<image id="7">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809695.jpg</url>
+</image>
+<image id="8">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809710.jpg</url>
+</image>
+<image id="9">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809720.jpg</url>
+</image>
+<image id="10">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809725.jpg</url>
+</image>
+<image id="11">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809729.jpg</url>
+</image>
+<image id="12">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809730.jpg</url>
+</image>
+<image id="13">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809731.jpg</url>
+</image>
+<image id="14">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809732.jpg</url>
+</image>
+<image id="15">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809734.jpg</url>
+</image>
+<image id="16">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809735.jpg</url>
+</image>
+<image id="17">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809736.jpg</url>
+</image>
+<image id="18">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809737.jpg</url>
+</image>
+<image id="19">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809738.jpg</url>
+</image>
+<image id="20">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809739.jpg</url>
+</image>
+<image id="21">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809740.jpg</url>
+</image>
+<image id="22">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809741.jpg</url>
+</image>
+<image id="23">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809742.jpg</url>
+</image>
+<image id="24">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809743.jpg</url>
+</image>
+<image id="25">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809744.jpg</url>
+</image>
+<image id="26">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809745.jpg</url>
+</image>
+<image id="27">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809746.jpg</url>
+</image>
+<image id="28">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809747.jpg</url>
+</image>
+<image id="29">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809748.jpg</url>
+</image>
+<image id="30">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809749.jpg</url>
+</image>
+<image id="31">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809750.jpg</url>
+</image>
+<image id="32">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809751.jpg</url>
+</image>
+<image id="33">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809752.jpg</url>
+</image>
+<image id="34">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809754.jpg</url>
+</image>
+<image id="35">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809759.jpg</url>
+</image>
+<image id="36">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809763.jpg</url>
+</image>
+<image id="37">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809767.jpg</url>
+</image>
+<image id="38">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809771.jpg</url>
+</image>
+<image id="39">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809775.jpg</url>
+</image>
+<image id="40">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809776.jpg</url>
+</image>
+<image id="41">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809777.jpg</url>
+</image>
+<image id="42">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/25738874.jpg</url>
+</image>
+<image id="43">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/25738875.jpg</url>
+</image>
+<image id="44">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/25738876.jpg</url>
+</image>
+<image id="45">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/25738877.jpg</url>
+</image>
+<image id="46">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/25738878.jpg</url>
+</image>
+<image id="47">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/25738879.jpg</url>
+</image>
+<image id="48">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24929269.jpg</url>
+</image>
+</images>
+<email>infocardedeu@guinotprunera.com</email>
+<contact_number>935953736</contact_number>
+</property>
+
+
+
+
+	<property>
+<id>iris-location-008_municipio</id>
+<date>2026-04-15 16:23:11</date>
+<ref>16627</ref>
+<price>590000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership/>
+<leasehold>0</leasehold>
+<new_build>0</new_build>
+<type>villa</type>
+<town>Calatayud</town>
+<province>Lleida</province>
+<country>Spain</country>
+<postal_code>08440</postal_code>
+<location>
+<latitude>41.637713</latitude>
+<longitude>2.352248</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>2</baths>
+<pool>1</pool>
+<surface_area>
+<built>258</built>
+<plot>200</plot>
+</surface_area>
+<energy_rating>
+<consumption>E</consumption>
+<consumption_value>242</consumption_value>
+<emissions>E</emissions>
+<emissions_value>50</emissions_value>
+</energy_rating>
+<url>
+<es>http://guinotprunera.mobiliagestion.es/es/casas-casas-/cardedeu/ref-16627</es>
+</url>
+<desc>
+<es>ZONA RIERA / CARDEDEUCasa adosada de segunda mano de 200 m² útiles en venta en Cardedeu, Barcelona, distribuida en tres alturas. Esta vivienda ofrece espacios amplios y una distribución pensada para la vida familiar, con 4 habitaciones y 2 baños.La casa dispone de ascensor que conecta todas las plantas, desde el garaje tipo box de 60 m² ubicado en la planta -1 a la tercera planta, lo que facilita la movilidad diaria y el acceso a las zonas comunes. La cocina está amueblada y equipada, con muebles prácticos y funcionales que optimizan el día a día.testLa climatización es mediante aire acondicionado y calefacción a gas natural, garantizando confort en cualquier estación. Las estancias son luminosas, con gran entrada de luz natural que realza la sensación de amplitud en cada planta.La vivienda cuenta con lavadero, trastero y un trastero adicional que aporta espacio de almacenamiento útil. . La luminosa vivienda destaca por su distribución en tres alturas y por sus amplios huecos, que favorecen la circulación y la percepción de amplitud. También dispone de armarios empotrados en varios dormitorios, aportando orden y eficiencia en el uso del espacio.En cuanto a exteriores, la vivienda dispone de una terraza privada de 20 m², un jardín y zonas verdes comunitarias que invitan a disfrutar del aire libre sin salir de casa. La piscina comunitaria es un valor añadido para familias que buscan ocio y relax sin complicaciones. Las zonas comunes están bien cuidadas y permiten encuentros en un entorno agradable.Este adosado combina funcionalidad y confort para familias que buscan un hogar práctico y bien ubicado. Las ventajas de la vivienda se reflejan en su extensa superficie útil y sus múltiples estancias, que permiten adaptar los espacios a diferentes usos, desde despacho en casa hasta zona de recreo para los niños. La combinación de jardín, terraza y zonas verdes cercanas crea un entorno agradable para el descanso y el ocio al aire libre, sin renunciar al confort de una vivienda moderna.testLos acabados y detalles están pensados para un uso cotidiano sin complicaciones, con soluciones de almacenamiento abundantes y una distribución que facilita la vida diaria. En resumen, un adosado completo, con espacios generosos, buenas calidades y un entorno que invita a vivir con comodidad y eficiencia. Si buscas un inmueble práctico, muy bien ubicado dentro de la población y con servicios accesibles, como comercios y transporte publico, esta opción merece una visita para valorar su potencial. Contáctanos y ven a conocer todos los detalles en persona.</es>
+<ca>ZONA RIERA / CARDEDEU Casa adossada de segona mà de 200 m² útils en venda a Cardedeu, Barcelona, ​​distribuïda en tres altures. Aquest habitatge ofereix espais amplis i una distribució pensada per a la vida familiar, amb 4 habitacions i 2 banys. La casa disposa d'ascensor que connecta totes les plantes, des del garatge tipus box de 60 m² ubicat a la planta -1 a la tercera planta, cosa que facilita la mobilitat diària i l'accés a les zones comunes. La cuina està moblada i equipada amb mobles pràctics i funcionals que optimitzen el dia a dia. La climatització és mitjançant aire condicionat i calefacció de gas natural, garantint confort a qualsevol estació. Les estances són lluminoses, amb gran entrada de llum natural que realça la sensació d'amplitud a cada planta. L'habitatge compta amb safareig, traster i traster addicional que aporta espai d'emmagatzematge útil. El lluminós habitatge destaca per la distribució en tres altures i pels amplis buits, que afavoreixen la circulació i la percepció d'amplitud. També disposa d'armaris encastats en diversos dormitoris, aportant ordre i eficiència en l'ús de l'espai. Quant a exteriors, l'habitatge disposa d'una terrassa privada de 20 m², un jardí i zones verdes comunitàries que conviden a gaudir de l'aire lliure sense sortir de casa. La piscina comunitària és un valor afegit per a famílies que busquen lleure i relaxació sense complicacions. Les zones comunes estan ben cuidades i permeten trobades en un entorn agradable. Aquest adossat combina funcionalitat i confort per a famílies que busquen una llar pràctica i ben ubicada. Els avantatges de l'habitatge es reflecteixen en la seva extensa superfície útil i les múltiples estances, que permeten adaptar els espais a diferents usos, des de despatx a casa fins a zona d'esbarjo per als nens. La combinació de jardí, terrassa i zones verdes properes crea un entorn agradable per al descans i l'oci exterior, sense renunciar al confort d'un habitatge modern. Els acabats i detalls estan pensats per a un ús quotidià sense complicacions, amb abundants solucions d'emmagatzematge i una distribució que facilita la vida diària. En resum, un adossat complet, amb espais generosos, bones qualitats i un entorn que convida a viure amb comoditat i eficiència. Si busques un immoble pràctic, molt ben ubicat dins de la població i amb serveis accessibles, com ara comerços i transport públic, aquesta opció mereix una visita per valorar-ne el potencial. Contacta amb nosaltres i vine a conèixer tots els detalls en persona.</ca>
+<en>House for sale in Cardedeu, with 258 m2, 4 rooms and 2 bathrooms, Swimming pool, 3 Garage space, Storage room, Lift and Air conditioning.</en>
+<fr>Maison en vente á Cardedeu, avec 258 m2, 4 chambres et 2 salles de bain, Piscine, 3 Places de parking, Pièce de stockage, Ascenseur et Air conditionné.</fr>
+</desc>
+<features>
+<feature>Aire Acondicionado</feature>
+<feature>Zonas Comunes</feature>
+<feature>Ascensor</feature>
+<feature>Piscina</feature>
+<feature>Garaje</feature>
+</features>
+<notes/>
+<images>
+<image id="1">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809733.jpg</url>
+</image>
+<image id="2">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809676.jpg</url>
+</image>
+<image id="3">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809674.jpg</url>
+</image>
+<image id="4">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809673.jpg</url>
+</image>
+<image id="5">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809682.jpg</url>
+</image>
+<image id="6">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809689.jpg</url>
+</image>
+<image id="7">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809695.jpg</url>
+</image>
+<image id="8">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809710.jpg</url>
+</image>
+<image id="9">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809720.jpg</url>
+</image>
+<image id="10">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809725.jpg</url>
+</image>
+<image id="11">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809729.jpg</url>
+</image>
+<image id="12">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809730.jpg</url>
+</image>
+<image id="13">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809731.jpg</url>
+</image>
+<image id="14">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809732.jpg</url>
+</image>
+<image id="15">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809734.jpg</url>
+</image>
+<image id="16">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809735.jpg</url>
+</image>
+<image id="17">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809736.jpg</url>
+</image>
+<image id="18">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809737.jpg</url>
+</image>
+<image id="19">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809738.jpg</url>
+</image>
+<image id="20">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809739.jpg</url>
+</image>
+<image id="21">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809740.jpg</url>
+</image>
+<image id="22">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809741.jpg</url>
+</image>
+<image id="23">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809742.jpg</url>
+</image>
+<image id="24">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809743.jpg</url>
+</image>
+<image id="25">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809744.jpg</url>
+</image>
+<image id="26">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809745.jpg</url>
+</image>
+<image id="27">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809746.jpg</url>
+</image>
+<image id="28">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809747.jpg</url>
+</image>
+<image id="29">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809748.jpg</url>
+</image>
+<image id="30">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809749.jpg</url>
+</image>
+<image id="31">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809750.jpg</url>
+</image>
+<image id="32">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809751.jpg</url>
+</image>
+<image id="33">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809752.jpg</url>
+</image>
+<image id="34">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809754.jpg</url>
+</image>
+<image id="35">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809759.jpg</url>
+</image>
+<image id="36">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809763.jpg</url>
+</image>
+<image id="37">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809767.jpg</url>
+</image>
+<image id="38">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809771.jpg</url>
+</image>
+<image id="39">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809775.jpg</url>
+</image>
+<image id="40">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809776.jpg</url>
+</image>
+<image id="41">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809777.jpg</url>
+</image>
+<image id="42">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/25738874.jpg</url>
+</image>
+<image id="43">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/25738875.jpg</url>
+</image>
+<image id="44">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/25738876.jpg</url>
+</image>
+<image id="45">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/25738877.jpg</url>
+</image>
+<image id="46">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/25738878.jpg</url>
+</image>
+<image id="47">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/25738879.jpg</url>
+</image>
+<image id="48">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24929269.jpg</url>
+</image>
+</images>
+<email>infocardedeu@guinotprunera.com</email>
+<contact_number>935953736</contact_number>
+</property>
+
+<property>
+<id>iris-location-0010_francia</id>
+<date>2026-04-15 16:23:11</date>
+<ref>16627</ref>
+<price>590000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership/>
+<leasehold>0</leasehold>
+<new_build>0</new_build>
+<type>villa</type>
+<town></town>
+<province></province>
+<country></country>
+<postal_code></postal_code>
+<location>
+<latitude>47.860908</latitude>
+<longitude>5.506558</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>2</baths>
+<pool>1</pool>
+<surface_area>
+<built>258</built>
+<plot>200</plot>
+</surface_area>
+<energy_rating>
+<consumption>E</consumption>
+<consumption_value>242</consumption_value>
+<emissions>E</emissions>
+<emissions_value>50</emissions_value>
+</energy_rating>
+<url>
+<fr>http://example.fr/maison/is-sur-tille/ref-16627</fr>
+</url>
+<desc>
+<es>Casa en Francia.</es>
+<en>Detached house for sale in Is-sur-Tille, Côte-d'Or, France. The property offers 258 sqm built area, 4 bedrooms, 2 bathrooms, a garden and a swimming pool. Located in a शांत and residential area, ideal for families.</en>
+</desc>
+<features>
+<feature>Air Conditioning</feature>
+<feature>Garden</feature>
+<feature>Swimming Pool</feature>
+<feature>Garage</feature>
+</features>
+<notes/>
+<images>
+<image id="1">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809733.jpg</url>
+</image>
+<image id="2">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809676.jpg</url>
+</image>
+<image id="3">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809674.jpg</url>
+</image>
+<image id="4">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809673.jpg</url>
+</image>
+<image id="5">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809682.jpg</url>
+</image>
+<image id="6">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809689.jpg</url>
+</image>
+<image id="7">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809695.jpg</url>
+</image>
+<image id="8">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809710.jpg</url>
+</image>
+<image id="9">
+<url>https://media.mobiliagestion.es/Portals/inmoguinotprunera/Images/16627/24809720.jpg</url>
+</image>
+</images>
+<email>contact@example.fr</email>
+<contact_number>+33 000000000</contact_number>
+</property>
+
+
+
+
+	<property>
+		<id>iris-location-012_londres</id>
+		<date>2026-03-18 12:50:16</date>
+		<ref>iris-location-012</ref>
+		<price>730</price>
+		<currency>EUR</currency>
+		<price_freq>month</price_freq>
+		<part_ownership/>
+		<leasehold>1</leasehold>
+		<new_build>0</new_build>
+		<type>apartment</type>
+		<town>Reus</town>
+		<province>Tarragona</province>
+		<country>Spain</country>
+		<location>
+			<latitude>51.530844</latitude>
+			<longitude>0.051802</longitude>
+		</location>
+		<location_detail/>
+		<postal_code>0614</postal_code>
+		<catastral/>
+		<beds>3</beds>
+		<baths>2</baths>
+		<pool>0</pool>
+		<surface_area>
+			<built>100</built>
+		</surface_area>
+		<energy_rating>
+			<consumption>G</consumption>
+			<emissions>G</emissions>
+		</energy_rating>
+		<url>
+			<es>http://husdrommer.mobiliagestion.es/es/vilareal/pisos/ref-95254572</es>
+		</url>
+		<video_url>https://www.youtube.com/watch?v=GrCd27MVJdI</video_url>
+		<desc>
+			<es>En pleno centro se encuentra este fantástico piso exterior, ideal para familias</es>	
+		</desc>
+		<notes/>
+		<images>
+			<image id="1">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637040.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637044.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637048.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637041.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637042.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637043.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637045.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637046.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637047.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637049.jpg</url>
+			</image>
+		</images>
+		<email>hola@husdrommer.com</email>
+		<contact_number>964 749 027</contact_number>
+	</property>
+
+
+
+<property>
+	<id>iris-location-014</id>
+	<date>2026-03-18 12:50:16</date>
+	<ref>iris-location-014</ref>
+	<price>730</price>
+	<currency>EUR</currency>
+	<price_freq>month</price_freq>
+	<part_ownership/>
+	<leasehold>1</leasehold>
+	<new_build>0</new_build>
+	<type>apartment</type>
+	<town>Ax-les-Thermes</town>
+	<province>Ariège</province>
+	<country>France</country>
+	<location>
+		<latitude/>
+		<longitude/>
+	</location>
+	<location_detail></location_detail>
+	<postal_code></postal_code>
+	<catastral>0882114VK4708B0002OD</catastral>
+	<beds>3</beds>
+	<baths>2</baths>
+	<pool>0</pool>
+	<surface_area>
+		<built>100</built>
+	</surface_area>
+	<energy_rating>
+		<consumption>G</consumption>
+		<emissions>G</emissions>
+	</energy_rating>
+	<url>
+		<es>http://husdrommer.mobiliagestion.es/es/madrid/pisos/ref-95254572</es>
+	</url>
+	<video_url>https://www.youtube.com/watch?v=GrCd27MVJdI</video_url>
+	<desc>
+		<es>En el centro de Madrid se encuentra este fantástico piso exterior, ideal para familias.</es>	
+	</desc>
+	<notes/>
+	<images>
+		<image id="1">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637040.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637044.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637048.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637041.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637042.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637043.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637045.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637046.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637047.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637049.jpg</url>
+			</image>
+		</images>
+		<email>hola@husdrommer.com</email>
+		<contact_number>964 749 027</contact_number>
+	</property>
+
+	<property>
+<id>Marta_type_estudi_test</id>
+<date>2026-04-28 00:00:00</date>
+<ref>722</ref>
+<price>98000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<type>estudi</type>
+<town>Torremolinos</town>
+<province>Málaga</province>
+<postcode>29620</postcode>
+<country>spain</country>
+<location>
+<latitude>36.627169</latitude>
+<longitude>-4.500163</longitude>
+</location>
+<location_detail>Centro</location_detail>
+<address>
+<![CDATA[ Calle EDUARDO AGUILERA ROMERO, 9, 29620 ]]>
+</address>
+<beds>0</beds>
+<baths>1</baths>
+<pool>0</pool>
+<surface_area>
+<built>22</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<consumption>X</consumption>
+<consumption_value>0</consumption_value>
+<emissions>D</emissions>
+<emissions_value>0</emissions_value>
+</energy_rating>
+<url>
+<es>
+<![CDATA[ http://www.investcasa.es/venta-comprar/estudio/malaga/torremolinos/centro/venta-comprar-estudio-malaga-torremolinos-centro-722.html ]]>
+</es>
+</url>
+<desc>
+<de>
+<![CDATA[ Gewerbefläche im Herzen von Torremolinos zu einer Wohnung umgebaut ? jetzt zu verkaufen! Diese einladende 22 m² große Wohnung verfügt über ein Badezimmer und eine offene, voll ausgestattete Küche. Dank der guten Anbindung an den öffentlichen Nahverkehr und der Nähe zu Geschäften und Dienstleistungen bietet sie großes Potenzial. Nutzen Sie diese Gelegenheit und erwerben Sie diese Gewerbefläche in Toplage von Torremolinos! Kontaktieren Sie uns für weitere Informationen! ]]>
+</de>
+<da>
+<![CDATA[ ]]>
+</da>
+<en>
+<![CDATA[ Commercial space converted into an apartment for sale in the heart of Torremolinos. This welcoming 22m² apartment features a bathroom and an open-plan kitchen furnished with appliances. Located in an area with easy access to public transport and surrounded by shops and services, it offers great potential thanks to its proximity to all amenities. Don't miss this opportunity to acquire this commercial space in a prime location in Torremolinos! Contact us for more information! ]]>
+</en>
+<es>
+<![CDATA[ Local reformado a apartamento en venta en el centro de Torremolinos. Con una superficie de 22m2, este acogedor espacio cuenta con un baño y una cocina americana amueblada con electrodomésticos. Se encuentra en una zona con fácil acceso a transporte público, rodeado de comercios y servicios. Aunque necesita reformas, ofrece un gran potencial por todos los servicios cercanos.. ¡No pierdas la oportunidad de adquirir este local en una ubicación privilegiada en Torremolinos! ¡Contáctanos para más información! ]]>
+</es>
+<fr>
+<![CDATA[ Local commercial transformé en appartement à vendre en plein c?ur de Torremolinos. Ce charmant appartement de 22 m² comprend une salle de bains et une cuisine américaine entièrement équipée. Situé dans un quartier bien desservi par les transports en commun et entouré de commerces et de services, il offre un excellent potentiel grâce à sa proximité avec toutes les commodités. Ne manquez pas cette opportunité d'acquérir ce local commercial idéalement situé à Torremolinos ! Contactez-nous pour plus d'informations ! ]]>
+</fr>
+<it>
+<![CDATA[ ]]>
+</it>
+<nl>
+<![CDATA[ ]]>
+</nl>
+<pt>
+<![CDATA[ ]]>
+</pt>
+<ru>
+<![CDATA[ ]]>
+</ru>
+</desc>
+<features>
+<feature/>
+<feature>Segunda Mano</feature>
+<feature>Necesita Reformas</feature>
+<feature>Cocina Americana - Amueblada con...</feature>
+<feature>Gastos Comunidad 15.00</feature>
+<feature>Suelo Gres</feature>
+<feature>Agua Caliente Termo Electrico</feature>
+<feature>Techo Altos</feature>
+<feature>Acceso desde la calle </feature>
+<feature>Altillo Superficie (m2) </feature>
+<feature>Adaptado a discapacitados bloque </feature>
+<feature>Bus </feature>
+</features>
+<notes/>
+<images>
+<image id="1">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_4.jpg</url>
+</image>
+<image id="2">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_1.jpg</url>
+</image>
+<image id="3">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_3.jpg</url>
+</image>
+<image id="4">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_6.jpg</url>
+</image>
+<image id="5">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_7.jpg</url>
+</image>
+<image id="6">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_5.jpg</url>
+</image>
+<image id="7">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_10.jpg</url>
+</image>
+<image id="8">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_11.jpg</url>
+</image>
+<image id="9">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_9.jpg</url>
+</image>
+<image id="10">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_2.jpg</url>
+</image>
+<image id="11">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_12.jpg</url>
+</image>
+<image id="12">
+<url>https://www.forocasas.com/fotos/inmuebles/77619/776191722_8.jpg</url>
+</image>
+</images>
+</property>
+	
+	<property>
+<id>test_matricula</id>
+<date>2026-03-04 13:49:22</date>
+<agencia>Vidamar</agencia>
+<email>i.vidamar.4004@inmovilla.com</email>
+<telefono>871515303</telefono>
+<ref>VD576/4004</ref>
+<state>Free</state>
+<operation_type>For sale</operation_type>
+<price>367500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>Flat</type>
+<country>España</country>
+<province>BALEARES</province>
+<town>Capdepera</town>
+<location_detail>Capdepera</location_detail>
+<cp>07580</cp>
+<postal_code>07580</postal_code>
+<location>
+<latitude>39.705613</latitude>
+<longitude>3.437614</longitude>
+</location>
+<beds>3</beds>
+<baths>2</baths>
+<estado_propiedad>30</estado_propiedad>
+<antiguedad>2001</antiguedad>
+<pool>0</pool>
+<surface_area>
+<built>92</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<status>Provided</status>
+<consumption>E</consumption>
+<emissions>E</emissions>
+<consumption_value>159</consumption_value>
+<emissions_value>39</emissions_value>
+</energy_rating>
+<url>
+<es>http://www.vidamar.net/ficha/index.php?codigo=4004_28899047</es>
+</url>
+<desc>
+<es>
+<![CDATA[ pUna oportunidad inigualable para adquirir una vivienda que combina la comodidad de una planta baja con las ventajas de un complejo residencial en uno de los municipios más auténticos de Mallorca..Este magnífico piso, muy bien conservado (construido en 2001), cuenta con tres dormitorios y dos baños, incluyendo uno en suite en el dormitorio principal..Lo que realmente distingue a esta propiedad es terraza privada con vistas a la piscina y con barbacoa. Es el lugar ideal para organizar reuniones con amigos o simplemente relajarse al sol mediterráneo. Para tu confort, dispone de calefacción por gas ciudad y splits de aire acondicionado..La propiedad forma parte de un complejo residencial que ofrece piscina comunitaria y cuidados jardines, ideal para disfrutar del clima sin salir de casa..Un punto fuerte fundamental es su ubicación privilegiada: frente a la vivienda, el solar es una zona verde protegida, garantizando que no se podrá construir en el futuro. Esto asegura la tranquilidad y la sensación de espacio abierto que tanto se valora..Y, aunque no cuenta con parking privado, la zona de la Calle de la Mar es conocida por la gran facilidad para aparcar en la calle, resolviendo cómodamente la necesidad de estacionamiento..Estar en Capdepera te otorga el verdadero privilegio de la vida mallorquina. La zona combina la tranquilidad y autenticidad del pueblo con la cercanía a joyas naturales como las playas de Cala Agulla y Cala Mesquida. Además, estarás a un paso del histórico Castillo Medieval y cerca de prestigiosos campos de golf..En resumen: Un hogar moderno con jardín privado, piscina y la garantía de un entorno verde inmutable, todo ello en la mejor zona de Capdepera..¡No sueñes con el Mediterráneo, vívelo! Llámanos para concertar tu visita.. ./ppEl precio de venta del inmueble incluye los honorarios de la agencia inmobiliaria que serán satisfechos por la parte vendedora y no incluye el impuesto de ITP que será 8% hasta compraventas por importe de 400.000 EUR o IVA correspondiente. Los gastos notariales y registrales se estiman orientativamente en un 2% del valor de la compraventa, y deberán ser abonados al firmar la correspondiente escritura pública por los compradores. El porcentaje de los impuestos se calculan sobre el precio final de escritura pública y puede variar, en función de las subvenciones, ayudas, edad, precio de compraventa y otras circunstancias del contribuyente./ppInmobiliaria inscrita en el Registro Oficial dAgents Inmobiliaris de les Illes Balears con el NÚMERO DE REGISTRO: GOIBE730402/2024./p ]]>
+</es>
+<en>
+<![CDATA[ ]]>
+</en>
+<de>
+<![CDATA[ ]]>
+</de>
+<da>
+<![CDATA[ ]]>
+</da>
+<fr>
+<![CDATA[ ]]>
+</fr>
+<it>
+<![CDATA[ ]]>
+</it>
+<nl>
+<![CDATA[ ]]>
+</nl>
+<ru>
+<![CDATA[ ]]>
+</ru>
+<fi>
+<![CDATA[ ]]>
+</fi>
+<ca>
+<![CDATA[ ]]>
+</ca>
+<no>
+<![CDATA[ ]]>
+</no>
+<pt>
+<![CDATA[ ]]>
+</pt>
+<sv>
+<![CDATA[ ]]>
+</sv>
+<eu>
+<![CDATA[ ]]>
+</eu>
+<cn>
+<![CDATA[ ]]>
+</cn>
+<gl>
+<![CDATA[ ]]>
+</gl>
+<lt>
+<![CDATA[ ]]>
+</lt>
+<cs>
+<![CDATA[ ]]>
+</cs>
+<bg>
+<![CDATA[ ]]>
+</bg>
+<pl>
+<![CDATA[ ]]>
+</pl>
+</desc>
+<title_extra/>
+<desc_extra/>
+<features>
+<feature>Wardrobes cupboard</feature>
+<feature>Terrace</feature>
+<feature>Elevator</feature>
+<feature>Air-Conditioning</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/4004/28899047/3-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/4004/28899047/3-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/4004/28899047/3-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/4004/28899047/3-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/4004/28899047/3-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/4004/28899047/3-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/4004/28899047/3-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/4004/28899047/3-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/4004/28899047/3-9.jpg</url>
+</image>
+<image id="10">
+<url>https://fotos15.apinmo.com/4004/28899047/3-10.jpg</url>
+</image>
+<image id="11">
+<url>https://fotos15.apinmo.com/4004/28899047/3-11.jpg</url>
+</image>
+<image id="12">
+<url>https://fotos15.apinmo.com/4004/28899047/3-12.jpg</url>
+</image>
+<image id="13">
+<url>https://fotos15.apinmo.com/4004/28899047/3-13.jpg</url>
+</image>
+<image id="14">
+<url>https://fotos15.apinmo.com/4004/28899047/3-14.jpg</url>
+</image>
+<image id="15">
+<url>https://fotos15.apinmo.com/4004/28899047/3-15.jpg</url>
+</image>
+<image id="16">
+<url>https://fotos15.apinmo.com/4004/28899047/3-16.jpg</url>
+</image>
+<image id="17">
+<url>https://fotos15.apinmo.com/4004/28899047/3-17.jpg</url>
+</image>
+<image id="18">
+<url>https://fotos15.apinmo.com/4004/28899047/3-18.jpg</url>
+</image>
+<image id="19">
+<url>https://fotos15.apinmo.com/4004/28899047/3-19.jpg</url>
+</image>
+<image id="20">
+<url>https://fotos15.apinmo.com/4004/28899047/3-20.jpg</url>
+</image>
+<image id="21">
+<url>https://fotos15.apinmo.com/4004/28899047/3-21.jpg</url>
+</image>
+<image id="22">
+<url>https://fotos15.apinmo.com/4004/28899047/3-22.jpg</url>
+</image>
+<image id="23">
+<url>https://fotos15.apinmo.com/4004/28899047/3-23.jpg</url>
+</image>
+<image id="24">
+<url>https://fotos15.apinmo.com/4004/28899047/3-24.jpg</url>
+</image>
+<image id="25">
+<url>https://fotos15.apinmo.com/4004/28899047/3-25.jpg</url>
+</image>
+<image id="26">
+<url>https://fotos15.apinmo.com/4004/28899047/3-26.jpg</url>
+</image>
+<image id="27">
+<url>https://fotos15.apinmo.com/4004/28899047/3-27.jpg</url>
+</image>
+<image id="28">
+<url>https://fotos15.apinmo.com/4004/28899047/3-28.jpg</url>
+</image>
+<image id="29">
+<url>https://fotos15.apinmo.com/4004/28899047/3-29.jpg</url>
+</image>
+<image id="30">
+<url>https://fotos15.apinmo.com/4004/28899047/3-30.jpg</url>
+</image>
+<image id="31">
+<url>https://fotos15.apinmo.com/4004/28899047/3-31.jpg</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>image_persona</id>
+<date>2026-04-27 11:58:21</date>
+<agencia>Guadiana Haus</agencia>
+<email>i.guadianahaus.11122@inmovilla.com</email>
+<telefono>647492423</telefono>
+<ref>550/11122</ref>
+<state>Free</state>
+<operation_type>For sale</operation_type>
+<price>559000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>Country House</type>
+<country>España</country>
+<province>HUELVA</province>
+<town>Ayamonte</town>
+<location_detail>Costa Esuri</location_detail>
+<cp>21400</cp>
+<postal_code>21400</postal_code>
+<location>
+<latitude>37.241219</latitude>
+<longitude>-7.380124</longitude>
+</location>
+<beds>8</beds>
+<baths>3</baths>
+<estado_propiedad>20</estado_propiedad>
+<antiguedad>1950</antiguedad>
+<pool>1</pool>
+<surface_area>
+<built>660</built>
+<plot>23000</plot>
+</surface_area>
+<energy_rating>
+<status>In process</status>
+<consumption>X</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>
+<es>http://guadianahaus.es/ficha/index.php?codigo=11122_20354508</es>
+</url>
+<desc>
+<es>
+<![CDATA[ Finca en Ayamonte, provincia de Huelva. Finca con parcela de 2,3ha, con 3 edificaciones. Primera edificación reformada recientemente, con ventanas de PVC, 2 chimeneas y vestidor. Se distribuye en salón, cocina americana, 3 dormitorios y un baño, La segunda edificación es una casa típica de campo de 2 plantas con techos altos con vigas de madera. Se distribuye en la planta baja hall de entrada, cocina, 2 comedores un salón con chimenea y cuarto de baño completo. En la segunda planta tiene 2 salones, uno de ellos con chimenea, 5 dormitorios y un baño. Desde la segunda planta se accede a la azotea que ocupa la misma superficie que la vivienda. La tercera edificación aún no está terminada, pero sería una casa para invitados. El exterior de la casa esta equipado con una piscina, zona de barbacoa, huerto y gallinero. En cuanto a los suministros básicos, el agua es procedente de 1 pozo artesiano, extraída por una bomba eléctrica, y la electricidad conectada al suministro de la ciudad, con la compañía Endesa. La finca tiene un muy buen acceso desde la autovía A49 y se encuentra a tan solo 2km de Ayamonte. Solicite más información ya, no deje pasar esta oportunidad. ]]>
+</es>
+<en>
+<![CDATA[ Farm in Ayamonte, province of Huelva. Farm with a 2.3ha plot, with 3 buildings. First building recently renovated, with PVC windows, 2 fireplaces and dressing room. It is distributed in a living room, open-plan kitchen, 3 bedrooms and a bathroom. The second building is a typical 2-story country house with high ceilings with wooden beams. It is distributed on the ground floor: entrance hall, kitchen, 2 dining rooms, a living room with fireplace and a complete bathroom. On the second floor there are 2 living rooms, one of them with a fireplace, 5 bedrooms and a bathroom. From the second floor there is access to the roof terrace which occupies the same area as the house. The third building is not yet finished, but it would be a guest house. The exterior of the house is equipped with a swimming pool, barbecue area, garden and chicken coop. As for basic supplies, the water comes from 1 artesian well, extracted by an electric pump, and the electricity connected to the city supply, with the Endesa company. The farm has very good access from the A49 highway and is located just 2km from Ayamonte. Request more information now, don't miss this opportunity. ]]>
+</en>
+<de>
+<![CDATA[ Bauernhof in Ayamonte, Provinz Huelva. Bauernhof mit 2,3 ha großem Grundstück, mit 3 Gebäuden. Erstes Gebäude vor kurzem renoviert, mit PVC-Fenstern, 2 Kaminen und Ankleidezimmer. Es ist in ein Wohnzimmer, eine offene Küche, 3 Schlafzimmer und ein Badezimmer aufgeteilt. Das zweite Gebäude ist ein typisches zweistöckiges Landhaus mit hohen Decken und Holzbalken. Es ist im Erdgeschoss verteilt: Eingangshalle, Küche, 2 Esszimmer, ein Wohnzimmer mit Kamin und ein komplettes Badezimmer. Im zweiten Stock befinden sich 2 Wohnzimmer, eines davon mit Kamin, 5 Schlafzimmer und ein Badezimmer. Von der zweiten Etage gibt es Zugang zur Dachterrasse, die die gleiche Fläche wie das Haus einnimmt. Das dritte Gebäude ist noch nicht fertig, es soll aber ein Gästehaus werden. Der Außenbereich des Hauses ist mit einem Swimmingpool, einem Grillplatz, einem Garten und einem Hühnerstall ausgestattet. Was die Grundversorgung betrifft, so stammt das Wasser aus einem artesischen Brunnen, der von einer elektrischen Pumpe gefördert wird, und der Strom ist an die Stadtversorgung der Firma Endesa angeschlossen. Die Farm verfügt über eine sehr gute Anbindung an die Autobahn A49 und liegt nur 2 km von Ayamonte entfernt. Fordern Sie jetzt weitere Informationen an, lassen Sie sich diese Gelegenheit nicht entgehen. ]]>
+</de>
+<da>
+<![CDATA[ ]]>
+</da>
+<fr>
+<![CDATA[ Ferme à Ayamonte, province de Huelva.Ferme avec un terrain de 2,3ha, avec 3 bâtiments.Premier immeuble récemment rénové, avec fenêtres PVC, 2 cheminées et dressing.Il est distribué dans un salon, une cuisine américaine, 3 chambres et une salle de bains.Le deuxième bâtiment est une maison de campagne typique de 2 étages avec de hauts plafonds et des poutres en bois.Il est distribué au rez-de-chaussée : hall d'entrée, cuisine, 2 salles à manger, un salon avec cheminée et une salle de bain complète.Au deuxième étage, il y a 2 salons dont un avec cheminée, 5 chambres et une salle de bain.Depuis le deuxième étage, on accède au toit-terrasse qui occupe la même superficie que la maison.Le troisième bâtiment n'est pas encore terminé, mais il s'agirait d'une maison d'hôtes.L'extérieur de la maison est équipé d'une piscine, d'un espace barbecue, d'un jardin et d'un poulailler.Quant à l'approvisionnement de base, l'eau provient d'un puits artésien, extrait par une pompe électrique, et l'électricité est raccordée au réseau de la ville, avec l'entreprise Endesa.La ferme bénéficie d'un très bon accès depuis l'autoroute A49 et est située à seulement 2 km d'Ayamonte.Demandez plus d’informations maintenant, ne manquez pas cette opportunité. ]]>
+</fr>
+<it>
+<![CDATA[ Fattoria ad Ayamonte, provincia di Huelva.Azienda agricola con terreno di 2,3 ettari, con 3 fabbricati.Primo fabbricato recentemente ristrutturato, con infissi in PVC, 2 camini e antibagno.È distribuito in soggiorno, cucina a vista, 3 camere da letto e un bagno.Il secondo edificio è una tipica casa di campagna a 2 piani con soffitti alti con travi in legno.È distribuito al piano terra: ingresso, cucina, 2 sale da pranzo, un soggiorno con camino e un bagno completo.Al secondo piano ci sono 2 soggiorni di cui uno con camino, 5 camere da letto e un bagno.Dal secondo piano si accede alla terrazza sul tetto che occupa la stessa superficie della casa.Il terzo edificio non è ancora finito, ma sarebbe una guest house.L'esterno della casa è attrezzato con piscina, zona barbecue, giardino e pollaio.Per quanto riguarda le forniture di base, l'acqua proviene da 1 pozzo artesiano, estratto da una elettropompa, e l'energia elettrica collegata alla rete cittadina, con la società Endesa.L'azienda agricola ha un ottimo accesso dall'autostrada A49 e si trova a soli 2 km da Ayamonte.Richiedi subito maggiori informazioni, non perdere questa occasione. ]]>
+</it>
+<nl>
+<![CDATA[ Boerderij in Ayamonte, provincie Huelva.Boerderij met een perceel van 2,3 ha, met 3 gebouwen.Eerste gebouw onlangs gerenoveerd, met PVC-ramen, 2 open haarden en kleedkamer.Het is verdeeld in een woonkamer, een kitchenette, 3 slaapkamers en een badkamer.Het tweede gebouw is een typisch landhuis van 2 verdiepingen met hoge plafonds met houten balken.Het is verdeeld over de begane grond: inkomhal, keuken, 2 eetkamers, een woonkamer met open haard en een complete badkamer.Op de tweede verdieping bevinden zich 2 woonkamers, waarvan één met open haard, 5 slaapkamers en een badkamer.Vanaf de tweede verdieping is er toegang tot het dakterras dat hetzelfde oppervlak beslaat als de woning.Het derde gebouw is nog niet klaar, maar het zou een gastenverblijf worden.De buitenkant van het huis is uitgerust met een zwembad, een barbecueplek, een tuin en een kippenhok.Wat de basisvoorzieningen betreft, komt het water uit 1 geboorde put, gewonnen door een elektrische pomp, en is de elektriciteit aangesloten op de stadsvoorziening van het bedrijf Endesa.De boerderij is zeer goed bereikbaar vanaf de snelweg A49 en ligt op slechts 2 km van Ayamonte.Vraag nu meer informatie aan en mis deze kans niet. ]]>
+</nl>
+<ru>
+<![CDATA[ ]]>
+</ru>
+<fi>
+<![CDATA[ ]]>
+</fi>
+<ca>
+<![CDATA[ ]]>
+</ca>
+<no>
+<![CDATA[ ]]>
+</no>
+<pt>
+<![CDATA[ Quinta em Ayamonte, província de Huelva.Quinta com lote de 2,3ha, com 3 edifícios.Primeiro prédio recentemente remodelado, com janelas em PVC, 2 lareiras e vestiário.Distribui-se por sala, cozinha americana, 3 quartos e casa de banho.O segundo edifício é uma típica casa de campo de 2 pisos com tectos altos e vigas de madeira.Distribui-se no rés-do-chão: hall de entrada, cozinha, 2 salas de jantar, sala de estar com lareira e casa de banho completa.No segundo andar existem 2 salas, uma delas com lareira, 5 quartos e uma casa de banho.A partir do segundo andar dá-se acesso ao terraço que ocupa a mesma área da casa.O terceiro edifício ainda não está concluído, mas seria uma casa de hóspedes.O exterior da casa está equipado com piscina, zona de churrasqueira, jardim e galinheiro.Quanto ao abastecimento básico, a água provém de 1 poço artesiano, extraído por bomba eléctrica, e a electricidade ligada ao abastecimento municipal, com a empresa Endesa.A quinta tem muito bons acessos pela autoestrada A49 e está localizada a apenas 2km de Ayamonte.Solicite já mais informações, não perca esta oportunidade. ]]>
+</pt>
+<sv>
+<![CDATA[ ]]>
+</sv>
+<eu>
+<![CDATA[ ]]>
+</eu>
+<cn>
+<![CDATA[ ]]>
+</cn>
+<gl>
+<![CDATA[ ]]>
+</gl>
+<lt>
+<![CDATA[ ]]>
+</lt>
+<cs>
+<![CDATA[ ]]>
+</cs>
+<bg>
+<![CDATA[ ]]>
+</bg>
+<pl>
+<![CDATA[ ]]>
+</pl>
+</desc>
+<title_extra/>
+<desc_extra/>
+<features>
+<feature>Ceilings</feature>
+<feature>Terrace</feature>
+<feature>Community Pool</feature>
+<feature>Garden</feature>
+<feature>Storeroom</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/11122/20354508/1-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/11122/20354508/1-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/11122/20354508/1-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/11122/20354508/1-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/11122/20354508/1-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/11122/20354508/1-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/11122/20354508/1-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/11122/20354508/1-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/11122/20354508/1-9.jpg</url>
+</image>
+<image id="10">
+<url>https://fotos15.apinmo.com/11122/20354508/1-10.jpg</url>
+</image>
+<image id="11">
+<url>https://fotos15.apinmo.com/11122/20354508/1-11.jpg</url>
+</image>
+<image id="12">
+<url>https://fotos15.apinmo.com/11122/20354508/1-12.jpg</url>
+</image>
+<image id="13">
+<url>https://fotos15.apinmo.com/11122/20354508/1-13.jpg</url>
+</image>
+<image id="14">
+<url>https://fotos15.apinmo.com/11122/20354508/1-14.jpg</url>
+</image>
+<image id="15">
+<url>https://fotos15.apinmo.com/11122/20354508/1-15.jpg</url>
+</image>
+<image id="16">
+<url>https://fotos15.apinmo.com/11122/20354508/1-16.jpg</url>
+</image>
+<image id="17">
+<url>https://fotos15.apinmo.com/11122/20354508/1-17.jpg</url>
+</image>
+<image id="18">
+<url>https://fotos15.apinmo.com/11122/20354508/1-18.jpg</url>
+</image>
+<image id="19">
+<url>https://fotos15.apinmo.com/11122/20354508/1-19.jpg</url>
+</image>
+<image id="20">
+<url>https://fotos15.apinmo.com/11122/20354508/1-20.jpg</url>
+</image>
+<image id="21">
+<url>https://fotos15.apinmo.com/11122/20354508/1-21.jpg</url>
+</image>
+<image id="22">
+<url>https://fotos15.apinmo.com/11122/20354508/1-22.jpg</url>
+</image>
+<image id="23">
+<url>https://fotos15.apinmo.com/11122/20354508/1-23.jpg</url>
+</image>
+<image id="24">
+<url>https://fotos15.apinmo.com/11122/20354508/1-24.jpg</url>
+</image>
+<image id="25">
+<url>https://fotos15.apinmo.com/11122/20354508/1-25.jpg</url>
+</image>
+<image id="26">
+<url>https://fotos15.apinmo.com/11122/20354508/1-26.jpg</url>
+</image>
+<image id="27">
+<url>https://fotos15.apinmo.com/11122/20354508/1-27.jpg</url>
+</image>
+<image id="28">
+<url>https://fotos15.apinmo.com/11122/20354508/1-28.jpg</url>
+</image>
+<image id="29">
+<url>https://fotos15.apinmo.com/11122/20354508/1-29.jpg</url>
+</image>
+<image id="30">
+<url>https://fotos15.apinmo.com/11122/20354508/1-30.jpg</url>
+</image>
+<image id="31">
+<url>https://fotos15.apinmo.com/11122/20354508/1-31.jpg</url>
+</image>
+<image id="32">
+<url>https://fotos15.apinmo.com/11122/20354508/1-32.jpg</url>
+</image>
+<image id="33">
+<url>https://fotos15.apinmo.com/11122/20354508/1-33.jpg</url>
+</image>
+<image id="34">
+<url>https://fotos15.apinmo.com/11122/20354508/1-34.jpg</url>
+</image>
+<image id="35">
+<url>https://fotos15.apinmo.com/11122/20354508/1-35.jpg</url>
+</image>
+<image id="36">
+<url>https://fotos15.apinmo.com/11122/20354508/1-36.jpg</url>
+</image>
+<image id="37">
+<url>https://fotos15.apinmo.com/11122/20354508/1-37.jpg</url>
+</image>
+<image id="38">
+<url>https://fotos15.apinmo.com/11122/20354508/1-38.jpg</url>
+</image>
+<image id="39">
+<url>https://fotos15.apinmo.com/11122/20354508/1-39.jpg</url>
+</image>
+<image id="40">
+<url>https://fotos15.apinmo.com/11122/20354508/1-40.jpg</url>
+</image>
+<image id="41">
+<url>https://fotos15.apinmo.com/11122/20354508/1-41.jpg</url>
+</image>
+<image id="42">
+<url>https://fotos15.apinmo.com/11122/20354508/1-42.jpg</url>
+</image>
+<image id="43">
+<url>https://fotos15.apinmo.com/11122/20354508/1-43.jpg</url>
+</image>
+<image id="44">
+<url>https://fotos15.apinmo.com/11122/20354508/1-44.jpg</url>
+</image>
+<image id="45">
+<url>https://fotos15.apinmo.com/11122/20354508/1-45.jpg</url>
+</image>
+<image id="46">
+<url>https://fotos15.apinmo.com/11122/20354508/1-46.jpg</url>
+</image>
+<image id="47">
+<url>https://fotos15.apinmo.com/11122/20354508/1-47.jpg</url>
+</image>
+<image id="48">
+<url>https://fotos15.apinmo.com/11122/20354508/1-48.jpg</url>
+</image>
+<image id="49">
+<url>https://fotos15.apinmo.com/11122/20354508/1-49.jpg</url>
+</image>
+<image id="50">
+<url>https://fotos15.apinmo.com/11122/20354508/1-50.jpg</url>
+</image>
+</images>
+</property>
+
+
+	<property>
+<id>test_ccee_en_tramite</id>
+<date>2026-04-28 18:31:22</date>
+<ref>2249076</ref>
+<price>1850</price>
+<currency>EUR</currency>
+<price_freq>month</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>1</leasehold>
+<new_build>0</new_build>
+<type>Piso</type>
+<town>PAMPLONA</town>
+<province>Navarra</province>
+<country>spain</country>
+<location>
+<latitude>42.8139426</latitude>
+<longitude>-1.6584446</longitude>
+</location>
+<location_detail>AVDA. DE BAYONA 4, 4</location_detail>
+<beds>6</beds>
+<baths>2</baths>
+<pool>1</pool>
+<surface_area>
+<built>175</built>
+</surface_area>
+<energy_rating/>
+<url/>
+<desc>
+<es> Gran piso luminoso y céntrico con piscina solarium. Se presenta una excelente oportunidad de alquiler TEMPORAL en la prestigiosa zona de San Juan, en el corazón de Pamplona. Este amplio piso, situado en la quinta planta de un edificio construido en 1976, ofrece todo lo necesario para una vida cómoda y confortable en la ciudad.Con un total de 175 metros cuadrados construidos, la vivienda destaca por su generosa distribución y el aprovechamiento del espacio. Se compone de seis habitaciones, perfectas  para quienes necesiten disponer de espacio adicional para oficinas o cuartos de hobby. Todas las estancias cuentan con una magnífica iluminación natural, creando un ambiente cálido y acogedor. Una estancia está adaptada como comedor cercano a cocina, otra como salita de Tv y la sexta a despachoEl salón comedor es uno de los puntos fuertes de esta propiedad, con sus impresionantes 50 metros que lo convierten en el lugar ideal para disfrutar de reuniones familiares, celebraciones o simplemente relajarse después de un largo día. La decoración actual y el mobiliario de calidad, que se incluye en el alquiler, garantizan una estancia confortable desde el primer momento. Aire acondicionado.Dos baños completos  ( uno en suite) y un práctico aseo completan la oferta interna del piso, ofreciendo comodidad adicional a los habitantes y a sus invitados. La cocina, completamente equipada con modernos electrodomésticos, facilita el día a día con su diseño funcional y sus amplios espacios de almacenamiento.El edificio ofrece servicios comunitarios que destacan, como portero físico, ascensor, que facilita el acceso a la vivienda, y una atractiva piscina con zona de solarium ideal para el disfrute durante los meses más calurosos. La comodidad de los habitantes está asegurada con estas instalaciones que añaden valor a la experiencia de vivir en este inmueble.La ubicación es otro de los atractivos de esta vivienda. Situada en la codiciada zona de San Juan, al lado del centro de la ciudad, con el parque de Antoniutti y la Vuelta del Castillo ( pulmón de la ciudad) a la vuelta de la esquina. La propiedad se beneficia de la cercanía a las facultades universitarias de Ciencias y a la zona hospitalaria además de una excelente red de transporte público, con paradas de autobús en las inmediaciones que conectan rápidamente con el resto de la ciudad. La zona ofrece además una amplia gama de servicios cercanos, incluyendo colegios, supermercados, parques y una variada oferta gastronómica y de ocio, lo que hace de este barrio un lugar perfecto para establecerse.Además, al estar amueblado, el piso permite una mudanza prácticamente instantánea, sin preocupaciones adicionales por la adquisición de mobiliario, y los electrodomésticos incluidos aseguran que todas tus necesidades diarias estén cubiertas desde el primer día de residencia.En conclusión, este piso en la zona de San Juan es una oportunidad inigualable para aquellos que buscan una combinación de espacio, comodidad y ubicación privilegiada en Pamplona. La amplitud de sus habitaciones, el espectacular salón, las comodidades del edificio y la excelente ubicación lo convierten en una opción sobresaliente en el mercado de alquiler actual.No pierdas la oportunidad de visitarlo y descubrir por ti mismo todas las ventajas que este inmueble tiene para ofrecer. ¡Estamos seguros de que estará a la altura de tus expectativas! Ponte en contacto con nosotros para agendar una visita y dar el primer paso hacia tu nuevo hogar. </es>
+</desc>
+<images>
+<image id="1">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/UABX3z.jpg</url>
+</image>
+<image id="2">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/WI7Y6a.jpg</url>
+</image>
+<image id="3">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/sPnvwx.jpg</url>
+</image>
+<image id="4">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/uJeVoo.jpg</url>
+</image>
+<image id="5">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/utB0WY.jpg</url>
+</image>
+<image id="6">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/FiF8Nz.jpg</url>
+</image>
+<image id="7">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/WSj6Sd.jpg</url>
+</image>
+<image id="8">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/lF7Ras.jpg</url>
+</image>
+<image id="9">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/fn7f1P.jpg</url>
+</image>
+<image id="10">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/6DacLG.jpg</url>
+</image>
+<image id="11">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/Z0CLc6.jpg</url>
+</image>
+<image id="12">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/1LNYQB.jpg</url>
+</image>
+<image id="13">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/ns7aca.jpg</url>
+</image>
+<image id="14">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/iJfkbZ.jpg</url>
+</image>
+<image id="15">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/IyBh2S.jpg</url>
+</image>
+<image id="16">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/p5wd5W.jpg</url>
+</image>
+<image id="17">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/Yrp5Iy.jpg</url>
+</image>
+<image id="18">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/bjxpO6.jpg</url>
+</image>
+<image id="19">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/d54p1a.jpg</url>
+</image>
+<image id="20">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/QVyYSX.jpg</url>
+</image>
+<image id="21">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/xd2558.jpg</url>
+</image>
+<image id="22">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/yDFbi1.jpg</url>
+</image>
+<image id="23">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/6xScgZ.jpg</url>
+</image>
+<image id="24">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/gtwO9T.jpg</url>
+</image>
+<image id="25">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/PKHpdV.jpg</url>
+</image>
+<image id="26">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/jnQ1g3.jpg</url>
+</image>
+<image id="27">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/VpfV22.jpg</url>
+</image>
+<image id="28">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/1gxzJE.jpg</url>
+</image>
+<image id="29">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/78j0v6.jpg</url>
+</image>
+<image id="30">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/Mxpssm.jpg</url>
+</image>
+<image id="31">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/OoIB57.jpg</url>
+</image>
+<image id="32">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/KCJ0K6.jpg</url>
+</image>
+<image id="33">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/LTN6TB.jpg</url>
+</image>
+<image id="34">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/I6gsVF.jpg</url>
+</image>
+<image id="35">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/rEdGOq.jpg</url>
+</image>
+<image id="36">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/qHRNCD.jpg</url>
+</image>
+<image id="37">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/ycrXEu.jpg</url>
+</image>
+<image id="38">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/4Y6Jfw.jpg</url>
+</image>
+<image id="39">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/ahEO07.jpg</url>
+</image>
+<image id="40">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/bPuj2Z.jpg</url>
+</image>
+<image id="41">
+<url>https://cdn3.iagestion.com/iagestionimagenes/1214/2249076/MJW2KJ.jpg</url>
+</image>
+<image id="42">
+<url>https://app.iagestion.com/administra/herramientas/generador_certificado_jpg.php?id=2249076</url>
+</image>
+</images>
+<features>
+<feature>pool</feature>
+<feature>lift</feature>
+<feature>terrace</feature>
+</features>
+</property>
+
+
+
+	<property>
+	<id>iris-location-014_ccee_solo_referencia</id>
+	<date>2026-03-18 12:50:16</date>
+	<ref>iris-location-014</ref>
+	<price>730</price>
+	<currency>EUR</currency>
+	<price_freq>month</price_freq>
+	<part_ownership/>
+	<leasehold>1</leasehold>
+	<new_build>0</new_build>
+	<type>apartment</type>
+	<town>Ax-les-Thermes</town>
+	<province>Ariège</province>
+	<country>France</country>
+	<location>
+		<latitude/>
+		<longitude/>
+	</location>
+	<location_detail></location_detail>
+	<postal_code></postal_code>
+	<catastral>0882114VK4708B0002OD</catastral>
+	<beds>3</beds>
+	<baths>2</baths>
+	<pool>0</pool>
+	<surface_area>
+		<built>100</built>
+	</surface_area>
+	<energy_rating>
+		<consumption></consumption>
+		<emissions></emissions>
+	</energy_rating>
+	<url>
+		<es>http://husdrommer.mobiliagestion.es/es/madrid/pisos/ref-95254572</es>
+	</url>
+	<video_url>https://www.youtube.com/watch?v=GrCd27MVJdI</video_url>
+	<desc>
+		<es>En el centro de Madrid se encuentra este fantástico piso exterior, ideal para familias.</es>	
+	</desc>
+	<notes/>
+	<images>
+		<image id="1">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637040.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637044.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637048.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637041.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637042.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637043.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637045.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637046.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637047.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637049.jpg</url>
+			</image>
+		</images>
+		<email>hola@husdrommer.com</email>
+		<contact_number>964 749 027</contact_number>
+	</property>
+
+	<property>
+	<id>iris-location-014_ccee_sin-nada</id>
+	<date>2026-03-18 12:50:16</date>
+	<ref>iris-location-014</ref>
+	<price>730</price>
+	<currency>EUR</currency>
+	<price_freq>month</price_freq>
+	<part_ownership/>
+	<leasehold>1</leasehold>
+	<new_build>0</new_build>
+	<type>apartment</type>
+	<town>Madrid</town>
+	<province>Madrid</province>
+	<country>Spain</country>
+	<location>
+		<latitude/>
+		<longitude/>
+	</location>
+	<location_detail></location_detail>
+	<postal_code>28001</postal_code>
+	<catastral></catastral>
+	<beds>3</beds>
+	<baths>2</baths>
+	<pool>0</pool>
+	<surface_area>
+		<built>100</built>
+	</surface_area>
+	<energy_rating>
+		<consumption></consumption>
+		<emissions></emissions>
+	</energy_rating>
+	<url>
+		<es>http://husdrommer.mobiliagestion.es/es/madrid/pisos/ref-95254572</es>
+	</url>
+	<video_url>https://www.youtube.com/watch?v=GrCd27MVJdI</video_url>
+	<desc>
+		<es>En el centro de Madrid se encuentra este fantástico piso exterior, ideal para familias.</es>	
+	</desc>
+	<notes/>
+	<images>
+		<image id="1">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637040.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637044.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637048.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637041.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637042.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637043.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637045.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637046.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637047.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637049.jpg</url>
+			</image>
+		</images>
+		<email>hola@husdrommer.com</email>
+		<contact_number>964 749 027</contact_number>
+	</property>
+
+	<property>
+	<id>iris-location-014_ccee_sin-referencia</id>
+	<date>2026-03-18 12:50:16</date>
+	<ref>iris-location-014</ref>
+	<price>730</price>
+	<currency>EUR</currency>
+	<price_freq>month</price_freq>
+	<part_ownership/>
+	<leasehold>1</leasehold>
+	<new_build>0</new_build>
+	<type>apartment</type>
+	<town>Madrid</town>
+	<province>Madrid</province>
+	<country>Spain</country>
+	<location>
+		<latitude/>
+		<longitude/>
+	</location>
+	<location_detail></location_detail>
+	<postal_code>28001</postal_code>
+	<catastral></catastral>
+	<beds>3</beds>
+	<baths>2</baths>
+	<pool>0</pool>
+	<surface_area>
+		<built>100</built>
+	</surface_area>
+	<energy_rating>
+		<consumption>C</consumption>
+		<emissions>C</emissions>
+	</energy_rating>
+	<url>
+		<es>http://husdrommer.mobiliagestion.es/es/madrid/pisos/ref-95254572</es>
+	</url>
+	<video_url>https://www.youtube.com/watch?v=GrCd27MVJdI</video_url>
+	<desc>
+		<es>En el centro de Madrid se encuentra este fantástico piso exterior, ideal para familias.</es>	
+	</desc>
+	<notes/>
+	<images>
+		<image id="1">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637040.jpg</url>
+			</image>
+			<image id="2">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637044.jpg</url>
+			</image>
+			<image id="3">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637048.jpg</url>
+			</image>
+			<image id="4">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637041.jpg</url>
+			</image>
+			<image id="5">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637042.jpg</url>
+			</image>
+			<image id="6">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637043.jpg</url>
+			</image>
+			<image id="7">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637045.jpg</url>
+			</image>
+			<image id="8">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637046.jpg</url>
+			</image>
+			<image id="9">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637047.jpg</url>
+			</image>
+			<image id="10">
+				<url>https://media.mobiliagestion.es/Portals/inmohusdrommer/Images/95254572/23637049.jpg</url>
+			</image>
+		</images>
+		<email>hola@husdrommer.com</email>
+		<contact_number>964 749 027</contact_number>
+	</property>
+
+	<property>
+<id>test-img_exterior</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>Aire condicionat, Jardí, Terrassa, garatge, Piscina privada, vista sobre la muntanya</ca>
+<da>air conditioning, Garden, Terrasse, Garage, privat pool, Mountain visninger</da>
+<de>Klimaanlage, Garten, Terrasse, Garage, Privater Pool, Bergblick</de>
+<en>Fantastic luxury villas under construction in La Nucia. The Noa Garden residential complex is a recent promotion of 9 villas full of luxury and exclusivity. The villas will be built on plots of approximately 520 square meters, with a built area of ​​approximately 320 square meters, with 4 bedrooms and 4 bathrooms, an American-style kitchen and a bright living room. Made of high quality materials according to the latest trends and with the latest technologies. Solar panels, double glazed windows, charging points for electric cars, private pools in each property with self-control systems for PH and lighting. Gardens with automatic irrigation systems and maintenance of common areas. Air conditioning in all rooms and underfloor heating in the bathrooms. Kitchen appliances with a 5-year warranty and Silestone-type countertop. To guarantee your safety, armored doors, video surveillance and night security guards. In addition, the extras as possibilities, among which, elevators, landscaping projects or even home automation.</en>
+<es>Test 17/04 Fantasticas villas de lujo en construcción en La Nucia. El residencial Noa Garden es una reciente promoción de 9 villas llenas de lujo y exclusividad. Las villas se realizarán en parcelas de aproximadamente 520 metros cuadrados, con un area construido de aproximadamente 320 metros cuadrados, con 4 dormitorios y 4 baños, cocina americana y luminoso salón. Realizadas en materiales de alta calidad segun las ultimas tendencias y con las tecnologías más recientes. Placas solares, ventanas de doble acristalamiento, puntos de carga para coches electricos, piscinas privadas en cada propiedad con sistemas de autocontrol de PH e iluminación. Jardines con sistemas de riego automáticos y mantenimiento de las zonas comunes. Aire acondicionado en todas las estancias y suelos radiantes en los baños. Electrodomesticos de cocina con 5 años de garantía y encimera tipo Silestone. Para garantizar su seguridad, puertas acorazadas, vifrovigilancia y vigilantes de seguridad nocturnos. Además de los numerosos extras como posibilidades, ente los cuales, ascensores, proyectos de paisajismo o incluso la domótica.</es>
+<fi>ilmastointi, puutarha, terassi, autotalli, yksityisallas, vuoristonäkymät</fi>
+<fr>climatisation, jardin, terrasse, garage, piscine privée, vue sur la montagne</fr>
+<it>Fantastiche ville di lusso in costruzione a La Nucia. Il complesso residenziale Noa Garden è una recente promozione di 9 ville ricche di lusso ed esclusività. Le ville saranno costruite su lotti di circa 520 mq, con una superficie edificata di circa 320 mq, con 4 camere da letto e 4 bagni, una cucina all'americana e un luminoso soggiorno. Realizzata con materiali di alta qualità secondo le ultime tendenze e con le più recenti tecnologie. Pannelli solari, finestre con doppi vetri, colonnine di ricarica per auto elettriche, piscine private in ogni proprietà con sistemi di autocontrollo per PH e illuminazione. Giardini con impianti di irrigazione automatica e manutenzione delle aree comuni. Aria condizionata in tutte le stanze e riscaldamento a pavimento nei bagni. Elettrodomestici da cucina con garanzia di 5 anni e piano di lavoro tipo Silestone. A garanzia della vostra sicurezza, porte blindate, videosorveglianza e guardiania notturna. Inoltre, gli extra come possibilità, tra cui ascensori, progetti paesaggistici o anche domotica.</it>
+<nl>Air conditioning, Tuin, Terras, garage, privé zwembad, uitzicht op de bergen</nl>
+<no>klimaanlegg, hage, terrasse, garasje, privat svømmebasseng, utsikt over fjell</no>
+<pt>ar condicionado, jardim, terraço, garagem, piscina privada, vista para a montanha</pt>
+<ru>Роскошные строящиеся виллы в Ла-Нусии. Жилой комплекс Noa Garden состоит из 9 вилл, полных роскоши и эксклюзивности. Виллы будут построены на участках площадью около 520 квадратных метров, с застроенной площадью около 320 квадратных метров, с 4 спальнями и 4 ванными комнатами, кухней в американском стиле и светлой гостиной. С использованием высококачественных материалов в соответствии с последними тенденциями и новейшими технологиями. Солнечные панели, окна с двойным остеклением, точки зарядки электромобилей, частные бассейны в каждом доме с системами самоконтроля для РН и освещения. Сады с автоматическими системами полива и обслуживанием общих зон. Кондиционеры во всех комнатах и ​​полы с подогревом в ванных комнатах. Кухонная техника с гарантией 5 лет и столешницей типа Silestone. Для гарантии вашей безопасности бронированные двери, видеонаблюдение и ночная охрана. Кроме того, дополнительные возможности, среди которых лифты, ландшафтные проекты или даже домашняя автоматизация.</ru>
+<sv>luftkonditionerare, trädgård, terrass, garage, privat pool, bergsutsikt</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>1527231</id>
+<date>2026-05-18 15:57:16</date>
+<ref>CT-00887-0001</ref>
+<price>575000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<leasehold/>
+<new_build/>
+<type>Apartment</type>
+<town>Porreres</town>
+<province>Balears (Illes)</province>
+<country>España</country>
+<part_ownership/>
+<catastral>2239902ED0723N0001IQ</catastral>
+<notes/>
+<prime/>
+<email/>
+<contact_number/>
+<whatsapp_number/>
+<location_detail/>
+<beds>3</beds>
+<baths>3</baths>
+<pool/>
+<location>
+<latitude>39.513130</latitude>
+<longitude>3.025231</longitude>
+</location>
+<surface_area>
+<built>322</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<consumption>D</consumption>
+</energy_rating>
+<url>
+<ca>https://www.solvia.es/ca/Piso-a-Porreres-3-dormitorios/221784_0/habitatge_269320.html</ca>
+<en>https://www.solviarealestate.com/en/Piso-in-Porreres-3-dormitorios/221784_0/house_269320.html</en>
+<es>https://www.solvia.es/es/propiedades/comprar/Piso-Porreres-3-domitorios-221784-269320</es>
+<fr>https://www.solviarealestate.com/fr/Piso-in-Porreres-3-dormitorios/221784_0/house_269320.html</fr>
+</url>
+<desc>
+<ca/>
+<en/>
+<es>Vivienda situada en la Calle Del Sol, en la localidad de Porreres, en la provincia de Illes Baleares. La vivienda tiene una superficie construida de 322.6 m2 y está distribuida en un amplio hall de entrada, que da acceso a una cocina independiente muy luminosa, y un pasillo que distribuye a un gran salón comedor, dormitorios siendo una de ellas habitación doble, y cuarto de baño completo.Se localiza en una zona consolidada con carácter urbano y residencial, situado a pocos minutos del centro de la población, rodeado por fincas de similares características. Dispone de equipamientos suficientes en el entorno como: médico-sanitario, docente, religioso, comercial, restaurantes. Cuenta con buenas comunicaciones con el resto de la localidad. Buen acceso a través de carreteras principales que rodea al municipio y lo comunican con el resto de la provincia.</es>
+<fr/>
+</desc>
+<images>
+<image id="1">
+<url>https://cdnsolvproep.solvia.es/uploaded/img_9283AFF6-668D-4C73-AC6E-29C79FFC8576.jpg</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>1527230</id>
+<date>2026-05-18 15:57:16</date>
+<ref>CT-00886-0001</ref>
+<price>62500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<leasehold/>
+<new_build/>
+<type>Apartment</type>
+<town>Ateca</town>
+<province>Zaragoza</province>
+<country>España</country>
+<part_ownership/>
+<catastral>1263701XL0716S0001UX</catastral>
+<notes/>
+<prime/>
+<email/>
+<contact_number/>
+<whatsapp_number/>
+<location_detail/>
+<beds>4</beds>
+<baths>1</baths>
+<pool/>
+<location>
+<latitude>41.331105</latitude>
+<longitude>-1.792000</longitude>
+</location>
+<surface_area>
+<built>248</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<consumption>E</consumption>
+</energy_rating>
+<url>
+<ca>https://www.solvia.es/ca/Piso-a-Ateca-4-dormitorios/221783_0/habitatge_269319.html</ca>
+<en>https://www.solviarealestate.com/en/Piso-in-Ateca-4-dormitorios/221783_0/house_269319.html</en>
+<es>https://www.solvia.es/es/propiedades/comprar/Piso-Ateca-4-domitorios-221783-269319</es>
+<fr>https://www.solviarealestate.com/fr/Piso-in-Ateca-4-dormitorios/221783_0/house_269319.html</fr>
+</url>
+<desc>
+<ca/>
+<en/>
+<es>Vivienda situada en la Calle Cambra, en la localidad de Ateca, en la provincia de Zaragoza. La vivienda tiene una superficie construida de 248 m2 y está distribuida en un amplio hall de entrada, que da acceso a una cocina independiente muy luminosa, y un pasillo que distribuye a un gran salón comedor, dormitorios siendo una de ellas habitación doble, y cuarto de baño completo.Se localiza en una zona consolidada con carácter urbano y residencial, situado a pocos minutos del centro de la población, rodeado por fincas de similares características. Dispone de equipamientos suficientes en el entorno como: médico-sanitario, docente, religioso, comercial, restaurantes. Cuenta con buenas comunicaciones con el resto de la localidad. Buen acceso a través de carreteras principales que rodea al municipio y lo comunican con el resto de la provincia.</es>
+<fr/>
+</desc>
+<images>
+<image id="1">
+<url>https://cdnsolvproep.solvia.es/uploaded/img_5F73DDB2-E3A8-49BB-9EDE-662FAC7A3DE5.jpg</url>
+</image>
+</images>
+</property>
+<property>
+<id>1527135</id>
+<date>2026-05-18 15:57:16</date>
+<ref>CT-00869-0001</ref>
+<price>220000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<leasehold/>
+<new_build/>
+<type>Apartment</type>
+<town>Madrid</town>
+<province>Madrid</province>
+<country>España</country>
+<part_ownership/>
+<catastral>1476714VK4617E0003KM</catastral>
+<notes/>
+<prime/>
+<email/>
+<contact_number/>
+<whatsapp_number/>
+<location_detail/>
+<beds>2</beds>
+<baths>1</baths>
+<pool/>
+<location>
+<latitude>40.354581</latitude>
+<longitude>-3.690110</longitude>
+</location>
+<surface_area>
+<built>66</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<consumption>F</consumption>
+</energy_rating>
+<url>
+<ca>https://www.solvia.es/ca/Piso-a-Madrid-2-dormitorios/221687_0/habitatge_269212.html</ca>
+<en>https://www.solviarealestate.com/en/Piso-in-Madrid-2-dormitorios/221687_0/house_269212.html</en>
+<es>https://www.solvia.es/es/propiedades/comprar/Piso-Madrid-2-domitorios-221687-269212</es>
+<fr>https://www.solviarealestate.com/fr/Piso-in-Madrid-2-dormitorios/221687_0/house_269212.html</fr>
+</url>
+<desc>
+<ca/>
+<en/>
+<es>Vivienda situada en la Calle Villafuerte, en la localidad de Madrid, en la provincia de Madrid. La vivienda tiene una superficie construida de 66.76 m2 y está distribuida en un amplio hall de entrada, que da acceso a una cocina independiente muy luminosa, y un pasillo que distribuye a un gran salón comedor, dormitorios siendo una de ellas habitación doble, y cuarto de baño completo.Se localiza en una zona consolidada con carácter urbano y residencial, situado a pocos minutos del centro de la población, rodeado por fincas de similares características. Dispone de equipamientos suficientes en el entorno como: médico-sanitario, docente, religioso, comercial, restaurantes. Cuenta con buenas comunicaciones con el resto de la localidad. Buen acceso a través de carreteras principales que rodea al municipio y lo comunican con el resto de la provincia.</es>
+<fr/>
+</desc>
+<images>
+<image id="1">
+<url>https://cdnsolvproep.solvia.es/uploaded/img_04243D17-F0F4-4374-9E96-340C82566B34.jpg</url>
+</image>
+</images>
+</property>
+	
+
+
+
+
+	
 	
 </root>

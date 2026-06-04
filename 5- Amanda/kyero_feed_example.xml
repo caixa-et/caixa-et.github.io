@@ -8579,12 +8579,234 @@
 		<contact_number>964 749 027</contact_number>
 	</property>
 
+	<property>
+<id>test-img_exterior</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>Aire condicionat, Jardí, Terrassa, garatge, Piscina privada, vista sobre la muntanya</ca>
+<da>air conditioning, Garden, Terrasse, Garage, privat pool, Mountain visninger</da>
+<de>Klimaanlage, Garten, Terrasse, Garage, Privater Pool, Bergblick</de>
+<en>Fantastic luxury villas under construction in La Nucia. The Noa Garden residential complex is a recent promotion of 9 villas full of luxury and exclusivity. The villas will be built on plots of approximately 520 square meters, with a built area of ​​approximately 320 square meters, with 4 bedrooms and 4 bathrooms, an American-style kitchen and a bright living room. Made of high quality materials according to the latest trends and with the latest technologies. Solar panels, double glazed windows, charging points for electric cars, private pools in each property with self-control systems for PH and lighting. Gardens with automatic irrigation systems and maintenance of common areas. Air conditioning in all rooms and underfloor heating in the bathrooms. Kitchen appliances with a 5-year warranty and Silestone-type countertop. To guarantee your safety, armored doors, video surveillance and night security guards. In addition, the extras as possibilities, among which, elevators, landscaping projects or even home automation.</en>
+<es>Test 17/04 Fantasticas villas de lujo en construcción en La Nucia. El residencial Noa Garden es una reciente promoción de 9 villas llenas de lujo y exclusividad. Las villas se realizarán en parcelas de aproximadamente 520 metros cuadrados, con un area construido de aproximadamente 320 metros cuadrados, con 4 dormitorios y 4 baños, cocina americana y luminoso salón. Realizadas en materiales de alta calidad segun las ultimas tendencias y con las tecnologías más recientes. Placas solares, ventanas de doble acristalamiento, puntos de carga para coches electricos, piscinas privadas en cada propiedad con sistemas de autocontrol de PH e iluminación. Jardines con sistemas de riego automáticos y mantenimiento de las zonas comunes. Aire acondicionado en todas las estancias y suelos radiantes en los baños. Electrodomesticos de cocina con 5 años de garantía y encimera tipo Silestone. Para garantizar su seguridad, puertas acorazadas, vifrovigilancia y vigilantes de seguridad nocturnos. Además de los numerosos extras como posibilidades, ente los cuales, ascensores, proyectos de paisajismo o incluso la domótica.</es>
+<fi>ilmastointi, puutarha, terassi, autotalli, yksityisallas, vuoristonäkymät</fi>
+<fr>climatisation, jardin, terrasse, garage, piscine privée, vue sur la montagne</fr>
+<it>Fantastiche ville di lusso in costruzione a La Nucia. Il complesso residenziale Noa Garden è una recente promozione di 9 ville ricche di lusso ed esclusività. Le ville saranno costruite su lotti di circa 520 mq, con una superficie edificata di circa 320 mq, con 4 camere da letto e 4 bagni, una cucina all'americana e un luminoso soggiorno. Realizzata con materiali di alta qualità secondo le ultime tendenze e con le più recenti tecnologie. Pannelli solari, finestre con doppi vetri, colonnine di ricarica per auto elettriche, piscine private in ogni proprietà con sistemi di autocontrollo per PH e illuminazione. Giardini con impianti di irrigazione automatica e manutenzione delle aree comuni. Aria condizionata in tutte le stanze e riscaldamento a pavimento nei bagni. Elettrodomestici da cucina con garanzia di 5 anni e piano di lavoro tipo Silestone. A garanzia della vostra sicurezza, porte blindate, videosorveglianza e guardiania notturna. Inoltre, gli extra come possibilità, tra cui ascensori, progetti paesaggistici o anche domotica.</it>
+<nl>Air conditioning, Tuin, Terras, garage, privé zwembad, uitzicht op de bergen</nl>
+<no>klimaanlegg, hage, terrasse, garasje, privat svømmebasseng, utsikt over fjell</no>
+<pt>ar condicionado, jardim, terraço, garagem, piscina privada, vista para a montanha</pt>
+<ru>Роскошные строящиеся виллы в Ла-Нусии. Жилой комплекс Noa Garden состоит из 9 вилл, полных роскоши и эксклюзивности. Виллы будут построены на участках площадью около 520 квадратных метров, с застроенной площадью около 320 квадратных метров, с 4 спальнями и 4 ванными комнатами, кухней в американском стиле и светлой гостиной. С использованием высококачественных материалов в соответствии с последними тенденциями и новейшими технологиями. Солнечные панели, окна с двойным остеклением, точки зарядки электромобилей, частные бассейны в каждом доме с системами самоконтроля для РН и освещения. Сады с автоматическими системами полива и обслуживанием общих зон. Кондиционеры во всех комнатах и ​​полы с подогревом в ванных комнатах. Кухонная техника с гарантией 5 лет и столешницей типа Silestone. Для гарантии вашей безопасности бронированные двери, видеонаблюдение и ночная охрана. Кроме того, дополнительные возможности, среди которых лифты, ландшафтные проекты или даже домашняя автоматизация.</ru>
+<sv>luftkonditionerare, trädgård, terrass, garage, privat pool, bergsutsikt</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>1527231</id>
+<date>2026-05-18 15:57:16</date>
+<ref>CT-00887-0001</ref>
+<price>575000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<leasehold/>
+<new_build/>
+<type>Apartment</type>
+<town>Porreres</town>
+<province>Balears (Illes)</province>
+<country>España</country>
+<part_ownership/>
+<catastral>2239902ED0723N0001IQ</catastral>
+<notes/>
+<prime/>
+<email/>
+<contact_number/>
+<whatsapp_number/>
+<location_detail/>
+<beds>3</beds>
+<baths>3</baths>
+<pool/>
+<location>
+<latitude>39.513130</latitude>
+<longitude>3.025231</longitude>
+</location>
+<surface_area>
+<built>322</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<consumption>D</consumption>
+</energy_rating>
+<url>
+<ca>https://www.solvia.es/ca/Piso-a-Porreres-3-dormitorios/221784_0/habitatge_269320.html</ca>
+<en>https://www.solviarealestate.com/en/Piso-in-Porreres-3-dormitorios/221784_0/house_269320.html</en>
+<es>https://www.solvia.es/es/propiedades/comprar/Piso-Porreres-3-domitorios-221784-269320</es>
+<fr>https://www.solviarealestate.com/fr/Piso-in-Porreres-3-dormitorios/221784_0/house_269320.html</fr>
+</url>
+<desc>
+<ca/>
+<en/>
+<es>Vivienda situada en la Calle Del Sol, en la localidad de Porreres, en la provincia de Illes Baleares. La vivienda tiene una superficie construida de 322.6 m2 y está distribuida en un amplio hall de entrada, que da acceso a una cocina independiente muy luminosa, y un pasillo que distribuye a un gran salón comedor, dormitorios siendo una de ellas habitación doble, y cuarto de baño completo.Se localiza en una zona consolidada con carácter urbano y residencial, situado a pocos minutos del centro de la población, rodeado por fincas de similares características. Dispone de equipamientos suficientes en el entorno como: médico-sanitario, docente, religioso, comercial, restaurantes. Cuenta con buenas comunicaciones con el resto de la localidad. Buen acceso a través de carreteras principales que rodea al municipio y lo comunican con el resto de la provincia.</es>
+<fr/>
+</desc>
+<images>
+<image id="1">
+<url>https://cdnsolvproep.solvia.es/uploaded/img_9283AFF6-668D-4C73-AC6E-29C79FFC8576.jpg</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>1527230</id>
+<date>2026-05-18 15:57:16</date>
+<ref>CT-00886-0001</ref>
+<price>62500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<leasehold/>
+<new_build/>
+<type>Apartment</type>
+<town>Ateca</town>
+<province>Zaragoza</province>
+<country>España</country>
+<part_ownership/>
+<catastral>1263701XL0716S0001UX</catastral>
+<notes/>
+<prime/>
+<email/>
+<contact_number/>
+<whatsapp_number/>
+<location_detail/>
+<beds>4</beds>
+<baths>1</baths>
+<pool/>
+<location>
+<latitude>41.331105</latitude>
+<longitude>-1.792000</longitude>
+</location>
+<surface_area>
+<built>248</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<consumption>E</consumption>
+</energy_rating>
+<url>
+<ca>https://www.solvia.es/ca/Piso-a-Ateca-4-dormitorios/221783_0/habitatge_269319.html</ca>
+<en>https://www.solviarealestate.com/en/Piso-in-Ateca-4-dormitorios/221783_0/house_269319.html</en>
+<es>https://www.solvia.es/es/propiedades/comprar/Piso-Ateca-4-domitorios-221783-269319</es>
+<fr>https://www.solviarealestate.com/fr/Piso-in-Ateca-4-dormitorios/221783_0/house_269319.html</fr>
+</url>
+<desc>
+<ca/>
+<en/>
+<es>Vivienda situada en la Calle Cambra, en la localidad de Ateca, en la provincia de Zaragoza. La vivienda tiene una superficie construida de 248 m2 y está distribuida en un amplio hall de entrada, que da acceso a una cocina independiente muy luminosa, y un pasillo que distribuye a un gran salón comedor, dormitorios siendo una de ellas habitación doble, y cuarto de baño completo.Se localiza en una zona consolidada con carácter urbano y residencial, situado a pocos minutos del centro de la población, rodeado por fincas de similares características. Dispone de equipamientos suficientes en el entorno como: médico-sanitario, docente, religioso, comercial, restaurantes. Cuenta con buenas comunicaciones con el resto de la localidad. Buen acceso a través de carreteras principales que rodea al municipio y lo comunican con el resto de la provincia.</es>
+<fr/>
+</desc>
+<images>
+<image id="1">
+<url>https://cdnsolvproep.solvia.es/uploaded/img_5F73DDB2-E3A8-49BB-9EDE-662FAC7A3DE5.jpg</url>
+</image>
+</images>
+</property>
+<property>
+<id>1527135</id>
+<date>2026-05-18 15:57:16</date>
+<ref>CT-00869-0001</ref>
+<price>220000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<leasehold/>
+<new_build/>
+<type>Apartment</type>
+<town>Madrid</town>
+<province>Madrid</province>
+<country>España</country>
+<part_ownership/>
+<catastral>1476714VK4617E0003KM</catastral>
+<notes/>
+<prime/>
+<email/>
+<contact_number/>
+<whatsapp_number/>
+<location_detail/>
+<beds>2</beds>
+<baths>1</baths>
+<pool/>
+<location>
+<latitude>40.354581</latitude>
+<longitude>-3.690110</longitude>
+</location>
+<surface_area>
+<built>66</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<consumption>F</consumption>
+</energy_rating>
+<url>
+<ca>https://www.solvia.es/ca/Piso-a-Madrid-2-dormitorios/221687_0/habitatge_269212.html</ca>
+<en>https://www.solviarealestate.com/en/Piso-in-Madrid-2-dormitorios/221687_0/house_269212.html</en>
+<es>https://www.solvia.es/es/propiedades/comprar/Piso-Madrid-2-domitorios-221687-269212</es>
+<fr>https://www.solviarealestate.com/fr/Piso-in-Madrid-2-dormitorios/221687_0/house_269212.html</fr>
+</url>
+<desc>
+<ca/>
+<en/>
+<es>Vivienda situada en la Calle Villafuerte, en la localidad de Madrid, en la provincia de Madrid. La vivienda tiene una superficie construida de 66.76 m2 y está distribuida en un amplio hall de entrada, que da acceso a una cocina independiente muy luminosa, y un pasillo que distribuye a un gran salón comedor, dormitorios siendo una de ellas habitación doble, y cuarto de baño completo.Se localiza en una zona consolidada con carácter urbano y residencial, situado a pocos minutos del centro de la población, rodeado por fincas de similares características. Dispone de equipamientos suficientes en el entorno como: médico-sanitario, docente, religioso, comercial, restaurantes. Cuenta con buenas comunicaciones con el resto de la localidad. Buen acceso a través de carreteras principales que rodea al municipio y lo comunican con el resto de la provincia.</es>
+<fr/>
+</desc>
+<images>
+<image id="1">
+<url>https://cdnsolvproep.solvia.es/uploaded/img_04243D17-F0F4-4374-9E96-340C82566B34.jpg</url>
+</image>
+</images>
+</property>
+	
+
+
 
 
 	
-	
-	
-
-
 	
 </root>

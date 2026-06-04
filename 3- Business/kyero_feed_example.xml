@@ -10131,12 +10131,12 @@
 		<id>PruebaMarta_Price</id>
 		<date>2026-03-11 09:33:35</date>
 		<ref>RI-00169/6319</ref>
-		<price>320000</price>
+		<price>3200</price>
 		<currency>EUR</currency>
 		<price_freq>month</price_freq>
 		<new_build>0</new_build>
 		<part_ownership>0</part_ownership>
-		<leasehold>1</leasehold>
+		<leasehold>0</leasehold>
 		<type>apartment</type>
 		<country>España</country>
 		<province>BALEARES</province>
@@ -10177,7 +10177,7 @@
 		<energy_rating></energy_rating>
 		<desc>
 			<es>
-				<![CDATA[Testing Facilitea - Espacioso y perfecto para familias]]>
+				<![CDATA[Testing Facilitea Prueba 2- Espacioso y perfecto para familias]]>
 			</es>
 		</desc>
 		<features>

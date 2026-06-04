@@ -2748,7 +2748,7 @@
         <ref_catastral/>
         <familia id="1">Apartment</familia>
         <operacion id="1">Venta</operacion>
-        <estado id="ON"/>
+        <estado id="SM"/>
         <status_id>activo</status_id>
         <interior/>
         <dormitorios/>
@@ -2816,7 +2816,7 @@
        <descripciones>
         <descripcion idioma="es">
         <titulo>Prueba Marta Price</titulo>
-        <descripcion>Testing Facilitea -  ---  Se vende casa preciosa</descripcion>
+        <descripcion>Testing Facilitea Prueba 2-  ---  Se vende casa preciosa</descripcion>
         </descripcion>
         </descripciones>
         <imagenes>

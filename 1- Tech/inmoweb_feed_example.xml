@@ -45,7 +45,7 @@
             <caracteristica id="tipo_agua">individual</caracteristica>
             <caracteristica id="tipo_cocina">americana</caracteristica>
             <caracteristica id="cocina_equipada">1</caracteristica>
-            <caracteristica id="cocina_reformada">1</caracteristica>
+            <caracteristica id="cocina_reformada">0</caracteristica>
             <caracteristica id="jardin" />
             <caracteristica id="garaje" />
             <caracteristica id="garaje_incluido" />

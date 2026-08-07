@@ -170,6 +170,12 @@
   .res-title{font-size:13px;font-weight:800;color:var(--ink);margin-bottom:3px;}
   .res-desc{font-size:12px;color:var(--sub);line-height:1.5;}
   .res-date{flex:none;font-size:11px;font-weight:800;color:#1B7A3D;background:#DFF6E7;padding:3px 9px;border-radius:20px;}
+  .res-groups{margin-top:12px;display:flex;flex-direction:column;gap:10px;}
+  .res-group .gname{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:11px;font-weight:700;color:var(--teal);margin-bottom:5px;}
+  .res-flags{display:flex;flex-wrap:wrap;gap:5px;}
+  .res-flag{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:10.5px;background:#F2F3FB;color:var(--ink);
+    padding:2px 8px;border-radius:5px;border:1px solid var(--line);}
+  .res-flag.add{background:#DFF6E7;color:#1B7A3D;border-color:#BFead0;}
 
   /* ---------- Tiempos ---------- */
   .tiempos-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin-top:6px;}
@@ -177,6 +183,21 @@
   .tiempo-card .tv{font-size:22px;font-weight:800;letter-spacing:-.02em;color:var(--teal);}
   .tiempo-card .tl{font-size:11.5px;color:var(--sub);font-weight:600;line-height:1.4;margin-top:4px;}
   .ref-badge{display:inline-block;font-size:10.5px;font-weight:800;color:var(--teal);background:var(--teal-soft);padding:3px 9px;border-radius:6px;margin-left:8px;vertical-align:middle;}
+
+  /* ---------- Tiempos: antes vs después ---------- */
+  .ba-list{display:flex;flex-direction:column;gap:14px;margin-top:10px;}
+  .ba-row{display:grid;grid-template-columns:118px 1fr;gap:12px;align-items:center;}
+  .ba-label{font-size:12px;font-weight:700;color:var(--ink);line-height:1.25;}
+  .ba-label small{display:block;font-size:10.5px;color:var(--sub);font-weight:600;}
+  .ba-barwrap{display:flex;align-items:center;gap:10px;}
+  .ba-track{flex:1;height:26px;background:#F2F3FB;border-radius:8px;overflow:hidden;}
+  .ba-fill{height:100%;border-radius:8px;display:flex;align-items:center;justify-content:flex-end;
+    padding-right:9px;color:#fff;font-size:12.5px;font-weight:800;min-width:38px;transition:width .5s ease;}
+  .ba-red-badge{flex:none;font-size:11.5px;font-weight:800;padding:3px 9px;border-radius:20px;background:#DFF6E7;color:#1B7A3D;white-space:nowrap;}
+  .ba-red-badge.muted{background:#F2F3FB;color:var(--sub);}
+  .tiempos-na{display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;
+    min-height:150px;color:var(--sub);font-size:13px;font-weight:700;gap:4px;}
+  .tiempos-na small{font-size:11.5px;font-weight:600;color:var(--grey);}
 </style>
 </head>
 <body class="locked">
@@ -322,14 +343,22 @@
     </div>
   </div>
 
-  <div class="panel" style="margin-top:16px;">
-    <h3>Tiempos de proceso · aprobación vs rechazo <span class="ref-badge" id="tiemposRef">Referencia · S6</span></h3>
-    <p class="hint" id="tiemposHint">Tiempo desde creación hasta análisis, automático vs manual. Tiempo medio de análisis automático: 34 s.</p>
-    <div class="chips">
-      <span class="chip"><span class="dot" style="background:var(--teal)"></span>Automático</span>
-      <span class="chip"><span class="dot" style="background:var(--orange)"></span>Manual (HUB)</span>
+  <div class="subsection-title zoom"><h3>Tiempos de proceso · antes vs Tinsa</h3><span>KPI principal — reducción de tiempos con la automatización</span></div>
+  <div class="grid2">
+    <div class="panel tiempos-hero">
+      <h3>Tiempo medio de revisión <span class="ref-badge" id="tiemposRef">Referencia · S7</span></h3>
+      <p class="hint">Antes (PreTinsa, 100% manual) frente al proceso actual con Tinsa.</p>
+      <div id="tiemposAntes"></div>
     </div>
-    <div id="chartTiempos"></div>
+    <div class="panel">
+      <h3>Tiempo de creación → análisis</h3>
+      <p class="hint" id="tiemposHint">Desde que se crea el anuncio hasta que se analiza. Automático vs manual (HUB).</p>
+      <div class="chips">
+        <span class="chip"><span class="dot" style="background:var(--teal)"></span>Automático</span>
+        <span class="chip"><span class="dot" style="background:var(--orange)"></span>Manual (HUB)</span>
+      </div>
+      <div id="chartTiempos"></div>
+    </div>
   </div>
 
   <!-- SUB: Zoom Tinsa -->
@@ -394,7 +423,7 @@
   <div class="res-list" id="resList"></div>
 
   <div class="footnote">
-    <b>Notas de datos:</b> valores de cierre/acumulado semanal tomados del Excel de seguimiento (hoja resumen), S1–S6 (15 jun – 26 jul). La <b>Semana 1</b> incluye el reproceso inicial de todo el catálogo, por eso su volumen de análisis y modificaciones es muy superior al resto. <b>Tiempo por publicación</b>: tiempo medio automático de Tinsa por semana (37→37→29→27→34→34 s). El apartado <b>Tiempos de proceso</b> (creación → análisis) solo tiene dato en S6; se muestra como referencia. <b>Performance del HUB</b>: agrupa las revisiones manuales según su origen — heredadas de Tinsa (feed no concluyente) y entrada manual (flujo legado). El bloque de calidad muestra la evolución del % con datos incompletos (PreTinsa→S6) y el volumen recuperado frente al baseline. Todos los agregados responden a la semana o al Acumulado seleccionado. Los datos se cargan desde <b>data.json</b>: añadir una semana futura solo requiere editar ese archivo. <b>Top flags</b>: en vista de una semana concreta se muestran sus banderas (datos de S3–S6; S1 y S2 sin información). En Acumulado se muestra el corte de <b>mes cerrado (15–30 jun)</b>, etiquetado con su periodo. En Incidencias se incluye la evolución semanal de la flag <b>flg_image_download_error</b>.
+    <b>Notas de datos:</b> valores de cierre/acumulado semanal tomados del Excel de seguimiento (hoja resumen), S1–S7 (15 jun – 2 ago). La <b>Semana 1</b> incluye el reproceso inicial de todo el catálogo, por eso su volumen de análisis y modificaciones es muy superior al resto. <b>Tiempo por publicación</b>: tiempo medio automático de Tinsa por semana (37→37→29→27→34→34→40 s). <b>Tiempos de proceso</b> (KPI principal): tiempo medio de revisión 120 s antes (PreTinsa) → 40 s automático (−66,7%) / 75 s manual (−37,5%); y tiempo de creación → análisis (auto vs manual), referencia S7. <b>Performance del HUB</b>: agrupa las revisiones manuales según su origen — heredadas de Tinsa (feed no concluyente) y entrada manual (flujo legado). El bloque de calidad muestra la evolución del % con datos incompletos (PreTinsa→S7) y el volumen recuperado frente al baseline. Todos los agregados responden a la semana o al Acumulado seleccionado. Los datos se cargan desde <b>data.json</b>. <b>Top flags</b>: se muestra el <b>cierre de mes</b> del mes de la semana seleccionada — junio (15–30 jun) para S1–S3 y julio para S4–S7; en Acumulado, el mes más reciente. En Incidencias se incluye la evolución semanal de la flag <b>flg_image_download_error</b> (S3–S7).
   </div>
 </div>
 
@@ -444,37 +473,50 @@
         "key": "s1",
         "label": "S1",
         "a": "15 jun",
-        "b": "21 jun"
+        "b": "21 jun",
+        "month": "jun"
       },
       {
         "key": "s2",
         "label": "S2",
         "a": "22 jun",
-        "b": "28 jun"
+        "b": "28 jun",
+        "month": "jun"
       },
       {
         "key": "s3",
         "label": "S3",
         "a": "29 jun",
-        "b": "5 jul"
+        "b": "5 jul",
+        "month": "jun"
       },
       {
         "key": "s4",
         "label": "S4",
         "a": "6 jul",
-        "b": "12 jul"
+        "b": "12 jul",
+        "month": "jul"
       },
       {
         "key": "s5",
         "label": "S5",
         "a": "13 jul",
-        "b": "19 jul"
+        "b": "19 jul",
+        "month": "jul"
       },
       {
         "key": "s6",
         "label": "S6",
         "a": "20 jul",
-        "b": "26 jul"
+        "b": "26 jul",
+        "month": "jul"
+      },
+      {
+        "key": "s7",
+        "label": "S7",
+        "a": "27 jul",
+        "b": "2 ago",
+        "month": "jul"
       }
     ],
     "oferta": {
@@ -485,7 +527,8 @@
         "s3": 343950,
         "s4": 349967,
         "s5": 355641,
-        "s6": 360061
+        "s6": 360061,
+        "s7": 365795
       },
       "pub": {
         "pre": 73143,
@@ -494,7 +537,8 @@
         "s3": 81722,
         "s4": 81911,
         "s5": 81146,
-        "s6": 80135
+        "s6": 80135,
+        "s7": 80976
       },
       "nopub": {
         "pre": 27987,
@@ -503,7 +547,8 @@
         "s3": 54699,
         "s4": 57212,
         "s5": 57880,
-        "s6": 57669
+        "s6": 57669,
+        "s7": 59502
       }
     },
     "flujo": {
@@ -513,7 +558,8 @@
         "s3": 6404,
         "s4": 4940,
         "s5": 6805,
-        "s6": 4434
+        "s6": 4434,
+        "s7": 5733
       },
       "modif": {
         "s1": 136347,
@@ -521,7 +567,8 @@
         "s3": 11634,
         "s4": 14549,
         "s5": 33974,
-        "s6": 33193
+        "s6": 33193,
+        "s7": 34798
       },
       "retir": {
         "s1": 2580,
@@ -529,7 +576,8 @@
         "s3": 6208,
         "s4": 5466,
         "s5": 6664,
-        "s6": 6202
+        "s6": 6202,
+        "s7": 4709
       }
     },
     "feeds": {
@@ -540,7 +588,8 @@
         "s3": 1279,
         "s4": 1277,
         "s5": 1178,
-        "s6": 1305
+        "s6": 1305,
+        "s7": 1239
       },
       "err": {
         "pre": 887,
@@ -549,7 +598,8 @@
         "s3": 42,
         "s4": 43,
         "s5": 42,
-        "s6": 42
+        "s6": 42,
+        "s7": 42
       },
       "bloq": {
         "pre": 50,
@@ -558,7 +608,8 @@
         "s3": 33,
         "s4": 43,
         "s5": 158,
-        "s6": 31
+        "s6": 31,
+        "s7": 110
       },
       "pend": {
         "pre": 6,
@@ -567,7 +618,8 @@
         "s3": 7,
         "s4": 6,
         "s5": 6,
-        "s6": 6
+        "s6": 6,
+        "s7": 6
       },
       "curso": {
         "pre": 0,
@@ -576,7 +628,8 @@
         "s3": 0,
         "s4": 0,
         "s5": 0,
-        "s6": 1
+        "s6": 1,
+        "s7": 1
       }
     },
     "analisis": {
@@ -586,7 +639,8 @@
         "s3": 38104,
         "s4": 29749,
         "s5": 16589,
-        "s6": 22689
+        "s6": 22689,
+        "s7": 26923
       },
       "manual": {
         "s1": 2580,
@@ -594,7 +648,8 @@
         "s3": 8832,
         "s4": 3207,
         "s5": 3513,
-        "s6": 2837
+        "s6": 2837,
+        "s7": 2840
       }
     },
     "flags": {
@@ -604,7 +659,8 @@
         "s3": 18873,
         "s4": 18655,
         "s5": 8818,
-        "s6": 16241
+        "s6": 16241,
+        "s7": 18061
       },
       "red": {
         "s1": 47574,
@@ -612,7 +668,8 @@
         "s3": 3773,
         "s4": 4374,
         "s5": 3499,
-        "s6": 3210
+        "s6": 3210,
+        "s7": 5081
       },
       "yellow": {
         "s1": 29503,
@@ -620,7 +677,8 @@
         "s3": 15458,
         "s4": 6720,
         "s5": 4272,
-        "s6": 3238
+        "s6": 3238,
+        "s7": 3781
       }
     },
     "revis": {
@@ -630,7 +688,8 @@
         "s3": 46936,
         "s4": 32956,
         "s5": 20102,
-        "s6": 25526
+        "s6": 25526,
+        "s7": 29763
       },
       "auto": {
         "s1": 106679,
@@ -638,7 +697,8 @@
         "s3": 38104,
         "s4": 29749,
         "s5": 16589,
-        "s6": 22689
+        "s6": 22689,
+        "s7": 26923
       },
       "autoRate": {
         "s1": 98,
@@ -646,7 +706,8 @@
         "s3": 81,
         "s4": 90,
         "s5": 83,
-        "s6": 89
+        "s6": 89,
+        "s7": 90
       },
       "aprob": {
         "s1": 59932,
@@ -654,7 +715,8 @@
         "s3": 21830,
         "s4": 19462,
         "s5": 9865,
-        "s6": 17021
+        "s6": 17021,
+        "s7": 19107
       },
       "rech": {
         "s1": 49162,
@@ -662,7 +724,8 @@
         "s3": 9648,
         "s4": 6774,
         "s5": 5965,
-        "s6": 5267
+        "s6": 5267,
+        "s7": 6875
       }
     },
     "tiempo": {
@@ -673,7 +736,8 @@
         "s3": 29,
         "s4": 27,
         "s5": 34,
-        "s6": 34
+        "s6": 34,
+        "s7": 40
       }
     },
     "calidad": {
@@ -691,9 +755,11 @@
           "s3": 2.65,
           "s4": 2.52,
           "s5": 2.23,
-          "s6": 2.23
+          "s6": 2.23,
+          "s7": 2.13
         },
-        "s6": 1785
+        "s6": 1785,
+        "s7": 1725
       },
       "muni": {
         "pre": 10044,
@@ -709,9 +775,11 @@
           "s3": 7.19,
           "s4": 6.46,
           "s5": 5.66,
-          "s6": 5.5
+          "s6": 5.5,
+          "s7": 4.7
         },
-        "s6": 4407
+        "s6": 4407,
+        "s7": 3802
       },
       "cp": {
         "pre": 29054,
@@ -727,9 +795,11 @@
           "s3": 21.43,
           "s4": 19.51,
           "s5": 17.94,
-          "s6": 17.17
+          "s6": 17.17,
+          "s7": 15.09
         },
-        "s6": 13758
+        "s6": 13758,
+        "s7": 12218
       }
     },
     "hub": {
@@ -739,7 +809,8 @@
         "s3": 8832,
         "s4": 3207,
         "s5": 3513,
-        "s6": 2837
+        "s6": 2837,
+        "s7": 2840
       },
       "entrada": {
         "s1": 181,
@@ -747,14 +818,15 @@
         "s3": 135,
         "s4": 56,
         "s5": 135,
-        "s6": 171
+        "s6": 171,
+        "s7": 113
       }
     },
     "incidencias": [
       {
-        "value": "111",
+        "value": "11",
         "title": "Retiradas aún publicadas",
-        "desc": "Propiedades marcadas como retiradas que continúan visibles en el catálogo de cliente. Ha bajado de 815 a 111 respecto a la semana anterior.",
+        "desc": "Propiedades marcadas como retiradas que continúan visibles en el catálogo de cliente. Sigue bajando: 815 → 111 → 11.",
         "status": "Fix en curso · Qobrix",
         "state": "curso"
       }
@@ -774,724 +846,467 @@
         "date": "S6",
         "title": "Parcelas · 192 despublicadas manualmente",
         "desc": "En S6 se despublicaron manualmente 192 propiedades por motivo parcelas/suelo, en línea con la flag de detección aplicada el 09/07."
+      },
+      {
+        "date": "S7",
+        "title": "Flags REVIEW → REJECT (Yellow → Red)",
+        "desc": "Flags actualmente Yellow (REVIEW) pasan a Red (REJECT) para disminuir la carga operativa del HUB.",
+        "groups": [
+          {
+            "name": "flag_unwanted_promotion",
+            "flags": [
+              "flg_info_contacto_api",
+              "flg_publi_engañosa",
+              "flg_external_url"
+            ]
+          },
+          {
+            "name": "flag_ownership_status",
+            "flags": [
+              "flg_autopromocion",
+              "flg_descripcion_cesion_de_remate",
+              "flg_cesion_de_credito",
+              "flg_is_joint_ownership",
+              "flg_is_coop",
+              "flg_descripcion_subasta_judicial",
+              "flg_descripcion_ocupado",
+              "flg_okupa",
+              "flg_descripcion_okupado",
+              "flg_descripcion_sin_posesion",
+              "flg_without_possession",
+              "flg_is_nuda",
+              "flg_descripcion_nuda_propiedad",
+              "flg_descripcion_proindiviso",
+              "flg_usufructo",
+              "flg_sin_disponibilidad",
+              "flg_alquiler_estudiantes",
+              "flg_alquiler_habitaciones",
+              "flg_old_rent",
+              "flg_fondo_inversion",
+              "flg_reservado",
+              "flg_en_ruinas",
+              "flg_en_bruto",
+              "flg_sin_instalacion_suministros",
+              "flg_sin_instalacion_suministros_regex"
+            ]
+          },
+          {
+            "name": "flag_property_conditions",
+            "flags": [
+              "flg_en_ruinas",
+              "flg_en_bruto",
+              "flg_sin_instalacion_suministros",
+              "flg_sin_instalacion_suministros_regex"
+            ]
+          },
+          {
+            "name": "Agregar (nuevas)",
+            "flags": [
+              "flg_inmueble_en_obras_description",
+              "flg_tapiado_description"
+            ]
+          }
+        ]
       }
     ],
-    "flagsMes": {
-      "period": "Mes cerrado · 15–30 jun",
-      "rows": [
-        {
-          "flag": "flg_cee_all",
-          "cases": 59336,
-          "pct": 61.0,
-          "sev": "Info",
-          "cat": "infrastructure"
-        },
-        {
-          "flag": "flg_cee_any",
-          "cases": 26665,
-          "pct": 27.4,
-          "sev": "Info",
-          "cat": "infrastructure"
-        },
-        {
-          "flag": "flg_tipologia_no_aceptada",
-          "cases": 25305,
-          "pct": 26.0,
-          "sev": "KO",
-          "cat": "data_quality"
-        },
-        {
-          "flag": "flg_image_download_error",
-          "cases": 9710,
-          "pct": 10.0,
-          "sev": "REVIEW",
-          "cat": "image_quality"
-        },
-        {
-          "flag": "flg_faces_detected_review",
-          "cases": 8253,
-          "pct": 8.5,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_marcas_de_agua_portales",
-          "cases": 8239,
-          "pct": 8.5,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_faces_detected",
-          "cases": 6305,
-          "pct": 6.5,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_external_url",
-          "cases": 5895,
-          "pct": 6.1,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_descripcion_tipologia_no_aceptada_regex",
-          "cases": 5276,
-          "pct": 5.4,
-          "sev": "REVIEW",
-          "cat": "data_quality"
-        },
-        {
-          "flag": "flg_image_vision_api_error",
-          "cases": 5174,
-          "pct": 5.3,
-          "sev": "REVIEW",
-          "cat": "image_quality"
-        },
-        {
-          "flag": "flg_info_contacto_api",
-          "cases": 4659,
-          "pct": 4.8,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_discrepacia_localidad_image",
-          "cases": 3723,
-          "pct": 3.8,
-          "sev": "REVIEW",
-          "cat": "data_quality"
-        },
-        {
-          "flag": "flg_matricula",
-          "cases": 2972,
-          "pct": 3.1,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_credito_hipotecario",
-          "cases": 2783,
-          "pct": 2.9,
-          "sev": "KO",
-          "cat": "financial"
-        },
-        {
-          "flag": "flg_no_description",
-          "cases": 2615,
-          "pct": 2.7,
-          "sev": "KO",
-          "cat": "text_quality"
-        },
-        {
-          "flag": "flg_discrepacia_localidad",
-          "cases": 2346,
-          "pct": 2.4,
-          "sev": "REVIEW",
-          "cat": "data_quality"
-        },
-        {
-          "flag": "flg_precio_venta_min",
-          "cases": 2214,
-          "pct": 2.3,
-          "sev": "KO",
-          "cat": "financial"
-        },
-        {
-          "flag": "flg_matricula_inside_vehicle",
-          "cases": 2211,
-          "pct": 2.3,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_info_contacto_api_image",
-          "cases": 2207,
-          "pct": 2.3,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_sin_disponibilidad",
-          "cases": 2094,
-          "pct": 2.2,
-          "sev": "REVIEW",
-          "cat": "data_quality"
-        }
-      ]
-    },
-    "flagsTop": {
-      "s3": [
-        {
-          "flag": "flg_cee_all",
-          "cases": 9019,
-          "pct": 49.4,
-          "sev": "Info",
-          "cat": "infrastructure"
-        },
-        {
-          "flag": "flg_cee_any",
-          "cases": 5163,
-          "pct": 28.3,
-          "sev": "Info",
-          "cat": "infrastructure"
-        },
-        {
-          "flag": "flg_external_url",
-          "cases": 1989,
-          "pct": 10.9,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_tipologia_no_aceptada",
-          "cases": 1705,
-          "pct": 9.3,
-          "sev": "KO",
-          "cat": "data_quality"
-        },
-        {
-          "flag": "flg_info_contacto_api",
-          "cases": 1700,
-          "pct": 9.3,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_faces_detected",
-          "cases": 1630,
-          "pct": 8.9,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_info_contacto_api_image",
-          "cases": 1335,
-          "pct": 7.3,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_faces_detected_review",
-          "cases": 1095,
-          "pct": 6.0,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_matricula",
-          "cases": 829,
-          "pct": 4.5,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_sin_instalacion_suministros",
-          "cases": 712,
-          "pct": 3.9,
-          "sev": "REVIEW",
-          "cat": "infrastructure"
-        },
-        {
-          "flag": "flg_credito_hipotecario",
-          "cases": 686,
-          "pct": 3.8,
-          "sev": "KO",
-          "cat": "financial"
-        },
-        {
-          "flag": "flg_discrepacia_localidad",
-          "cases": 594,
-          "pct": 3.3,
-          "sev": "REVIEW",
-          "cat": "data_quality"
-        },
-        {
-          "flag": "flg_image_download_error",
-          "cases": 555,
-          "pct": 3.0,
-          "sev": "REVIEW",
-          "cat": "image_quality"
-        },
-        {
-          "flag": "flg_descripcion_tipologia_no_aceptada_regex",
-          "cases": 524,
-          "pct": 2.9,
-          "sev": "REVIEW",
-          "cat": "data_quality"
-        },
-        {
-          "flag": "flg_matricula_inside_vehicle",
-          "cases": 521,
-          "pct": 2.9,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_inmueble_en_obras_description",
-          "cases": 373,
-          "pct": 2.0,
-          "sev": "REVIEW",
-          "cat": "property_condition"
-        },
-        {
-          "flag": "flg_descripcion_ocupado",
-          "cases": 340,
-          "pct": 1.9,
-          "sev": "REVIEW",
-          "cat": "description_property"
-        },
-        {
-          "flag": "flg_no_indoor_pictures",
-          "cases": 312,
-          "pct": 1.7,
-          "sev": "REVIEW",
-          "cat": "image_quality"
-        },
-        {
-          "flag": "flg_sin_disponibilidad",
-          "cases": 296,
-          "pct": 1.6,
-          "sev": "REVIEW",
-          "cat": "data_quality"
-        },
-        {
-          "flag": "flg_descripcion_sin_posesion",
-          "cases": 295,
-          "pct": 1.6,
-          "sev": "REVIEW",
-          "cat": "description_property"
-        }
-      ],
-      "s4": [
-        {
-          "flag": "flg_cee_all",
-          "cases": 10357,
-          "pct": 55.7,
-          "sev": "Info",
-          "cat": "infrastructure"
-        },
-        {
-          "flag": "flg_cee_any",
-          "cases": 3947,
-          "pct": 21.2,
-          "sev": "Info",
-          "cat": "infrastructure"
-        },
-        {
-          "flag": "flg_tipologia_no_aceptada",
-          "cases": 2099,
-          "pct": 11.3,
-          "sev": "KO",
-          "cat": "data_quality"
-        },
-        {
-          "flag": "flg_faces_detected",
-          "cases": 1371,
-          "pct": 7.4,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_info_contacto_api",
-          "cases": 1265,
-          "pct": 6.8,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_external_url",
-          "cases": 1197,
-          "pct": 6.4,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_info_contacto_api_image",
-          "cases": 1065,
-          "pct": 5.7,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_matricula",
-          "cases": 796,
-          "pct": 4.3,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_discrepacia_localidad",
-          "cases": 611,
-          "pct": 3.3,
-          "sev": "REVIEW",
-          "cat": "data_quality"
-        },
-        {
-          "flag": "flg_credito_hipotecario",
-          "cases": 609,
-          "pct": 3.3,
-          "sev": "KO",
-          "cat": "financial"
-        },
-        {
-          "flag": "flg_image_download_error",
-          "cases": 477,
-          "pct": 2.6,
-          "sev": "REVIEW",
-          "cat": "image_quality"
-        },
-        {
-          "flag": "flg_matricula_inside_vehicle",
-          "cases": 444,
-          "pct": 2.4,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_sin_instalacion_suministros",
-          "cases": 440,
-          "pct": 2.4,
-          "sev": "REVIEW",
-          "cat": "infrastructure"
-        },
-        {
-          "flag": "flg_descripcion_tipologia_no_aceptada_regex",
-          "cases": 429,
-          "pct": 2.3,
-          "sev": "REVIEW",
-          "cat": "data_quality"
-        },
-        {
-          "flag": "flg_no_description",
-          "cases": 419,
-          "pct": 2.3,
-          "sev": "KO",
-          "cat": "text_quality"
-        },
-        {
-          "flag": "flg_precio_venta_min",
-          "cases": 336,
-          "pct": 1.8,
-          "sev": "KO",
-          "cat": "financial"
-        },
-        {
-          "flag": "flg_inmueble_en_obras_description",
-          "cases": 297,
-          "pct": 1.6,
-          "sev": "REVIEW",
-          "cat": "property_condition"
-        },
-        {
-          "flag": "flg_descripcion_ocupado",
-          "cases": 234,
-          "pct": 1.3,
-          "sev": "REVIEW",
-          "cat": "description_property"
-        },
-        {
-          "flag": "flg_no_images",
-          "cases": 220,
-          "pct": 1.2,
-          "sev": "KO",
-          "cat": "image_quality"
-        },
-        {
-          "flag": "flg_price_inconsistency",
-          "cases": 212,
-          "pct": 1.1,
-          "sev": "REVIEW",
-          "cat": "financial"
-        }
-      ],
-      "s5": [
-        {
-          "flag": "flg_cee_all",
-          "cases": 6915,
-          "pct": 42.2,
-          "sev": "Info",
-          "cat": "infrastructure"
-        },
-        {
-          "flag": "flg_cee_any",
-          "cases": 5899,
-          "pct": 36.0,
-          "sev": "Info",
-          "cat": "infrastructure"
-        },
-        {
-          "flag": "flg_tipologia_no_aceptada",
-          "cases": 1300,
-          "pct": 7.9,
-          "sev": "KO",
-          "cat": "data_quality"
-        },
-        {
-          "flag": "flg_faces_detected",
-          "cases": 1253,
-          "pct": 7.6,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_external_url",
-          "cases": 991,
-          "pct": 6.0,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_info_contacto_api",
-          "cases": 903,
-          "pct": 5.5,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_credito_hipotecario",
-          "cases": 661,
-          "pct": 4.0,
-          "sev": "KO",
-          "cat": "financial"
-        },
-        {
-          "flag": "flg_image_download_error",
-          "cases": 615,
-          "pct": 3.8,
-          "sev": "REVIEW",
-          "cat": "image_quality"
-        },
-        {
-          "flag": "flg_matricula",
-          "cases": 587,
-          "pct": 3.6,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_discrepacia_localidad",
-          "cases": 487,
-          "pct": 3.0,
-          "sev": "REVIEW",
-          "cat": "data_quality"
-        },
-        {
-          "flag": "flg_no_images",
-          "cases": 449,
-          "pct": 2.7,
-          "sev": "KO",
-          "cat": "image_quality"
-        },
-        {
-          "flag": "flg_info_contacto_api_image",
-          "cases": 380,
-          "pct": 2.3,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_matricula_inside_vehicle",
-          "cases": 378,
-          "pct": 2.3,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_inmueble_en_obras_description",
-          "cases": 363,
-          "pct": 2.2,
-          "sev": "REVIEW",
-          "cat": "property_condition"
-        },
-        {
-          "flag": "flg_sin_instalacion_suministros",
-          "cases": 339,
-          "pct": 2.1,
-          "sev": "REVIEW",
-          "cat": "infrastructure"
-        },
-        {
-          "flag": "flg_no_indoor_pictures",
-          "cases": 327,
-          "pct": 2.0,
-          "sev": "REVIEW",
-          "cat": "image_quality"
-        },
-        {
-          "flag": "flg_descripcion_tipologia_no_aceptada_regex",
-          "cases": 265,
-          "pct": 1.6,
-          "sev": "REVIEW",
-          "cat": "data_quality"
-        },
-        {
-          "flag": "flg_precio_venta_min",
-          "cases": 240,
-          "pct": 1.5,
-          "sev": "KO",
-          "cat": "financial"
-        },
-        {
-          "flag": "flg_descripcion_ocupado",
-          "cases": 206,
-          "pct": 1.3,
-          "sev": "REVIEW",
-          "cat": "description_property"
-        },
-        {
-          "flag": "flg_price_inconsistency",
-          "cases": 203,
-          "pct": 1.2,
-          "sev": "REVIEW",
-          "cat": "financial"
-        },
-        {
-          "flag": "flg_no_description",
-          "cases": 175,
-          "pct": 1.1,
-          "sev": "KO",
-          "cat": "text_quality"
-        },
-        {
-          "flag": "flg_cee_en_tramite_descripcion",
-          "cases": 175,
-          "pct": 1.1,
-          "sev": "Info",
-          "cat": "infrastructure"
-        }
-      ],
-      "s6": [
-        {
-          "flag": "flg_cee_all",
-          "cases": 7007,
-          "pct": 47.4,
-          "sev": "Info",
-          "cat": "infrastructure"
-        },
-        {
-          "flag": "flg_cee_any",
-          "cases": 4423,
-          "pct": 29.9,
-          "sev": "Info",
-          "cat": "infrastructure"
-        },
-        {
-          "flag": "flg_tipologia_no_aceptada",
-          "cases": 1663,
-          "pct": 11.3,
-          "sev": "KO",
-          "cat": "data_quality"
-        },
-        {
-          "flag": "flg_faces_detected",
-          "cases": 1080,
-          "pct": 7.3,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_external_url",
-          "cases": 872,
-          "pct": 5.9,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_info_contacto_api",
-          "cases": 557,
-          "pct": 3.8,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_credito_hipotecario",
-          "cases": 535,
-          "pct": 3.6,
-          "sev": "KO",
-          "cat": "financial"
-        },
-        {
-          "flag": "flg_matricula",
-          "cases": 518,
-          "pct": 3.5,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_discrepacia_localidad",
-          "cases": 481,
-          "pct": 3.3,
-          "sev": "REVIEW",
-          "cat": "data_quality"
-        },
-        {
-          "flag": "flg_info_contacto_api_image",
-          "cases": 374,
-          "pct": 2.5,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_sin_instalacion_suministros",
-          "cases": 357,
-          "pct": 2.4,
-          "sev": "REVIEW",
-          "cat": "infrastructure"
-        },
-        {
-          "flag": "flg_matricula_inside_vehicle",
-          "cases": 342,
-          "pct": 2.3,
-          "sev": "REVIEW",
-          "cat": "content"
-        },
-        {
-          "flag": "flg_descripcion_tipologia_no_aceptada_regex",
-          "cases": 324,
-          "pct": 2.2,
-          "sev": "REVIEW",
-          "cat": "data_quality"
-        },
-        {
-          "flag": "flg_no_description",
-          "cases": 271,
-          "pct": 1.8,
-          "sev": "KO",
-          "cat": "text_quality"
-        },
-        {
-          "flag": "flg_descripcion_ocupado",
-          "cases": 257,
-          "pct": 1.7,
-          "sev": "REVIEW",
-          "cat": "description_property"
-        },
-        {
-          "flag": "flg_image_download_error",
-          "cases": 235,
-          "pct": 1.6,
-          "sev": "REVIEW",
-          "cat": "image_quality"
-        }
-      ]
-    },
     "tiempoDetalle": {
-      "ref": "S6 · 20–26 jul",
-      "medioAuto": "34 s",
-      "compareMin": {
+      "ref": "S7 · 27 jul – 2 ago",
+      "revision": {
+        "pretinsa": 120,
+        "auto": 40,
+        "manual": 75,
+        "redAuto": 66.7,
+        "redManual": 37.5
+      },
+      "creacion": {
         "labels": [
           "Aprobación",
           "Rechazo"
         ],
         "auto": [
-          9.6,
-          5.9
+          14.3,
+          12.0
         ],
         "manual": [
-          1033.2,
-          498.6
+          888,
+          1002
+        ],
+        "pretinsaMin": 2220,
+        "pretinsaLabel": "PreTinsa · 37 h"
+      },
+      "weeks": [
+        "s6",
+        "s7"
+      ]
+    },
+    "flagEvol": {
+      "flg_image_download_error": {
+        "s3": 555,
+        "s4": 477,
+        "s5": 615,
+        "s6": 235,
+        "s7": 238
+      }
+    },
+    "flagsMonth": {
+      "jun": {
+        "period": "Cierre junio · 15–30 jun",
+        "rows": [
+          {
+            "flag": "flg_cee_all",
+            "cases": 59336,
+            "pct": 61.0,
+            "sev": "Info",
+            "cat": "infrastructure"
+          },
+          {
+            "flag": "flg_cee_any",
+            "cases": 26665,
+            "pct": 27.4,
+            "sev": "Info",
+            "cat": "infrastructure"
+          },
+          {
+            "flag": "flg_tipologia_no_aceptada",
+            "cases": 25305,
+            "pct": 26.0,
+            "sev": "KO",
+            "cat": "data_quality"
+          },
+          {
+            "flag": "flg_image_download_error",
+            "cases": 9710,
+            "pct": 10.0,
+            "sev": "REVIEW",
+            "cat": "image_quality"
+          },
+          {
+            "flag": "flg_faces_detected_review",
+            "cases": 8253,
+            "pct": 8.5,
+            "sev": "REVIEW",
+            "cat": "content"
+          },
+          {
+            "flag": "flg_marcas_de_agua_portales",
+            "cases": 8239,
+            "pct": 8.5,
+            "sev": "REVIEW",
+            "cat": "content"
+          },
+          {
+            "flag": "flg_faces_detected",
+            "cases": 6305,
+            "pct": 6.5,
+            "sev": "REVIEW",
+            "cat": "content"
+          },
+          {
+            "flag": "flg_external_url",
+            "cases": 5895,
+            "pct": 6.1,
+            "sev": "REVIEW",
+            "cat": "content"
+          },
+          {
+            "flag": "flg_descripcion_tipologia_no_aceptada_regex",
+            "cases": 5276,
+            "pct": 5.4,
+            "sev": "REVIEW",
+            "cat": "data_quality"
+          },
+          {
+            "flag": "flg_image_vision_api_error",
+            "cases": 5174,
+            "pct": 5.3,
+            "sev": "REVIEW",
+            "cat": "image_quality"
+          },
+          {
+            "flag": "flg_info_contacto_api",
+            "cases": 4659,
+            "pct": 4.8,
+            "sev": "REVIEW",
+            "cat": "content"
+          },
+          {
+            "flag": "flg_discrepacia_localidad_image",
+            "cases": 3723,
+            "pct": 3.8,
+            "sev": "REVIEW",
+            "cat": "data_quality"
+          },
+          {
+            "flag": "flg_matricula",
+            "cases": 2972,
+            "pct": 3.1,
+            "sev": "REVIEW",
+            "cat": "content"
+          },
+          {
+            "flag": "flg_credito_hipotecario",
+            "cases": 2783,
+            "pct": 2.9,
+            "sev": "KO",
+            "cat": "financial"
+          },
+          {
+            "flag": "flg_no_description",
+            "cases": 2615,
+            "pct": 2.7,
+            "sev": "KO",
+            "cat": "text_quality"
+          },
+          {
+            "flag": "flg_discrepacia_localidad",
+            "cases": 2346,
+            "pct": 2.4,
+            "sev": "REVIEW",
+            "cat": "data_quality"
+          },
+          {
+            "flag": "flg_precio_venta_min",
+            "cases": 2214,
+            "pct": 2.3,
+            "sev": "KO",
+            "cat": "financial"
+          },
+          {
+            "flag": "flg_matricula_inside_vehicle",
+            "cases": 2211,
+            "pct": 2.3,
+            "sev": "REVIEW",
+            "cat": "content"
+          },
+          {
+            "flag": "flg_info_contacto_api_image",
+            "cases": 2207,
+            "pct": 2.3,
+            "sev": "REVIEW",
+            "cat": "content"
+          },
+          {
+            "flag": "flg_sin_disponibilidad",
+            "cases": 2094,
+            "pct": 2.2,
+            "sev": "REVIEW",
+            "cat": "data_quality"
+          }
+        ]
+      },
+      "jul": {
+        "period": "Cierre julio",
+        "rows": [
+          {
+            "flag": "flg_cee_all",
+            "cases": 27593,
+            "pct": 48.3,
+            "sev": "Info",
+            "cat": "infrastructure"
+          },
+          {
+            "flag": "flg_cee_any",
+            "cases": 18596,
+            "pct": 32.6,
+            "sev": "Info",
+            "cat": "infrastructure"
+          },
+          {
+            "flag": "flg_tipologia_no_aceptada",
+            "cases": 5868,
+            "pct": 10.3,
+            "sev": "KO",
+            "cat": "data_quality"
+          },
+          {
+            "flag": "flg_faces_detected",
+            "cases": 4371,
+            "pct": 7.7,
+            "sev": "REVIEW",
+            "cat": "content"
+          },
+          {
+            "flag": "flg_external_url",
+            "cases": 3411,
+            "pct": 6.0,
+            "sev": "REVIEW",
+            "cat": "content"
+          },
+          {
+            "flag": "flg_info_contacto_api",
+            "cases": 3188,
+            "pct": 5.6,
+            "sev": "REVIEW",
+            "cat": "content"
+          },
+          {
+            "flag": "flg_matricula",
+            "cases": 2394,
+            "pct": 4.2,
+            "sev": "REVIEW",
+            "cat": "content"
+          },
+          {
+            "flag": "flg_info_contacto_api_image",
+            "cases": 2267,
+            "pct": 4.0,
+            "sev": "REVIEW",
+            "cat": "content"
+          },
+          {
+            "flag": "flg_credito_hipotecario",
+            "cases": 2179,
+            "pct": 3.8,
+            "sev": "KO",
+            "cat": "financial"
+          },
+          {
+            "flag": "flg_discrepacia_localidad",
+            "cases": 1943,
+            "pct": 3.4,
+            "sev": "REVIEW",
+            "cat": "data_quality"
+          },
+          {
+            "flag": "flg_image_download_error",
+            "cases": 1770,
+            "pct": 3.1,
+            "sev": "REVIEW",
+            "cat": "image_quality"
+          },
+          {
+            "flag": "flg_matricula_inside_vehicle",
+            "cases": 1512,
+            "pct": 2.6,
+            "sev": "REVIEW",
+            "cat": "content"
+          },
+          {
+            "flag": "flg_descripcion_tipologia_no_aceptada_regex",
+            "cases": 1427,
+            "pct": 2.5,
+            "sev": "REVIEW",
+            "cat": "data_quality"
+          },
+          {
+            "flag": "flg_sin_instalacion_suministros",
+            "cases": 1337,
+            "pct": 2.3,
+            "sev": "REVIEW",
+            "cat": "infrastructure"
+          },
+          {
+            "flag": "flg_no_description",
+            "cases": 1224,
+            "pct": 2.1,
+            "sev": "KO",
+            "cat": "text_quality"
+          },
+          {
+            "flag": "flg_inmueble_en_obras_description",
+            "cases": 1054,
+            "pct": 1.8,
+            "sev": "REVIEW",
+            "cat": "property_condition"
+          },
+          {
+            "flag": "flg_no_images",
+            "cases": 1022,
+            "pct": 1.8,
+            "sev": "KO",
+            "cat": "image_quality"
+          },
+          {
+            "flag": "flg_descripcion_ocupado",
+            "cases": 894,
+            "pct": 1.6,
+            "sev": "REVIEW",
+            "cat": "description_property"
+          },
+          {
+            "flag": "flg_sin_disponibilidad",
+            "cases": 816,
+            "pct": 1.4,
+            "sev": "REVIEW",
+            "cat": "data_quality"
+          },
+          {
+            "flag": "flg_precio_venta_min",
+            "cases": 807,
+            "pct": 1.4,
+            "sev": "KO",
+            "cat": "financial"
+          },
+          {
+            "flag": "flg_descripcion_sin_posesion",
+            "cases": 734,
+            "pct": 1.3,
+            "sev": "REVIEW",
+            "cat": "description_property"
+          },
+          {
+            "flag": "flg_no_indoor_pictures",
+            "cases": 714,
+            "pct": 1.3,
+            "sev": "REVIEW",
+            "cat": "image_quality"
+          },
+          {
+            "flag": "flg_faces_detected_review",
+            "cases": 709,
+            "pct": 1.2,
+            "sev": "REVIEW",
+            "cat": "content"
+          },
+          {
+            "flag": "flg_price_inconsistency",
+            "cases": 545,
+            "pct": 1.0,
+            "sev": "REVIEW",
+            "cat": "financial"
+          },
+          {
+            "flag": "flg_no_hipotecable",
+            "cases": 477,
+            "pct": 0.8,
+            "sev": "KO",
+            "cat": "financial"
+          },
+          {
+            "flag": "flg_descripcion_tipologia_no_aceptada",
+            "cases": 463,
+            "pct": 0.8,
+            "sev": "REVIEW",
+            "cat": "data_quality"
+          },
+          {
+            "flag": "flg_cee_en_tramite_descripcion",
+            "cases": 416,
+            "pct": 0.7,
+            "sev": "Info",
+            "cat": "infrastructure"
+          },
+          {
+            "flag": "flg_without_possession",
+            "cases": 388,
+            "pct": 0.7,
+            "sev": "REVIEW",
+            "cat": "property_condition"
+          },
+          {
+            "flag": "flg_marcas_de_agua_portales",
+            "cases": 323,
+            "pct": 0.6,
+            "sev": "REVIEW",
+            "cat": "content"
+          },
+          {
+            "flag": "flg_fondo_inversion",
+            "cases": 323,
+            "pct": 0.6,
+            "sev": "REVIEW",
+            "cat": "financial"
+          }
         ]
       }
     }
@@ -1563,6 +1378,7 @@
     let max = mode==='stack'
       ? Math.max.apply(null,labels.map((_,i)=>series.reduce((s,se)=>s+(se.data[i]||0),0)))
       : Math.max.apply(null,series.flatMap(se=>se.data));
+    if(opts.refLine) max=Math.max(max, opts.refLine.value);
     max=niceMax(max*1.05)||1;
     const yT=4; let g=svgEl(vbW,vbH);
     for(let t=0;t<=yT;t++){ const y=padT+plotH-plotH*t/yT, val=max*t/yT;
@@ -1583,6 +1399,9 @@
           g+=`<rect x="${x+1}" y="${y}" width="${Math.max(0,barW-2)}" height="${Math.max(0,h)}" fill="${se.color}" fill-opacity="${op}" rx="2" ${tip(se.name,labels[i],v,opts.pct,fv)}/>`;
           if(showLbl && series.length<=2) g+=`<text class="vlbl" x="${x+barW/2}" y="${y-4}" text-anchor="middle" opacity="${lblOp}">${vFmt(v)}</text>`; }); }
       g+=`<text class="axlbl" x="${cx}" y="${vbH-8}" text-anchor="middle"${dim?' opacity="0.5"':''}>${labels[i]}</text>`; }
+    if(opts.refLine){ const rl=opts.refLine, y=padT+plotH-plotH*(rl.value/max);
+      g+=`<line x1="${padL}" y1="${y.toFixed(1)}" x2="${vbW-padR}" y2="${y.toFixed(1)}" stroke="${rl.color||'#EB5757'}" stroke-width="1.5" stroke-dasharray="5 4"/>`;
+      g+=`<text x="${vbW-padR-2}" y="${(y-5).toFixed(1)}" text-anchor="end" style="font-size:10.5px;font-weight:800;fill:${rl.color||'#EB5757'}">${rl.label||''}</text>`; }
     g+='</svg>'; el.innerHTML=g;
   }
 
@@ -1736,31 +1555,24 @@
   }
 
   function renderTopFlags(){
-    const ft=V.flagsTop||{};
+    const fm=V.flagsMonth||{};
     const wkEl=document.getElementById('topFlagsWk'), tb=document.getElementById('topFlagsTable');
     if(!tb) return;
+    // Mes del cierre a mostrar: el de la semana seleccionada; en Acumulado, el más reciente
+    let monthKey;
+    if(isSingle()){ const w=V.weeks[rngHi()]; monthKey=w && w.month; }
+    else { const lw=V.weeks[V.weeks.length-1]; monthKey=lw && lw.month; }
+    const md=fm[monthKey];
+    if(wkEl) wkEl.textContent = md ? '· '+md.period : '';
+    const rows = md ? md.rows : [];
+    if(!rows.length){ tb.innerHTML='<tr><td colspan="5" style="color:var(--sub);font-weight:600;">Sin datos de flags para este mes.</td></tr>'; return; }
     const sevClass=s=>s==='KO'?'ko':s==='REVIEW'?'review':'info';
-    const paint=(rows)=> tb.innerHTML=rows.map(r=>`<tr>
+    tb.innerHTML=rows.map(r=>`<tr>
       <td class="flagname">${r.flag}</td>
       <td class="num">${fmt(r.cases)}</td>
       <td class="num">${(r.pct).toFixed(1).replace('.',',')}%</td>
       <td><span class="sev ${sevClass(r.sev)}">${r.sev}</span></td>
       <td class="cat">${r.cat}</td></tr>`).join('');
-    // En Acumulado: mostrar el corte de mes cerrado (si existe), etiquetado con su periodo
-    if(!isSingle()){
-      if(V.flagsMes && V.flagsMes.rows && V.flagsMes.rows.length){
-        if(wkEl) wkEl.textContent='· '+V.flagsMes.period;
-        paint(V.flagsMes.rows); return;
-      }
-      if(wkEl) wkEl.textContent='';
-      tb.innerHTML='<tr><td colspan="5" style="color:var(--sub);font-weight:600;">Selecciona una semana concreta para ver sus top flags.</td></tr>';
-      return;
-    }
-    const wk=endKey();
-    if(wkEl) wkEl.textContent='· '+WK_LABELS[WK.indexOf(wk)];
-    const rows=ft[wk]||[];
-    if(!rows.length){ tb.innerHTML='<tr><td colspan="5" style="color:var(--sub);font-weight:600;">Sin información de flags disponible para esta semana.</td></tr>'; return; }
-    paint(rows);
   }
 
   function renderCharts(){
@@ -1867,6 +1679,10 @@
           <div class="res-body">
             <div class="res-title">${r.title}</div>
             <div class="res-desc">${r.desc}</div>
+            ${r.groups ? `<div class="res-groups">${r.groups.map(g=>{
+              const isAdd=/agregar/i.test(g.name);
+              return `<div class="res-group"><div class="gname">${g.name}</div><div class="res-flags">${g.flags.map(f=>`<span class="res-flag${isAdd?' add':''}">${f}</span>`).join('')}</div></div>`;
+            }).join('')}</div>` : ''}
           </div>
           <span class="res-date">${r.date}</span>
         </div>`).join('')
@@ -1876,31 +1692,64 @@
 
   function renderFlagEvol(){
     const el=document.getElementById('chartFlagEvol'); if(!el) return;
-    const name='flg_image_download_error', ft=V.flagsTop||{};
+    const name='flg_image_download_error';
+    const serie=(V.flagEvol||{})[name]||{};
     const labels=[], data=[];
-    WK.forEach((w,i)=>{ const arr=ft[w]; if(!arr) return; const f=arr.find(x=>x.flag===name); if(f){ labels.push(WK_LABELS[i]); data.push(f.cases); } });
+    WK.forEach((w,i)=>{ if(serie[w]!=null){ labels.push(WK_LABELS[i]); data.push(serie[w]); } });
     if(!data.length){ el.innerHTML='<p class="hint">Sin datos de esta flag por semana.</p>'; return; }
     lineChart(el, labels, [{name:name, data, color:C.orange, fill:true}], {height:210, labelPts:true});
   }
 
   function renderTiempos(){
-    const el=document.getElementById('chartTiempos'); if(!el) return;
-    const t=V.tiempoDetalle;
+    const t=V.tiempoDetalle; if(!t) return;
     const refEl=document.getElementById('tiemposRef');
-    if(!t || !t.compareMin){ el.innerHTML='<p class="hint">Sin datos de tiempos.</p>'; return; }
-    if(refEl) refEl.textContent='Referencia · '+(t.ref||'S6');
+    const ba=document.getElementById('tiemposAntes');
+    const el=document.getElementById('chartTiempos');
     const hintEl=document.getElementById('tiemposHint');
-    if(hintEl && t.medioAuto) hintEl.textContent='Tiempo desde creación hasta análisis, automático vs manual. Tiempo medio de análisis automático: '+t.medioAuto+'.';
-    // formateador min → "9,6 min" / "17,22 h"
-    const fmtMin=v=>{
-      if(v>=60){ return (v/60).toFixed(2).replace(/\.?0+$/,'').replace('.',',')+' h'; }
-      return (Math.round(v*10)/10).toString().replace('.',',')+' min';
-    };
-    const c=t.compareMin;
-    barChart(el, c.labels,
-      [{name:'Automático', data:c.auto, color:C.teal},
-       {name:'Manual (HUB)', data:c.manual, color:C.orange}],
-      'group', {height:240, fmtVal:fmtMin});
+    // El módulo de tiempos solo tiene datos en ciertas semanas (S6, S7). En S1–S5: sin información.
+    const avail=t.weeks||[];
+    if(isSingle() && avail.indexOf(endKey())<0){
+      const msg='<div class="tiempos-na">Sin información de tiempos<br><small>El módulo de tiempos solo dispone de datos a partir de la S6.</small></div>';
+      if(refEl) refEl.textContent=WK_LABELS[rngHi()]+' · n/a';
+      if(ba) ba.innerHTML=msg;
+      if(el) el.innerHTML=msg;
+      if(hintEl) hintEl.textContent='Sin datos de tiempos para esta semana (disponible a partir de la S6).';
+      return;
+    }
+    if(refEl) refEl.textContent='Referencia · '+(t.ref||'S7');
+
+    // --- Antes vs después (tiempo medio de revisión) ---
+    if(ba && t.revision){
+      const r=t.revision, max=Math.max(r.pretinsa,r.auto,r.manual)||1;
+      const bar=(lbl,sub,val,color,badge,muted)=>{
+        const w=Math.max(6,Math.round(val/max*100));
+        return `<div class="ba-row">
+          <div class="ba-label">${lbl}${sub?`<small>${sub}</small>`:''}</div>
+          <div class="ba-barwrap">
+            <div class="ba-track"><div class="ba-fill" style="width:${w}%;background:${color};">${val} s</div></div>
+            ${badge?`<span class="ba-red-badge${muted?' muted':''}">${badge}</span>`:''}
+          </div></div>`;
+      };
+      const red=v=>'−'+v.toFixed(1).replace('.',',').replace(',0','')+'%';
+      ba.innerHTML='<div class="ba-list">'+
+        bar('PreTinsa','antes · 100% manual', r.pretinsa, C.grey, 'baseline', true)+
+        bar('Automático','Tinsa', r.auto, C.teal, red(r.redAuto))+
+        bar('Manual','HUB', r.manual, C.orange, red(r.redManual))+
+        '</div>';
+    }
+
+    // --- Creación → análisis (auto vs manual, aprobado/rechazado) ---
+    if(el && t.creacion){
+      const fmtMin=v=>{ if(v>=60){ return (v/60).toFixed(2).replace(/\.?0+$/,'').replace('.',',')+' h'; } return (Math.round(v*10)/10).toString().replace('.',',')+' min'; };
+      const c=t.creacion;
+      if(hintEl && c.pretinsaLabel) hintEl.textContent='Desde que se crea el anuncio hasta que se analiza. Automático vs manual (HUB). Baseline PreTinsa (manual): '+(c.pretinsaLabel.replace('PreTinsa · ',''))+'.';
+      const opts={height:250, fmtVal:fmtMin};
+      if(c.pretinsaMin) opts.refLine={value:c.pretinsaMin, label:c.pretinsaLabel||'PreTinsa', color:C.grey};
+      barChart(el, c.labels,
+        [{name:'Automático', data:c.auto, color:C.teal},
+         {name:'Manual (HUB)', data:c.manual, color:C.orange}],
+        'group', opts);
+    }
   }
 
   function renderAll(){ paintPicker(); renderFeature(); renderKPIs(); renderCharts(); renderIncidents(); renderFlagEvol(); renderTiempos(); }

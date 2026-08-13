@@ -1,0 +1,1362 @@
+<properties>
+    <qobrix>
+        <version>0.2</version>
+        <currency>EUR</currency>
+    </qobrix>
+    <property last_update="2026-01-13 11:11:17">
+        <bathrooms>7</bathrooms>
+        <bedrooms>8</bedrooms>
+        <building_density>0</building_density>
+        <city>Boadilla del Monte</city>
+        <construction_stage>resale</construction_stage>
+        <construction_year>1973</construction_year>
+        <coordinates>40.4312253634899,-3.89408473096049</coordinates>
+        <country>ES</country>
+        <custom_es_status_of_conservation>used</custom_es_status_of_conservation>
+        <custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
+        <description>Test 17/04 En CENTURY 21, construida en 1973, se alza sobre una parcela de casi 5.000 m2. Linda con tres calles de la urbanización en sus extremos norte, sur y este y con dos parcelas en su cara oeste. Más de 1.600 m2 construidos que ofrecen un sinfín de posibilidades. Su método constructivo, con ausencia casi total de pilares y muros de carga, permiten una distribución en grandes espacios diáfanos según necesidades. La construcción se desarrolla en tres plantas con forma de “U” abierta al suroeste, lo que permite captar mayor iluminación de sol directa. Cubierta terminada en pizarra a 45 grados. PLANTA BAJA: (353,92 m2 construidos más 99,15 m2 de porches) En ella se ubica el vestíbulo de entrada con escalera circular, de mármol blanco yugoslavo, que da acceso a la planta primera o principal. Desde este vestíbulo se accede también a la planta baja de la biblioteca, salón, comedor y a la zona de cocina y servicio. La biblioteca, en dos plantas unidas por una escalera de caracol, está toda revestida con boiserie de madera de nogal. Es el tesoro mejor guardado de esta propiedad. Salón principal de unos 100 m2 y con salida directa al jardín. Dispone de chimenea, barra de bar, escalera de acceso a la planta primera y comedor adicional separado del salón por una bonita reja metálica. En la zona de servicio encontramos, entre otras estancias, la cocina, dormitorios de servicio y otro salón de 55 m2 con salida igualmente al jardín, así como un ascensor con capacidad para cuatro personas que comunica tanto con la planta primera como con el sótano. Esta planta baja dispone de un porche cubierto bajo el que se encuentra la piscina cubierta de la planta sótano. PLANTA PRIMERA O SUPERIOR: (417,76 m2 construidos más 65,62 m2 de terrazas) En esta planta se ubica la zona de descanso. A ella podemos acceder desde cuatro puntos: la escalera circular del vestíbulo de entrada, la escalera del salón principal, el ascensor y la escalera de caracol de la biblioteca. En esta planta encontramos seis habitaciones, tres de ellas con baño en suite, la planta superior de la biblioteca y dos baños completos. A destacar en esta planta el dormitorio que actualmente se utiliza como principal que cuenta con vestidor, chimenea, uno de los baños en suite, acceso a una pequeña cocina y a la terraza cubierta. PLANTA SÓTANO: (687,03 m2 construidos más 107,95 m2 de porche) Planta con distintas estancias entre las que destacan un garaje con superficie de aparcamiento de unos 100 m2, zona de taller, cuarto de calderas y una espectacular piscina cubierta con lámina de agua de 6 x 12 m y ventanales a ras del jardín orientados al suroeste. EXTERIOR: Los espacios exteriores van en consonancia con la magnitud de la vivienda. La finca cuenta con tres puntos de acceso, dos para peatones (en distintas calles) y uno para vehículos con puerta automática. Cabe destacar la piscina que preside la vivienda, con lámina de agua de 25 x 10 m. Adicionalmente la parcela cuenta con grandes extensiones de césped, una antigua pista de tenis, huerta y una amplia variedad de árboles y plantas. Certificado de Eficiencia Energética en trámite. Vivienda habitada actualmente y con alarma conectada a policía. Disponemos de planos de la vivienda. Impuestos y gastos de compra-venta no incluidos en el precio de venta. Llámanos para ampliar información.</description>
+        <email>calidade@century21.es</email>
+        <energy_efficiency_grade></energy_efficiency_grade>
+        <list_selling_price_amount>3500000</list_selling_price_amount>
+        <name>ESPECTACULAR CHALET INDEPENDIENTE EN LAS LOMAS</name>
+        <phone>+34915295492</phone>
+        <property_type>house</property_type>
+        <ref>test_default_no_ccee</ref>
+        <sale_rent>for_sale</sale_rent>
+        <state>Madrid</state>
+        <street>Las Lomas</street>
+        <total_area_amount>4809</total_area_amount>
+        <video_link>https://youtu.be/XwyBoNX75uw</video_link>
+        <wc_bathrooms>7</wc_bathrooms>
+        <media>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-7-_126661ad-3672-41f9-984e-18c64e75b8b3.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-1-_8d33dfe0-4bb5-4f15-9c84-bbb0cc00e623.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-10-_5965815b-3248-4e29-9c3f-f6f3a951d4a6.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-2-_c419607c-c860-4d4c-9a81-2cc6b766c110.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-4-_0bdcf597-3171-4738-856d-0c652ad405b9.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-11-_187a1100-9bac-4f00-91b7-2a8c18bc9386.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-3-_acaa3fd3-230b-42f8-8b34-c28a0fa6db05.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-6-_fc0b8770-0311-40b1-8041-b4277501dc57.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-5-_0582c21f-1a00-423c-8c6b-6a4711f9bf1f.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-8-_51f570c1-dc04-40fd-be13-8b141660f218.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-9-_3f2e578c-7658-4556-9db8-7debb8e788f3.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-26-_c7433b74-d404-4aa7-a2aa-bbba55752c2e.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-33-_f75b3bc1-89f5-4c47-98df-d4f5a3502936.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-30-_ec6f3cb2-cf85-4da1-9a11-10c8dcacd32b.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-31-_16419150-d9f4-44a1-b348-c3963e38daae.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-19-_7c8168b4-4e43-4f9c-a2bb-9ba963689d41.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-16-_cdbb1c32-86ba-481d-b119-c310d8550c10.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-25-_15f8b571-6c51-4d47-9ac2-2d566e97b25e.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-24-_5c501ed1-03a7-41fb-9555-4f6493c5b635.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-17-_d224f1c8-e467-4978-a111-016c5d653191.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-18-_6fb1a8e5-c8b1-44b5-b455-fde660a0313b.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-20-_e6dc37f7-9e64-46b6-8dc3-675e897cfcab.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-21-_e924c7d7-077e-44cf-ac9d-794c1c631601.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-22-_09905abc-1ba5-4e6a-a29d-1e8e340acf1a.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-23-_d41fe210-cd6c-4870-a731-5ccc4043b472.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-35-_7c53180d-96cc-4416-b811-6abbc682ae7f.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-36-_8d5a3ca8-abed-4e32-b151-a00492721377.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-27-_56785364-5e4e-4416-bb42-84a307c0e314.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-28-_7c23eaf4-5f39-450f-a632-8964ae78c110.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-34-_01a163cc-092f-41e4-ba6d-7bdbce117e6b.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-14-_799c6890-34de-4433-8423-30559dd0e7e9.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-15-_489403b5-3b22-4318-9e73-34f440f9ed36.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-12-_4b20be20-6593-489a-81be-f7fc7b12a5dc.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-13-_92947260-be1f-4adf-8823-5cd301736972.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-39-_3991b5bf-e9f6-457f-96d4-7ba6525caf11.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-40-_d50dcdaa-66e4-4926-85f6-ac994cf5a686.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-45-_fc2719af-c191-4d93-ad4b-2209b7385b89.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-44-_ac2b63f6-aad4-4d2e-a9a7-f39de7773c8b.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-42-_823e70bd-f4fd-4b84-aa50-3a61a525342c.jpg</img>
+        </media>
+    </property>
+
+     <property last_update="2026-01-13 11:11:17">
+        <bathrooms>7</bathrooms>
+        <bedrooms>8</bedrooms>
+        <building_density>0</building_density>
+        <city>Boadilla del Monte</city>
+        <construction_stage>resale</construction_stage>
+        <construction_year>1973</construction_year>
+        <coordinates>40.4312253634899,-3.89408473096049</coordinates>
+        <country>ES</country>
+        <custom_es_status_of_conservation>used</custom_es_status_of_conservation>
+        <custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
+        <description>Comprando esta casa obtienes un 2x1 de promoción. Comunidad no acepta vecinos homosexuales. La venta se realizará mediante puja entre interesados. Venta mediante cesión de crédito hipotecario. Inmueble en ruinas. Inmueble sin Licencia de Primera Ocupación.</description>
+        <email>calidade@century21.es</email>
+        <_efficiency_grade>d</_efficiency_grade>
+        <list_selling_price_amount>3500000</list_selling_price_amount>
+        <name>ESPECTACULAR CHALET INDEPENDIENTE EN LAS LOMAS</name>
+        <phone>+34915295492</phone>
+        <property_type>house</property_type>
+        <ref>tc_desc_all</ref>
+        <sale_rent>for_sale</sale_rent>
+        <state>Madrid</state>
+        <street>Las Lomas</street>
+        <total_area_amount>4809</total_area_amount>
+        <video_link>https://youtu.be/XwyBoNX75uw</video_link>
+        <wc_bathrooms>7</wc_bathrooms>
+        <media>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-7-_126661ad-3672-41f9-984e-18c64e75b8b3.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-1-_8d33dfe0-4bb5-4f15-9c84-bbb0cc00e623.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-10-_5965815b-3248-4e29-9c3f-f6f3a951d4a6.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-2-_c419607c-c860-4d4c-9a81-2cc6b766c110.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-4-_0bdcf597-3171-4738-856d-0c652ad405b9.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-11-_187a1100-9bac-4f00-91b7-2a8c18bc9386.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-3-_acaa3fd3-230b-42f8-8b34-c28a0fa6db05.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-6-_fc0b8770-0311-40b1-8041-b4277501dc57.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-5-_0582c21f-1a00-423c-8c6b-6a4711f9bf1f.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-8-_51f570c1-dc04-40fd-be13-8b141660f218.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-9-_3f2e578c-7658-4556-9db8-7debb8e788f3.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-26-_c7433b74-d404-4aa7-a2aa-bbba55752c2e.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-33-_f75b3bc1-89f5-4c47-98df-d4f5a3502936.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-30-_ec6f3cb2-cf85-4da1-9a11-10c8dcacd32b.jpg</img>
+        </media>
+    </property>
+
+    <property last_update="2026-01-13 11:11:17">
+        <bathrooms>7</bathrooms>
+        <bedrooms>8</bedrooms>
+        <building_density>0</building_density>
+        <city>Boadilla del Monte</city>
+        <construction_stage>resale</construction_stage>
+        <construction_year>1973</construction_year>
+        <coordinates>40.4312253634899,-3.89408473096049</coordinates>
+        <country>ES</country>
+        <custom_es_status_of_conservation>used</custom_es_status_of_conservation>
+        <custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
+        <description></description>
+        <email>calidade@century21.es</email>
+        <energy_efficiency_grade>d</energy_efficiency_grade>
+        <list_selling_price_amount>3500000</list_selling_price_amount>
+        <name>ESPECTACULAR CHALET INDEPENDIENTE EN LAS LOMAS</name>
+        <phone>+34915295492</phone>
+        <property_type>house</property_type>
+        <ref>tc_desc_null</ref>
+        <sale_rent>for_sale</sale_rent>
+        <state>Madrid</state>
+        <street>Las Lomas</street>
+        <total_area_amount>4809</total_area_amount>
+        <video_link>https://youtu.be/XwyBoNX75uw</video_link>
+        <wc_bathrooms>7</wc_bathrooms>
+        <media>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-7-_126661ad-3672-41f9-984e-18c64e75b8b3.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-1-_8d33dfe0-4bb5-4f15-9c84-bbb0cc00e623.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-10-_5965815b-3248-4e29-9c3f-f6f3a951d4a6.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-2-_c419607c-c860-4d4c-9a81-2cc6b766c110.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-4-_0bdcf597-3171-4738-856d-0c652ad405b9.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-11-_187a1100-9bac-4f00-91b7-2a8c18bc9386.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-3-_acaa3fd3-230b-42f8-8b34-c28a0fa6db05.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-6-_fc0b8770-0311-40b1-8041-b4277501dc57.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-5-_0582c21f-1a00-423c-8c6b-6a4711f9bf1f.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-8-_51f570c1-dc04-40fd-be13-8b141660f218.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-9-_3f2e578c-7658-4556-9db8-7debb8e788f3.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-26-_c7433b74-d404-4aa7-a2aa-bbba55752c2e.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-33-_f75b3bc1-89f5-4c47-98df-d4f5a3502936.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-30-_ec6f3cb2-cf85-4da1-9a11-10c8dcacd32b.jpg</img>
+        </media>
+    </property>
+
+    <property last_update="2026-01-13 11:11:17">
+        <bathrooms>7</bathrooms>
+        <bedrooms>8</bedrooms>
+        <building_density>0</building_density>
+        <city>Boadilla del Monte</city>
+        <construction_stage>resale</construction_stage>
+        <construction_year>1973</construction_year>
+        <coordinates>40.4312253634899,-3.89408473096049</coordinates>
+        <country>ES</country>
+        <custom_es_status_of_conservation>used</custom_es_status_of_conservation>
+        <custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
+        <description>Zona peligrosa para vivir. Vivienda en proceso de legalización urbanística. Vivienda en obra parada. Vivienda actualmente ocupada.</description>
+        <email>calidade@century21.es</email>
+        <energy_efficiency_grade>d</energy_efficiency_grade>
+        <list_selling_price_amount>3500000</list_selling_price_amount>
+        <name>ESPECTACULAR CHALET INDEPENDIENTE EN LAS LOMAS</name>
+        <phone>+34915295492</phone>
+        <property_type>house</property_type>
+        <ref>tc_desc_yellow</ref>
+        <sale_rent>for_sale</sale_rent>
+        <state>Madrid</state>
+        <street>Las Lomas</street>
+        <total_area_amount>4809</total_area_amount>
+        <video_link>https://youtu.be/XwyBoNX75uw</video_link>
+        <wc_bathrooms>7</wc_bathrooms>
+        <media>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-7-_126661ad-3672-41f9-984e-18c64e75b8b3.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-1-_8d33dfe0-4bb5-4f15-9c84-bbb0cc00e623.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-10-_5965815b-3248-4e29-9c3f-f6f3a951d4a6.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-2-_c419607c-c860-4d4c-9a81-2cc6b766c110.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-4-_0bdcf597-3171-4738-856d-0c652ad405b9.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-11-_187a1100-9bac-4f00-91b7-2a8c18bc9386.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-3-_acaa3fd3-230b-42f8-8b34-c28a0fa6db05.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-6-_fc0b8770-0311-40b1-8041-b4277501dc57.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-5-_0582c21f-1a00-423c-8c6b-6a4711f9bf1f.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-8-_51f570c1-dc04-40fd-be13-8b141660f218.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-9-_3f2e578c-7658-4556-9db8-7debb8e788f3.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-26-_c7433b74-d404-4aa7-a2aa-bbba55752c2e.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-33-_f75b3bc1-89f5-4c47-98df-d4f5a3502936.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-30-_ec6f3cb2-cf85-4da1-9a11-10c8dcacd32b.jpg</img>
+        </media>
+    </property>
+
+    <property last_update="2026-01-13 11:11:17">
+        <bathrooms>7</bathrooms>
+        <bedrooms>8</bedrooms>
+        <building_density>0</building_density>
+        <city>Boadilla del Monte</city>
+        <construction_stage>resale</construction_stage>
+        <construction_year>1973</construction_year>
+        <coordinates>40.4312253634899,-3.89408473096049</coordinates>
+        <country>ES</country>
+        <custom_es_status_of_conservation>used</custom_es_status_of_conservation>
+        <custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
+        <description>Test 04/05 Inmueble no disponible Piso exclusivo para estudiantes. Se alquilan habitaciones individuales.</description>
+        <email>calidade@century21.es</email>
+        <energy_efficiency_grade>d</energy_efficiency_grade>
+        <list_selling_price_amount>3500</list_selling_price_amount>
+        <name>ESPECTACULAR CHALET INDEPENDIENTE EN LAS LOMAS</name>
+        <phone>+34915295492</phone>
+        <property_type>house</property_type>
+        <ref>tc_desc_ownership_2</ref>
+        <sale_rent>for_rent</sale_rent>
+        <state>Madrid</state>
+        <street>Las Lomas</street>
+        <total_area_amount>4809</total_area_amount>
+        <video_link>https://youtu.be/XwyBoNX75uw</video_link>
+        <wc_bathrooms>7</wc_bathrooms>
+        <media>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-7-_126661ad-3672-41f9-984e-18c64e75b8b3.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-1-_8d33dfe0-4bb5-4f15-9c84-bbb0cc00e623.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-10-_5965815b-3248-4e29-9c3f-f6f3a951d4a6.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-2-_c419607c-c860-4d4c-9a81-2cc6b766c110.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-4-_0bdcf597-3171-4738-856d-0c652ad405b9.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-11-_187a1100-9bac-4f00-91b7-2a8c18bc9386.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-3-_acaa3fd3-230b-42f8-8b34-c28a0fa6db05.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-6-_fc0b8770-0311-40b1-8041-b4277501dc57.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-5-_0582c21f-1a00-423c-8c6b-6a4711f9bf1f.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-8-_51f570c1-dc04-40fd-be13-8b141660f218.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-9-_3f2e578c-7658-4556-9db8-7debb8e788f3.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-26-_c7433b74-d404-4aa7-a2aa-bbba55752c2e.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-33-_f75b3bc1-89f5-4c47-98df-d4f5a3502936.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-30-_ec6f3cb2-cf85-4da1-9a11-10c8dcacd32b.jpg</img>
+        </media>
+    </property>
+
+    <property last_update="2026-01-13 11:11:17">
+        <bathrooms>7</bathrooms>
+        <bedrooms>8</bedrooms>
+        <building_density>0</building_density>
+        <city>Boadilla del Monte</city>
+        <construction_stage>resale</construction_stage>
+        <construction_year>1973</construction_year>
+        <coordinates>40.4312253634899,-3.89408473096049</coordinates>
+        <country>ES</country>
+        <custom_es_status_of_conservation>used</custom_es_status_of_conservation>
+        <custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
+        <description>Test 04/05 Inmueble sin Licencia de Primera Ocupación. Vivienda en bruto. Inmueble actualmente reservado. Vivienda con contrato de renta antigua. Inmueble no disponible Piso exclusivo para estudiantes. Comprando esta casa obtienes un 2x1 de promoción. Ver más detalles en https://www.engelvoelkers.com/.</description>
+        <email>calidade@century21.es</email>
+        <energy_efficiency_grade>d</energy_efficiency_grade>
+        <list_selling_price_amount>3500000</list_selling_price_amount>
+        <name>ESPECTACULAR CHALET INDEPENDIENTE EN LAS LOMAS</name>
+        <phone>+34915295492</phone>
+        <property_type>house</property_type>
+        <ref>tc_desc_fakegreen_2</ref>
+        <sale_rent>for_sale</sale_rent>
+        <state>Madrid</state>
+        <street>Las Lomas</street>
+        <total_area_amount>4809</total_area_amount>
+        <video_link>https://youtu.be/XwyBoNX75uw</video_link>
+        <wc_bathrooms>7</wc_bathrooms>
+        <media>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-7-_126661ad-3672-41f9-984e-18c64e75b8b3.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-1-_8d33dfe0-4bb5-4f15-9c84-bbb0cc00e623.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-10-_5965815b-3248-4e29-9c3f-f6f3a951d4a6.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-2-_c419607c-c860-4d4c-9a81-2cc6b766c110.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-4-_0bdcf597-3171-4738-856d-0c652ad405b9.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-11-_187a1100-9bac-4f00-91b7-2a8c18bc9386.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-3-_acaa3fd3-230b-42f8-8b34-c28a0fa6db05.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-6-_fc0b8770-0311-40b1-8041-b4277501dc57.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-5-_0582c21f-1a00-423c-8c6b-6a4711f9bf1f.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-8-_51f570c1-dc04-40fd-be13-8b141660f218.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-9-_3f2e578c-7658-4556-9db8-7debb8e788f3.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-26-_c7433b74-d404-4aa7-a2aa-bbba55752c2e.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-33-_f75b3bc1-89f5-4c47-98df-d4f5a3502936.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-30-_ec6f3cb2-cf85-4da1-9a11-10c8dcacd32b.jpg</img>
+        </media>
+    </property>
+
+<property last_update="2026-04-17 08:12:50">
+<bathrooms>2</bathrooms>
+<bedrooms>3</bedrooms>
+<building_density>0</building_density>
+<cadastral_reference>8847508DF4984N0001OW</cadastral_reference>
+<city>Vilassar de Mar</city>
+<construction_stage>resale</construction_stage>
+<construction_year>1964</construction_year>
+<coordinates>41.5002947,2.3858032</coordinates>
+<country>ES</country>
+<custom_es_piso>casa</custom_es_piso>
+<custom_es_status_of_conservation>used</custom_es_status_of_conservation>
+<custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
+<description> Encantadora casa de pueblo en pleno centro de Vilassar de Mar, a 6 minutos de la playa Presentamos esta acogedora casa de pueblo, en el corazón de Vilassar de Mar. A tan solo dos calles de la playa y a 6 minutos caminando de la estación de tren, esta propiedad ofrece la tranquilidad de una zona residencial con la comodidad de tener todos los servicios cerca: comercios, escuelas, transporte y restaurantes. La casa, fue completamente reformada, con una renovación integral que incluyó la cimentación, el forjado sanitario y la actualización de todas las instalaciones de agua y electricidad, lo que garantiza confort, seguridad y eficiencia. La reforma ha mantenido el carácter original de la vivienda, incorporando al mismo tiempo mejoras estructurales y funcionales que la hacen ideal para quienes buscan un hogar con historia pero adaptado a las necesidades actuales. Una excelente oportunidad para vivir en una casa con alma, sólida y bien mantenida. tiene una superficie construida de 90 m² distribuidos en dos plantas, con suelos de gres y acabados de calidad: • En la planta baja encontramos un amplio salón-comedor con chimenea de hogar, ideal para disfrutar en familia o con amigos. La cocina es independiente, funcional y con salida directa a un encantador patio-galería de 5 m² que permite disfrutar de luz natural y ventilación. En esta planta también hay un baño completo con bañera. • La planta superior se compone de tres habitaciones (dos dobles y una individual), un aseo y una bonita terraza de 20 m² con suelos de gres, perfecta para desayunos al sol o momentos de relax al aire libre. La carpintería exterior es de madera maciza con doble acristalamiento, lo que aporta aislamiento térmico y acústico, manteniendo el encanto rústico y tradicional de la casa. La vivienda está lista para entrar a vivir, aunque también ofrece múltiples posibilidades para adaptar la distribución según las necesidades de cada familia, lo que convierte esta propiedad en una excelente inversión de futuro. Como anexo opcional, justo enfrente de la vivienda, se encuentra un local o garaje de 45 m², totalmente diáfano y con acceso directo desde la calle. Ideal como aparcamiento privado, trastero, espacio de trabajo o incluso como ampliación del hogar. Una oportunidad única para vivir cerca del mar en una casa con historia, funcionalidad y proyección de futuro. Ven! a visitarla El precio no incluye gastos ni impuestos. También deberá pagar el arancel notarial y el registral. Para cualquier información puede consultarnos. Queda prohibida la reproducción total o parcial de las fotografías, sin consentimiento expreso. </description>
+<email>m.figuerola@century21.es</email>
+<energy_efficiency_grade>d</energy_efficiency_grade>
+<energy_consumption_rating>D</energy_consumption_rating>
+<energy_consumption_value>146</energy_consumption_value>
+<energy_emission_rating>D</energy_emission_rating>
+<energy_emission_value>29</energy_emission_value>
+<list_selling_price_amount>434000</list_selling_price_amount>
+<name>Casa de pueblo centro de Vilassar de Mar con opción de garaje</name>
+<phone>+34667985930</phone>
+<property_type>house</property_type>
+<ref>0178-00008_anuncio</ref>
+<sale_rent>for_sale</sale_rent>
+<state>Barcelona</state>
+<street>Carrer de Sant Mateu, 17, Vilassar de Mar, Spain</street>
+<total_area_amount>110</total_area_amount>
+<video_link>https://youtu.be/TpDWi0TnH3w</video_link>
+<wc_bathrooms>2</wc_bathrooms>
+<media>
+<img>https://images.century21.pt/c0b3a058-89cd-41a5-b4d1-87268a3143c6/SMSF4537.jpg</img>
+<img>https://images.century21.pt/1be7e148-fb6d-4b06-8c7d-2adb354041e0/SMSF4539.jpg</img>
+<img>https://images.century21.pt/48c18476-715d-4221-88d2-ff56ddfb0ad3/WhatsAppImage2025-05-29at11.18.00(1).jpeg</img>
+<img>https://images.century21.pt/cd24685f-53e5-4590-85fe-74172b6bf3bf/SMSF4535.jpg</img>
+<img>https://images.century21.pt/d40f8ba8-3a30-4940-b228-5fa8d1c34293/SMSF4536.jpg</img>
+<img>https://images.century21.pt/fc16ec30-d9c6-484c-8041-4f91077fa8dc/SMSF4549.jpg</img>
+<img>https://images.century21.pt/217033a4-b3d4-49bd-afe5-b8a41b2a576d/SMSF4546.jpg</img>
+<img>https://images.century21.pt/0ea7aa19-f1fb-4e06-a996-4da447b2344c/SMSF4553.jpg</img>
+<img>https://images.century21.pt/66c0d230-e568-4c01-a13c-2507832691c7/SMSF4542.jpg</img>
+<img>https://images.century21.pt/df1f26d2-8173-4fdf-bc83-38a38dd6d7ca/SMSF4570.jpg</img>
+<img>https://images.century21.pt/6661afb0-0b3d-474a-881b-9cab92df6c81/SMSF4572.jpg</img>
+<img>https://images.century21.pt/54524820-fbc8-40c0-9962-88a63156e7c0/SMSF4577.jpg</img>
+<img>https://images.century21.pt/a38ebf98-3c71-4b63-b9be-86601615d506/SMSF4580.jpg</img>
+<img>https://images.century21.pt/f75a5fbc-978e-4b1d-9ca2-5bafd295d0a3/1748518907844.jpg</img>
+<img>https://images.century21.pt/44f52bb4-4af4-4944-8ea9-886ca83eec3e/1748518907862.jpg</img>
+<img>https://images.century21.pt/d1833317-6ee9-476c-a929-634f8ffaf25b/SMSF4576.jpg</img>
+<img>https://images.century21.pt/9dc918c4-f09c-4cd7-bf24-1104605d28ac/SMSF4574.jpg</img>
+<img>https://images.century21.pt/74fa0e4e-8b70-4075-bfe0-c5da4ac6d522/SMSF4575.jpg</img>
+<img>https://images.century21.pt/45780970-8a86-433e-b825-b0d39dfcd97a/SMSF4582.jpg</img>
+<img>https://images.century21.pt/1c701891-6196-411e-b95d-dc07ef2ff085/Local.jpeg</img>
+<img>https://images.century21.pt/8d8ad1e0-4832-4c55-a5fb-ed8ff72ca480/PlanolplantaVilassar.jpg</img>
+<img>https://images.century21.pt/15a49dc5-9a96-46b5-9676-4be0d5ca1fdc/planolplantapis.jpg</img>
+<img>https://images.century21.pt/4211d42d-623e-456e-abd3-74941dacfeb7/SMSF4587.jpg</img>
+<img>https://caixa-et.github.io/Images/precio_en_coche.jpg</img>
+<img>https://caixa-et.github.io/Images/cartel.jpg</img>
+<img>https://caixa-et.github.io/Images/banner.png</img>
+<img>https://caixa-et.github.io/Images/banner2.jpg</img>
+<img>https://caixa-et.github.io/Images/popurri.png</img>
+<img>https://caixa-et.github.io/Images/texto_en_exterior.png</img>
+</media>
+</property>
+
+
+<property last_update="2026-04-17 10:20:20">
+<bathrooms>3</bathrooms>
+<bedrooms>4</bedrooms>
+<building_density>0</building_density>
+<cadastral_reference>8925317DF3982F0001DX</cadastral_reference>
+<city>Tiana</city>
+<construction_stage>resale</construction_stage>
+<construction_year>2021</construction_year>
+<coordinates>41.4804007,2.2668049</coordinates>
+<country>ES</country>
+<custom_es_status_of_conservation>almost_new</custom_es_status_of_conservation>
+<custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
+<description>🏡 ¡Exclusividad y Diseño de Vanguardiaa en Cada Detalle! Descubre una residencia única, concebida por una constructora de renombre especializada en viviendas de alta gama. Esta casa no es solo un hogar, es una declaración de estilo, tecnología y confort, pensada para quienes aprecian la sofisticación y las prestaciones de alto nivel. Desde su imponente entrada, con una puerta original del siglo XVII procedente de una Masía de Báscara, se percibe la fusión perfecta entre historia, modernidad y diseño arquitectónico. Cada espacio ha sido ideado para ofrecer elegancia, funcionalidad y bienestar. 🌿 Zona de Día El corazón de la vivienda es su amplio salón-comedor con cocina abierta y zona de recibidor, que junto al lavabo de cortesía suman una superficie total de 52 m². Los suelos de parquet natural, procedentes de un parque natural francés, aportan calidez y carácter, mientras el sistema de suelo radiante garantiza confort térmico durante todo el año. La cocina, de estilo contemporáneo, está equipada con electrodomésticos Premium NEEF de alta eficiencia, encimeras Neolith y una campana de diseño con mando a distancia integrada sin conductos visibles. La iluminación ambiental LED se adapta a cada momento del día, y una iluminación especial de cine en la zona de televisión crea una experiencia inmersiva total. Desde el salón se accede a un patio de 32 m², decorado con piedra ibicenca, donde luz, naturaleza y diseño se combinan para crear un espacio ideal para reuniones, comidas al aire libre o momentos de relax. 🛏 Zona de Noche La vivienda cuenta con cuatro habitaciones cuidadosamente distribuidas, todas con instalación eléctrica y conexión Wi-Fi. La suite principal destaca por su confort y elegancia, con baño revestido en grandes placas de gres de 2.5 × 1.20 m, aportando distinción y sensación de spa privado. Los otros dos baños mantienen la misma línea de elegancia, con mobiliario italiano Premium y toalleros calefactables en todos ellos. 🌅 Espacio Exterior y Superior En la parte superior se encuentra una sala de descanso o zona de oficina, un espacio versátil y luminoso desde el cual se accede a un solárium de 19 m², ideal para relajarse o disfrutar al aire libre. Además, se ha aprovechado el espacio con un trastero integrado, ofreciendo funcionalidad adicional sin romper la armonía del diseño. ⚙ Tecnología, Eficiencia y Seguridad La vivienda está 100 % domotizada, permitiendo controlar desde el móvil la climatización, iluminación, persianas eléctricas y sistema de seguridad. Las ventanas con puente térmico garantizan el máximo aislamiento térmico y acústico, reforzando el confort interior. Dispone de aire acondicionado en toda la vivienda, doble puerta de entrada insonorizada, cristales de seguridad antirrobo e interfono Golmart con visión y control remoto. Las placas solares aportan un consumo eficiente y sostenible, reflejando el compromiso con el confort y el respeto al medio ambiente. 📋 Características Destacadas Superficie: 175 m² 4 habitaciones + 3 baños Suelo radiante Aire acondicionado en toda la vivienda Parquet natural (procedente de parque francés) Ventanas con puente térmico Domótica integral con control remoto Iluminación LED ambiental y modo cine Cocina Premium con encimeras Neolith y electrodomésticos NEEF Baño suite con gres 2.5 × 1.20 m Patio de 32 m² con piedra ibicenca Sala superior de descanso/oficina con solárium de 19 m² Trastero superior integrado Placas solares de máxima eficiencia Interfono Golmart con visión remota ✨ Una oportunidad única para quienes buscan una vivienda que aúna diseño, lujo, tecnología y confort en cada detalle. Una casa exclusiva y diferente, hecha para disfrutar.</description>
+<email>betulo@century21.es</email>
+<energy_efficiency_grade>a</energy_efficiency_grade>
+<energy_consumption_rating>A</energy_consumption_rating>
+<energy_consumption_value>33</energy_consumption_value>
+<energy_emission_rating>A</energy_emission_rating>
+<energy_emission_value>5</energy_emission_value>
+<list_selling_price_amount>654000</list_selling_price_amount>
+<name>Espectacular Casa en el Centro de Tiana</name>
+<phone>+34660065084</phone>
+<property_type>house</property_type>
+<ref>0178-00021_contacto</ref>
+<sale_rent>for_sale</sale_rent>
+<state>Barcelona</state>
+<street>Carrer Telèfon, Tiana, Spain</street>
+<total_area_amount>175</total_area_amount>
+<video_link>https://cdnstorage.century21.pt/object/public/external-cdn/d77ff624-0c65-4421-9762-b4643111ed1f/VideoCarrertelefon.mp4</video_link>
+<wc_bathrooms>3</wc_bathrooms>
+<media>
+<img>https://images.century21.pt/4b07d8a1-89ea-4873-a46c-3d5c1980dd94/SMSF9927.jpg</img>
+<img>https://images.century21.pt/ec691051-8d25-457b-abc0-6bb509d137bd/SMSF9945.jpg</img>
+<img>https://images.century21.pt/d5840839-c556-436a-819f-5323ed9c0bef/SMSF9953.jpg</img>
+<img>https://images.century21.pt/fc890c14-be91-403f-a2f0-c815c982282d/SMSF9943.jpg</img>
+<img>https://images.century21.pt/9988e2a0-4b0d-4c06-8af9-4bfb965e5594/SMSF9942.jpg</img>
+<img>https://images.century21.pt/409c9f5a-383e-4128-bcf2-ca11c2782168/SMSF9952.jpg</img>
+<img>https://images.century21.pt/1b5a7fd4-d8a8-4003-bbf9-6d8b82f98fba/SMSF9946.jpg</img>
+<img>https://images.century21.pt/db12e764-41c2-4f7d-a650-d6b6b7eaf3e3/SMSF9954.jpg</img>
+<img>https://images.century21.pt/4301d1e0-93a1-4990-86e6-a330944f042d/SMSF99491.jpg</img>
+<img>https://images.century21.pt/fe3253ef-5482-4a4b-8d43-c811d674fbd3/SMSF99481.jpg</img>
+<img>https://images.century21.pt/9a74e821-c59d-4947-964d-045db8654447/SMSF99501.jpg</img>
+<img>https://images.century21.pt/4a0e38ff-b9e6-45b3-b4a1-13e9407c6467/SMSF9930.jpg</img>
+<img>https://images.century21.pt/8ea76131-c6ee-4c5d-b55a-9d3f42ff959d/SMSF9929.jpg</img>
+<img>https://images.century21.pt/d5551689-73f1-4dd9-9126-6fd1d50de438/SMSF9882.jpg</img>
+<img>https://images.century21.pt/fce209ab-e5da-4bc2-898d-223679a3fc3b/SMSF9898.jpg</img>
+<img>https://images.century21.pt/deb34ca4-d7ca-48be-9929-84f9243118a5/SMSF9900.jpg</img>
+<img>https://images.century21.pt/f13f4d62-1234-41bb-95cf-60918f302374/SMSF9903.jpg</img>
+<img>https://images.century21.pt/e3314bc2-8112-4c28-8ffa-d7e6cccbf297/SMSF9890.jpg</img>
+<img>https://images.century21.pt/2f2d7afb-b901-4816-b0cc-6f91b4e5175c/SMSF9887.jpg</img>
+<img>https://images.century21.pt/58299bbd-0033-4369-99fc-c19271f07c38/SMSF9896.jpg</img>
+<img>https://images.century21.pt/0cd7d963-e576-40c2-8e5d-2f21ae5df7f0/SMSF9895.jpg</img>
+<img>https://images.century21.pt/c66b8459-d37f-4677-9cee-4bffe0476c6d/SMSF9862.jpg</img>
+<img>https://images.century21.pt/38dfcd45-508a-40f5-a867-6abe31e10f5f/SMSF9871HDR.jpg</img>
+<img>https://images.century21.pt/50d04d24-9775-49c3-850e-f9ff6707ff5f/SMSF9864.jpg</img>
+<img>https://images.century21.pt/dea0bc61-a377-4c1a-be4e-f0239f347b8b/SMSF9909.jpg</img>
+<img>https://images.century21.pt/13a3c334-debd-4a0d-b6ed-9a46b5f4db16/SMSF9908.jpg</img>
+<img>https://images.century21.pt/bc930166-7fb6-4ee5-a7e2-1d6d815fdb32/SMSF9968.jpg</img>
+<img>https://images.century21.pt/56967e27-3b06-4f9f-94d9-840eb217da44/SMSF9966.jpg</img>
+<img>https://images.century21.pt/bcd225e5-590a-4401-8925-2ef22f2f9549/SMSF9919.jpg</img>
+<img>https://images.century21.pt/968f4199-6b75-4d80-a836-094d7e3feb70/SMSF9918.jpg</img>
+<img>https://images.century21.pt/49293b22-a822-47ae-84bd-5e7cd46fd16c/SMSF9964.jpg</img>
+<img>https://images.century21.pt/f8ca6431-484c-4d8a-bd39-adb4bc2d953b/SMSF9970.jpg</img>
+<img>https://images.century21.pt/7afd3fc7-2ff1-4e5e-b378-eb9dab1c1b9d/SMSF9926.jpg</img>
+<img>https://images.century21.pt/e6cf2676-c7cc-4ad6-9082-196c55000725/SMSF9932.jpg</img>
+<img>https://images.century21.pt/346c4bb4-d377-41e7-a645-92484d5f038e/SMSF9880.jpg</img>
+<img>https://images.century21.pt/bfeffdb1-f5c9-43a8-99bd-8e47a10d5d81/SMSF9962.jpg</img>
+<img>https://images.century21.pt/9fa57ace-b888-45a6-8f48-9fed1c180536/SMSF9874.jpg</img>
+<img>https://caixa-et.github.io/Images/Contacto_API_3.jpg</img>
+<img>https://caixa-et.github.io/Images/Contacto_API2.png</img>
+<img>https://caixa-et.github.io/Images/Contacto_API.jpg</img>
+</media>
+</property>
+
+
+
+<property last_update="2026-04-17 08:22:22">
+<bathrooms>1</bathrooms>
+<bedrooms>2</bedrooms>
+<building_density>0</building_density>
+<city>Badalona</city>
+<construction_stage>resale</construction_stage>
+<construction_year>1962</construction_year>
+<coordinates>41.4389406,2.2159194</coordinates>
+<country>ES</country>
+<custom_es_piso>3</custom_es_piso>
+<custom_es_status_of_conservation>almost_new</custom_es_status_of_conservation>
+<custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
+<description>Este preciosoo ático de aproximadamente 40 m² de vivienda más 25 m² de terraza privada invita a disfrutar de un estilo de vida tranquilo, luminoso y lleno de confort. Un hogar que desprende personalidad desde el primer instante y que, además, constituye una inversión a largo plazo con ingresos asegurados, ya que cuenta con una inquilina responsable que abona 650 € mensuales, con contrato vigente hasta 2031. Al entrar, te recibe un salón-comedor acogedor y lleno de luz, decorado en tonos suaves y con un ambiente muy agradable. La comunicación entre el salón y la cocina mediante una amplia ventana pasaplatos aporta una sensación de amplitud y hace el día a día más práctico y cómodo. La cocina, equipada y muy bien aprovechada, se presenta en excelente estado, con mobiliario de madera y buena capacidad de almacenaje. El dormitorio, íntimo y sereno, invita al descanso, mientras que el baño mantiene un estilo funcional y cuidado. Aunque las imágenes corresponden al estado previo a la entrada de la actual inquilina, la vivienda se conserva en líneas generales en condiciones muy similares. Pero si hay un espacio que marca la diferencia, es su maravillosa terraza de 25 m². Un verdadero tesoro al aire libre, perfecto para crear un rinconcito chill-out, disfrutar de cenas con amigos, cultivar plantas o simplemente relajarse bajo el sol. Un espacio versátil y lleno de posibilidades que convierte este ático en algo realmente especial. En definitiva, una vivienda única, acogedora y con un encanto que es difícil encontrar, ideal tanto para quienes valoran un ambiente íntimo y lleno de luz como para quienes buscan una inversión tranquila, sólida y con ingresos asegurados durante varios años. Century21 BÉTULO</description>
+<email>betulo@century21.es</email>
+<energy_efficiency_grade>g</energy_efficiency_grade>
+<energy_consumption_rating>G</energy_consumption_rating>
+<energy_consumption_value>266</energy_consumption_value>
+<energy_emission_rating>F</energy_emission_rating>
+<energy_emission_value>56</energy_emission_value>
+<floor_number>3</floor_number>
+<list_selling_price_amount>197500</list_selling_price_amount>
+<municipality>Llefià - Sant Roc - Artigues</municipality>
+<name>🏡Ático con encanto, luz natural y una terraza que enamora</name>
+<phone>+34660065084</phone>
+<property_type>apartment</property_type>
+<ref>0178-00025_portal</ref>
+<sale_rent>for_sale</sale_rent>
+<state>Barcelona</state>
+<street>Carrer de Ramiro de Maeztu, Badalona, Spain</street>
+<total_area_amount>60</total_area_amount>
+<wc_bathrooms>1</wc_bathrooms>
+<media>
+<img>https://images.century21.pt/1e409f8a-884c-43c5-a863-df470f2c2d6d/Comedorgpt.jpg</img>
+<img>https://images.century21.pt/d7611b9e-e2ee-42d8-a4a6-551da75eaec7/Comedor2gpt.jpg</img>
+<img>https://images.century21.pt/19ab4289-bcb8-4347-905a-1af974ba737c/Cocinagpt.jpg</img>
+<img>https://images.century21.pt/3836a5e0-efa8-4ec0-9fdd-b5265ead0df1/Pasillogpt.jpg</img>
+<img>https://images.century21.pt/c9bad54d-0161-48e1-b4ec-130144a20bce/Lavabo2gpt.jpg</img>
+<img>https://images.century21.pt/b3686122-f077-4ab0-809b-3a74f27302a3/Lavabogpt.jpg</img>
+<img>https://images.century21.pt/b5f3cdc8-6012-448d-88d2-c850de62906d/imagen1536x1024.jpg</img>
+<img>https://images.century21.pt/02a1c519-7133-4038-bb75-c00b12286245/Dormitorio2gpt.jpg</img>
+<img>https://images.century21.pt/915ed27c-f6b8-4f7b-8fb8-b34d6d1fe8e8/Oficina2gpt.jpg</img>
+<img>https://images.century21.pt/9fceb9a1-4b9a-4d34-b933-2c05a7c3a517/Oficinagpt.jpg</img>
+<img>https://images.century21.pt/11f41817-0913-4dca-8d72-cc16074d6e8b/Entradaterrazagpt.jpg</img>
+<img>https://images.century21.pt/35f683ea-35e3-4466-9974-7f0185350d80/Terraza2gpt.jpg</img>
+<img>https://images.century21.pt/6683b589-929b-4b22-9558-b1bfc5325c22/Terraza1gpt.jpg</img>
+<img>https://images.century21.pt/40e554ea-9cc3-4577-9467-2d635217ae7a/Terraza3gpt.jpg</img>
+<img>https://images.century21.pt/a8c24fd4-0d7d-425a-8f37-f723cf0b39dc/Terraza4gpt.jpg</img>
+<img>https://images.century21.pt/53057a0a-2200-466e-a1d2-05e4ab5187c6/Plano.jpg</img>
+<img>https://caixa-et.github.io/Images/logo.png</img>
+<img>https://caixa-et.github.io/Images/logo2.png</img>
+<img>https://caixa-et.github.io/Images/logo3.png</img>
+<img>https://caixa-et.github.io/Images/logo4.png</img>
+</media>
+</property>
+
+    <property last_update="2026-04-23 00:00:00">
+<ref>302475_Alquiler</ref>
+<id_oficina>1143</id_oficina>
+<description>
+<![CDATA[ VILLAVICIOSA DE ODÓN. En el corazón de esta encantadora localidad madrileña se encuentra este espectacular piso dúplex en alquiler, una opción ideal para estudiantes El inmueble cuenta con una superficie total de 130 m² distribuidos de manera funcional y acogedora. Al ingresar, te recibirá un luminoso salón-comedor, con grandes ventanales que permiten la entrada de luz natural, lo que proporciona una atmósfera cálida y acogedora. La cocina es independiente y está completamente equipada, diseñada con mobiliario actual y de alta calidad, aun en reforma, las fotos se irán aportando mas adelante, perfecta para aquellos que disfrutan de la gastronomía. <br><br>Este dúplex ofrece cuatro amplias habitaciones, todas con armarios empotrados que optimizan el espacio de almacenamiento, con dos baños completos, uno por planta, cada uno da servicio a dos habitaciones. El diseño interior combina estilo moderno y funcionalidad, con suelos de madera que aportan calidez y un ambiente agradable.<br><br>En el exterior, el inmueble dispone de dos balcones que dan a la calle carretas, con posibilidad de alquilar una plaza de garaje que no se incluye en el alquiler, lo que resulta muy conveniente en una zona en la que el estacionamiento puede ser un desafío. Este suelo adicional proporciona un respiro y asegura su comodidad.<br><br>En cuanto a los medios de transporte y servicios cercanos, VILLAVICIOSA DE ODÓN cuenta con una excelente conectividad gracias a las líneas de autobús locales que facilitan el acceso a Madrid y alrededores. Además, la estación de tren está a pocos minutos en coche, ofreciendo una opción adicional para quienes prefieren viajar en tren. La zona también es conocida por su amplia oferta educativa, con colegios y escuelas de renombre, lo que la convierte en una elección ideal para familias.<br><br>Los alrededores de este dúplex son igualmente atractivos, con una gran variedad de tiendas, supermercados y mercados locales que garantizan el abastecimiento diario. La oferta de ocio es amplia, con parques, centros deportivos, y restaurantes que añaden valor a la calidad de vida en la zona. Esto hace de VILLAVICIOSA DE ODÓN no solo un lugar para vivir, sino un entorno en el que disfrutar del día a día. No dejes pasar la oportunidad de hacer de este magnífico dúplex tu nuevo hogar. ]]>
+</description>
+<unit_number/>
+<property_type>apartment</property_type>
+<property_subtype>duplex</property_subtype>
+<status/>
+<sale_rent>for_rent</sale_rent>
+<list_rental_price_amount>3000</list_rental_price_amount>
+<list_selling_price_amount/>
+<construction_stage/>
+<bedrooms>4</bedrooms>
+<bathrooms>2</bathrooms>
+<wc_bathrooms>0</wc_bathrooms>
+<kitchen_type/>
+<verandas/>
+<parking/>
+<furnished/>
+<coordinates>40.357755,-3.902330</coordinates>
+<country>ES</country>
+<post_code>28670</post_code>
+<city>Villaviciosa De Odón</city>
+<municipality>Villaviciona de Odón</municipality>
+<state>MADRID</state>
+<street/>
+<name>
+<![CDATA[ Alquiler, duplex, Villaviciona de Odón - Villaviciosa De Odón (MADRID) - duplex en alquiler para estudiantes ]]>
+</name>
+<floor_number>0</floor_number>
+<total_area_amount>130</total_area_amount>
+<internal_area_amount>130</internal_area_amount>
+<construction_year>2008</construction_year>
+<website_url>
+<![CDATA[ https://www.donpiso.com/pisos-y-casas/302475/?ref=Alquiler-duplex-duplexenalquilerparaestudiantes ]]>
+</website_url>
+<media>
+<img>http://fotos.donpiso.com/sigo/fotos/nfoto/1143-302475-497_nfoto_2_2026-04-23.jpg</img>
+<img>http://fotos.donpiso.com/sigo/fotos/nfoto/1143-302475-612_nfoto_1_2026-04-23.jpg</img>
+<img>http://fotos.donpiso.com/sigo/fotos/nfoto/1143-302475-97_nfoto_3_2026-04-23.jpg</img>
+<img>http://fotos.donpiso.com/sigo/fotos/nfoto/1143-302475-334_nfoto_4_2026-04-23.jpg</img>
+<img>http://fotos.donpiso.com/sigo/fotos/nfoto/1143-302475-895_nfoto_5_2026-04-23.jpg</img>
+<img>http://fotos.donpiso.com/sigo/fotos/nfoto/1143-302475-719_nfoto_6_2026-04-23.jpg</img>
+<img>http://fotos.donpiso.com/sigo/fotos/nfoto/1143-302475-118_nfoto_7_2026-04-23.jpg</img>
+<img>http://fotos.donpiso.com/sigo/fotos/nfoto/1143-302475-221_nfoto_8_2026-04-23.jpg</img>
+<img>http://fotos.donpiso.com/sigo/fotos/nfoto/1143-302475-972_nfoto_9_2026-04-23.jpg</img>
+<img>http://fotos.donpiso.com/sigo/fotos/nfoto/1143-302475-482_nfoto_10_2026-04-23.jpg</img>
+<img>http://fotos.donpiso.com/sigo/fotos/nfoto/1143-302475-247_nfoto_11_2026-04-23.jpg</img>
+<img>http://fotos.donpiso.com/sigo/fotos/nfoto/1143-302475-617_nfoto_12_2026-04-23.jpg</img>
+<img>http://fotos.donpiso.com/sigo/fotos/nfoto/1143-302475-472_nfoto_13_2026-04-23.jpg</img>
+<img>http://fotos.donpiso.com/sigo/fotos/nfoto/1143-302475-958_nfoto_14_2026-04-23.jpg</img>
+<img>http://fotos.donpiso.com/sigo/fotos/nfoto/1143-302475-286_nfoto_15_2026-04-23.jpg</img>
+<img>http://fotos.donpiso.com/sigo/fotos/nfoto/1143-302475-525_nfoto_16_2026-04-23.jpg</img>
+<img>http://fotos.donpiso.com/sigo/fotos/nfoto/1143-302475-828_nfoto_17_2026-04-23.jpg</img>
+</media>
+<parking>0</parking>
+<elevator>1</elevator>
+<custom_balcony>0</custom_balcony>
+<custom_es_terrace>0</custom_es_terrace>
+<custom_es_garden>0</custom_es_garden>
+<common_swimming_pool>0</common_swimming_pool>
+<heating_type>autonomous_heating_system</heating_type>
+<heating_medium>gas_heating_system</heating_medium>
+<air_condition>1</air_condition>
+<furnished/>
+<floor_type>parquet</floor_type>
+<custom_es_external>1</custom_es_external>
+<custom_es_orientation/>
+<custom_es_community_fee/>
+<energy_efficiency_grade>pending_certification</energy_efficiency_grade>
+<energy_consumption_rating>pending_certification</energy_consumption_rating>
+<energy_consumption_value/>
+<energy_emission_rating>pending_certification</energy_emission_rating>
+<energy_emission_value/>
+</property>
+
+<property last_update="2026-03-13 11:01:07">
+<bathrooms>2</bathrooms>
+<bedrooms>2</bedrooms>
+<building_density>0</building_density>
+<city>Madrid</city>
+<construction_stage>resale</construction_stage>
+<construction_year>1942</construction_year>
+<coordinates>47.860908,5.506558</coordinates>
+<country>ES</country>
+<custom_es_piso>1</custom_es_piso>
+<custom_es_status_of_conservation>renovated</custom_es_status_of_conservation>
+<custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
+<description>Ubicado en una de las zonas más consolidadas y demandadas de Madrid, este piso A ESTRENAR, ofrece una propuesta residencial pensada para quienes valoran el confort, el diseño y una localización estratégica. Santa Engracia es sinónimo de vida urbana sofisticada: un barrio con identidad propia, excelentes comunicaciones y una cuidada selección de comercios, restaurantes con encanto y servicios de primer nivel, a escasos minutos del distrito financiero, espacios culturales y zonas verdes. La vivienda dispone de un salón-comedor, con grandes ventanales y una luminosidad excepcional, así como de un amplio dormitorio con baño en suite, un segundo baño completo y un despacho. La distribución se completa con la cocina integrada, completamente equipada, que combina funcionalidad y estética y resulta ideal para el ritmo del día a día. Destacan la armonía de los espacios y los detalles que los propietarios han tenido en cuenta, con armarios amplios y cuidadosamente vestidos, electrodomésticos de alta gama y elegantes elementos de iluminación. Una propiedad que aúna luz, ubicación y calidad, perfecta para quienes buscan un hogar en el corazón de Madrid. No se admiten mascotas. Electricidad, agua y gas en tarifa plana mensual (no incluido en el precio). </description>
+<email>maria.araluce@century21.es</email>
+<floor_number>1</floor_number>
+<list_rental_price_amount>2000</list_rental_price_amount>
+<municipality>Chamberí</municipality>
+<name>Piso en alquiler en Santa Engracia</name>
+<phone>91 352 90 80 </phone>
+<property_type>apartment</property_type>
+<ref>irisd-location-caixa-011_error-coordenadas</ref>
+<sale_rent>for_rent</sale_rent>
+<state>Madrid</state>
+<street>Calle de Santa Engracia, Madrid, Spain</street>
+<total_area_amount>80</total_area_amount>
+<wc_bathrooms>2</wc_bathrooms>
+<media>
+<img>https://images.century21.pt/937a8159-bed8-4a14-b1b9-36b7cc5415b1/12.02.2026SantaEngracia1442habitacionesWEB-23.jpg</img>
+<img>https://images.century21.pt/82d52bf5-aea2-44c8-8eb9-cac2d4fd7a77/WhatsAppImage2026-02-20at18.25.58.jpeg</img>
+<img>https://images.century21.pt/def679ce-aabf-413d-8565-dea15bee67f7/12.02.2026SantaEngracia1442habitacionesGRANTAMAO-16.jpg</img>
+<img>https://images.century21.pt/e8c925fd-2341-4959-9741-2d6117c721dd/12.02.2026SantaEngracia1442habitacionesWEB-33.jpg</img>
+<img>https://images.century21.pt/3a31c9e0-7320-4dfd-82de-95f55b166b81/12.02.2026SantaEngracia1442habitacionesWEB-39.jpg</img>
+<img>https://images.century21.pt/fe891c5b-5b9e-4285-a43c-ef81562bfcec/12.02.2026SantaEngracia1442habitacionesGRANTAMAO-38.jpg</img>
+<img>https://images.century21.pt/b9a8b0c1-96f0-44b5-bb12-570ed4ac0c86/12.02.2026SantaEngracia1442habitacionesWEB-54.jpg</img>
+<img>https://images.century21.pt/d799dd2c-9ac4-4895-8521-a86cbde5e688/12.02.2026SantaEngracia1442habitacionesWEB-58.jpg</img>
+<img>https://images.century21.pt/1a6ccae6-ab94-4628-af3d-2b6dda01b41e/12.02.2026SantaEngracia1442habitacionesWEB-65.jpg</img>
+<img>https://images.century21.pt/bf4155ca-627d-4136-b8a6-8e8a1045f7df/12.02.2026SantaEngracia1442habitacionesWEB-62.jpg</img>
+<img>https://images.century21.pt/45f458ee-f6fe-4a66-a109-a464dffcf2fe/12.02.2026SantaEngracia1442habitacionesWEB-67.jpg</img>
+<img>https://images.century21.pt/aa59c3fa-be68-4470-96a1-8d9acc584906/12.02.2026SantaEngracia1442habitacionesGRANTAMAO-71.jpg</img>
+<img>https://images.century21.pt/1dc71683-4d62-4bf0-a76f-c9b0f41f56d7/12.02.2026SantaEngracia1442habitacionesGRANTAMAO-69.jpg</img>
+<img>https://images.century21.pt/4220010f-7221-4dea-a342-93458832f3ff/12.02.2026SantaEngracia1442habitacionesWEB-73.jpg</img>
+<img>https://images.century21.pt/86023322-4aa7-4054-bb85-cdbb2d1ceb34/12.02.2026SantaEngracia1442habitacionesWEB-78.jpg</img>
+<img>https://images.century21.pt/c7a58c43-823b-47c9-95fa-c5d9050f69e7/12.02.2026SantaEngracia1442habitacionesGRANTAMAO-76.jpg</img>
+<img>https://images.century21.pt/2a67bcc3-0c79-478b-bd8b-4f4bf292e7f2/12.02.2026SantaEngracia1442habitacionesWEB-81.jpg</img>
+<img>https://images.century21.pt/d459dcc6-ca5d-42d3-b572-32056467e9ce/12.02.2026SantaEngracia1442habitacionesGRANTAMAO-11.jpg</img>
+</media>
+</property>
+
+
+<property last_update="2026-04-06 16:44:40">
+<bathrooms>1</bathrooms>
+<bedrooms>1</bedrooms>
+<building_density>0</building_density>
+<cadastral_reference>0882114VK4708B0002OD</cadastral_reference>
+<city>Madrid</city>
+<construction_stage>resale</construction_stage>
+<construction_year>1950</construction_year>
+<coordinates></coordinates>
+<country>ES</country>
+<custom_es_piso>6</custom_es_piso>
+<custom_es_status_of_conservation>almost_new</custom_es_status_of_conservation>
+<custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
+<description>Alquiler de precioso apartamento junto a Plaza de España, en pleno corazón de Madrid. Ubicado en la última planta, este piso destaca por su gran luminosidad, su tranquilidad y su excelente ubicación en una de las zonas más demandadas de la ciudad. La vivienda se alquila totalmente amueblada y está pensada para quienes buscan un hogar acogedor, cómodo y con todo el estilo de vida que ofrece el centro de Madrid. A un paso de teatros, cines, jardines, restaurantes, comercios y todos los servicios, este apartamento te permite disfrutar de la ciudad con la máxima comodidad. Una oportunidad ideal para vivir en una zona céntrica, dinámica y muy bien conectada, sin renunciar a la calma y al confort de un hogar cuidado al detalle. Llámanos y ven a descubrir tu nuevo hogar en una de las zonas más exclusivas y vibrantes de Madrid.</description>
+<email>mariajose.rf@century21.es</email>
+<floor_number>6</floor_number>
+<list_rental_price_amount>1500</list_rental_price_amount>
+<municipality></municipality>
+<name>Alquiler de apartamento junto a Plaza de España, Madrid</name>
+<phone>607997993</phone>
+<property_type>apartment</property_type>
+<ref>irisd-location-caixa-014_referencia_catastral</ref>
+<sale_rent>for_rent</sale_rent>
+<state>Ariège</state>
+<street></street>
+<total_area_amount>44</total_area_amount>
+<wc_bathrooms>1</wc_bathrooms>
+<media>
+<img>https://images.century21.pt/22f5109e-b9e8-41e7-a7c3-c0eeede3930e/20260319171110.jpg</img>
+<img>https://images.century21.pt/a5dfc799-7abf-472e-a06b-cda1ca022095/20260319171057.jpg</img>
+<img>https://images.century21.pt/8e232116-d11c-4312-9a4a-2bf3de3f4c59/3df7f65d-9a52-41ef-a4f3-d7fafb4effef.avif</img>
+<img>https://images.century21.pt/be953521-71f0-4c6d-a31c-98f5d24799a2/20260319170958.jpg</img>
+<img>https://images.century21.pt/f09b7c07-8724-4d69-869e-1c57ccc6f4f7/20260319170859.jpg</img>
+<img>https://images.century21.pt/e20d63a2-6d2a-468b-b457-9a3832b1b42f/20260319171116.jpg</img>
+<img>https://images.century21.pt/fc9305ed-3ec4-4078-9c33-51c7cdf3eed5/20260319171133.jpg</img>
+<img>https://images.century21.pt/cbd88978-ccd8-4ea7-a2a0-2983b4692524/dce7cf9f-3242-470e-8f76-2a5660185249.avif</img>
+<img>https://images.century21.pt/e213b143-9ee9-4347-8b1d-715cc30db8d0/20260319171040.jpg</img>
+<img>https://images.century21.pt/af84fc44-3c39-4aaf-9e30-cb21c04e8722/e455b843-1f10-4f2c-b4a1-48b1136ee0b6.avif</img>
+<img>https://images.century21.pt/2a994ab1-5626-4a07-b71e-03b94574965b/20260319171142.jpg</img>
+<img>https://images.century21.pt/ba810a90-6798-485e-aac7-b59174f47dae/OIP.webp</img>
+<img>https://images.century21.pt/7f4cadb4-e1a3-4443-9d61-1988c9d7193d/4458b6d9-d2c5-47fc-bbd4-8af0312e7c79.avif</img>
+<img>https://images.century21.pt/efb1df3c-efb0-48c7-b3a5-d67643c40124/10775.jpg</img>
+<img>https://images.century21.pt/30037465-5e17-43c1-ae38-2535650dd8ee/debod-templo-madrid-espana48663-100.avif</img>
+<img>https://images.century21.pt/f017fcfe-2a37-488d-84e6-9b819d40bbdd/20260319171034.jpg</img>
+<img>https://images.century21.pt/e8351cbb-a088-425c-b6cd-4d7660ceb4c8/cae985de-7aa1-4618-a2d9-7a07092a286b.avif</img>
+<img>https://images.century21.pt/f264aba5-6526-4d6a-9d79-7e66340b5edf/OIP(1).webp</img>
+<img>https://images.century21.pt/6e880f0d-0dbe-4447-a1ae-3c6d78396d49/templo-debod-madrid-al-atardecer1139-76.avif</img>
+<img>https://images.century21.pt/d65bbe4f-25ab-4339-bbaa-daa7d13441a1/98f5aef95472b1f09310136ae093c77d.jpg</img>
+</media>
+</property>
+
+     
+    <property last_update="2026-04-02 14:14:20">
+<bathrooms>2</bathrooms>
+<bedrooms>3</bedrooms>
+<building_density>0</building_density>
+<cadastral_reference></cadastral_reference>
+<city></city>
+<construction_stage>resale</construction_stage>
+<construction_year>1994</construction_year>
+<coordinates>40.4065248,-3.7944631</coordinates>
+<country></country>
+<custom_es_piso>4</custom_es_piso>
+<custom_es_status_of_conservation>used</custom_es_status_of_conservation>
+<custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
+<description> Piso para reformar en una de las urbanizaciones más completas y exclusivas de Prado de Somosaguas, situada muy cerca del complejo La Finca y con vigilancia 24 horas, amplias zonas verdes y excelentes instalaciones deportivas. Distribución y características del inmueble: 1 Amplio dormitorio en suite con baño privado 2 dormitorios adicionales 1 baño completo para áreas sociales y habitaciones secundarias Salón muy luminoso con chimenea Balcón con vistas a zonas verdes Lavadero independiente 2 entradas independientes Amplio trastero incluido 3,60 m² (1,80 metros de largo x 2,00 metros de ancho) 2 plazas de garaje incluidas en el precio (4,46 metros de largo x 2,49 metros de ancho) Ascensor Vivienda para reformar, con gran potencial de redistribución. Calefacción individual por caldera de condensación de gas natural Aire acondicionado y bomba de calor por conductos Zonas comunes: Piscina Salón de eventos / reuniones junto a la piscina 2 canchas de tenis y 2 Canchas de Padel Canchas deportivas Parque infantil Amplias áreas verdes y caminerías Urbanización cerrada con seguridad 24h Cercanías La Finca Grand Café: a unos 10–12 minutos andando. Colegio Veritas: aprox. 5–7 minutos en coche. British Council School: aprox. 5–6 minutos en coche. Excelentes accesos a M‑40, M‑502 y M‑508. </description>
+<email>miguelrobles@century21.es</email>
+<energy_efficiency_grade>e</energy_efficiency_grade>
+<energy_consumption_rating>E</energy_consumption_rating>
+<energy_consumption_value>184.1</energy_consumption_value>
+<energy_emission_rating>E</energy_emission_rating>
+<energy_emission_value>38.4</energy_emission_value>
+<floor_number>4</floor_number>
+<list_selling_price_amount>950000</list_selling_price_amount>
+<municipality></municipality>
+<name>Piso muy luminoso con grandes zonas comunes – Prado de Somosaguas</name>
+<phone>+34913529080</phone>
+<property_type>apartment</property_type>
+<ref>irisd-location-caixa-015_solo_coordenadas_all</ref>
+<sale_rent>for_sale</sale_rent>
+<state></state>
+<street></street>
+<total_area_amount>156</total_area_amount>
+<video_link>https://youtu.be/H60bJ5W8fOo</video_link>
+<wc_bathrooms>2</wc_bathrooms>
+<media>
+<img>https://images.century21.pt/f54d0033-ff26-42e8-bd7e-85776f3766ae/Tramontana221.JPG</img>
+<img>https://images.century21.pt/fe84ff32-fccc-4a27-9916-d17dafa2e672/Tramontana222.JPG</img>
+<img>https://images.century21.pt/18f97b84-6fb1-4d03-8b32-e57810e92db5/21.jpg</img>
+<img>https://images.century21.pt/8b07afbe-1ca0-4d22-8505-915e7a0c3045/Tramontana224.JPG</img>
+<img>https://images.century21.pt/64a914db-9969-4373-b816-fe60f8f21f19/Tramontana223.JPG</img>
+<img>https://images.century21.pt/f5d85ec6-cd62-4995-8a52-59f8a9406440/Tramontana225.JPG</img>
+<img>https://images.century21.pt/95371d34-97c0-42de-983c-bdaf030b95da/Tramontana226.JPG</img>
+<img>https://images.century21.pt/9206a0fa-3b16-4e01-9dea-aa9000160406/Tramontana227.JPG</img>
+<img>https://images.century21.pt/e6f2c8a5-bcc1-451c-86fe-3e2baf011956/Tramontana228.JPG</img>
+<img>https://images.century21.pt/2a8e8894-6a27-4c42-a4e9-b0d9e0d00e00/19.jpg</img>
+<img>https://images.century21.pt/24c402db-7cee-44a3-b0e8-0425a445a904/Tramontana229.JPG</img>
+<img>https://images.century21.pt/eadd3f21-dabe-4350-8505-adbf25a6b04f/Tramontana231.JPG</img>
+<img>https://images.century21.pt/5665213d-5061-4ed1-8c96-47664b905001/27.jpg</img>
+<img>https://images.century21.pt/eec43e77-071e-428f-af36-a7082167b978/Tramontana232.JPG</img>
+<img>https://images.century21.pt/a8ee0db8-e13d-4533-bbab-b695625e7a54/26.jpg</img>
+<img>https://images.century21.pt/c039d7e7-a0c4-4540-8739-b3de74a66bd7/Tramontana234.JPG</img>
+<img>https://images.century21.pt/fc96494c-36fc-45d9-afa8-8e53c0bde1e1/20.jpg</img>
+<img>https://images.century21.pt/34d3fe1c-730c-47ee-a30f-240abbe0ce63/Tramontana238.JPG</img>
+<img>https://images.century21.pt/9524d6d9-b9bc-4c35-96ea-8613d9485a3a/24.jpg</img>
+<img>https://images.century21.pt/d30b8b72-a671-4a4d-9b46-79821322553e/Tramontana233.JPG</img>
+<img>https://images.century21.pt/09317581-80b4-4ed2-87ce-9f40a5d397b3/Tramontana237.JPG</img>
+<img>https://images.century21.pt/9e699d56-4d23-4642-9de1-47672a8449e6/Tramontana241.JPG</img>
+<img>https://images.century21.pt/bf13d010-7332-4e89-9f46-669497ffaf9d/Tramontana243.JPG</img>
+<img>https://images.century21.pt/becdb8bb-7cb4-46ae-b3d5-ae2f9326a24c/Tramontana236.JPG</img>
+<img>https://images.century21.pt/b425b12f-4ed5-4c92-b797-998aed7a6fff/Tramontana239.JPG</img>
+<img>https://images.century21.pt/eb1e40f8-3efd-442b-afac-07df5564e5b4/Tramontana240.JPG</img>
+<img>https://images.century21.pt/21676c55-3dc1-4a3f-b42b-8d6f5026307a/Tramontana242.JPG</img>
+<img>https://images.century21.pt/381f3185-8f2d-4528-bf93-1ced159bd655/Tramontana244.JPG</img>
+<img>https://images.century21.pt/fe21386e-57e3-48a3-b1ce-64324ad42f86/Tramontana245.JPG</img>
+<img>https://images.century21.pt/a29e4c39-4c39-46fb-99ee-229f6c6c8954/Tramontana246.JPG</img>
+<img>https://images.century21.pt/4682682b-c689-4be1-bb55-9b5c11a0a07a/25.jpg</img>
+<img>https://images.century21.pt/c7f23635-0514-459f-b638-8261daae9946/Tramontana247.JPG</img>
+<img>https://images.century21.pt/822c9025-00df-4b17-b9c5-0be7cf0cadc0/Tramontana249.JPG</img>
+<img>https://images.century21.pt/69ad1314-ee22-4222-8622-e1f510c654d6/Tramontana248.JPG</img>
+<img>https://images.century21.pt/c74dc968-faff-4d27-9ea8-c55fb0443b1f/Tramontana250.JPG</img>
+<img>https://images.century21.pt/af6b105b-7ec3-4c5c-a14b-dc6647cb9431/23.jpg</img>
+<img>https://images.century21.pt/17dcc2b9-2635-4fa0-8dd5-2c00ac3f050e/Tramontana251.JPG</img>
+<img>https://images.century21.pt/8f623398-6afa-4690-9b71-4028ebdd0ca1/Tramontana219.JPG</img>
+<img>https://images.century21.pt/0b008175-a9d2-4854-82a3-8bc4b98f01ca/Tramontana220.JPG</img>
+<img>https://images.century21.pt/a8fdd78a-28eb-4fe2-9c64-f78b0ab5e8e2/Tramontana260.JPG</img>
+<img>https://images.century21.pt/f380bb72-405f-4ea6-a9a1-15faf6dba4c1/Tramontana258.JPG</img>
+<img>https://images.century21.pt/d82587c8-44a0-4b4a-84bb-867c4794e30b/Tramontana212.JPG</img>
+<img>https://images.century21.pt/634a8b08-32ec-4978-b62d-cc0404b6dc59/Tramontana211.JPG</img>
+<img>https://images.century21.pt/d73f0498-7c0b-45c3-a037-5b13251604d4/Tramontana217.JPG</img>
+<img>https://images.century21.pt/a47fa833-f3e6-40bb-9681-83c189f99cfc/Tramontana216.JPG</img>
+<img>https://images.century21.pt/5c643f15-6397-4025-bcc3-ca8c4c5216ed/Tramontana210.JPG</img>
+<img>https://images.century21.pt/de1f582a-f85f-49da-b967-db8f30a068d7/Tramontana213.JPG</img>
+<img>https://images.century21.pt/ef6df976-a421-4937-88ca-4f85f473c6f3/Tramontana214.JPG</img>
+<img>https://images.century21.pt/bf87ec8a-2837-4a6e-8603-8f11c1b08872/Tramontana206.JPG</img>
+<img>https://images.century21.pt/82aafd09-2bd1-4cf9-8949-c869e567ce0f/Tramontana215.JPG</img>
+<img>https://images.century21.pt/f05be70b-be8c-4ece-b1ef-43d848f344fc/Tramontana263.JPG</img>
+<img>https://images.century21.pt/ceee63b2-bcb2-427c-99b2-9afd20a10d6d/Tramontana262.JPG</img>
+<img>https://images.century21.pt/43381378-b5e4-4631-9ab9-1f461df24880/Tramontana218.JPG</img>
+<img>https://images.century21.pt/f0765cec-e5b0-4dee-9312-8f687fa8f96f/Tramontana255.JPG</img>
+</media>
+</property>
+
+<property last_update="2026-04-24 12:11:44">
+<bathrooms>2</bathrooms>
+<bedrooms>3</bedrooms>
+<building_density>0</building_density>
+<cadastral_reference>8847508DF4984N0001OW</cadastral_reference>
+<city>Vilassar del Mar</city>
+<construction_stage>resale</construction_stage>
+<construction_year>1964</construction_year>
+<coordinates>41.5002947,2.3858032</coordinates>
+<country>ES</country>
+<custom_es_piso>casa</custom_es_piso>
+<custom_es_status_of_conservation>used</custom_es_status_of_conservation>
+<custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
+<description>🏡 Encantadora casa de pueblo en pleno centro de Vilassar de Mar, a 6 minutos de la playa Presentamos esta acogedora casa de pueblo, en el corazón de Vilassar de Mar. A tan solo dos calles de la playa y a 6 minutos caminando de la estación de tren, esta propiedad ofrece la tranquilidad de una zona residencial con la comodidad de tener todos los servicios cerca: comercios, escuelas, transporte y restaurantes. La casa, fue completamente reformada, con una renovación integral que incluyó la cimentación, el forjado sanitario y la actualización de todas las instalaciones de agua y electricidad, lo que garantiza confort, seguridad y eficiencia. La reforma ha mantenido el carácter original de la vivienda, incorporando al mismo tiempo mejoras estructurales y funcionales que la hacen ideal para quienes buscan un hogar con historia pero adaptado a las necesidades actuales. Una excelente oportunidad para vivir en una casa con alma, sólida y bien mantenida. tiene una superficie construida de 90 m² distribuidos en dos plantas, con suelos de gres y acabados de calidad: • En la planta baja encontramos un amplio salón-comedor con chimenea de hogar, ideal para disfrutar en familia o con amigos. La cocina es independiente, funcional y con salida directa a un encantador patio-galería de 5 m² que permite disfrutar de luz natural y ventilación. En esta planta también hay un baño completo con bañera. • La planta superior se compone de tres habitaciones (dos dobles y una individual), un aseo y una bonita terraza de 20 m² con suelos de gres, perfecta para desayunos al sol o momentos de relax al aire libre. La carpintería exterior es de madera maciza con doble acristalamiento, lo que aporta aislamiento térmico y acústico, manteniendo el encanto rústico y tradicional de la casa. La vivienda está lista para entrar a vivir, aunque también ofrece múltiples posibilidades para adaptar la distribución según las necesidades de cada familia, lo que convierte esta propiedad en una excelente inversión de futuro. Como anexo opcional, justo enfrente de la vivienda, se encuentra un local o garaje de 45 m², totalmente diáfano y con acceso directo desde la calle. Ideal como aparcamiento privado, trastero, espacio de trabajo o incluso como ampliación del hogar. Una oportunidad única para vivir cerca del mar en una casa con historia, funcionalidad y proyección de futuro. Ven! a visitarla El precio no incluye gastos ni impuestos. También deberá pagar el arancel notarial y el registral. Para cualquier información puede consultarnos. Queda prohibida la reproducción total o parcial de las fotografías, sin consentimiento expreso. </description>
+<email>m.figuerola@century21.es</email>
+<energy_efficiency_grade>d</energy_efficiency_grade>
+<energy_consumption_rating>D</energy_consumption_rating>
+<energy_consumption_value>146</energy_consumption_value>
+<energy_emission_rating>D</energy_emission_rating>
+<energy_emission_value>29</energy_emission_value>
+<list_selling_price_amount>434000</list_selling_price_amount>
+<name>Casa de pueblo centro de Vilassar de Mar con opción de garaje</name>
+<phone>+34667985930</phone>
+<property_type>house</property_type>
+<ref>Caixa	irisd-location-caixa-020_ortografia</ref>
+<sale_rent>for_sale</sale_rent>
+<state>Barclna</state>
+<street>Carrer de Sant Mateu, 17, Vilassar de Mar, Spain</street>
+<total_area_amount>110</total_area_amount>
+<video_link>https://youtu.be/TpDWi0TnH3w</video_link>
+<wc_bathrooms>2</wc_bathrooms>
+<media>
+<img>https://images.century21.pt/c0b3a058-89cd-41a5-b4d1-87268a3143c6/SMSF4537.jpg</img>
+<img>https://images.century21.pt/1be7e148-fb6d-4b06-8c7d-2adb354041e0/SMSF4539.jpg</img>
+<img>https://images.century21.pt/48c18476-715d-4221-88d2-ff56ddfb0ad3/WhatsAppImage2025-05-29at11.18.00(1).jpeg</img>
+<img>https://images.century21.pt/cd24685f-53e5-4590-85fe-74172b6bf3bf/SMSF4535.jpg</img>
+<img>https://images.century21.pt/d40f8ba8-3a30-4940-b228-5fa8d1c34293/SMSF4536.jpg</img>
+<img>https://images.century21.pt/fc16ec30-d9c6-484c-8041-4f91077fa8dc/SMSF4549.jpg</img>
+<img>https://images.century21.pt/217033a4-b3d4-49bd-afe5-b8a41b2a576d/SMSF4546.jpg</img>
+<img>https://images.century21.pt/0ea7aa19-f1fb-4e06-a996-4da447b2344c/SMSF4553.jpg</img>
+<img>https://images.century21.pt/66c0d230-e568-4c01-a13c-2507832691c7/SMSF4542.jpg</img>
+<img>https://images.century21.pt/6661afb0-0b3d-474a-881b-9cab92df6c81/SMSF4572.jpg</img>
+<img>https://images.century21.pt/df1f26d2-8173-4fdf-bc83-38a38dd6d7ca/SMSF4570.jpg</img>
+<img>https://images.century21.pt/54524820-fbc8-40c0-9962-88a63156e7c0/SMSF4577.jpg</img>
+<img>https://images.century21.pt/a38ebf98-3c71-4b63-b9be-86601615d506/SMSF4580.jpg</img>
+<img>https://images.century21.pt/f75a5fbc-978e-4b1d-9ca2-5bafd295d0a3/1748518907844.jpg</img>
+<img>https://images.century21.pt/44f52bb4-4af4-4944-8ea9-886ca83eec3e/1748518907862.jpg</img>
+<img>https://images.century21.pt/d1833317-6ee9-476c-a929-634f8ffaf25b/SMSF4576.jpg</img>
+<img>https://images.century21.pt/9dc918c4-f09c-4cd7-bf24-1104605d28ac/SMSF4574.jpg</img>
+<img>https://images.century21.pt/74fa0e4e-8b70-4075-bfe0-c5da4ac6d522/SMSF4575.jpg</img>
+<img>https://images.century21.pt/45780970-8a86-433e-b825-b0d39dfcd97a/SMSF4582.jpg</img>
+<img>https://images.century21.pt/1c701891-6196-411e-b95d-dc07ef2ff085/Local.jpeg</img>
+<img>https://images.century21.pt/8d8ad1e0-4832-4c55-a5fb-ed8ff72ca480/PlanolplantaVilassar.jpg</img>
+<img>https://images.century21.pt/15a49dc5-9a96-46b5-9676-4be0d5ca1fdc/planolplantapis.jpg</img>
+<img>https://images.century21.pt/4211d42d-623e-456e-abd3-74941dacfeb7/SMSF4587.jpg</img>
+</media>
+</property>
+
+
+    
+<property last_update="2026-04-24 12:13:06">
+<bathrooms>3</bathrooms>
+<bedrooms>4</bedrooms>
+<building_density>0</building_density>
+<cadastral_reference>0882114VK4708B00020D</cadastral_reference>
+<city></city>
+<construction_stage>resale</construction_stage>
+<construction_year>2021</construction_year>
+<coordinates></coordinates>
+<country>ES</country>
+<custom_es_status_of_conservation>almost_new</custom_es_status_of_conservation>
+<custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
+<description>🏡 ¡Exclusividad y Diseño de Vanguardia en Cada Detalle! Descubre una residencia única, concebida por una constructora de renombre especializada en viviendas de alta gama. Esta casa no es solo un hogar, es una declaración de estilo, tecnología y confort, pensada para quienes aprecian la sofisticación y las prestaciones de alto nivel. Desde su imponente entrada, con una puerta original del siglo XVII procedente de una Masía de Báscara, se percibe la fusión perfecta entre historia, modernidad y diseño arquitectónico. Cada espacio ha sido ideado para ofrecer elegancia, funcionalidad y bienestar. 🌿 Zona de Día El corazón de la vivienda es su amplio salón-comedor con cocina abierta y zona de recibidor, que junto al lavabo de cortesía suman una superficie total de 52 m². Los suelos de parquet natural, procedentes de un parque natural francés, aportan calidez y carácter, mientras el sistema de suelo radiante garantiza confort térmico durante todo el año. La cocina, de estilo contemporáneo, está equipada con electrodomésticos Premium NEEF de alta eficiencia, encimeras Neolith y una campana de diseño con mando a distancia integrada sin conductos visibles. La iluminación ambiental LED se adapta a cada momento del día, y una iluminación especial de cine en la zona de televisión crea una experiencia inmersiva total. Desde el salón se accede a un patio de 32 m², decorado con piedra ibicenca, donde luz, naturaleza y diseño se combinan para crear un espacio ideal para reuniones, comidas al aire libre o momentos de relax. 🛏 Zona de Noche La vivienda cuenta con cuatro habitaciones cuidadosamente distribuidas, todas con instalación eléctrica y conexión Wi-Fi. La suite principal destaca por su confort y elegancia, con baño revestido en grandes placas de gres de 2.5 × 1.20 m, aportando distinción y sensación de spa privado. Los otros dos baños mantienen la misma línea de elegancia, con mobiliario italiano Premium y toalleros calefactables en todos ellos. 🌅 Espacio Exterior y Superior En la parte superior se encuentra una sala de descanso o zona de oficina, un espacio versátil y luminoso desde el cual se accede a un solárium de 19 m², ideal para relajarse o disfrutar al aire libre. Además, se ha aprovechado el espacio con un trastero integrado, ofreciendo funcionalidad adicional sin romper la armonía del diseño. ⚙ Tecnología, Eficiencia y Seguridad La vivienda está 100 % domotizada, permitiendo controlar desde el móvil la climatización, iluminación, persianas eléctricas y sistema de seguridad. Las ventanas con puente térmico garantizan el máximo aislamiento térmico y acústico, reforzando el confort interior. Dispone de aire acondicionado en toda la vivienda, doble puerta de entrada insonorizada, cristales de seguridad antirrobo e interfono Golmart con visión y control remoto. Las placas solares aportan un consumo eficiente y sostenible, reflejando el compromiso con el confort y el respeto al medio ambiente. 📋 Características Destacadas Superficie: 175 m² 4 habitaciones + 3 baños Suelo radiante Aire acondicionado en toda la vivienda Parquet natural (procedente de parque francés) Ventanas con puente térmico Domótica integral con control remoto Iluminación LED ambiental y modo cine Cocina Premium con encimeras Neolith y electrodomésticos NEEF Baño suite con gres 2.5 × 1.20 m Patio de 32 m² con piedra ibicenca Sala superior de descanso/oficina con solárium de 19 m² Trastero superior integrado Placas solares de máxima eficiencia Interfono Golmart con visión remota ✨ Una oportunidad única para quienes buscan una vivienda que aúna diseño, lujo, tecnología y confort en cada detalle. Una casa exclusiva y diferente, hecha para disfrutar.</description>
+<email>betulo@century21.es</email>
+<energy_efficiency_grade>a</energy_efficiency_grade>
+<energy_consumption_rating>A</energy_consumption_rating>
+<energy_consumption_value>33</energy_consumption_value>
+<energy_emission_rating>A</energy_emission_rating>
+<energy_emission_value>5</energy_emission_value>
+<list_selling_price_amount>654000</list_selling_price_amount>
+<name>Espectacular Casa en el Centro de Tiana</name>
+<phone>+34660065084</phone>
+<property_type>house</property_type>
+<ref>irisd-location-caixa-021_ref_madrid_resto_bcn</ref>
+<sale_rent>for_sale</sale_rent>
+<state>Barcelona</state>
+<street></street>
+<total_area_amount>175</total_area_amount>
+<video_link>https://cdnstorage.century21.pt/object/public/external-cdn/d77ff624-0c65-4421-9762-b4643111ed1f/VideoCarrertelefon.mp4</video_link>
+<wc_bathrooms>3</wc_bathrooms>
+<media>
+<img>https://images.century21.pt/4b07d8a1-89ea-4873-a46c-3d5c1980dd94/SMSF9927.jpg</img>
+<img>https://images.century21.pt/ec691051-8d25-457b-abc0-6bb509d137bd/SMSF9945.jpg</img>
+<img>https://images.century21.pt/d5840839-c556-436a-819f-5323ed9c0bef/SMSF9953.jpg</img>
+<img>https://images.century21.pt/fc890c14-be91-403f-a2f0-c815c982282d/SMSF9943.jpg</img>
+<img>https://images.century21.pt/9988e2a0-4b0d-4c06-8af9-4bfb965e5594/SMSF9942.jpg</img>
+<img>https://images.century21.pt/409c9f5a-383e-4128-bcf2-ca11c2782168/SMSF9952.jpg</img>
+<img>https://images.century21.pt/1b5a7fd4-d8a8-4003-bbf9-6d8b82f98fba/SMSF9946.jpg</img>
+<img>https://images.century21.pt/db12e764-41c2-4f7d-a650-d6b6b7eaf3e3/SMSF9954.jpg</img>
+<img>https://images.century21.pt/fe3253ef-5482-4a4b-8d43-c811d674fbd3/SMSF99481.jpg</img>
+<img>https://images.century21.pt/4301d1e0-93a1-4990-86e6-a330944f042d/SMSF99491.jpg</img>
+<img>https://images.century21.pt/9a74e821-c59d-4947-964d-045db8654447/SMSF99501.jpg</img>
+<img>https://images.century21.pt/4a0e38ff-b9e6-45b3-b4a1-13e9407c6467/SMSF9930.jpg</img>
+<img>https://images.century21.pt/8ea76131-c6ee-4c5d-b55a-9d3f42ff959d/SMSF9929.jpg</img>
+<img>https://images.century21.pt/d5551689-73f1-4dd9-9126-6fd1d50de438/SMSF9882.jpg</img>
+<img>https://images.century21.pt/fce209ab-e5da-4bc2-898d-223679a3fc3b/SMSF9898.jpg</img>
+<img>https://images.century21.pt/deb34ca4-d7ca-48be-9929-84f9243118a5/SMSF9900.jpg</img>
+<img>https://images.century21.pt/f13f4d62-1234-41bb-95cf-60918f302374/SMSF9903.jpg</img>
+<img>https://images.century21.pt/e3314bc2-8112-4c28-8ffa-d7e6cccbf297/SMSF9890.jpg</img>
+<img>https://images.century21.pt/2f2d7afb-b901-4816-b0cc-6f91b4e5175c/SMSF9887.jpg</img>
+<img>https://images.century21.pt/58299bbd-0033-4369-99fc-c19271f07c38/SMSF9896.jpg</img>
+<img>https://images.century21.pt/0cd7d963-e576-40c2-8e5d-2f21ae5df7f0/SMSF9895.jpg</img>
+<img>https://images.century21.pt/c66b8459-d37f-4677-9cee-4bffe0476c6d/SMSF9862.jpg</img>
+<img>https://images.century21.pt/38dfcd45-508a-40f5-a867-6abe31e10f5f/SMSF9871HDR.jpg</img>
+<img>https://images.century21.pt/50d04d24-9775-49c3-850e-f9ff6707ff5f/SMSF9864.jpg</img>
+<img>https://images.century21.pt/dea0bc61-a377-4c1a-be4e-f0239f347b8b/SMSF9909.jpg</img>
+<img>https://images.century21.pt/13a3c334-debd-4a0d-b6ed-9a46b5f4db16/SMSF9908.jpg</img>
+<img>https://images.century21.pt/bc930166-7fb6-4ee5-a7e2-1d6d815fdb32/SMSF9968.jpg</img>
+<img>https://images.century21.pt/56967e27-3b06-4f9f-94d9-840eb217da44/SMSF9966.jpg</img>
+<img>https://images.century21.pt/bcd225e5-590a-4401-8925-2ef22f2f9549/SMSF9919.jpg</img>
+<img>https://images.century21.pt/968f4199-6b75-4d80-a836-094d7e3feb70/SMSF9918.jpg</img>
+<img>https://images.century21.pt/49293b22-a822-47ae-84bd-5e7cd46fd16c/SMSF9964.jpg</img>
+<img>https://images.century21.pt/f8ca6431-484c-4d8a-bd39-adb4bc2d953b/SMSF9970.jpg</img>
+<img>https://images.century21.pt/7afd3fc7-2ff1-4e5e-b378-eb9dab1c1b9d/SMSF9926.jpg</img>
+<img>https://images.century21.pt/e6cf2676-c7cc-4ad6-9082-196c55000725/SMSF9932.jpg</img>
+<img>https://images.century21.pt/346c4bb4-d377-41e7-a645-92484d5f038e/SMSF9880.jpg</img>
+<img>https://images.century21.pt/bfeffdb1-f5c9-43a8-99bd-8e47a10d5d81/SMSF9962.jpg</img>
+<img>https://images.century21.pt/9fa57ace-b888-45a6-8f48-9fed1c180536/SMSF9874.jpg</img>
+<img>https://images.century21.pt/18e37e17-e041-474e-9ca0-e533a09bda99/SMSF9902.jpg</img>
+<img>https://images.century21.pt/1289d136-b0cf-47f5-9756-44b878bccdf4/SMSF9876.jpg</img>
+<img>https://images.century21.pt/b9cbf3dd-f538-4c76-8f5e-08c8b317bcd5/SMSF9925.jpg</img>
+</media>
+</property>
+
+    
+<property last_update="2026-04-17 08:22:22">
+<bathrooms>1</bathrooms>
+<bedrooms>2</bedrooms>
+<building_density>0</building_density>
+<city></city>
+<construction_stage>resale</construction_stage>
+<construction_year>1962</construction_year>
+<coordinates></coordinates>
+<country></country>
+<custom_es_piso>3</custom_es_piso>
+<custom_es_status_of_conservation>almost_new</custom_es_status_of_conservation>
+<custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
+<description>Este precioso ático de aproximadamente 40 m² de vivienda más 25 m² de terraza privada invita a disfrutar de un estilo de vida tranquilo, luminoso y lleno de confort. Un hogar que desprende personalidad desde el primer instante y que, además, constituye una inversión a largo plazo con ingresos asegurados, ya que cuenta con una inquilina responsable que abona 650 € mensuales, con contrato vigente hasta 2031. Al entrar, te recibe un salón-comedor acogedor y lleno de luz, decorado en tonos suaves y con un ambiente muy agradable. La comunicación entre el salón y la cocina mediante una amplia ventana pasaplatos aporta una sensación de amplitud y hace el día a día más práctico y cómodo. La cocina, equipada y muy bien aprovechada, se presenta en excelente estado, con mobiliario de madera y buena capacidad de almacenaje. El dormitorio, íntimo y sereno, invita al descanso, mientras que el baño mantiene un estilo funcional y cuidado. Aunque las imágenes corresponden al estado previo a la entrada de la actual inquilina, la vivienda se conserva en líneas generales en condiciones muy similares. Pero si hay un espacio que marca la diferencia, es su maravillosa terraza de 25 m². Un verdadero tesoro al aire libre, perfecto para crear un rinconcito chill-out, disfrutar de cenas con amigos, cultivar plantas o simplemente relajarse bajo el sol. Un espacio versátil y lleno de posibilidades que convierte este ático en algo realmente especial. En definitiva, una vivienda única, acogedora y con un encanto que es difícil encontrar, ideal tanto para quienes valoran un ambiente íntimo y lleno de luz como para quienes buscan una inversión tranquila, sólida y con ingresos asegurados durante varios años. Century21 BÉTULO</description>
+<email>betulo@century21.es</email>
+<energy_efficiency_grade>g</energy_efficiency_grade>
+<energy_consumption_rating>G</energy_consumption_rating>
+<energy_consumption_value>266</energy_consumption_value>
+<energy_emission_rating>F</energy_emission_rating>
+<energy_emission_value>56</energy_emission_value>
+<floor_number>3</floor_number>
+<list_selling_price_amount>197500</list_selling_price_amount>
+<municipality></municipality>
+<name>🏡Ático con encanto, luz natural y una terraza que enamora</name>
+<phone>+34660065084</phone>
+<property_type>apartment</property_type>
+<ref>irisd-location-caixa-022_no_info</ref>
+<sale_rent>for_sale</sale_rent>
+<state></state>
+<street></street>
+<total_area_amount>60</total_area_amount>
+<wc_bathrooms>1</wc_bathrooms>
+<media>
+<img>https://images.century21.pt/1e409f8a-884c-43c5-a863-df470f2c2d6d/Comedorgpt.jpg</img>
+<img>https://images.century21.pt/d7611b9e-e2ee-42d8-a4a6-551da75eaec7/Comedor2gpt.jpg</img>
+<img>https://images.century21.pt/19ab4289-bcb8-4347-905a-1af974ba737c/Cocinagpt.jpg</img>
+<img>https://images.century21.pt/3836a5e0-efa8-4ec0-9fdd-b5265ead0df1/Pasillogpt.jpg</img>
+<img>https://images.century21.pt/c9bad54d-0161-48e1-b4ec-130144a20bce/Lavabo2gpt.jpg</img>
+<img>https://images.century21.pt/b3686122-f077-4ab0-809b-3a74f27302a3/Lavabogpt.jpg</img>
+<img>https://images.century21.pt/b5f3cdc8-6012-448d-88d2-c850de62906d/imagen1536x1024.jpg</img>
+<img>https://images.century21.pt/02a1c519-7133-4038-bb75-c00b12286245/Dormitorio2gpt.jpg</img>
+<img>https://images.century21.pt/915ed27c-f6b8-4f7b-8fb8-b34d6d1fe8e8/Oficina2gpt.jpg</img>
+<img>https://images.century21.pt/9fceb9a1-4b9a-4d34-b933-2c05a7c3a517/Oficinagpt.jpg</img>
+<img>https://images.century21.pt/11f41817-0913-4dca-8d72-cc16074d6e8b/Entradaterrazagpt.jpg</img>
+<img>https://images.century21.pt/35f683ea-35e3-4466-9974-7f0185350d80/Terraza2gpt.jpg</img>
+<img>https://images.century21.pt/6683b589-929b-4b22-9558-b1bfc5325c22/Terraza1gpt.jpg</img>
+<img>https://images.century21.pt/40e554ea-9cc3-4577-9467-2d635217ae7a/Terraza3gpt.jpg</img>
+<img>https://images.century21.pt/a8c24fd4-0d7d-425a-8f37-f723cf0b39dc/Terraza4gpt.jpg</img>
+<img>https://images.century21.pt/53057a0a-2200-466e-a1d2-05e4ab5187c6/Plano.jpg</img>
+</media>
+</property>
+
+    
+<property last_update="2026-04-24 12:14:01">
+<bathrooms>2</bathrooms>
+<bedrooms>5</bedrooms>
+<building_density>0</building_density>
+<cadastral_reference>0882114VK4708B0014KX</cadastral_reference>
+<city></city>
+<construction_stage>resale</construction_stage>
+<construction_year>1925</construction_year>
+<coordinates></coordinates>
+<country>ES</country>
+<custom_es_status_of_conservation>renovated</custom_es_status_of_conservation>
+<custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
+<description>Hay casas que se visitan… y otras que se sienten. Century21 presenta esta preciosa vivienda en Terrassa, situada en la confluencia de las calles Agricultura y Concepción Arenal, en un entorno donde la calma y la vida urbana conviven en equilibrio. A solo 100 metros del Parc de Vallparadís, para pasear, desconectar o compartir momentos al aire libre, y a 300 metros de las universidades, esta casa ofrece una ubicación excepcional en una zona tranquila y perfectamente comunicada. Con 216 m² construidos (153 m² útiles), la vivienda ha sido pensada para disfrutarla en cada etapa de la vida. Dispone de 5 habitaciones, 3 baños completos y 1 aseo, espacios amplios, luminosos y llenos de posibilidades. Su terraza de 43 m² se convierte en un auténtico refugio privado: desayunos al sol, cenas de verano, tiempo para ti. Además, cuenta con un almacén de 23 m² que aporta funcionalidad extra. La casa fue reformada integralmente en 2020, incluyendo todas las instalaciones, con acabados de primera calidad y una equipación moderna y eficiente, cuidada hasta el último detalle para que solo tengas que traer tus cosas y empezar una nueva etapa. Un hogar para crear recuerdos, disfrutar del presente y vivir Terrassa desde uno de sus mejores enclaves. 📞 Descúbrela en persona. Century21 estará encantado de acompañarte en la visita.</description>
+<email>e.saborit@century21.es</email>
+<energy_efficiency_grade>e</energy_efficiency_grade>
+<energy_consumption_rating>E</energy_consumption_rating>
+<energy_consumption_value>256</energy_consumption_value>
+<energy_emission_rating>E</energy_emission_rating>
+<energy_emission_value>54</energy_emission_value>
+<list_selling_price_amount>434000</list_selling_price_amount>
+<municipality></municipality>
+<name>Preciosa casa junto a Vallparadís-Escoles</name>
+<phone>+34627217240</phone>
+<property_type>house</property_type>
+<ref>irisd-location-caixa-024_solo_referencia</ref>
+<sale_rent>for_sale</sale_rent>
+<state></state>
+<street></street>
+<total_area_amount>216</total_area_amount>
+<video_link/>
+<virtual_tour_link>https://tours.sofiamartinsome.com/tour/terrassa-c21betulo/index.htm</virtual_tour_link>
+<wc_bathrooms>2</wc_bathrooms>
+<media>
+<img>https://images.century21.pt/a6697b84-ff74-40bd-812e-fe20d98494f0/SMSF5416.jpg</img>
+<img>https://images.century21.pt/83a8b829-7c5e-433f-b9f5-c57115d1f9bf/SMSF5427.jpg</img>
+<img>https://images.century21.pt/64fb5e40-ea21-4cf7-b618-65649a1eafd2/SMSF5347.jpg</img>
+<img>https://images.century21.pt/8a78b06e-00f8-440e-92f3-4d4ff8028965/SMSF5449.jpg</img>
+<img>https://images.century21.pt/0bf37d0c-c1b9-4f4b-8081-750c2794ca5b/SMSF5439.jpg</img>
+<img>https://images.century21.pt/ef549392-c5d8-498b-bd85-9a4f8adb258d/SMSF5444HDR.jpg</img>
+<img>https://images.century21.pt/fea1e7b9-1131-4d9f-8486-e821bdeb1cd8/SMSF5432HDR.jpg</img>
+<img>https://images.century21.pt/878d4f78-1bf6-45c0-aaac-6c86cc32f980/SMSF5434.jpg</img>
+<img>https://images.century21.pt/bd720721-ff3a-403e-9219-11cc6494df54/SMSF5447.jpg</img>
+<img>https://images.century21.pt/17a49c60-9571-456d-b67e-74110a757569/SMSF5419.jpg</img>
+<img>https://images.century21.pt/77947e0b-97fa-4186-850d-54aaed574920/SMSF5423.jpg</img>
+<img>https://images.century21.pt/37e16930-e3be-4586-948b-dc4faa0be54a/SMSF5413.jpg</img>
+<img>https://images.century21.pt/04c24141-9148-4cdd-85fc-9433f4211ca3/SMSF5488.jpg</img>
+<img>https://images.century21.pt/09fc36f3-474d-4adf-a0b8-6a7745ebbad8/SMSF5421.jpg</img>
+<img>https://images.century21.pt/ce705dbb-32b9-42a5-9f48-6fd3ee2a9a43/SMSF5313.jpg</img>
+<img>https://images.century21.pt/9dc1fa86-9c0e-4936-a23e-f4e90a03983f/SMSF5315.jpg</img>
+<img>https://images.century21.pt/eb42db68-3921-47fb-9258-d684c42ae0ec/SMSF5257.jpg</img>
+<img>https://images.century21.pt/681e05f6-3bf3-45e7-9086-cf6cc279a277/SMSF5328.jpg</img>
+<img>https://images.century21.pt/7c6c12d3-6ec5-4195-9e74-085ce4804a65/SMSF5326.jpg</img>
+<img>https://images.century21.pt/1b356e5e-7af6-48f1-9103-623915313f4c/SMSF5255.jpg</img>
+<img>https://images.century21.pt/0506b127-00d6-4f63-92b4-0e6d04365b2d/SMSF5253.jpg</img>
+<img>https://images.century21.pt/dc18a6ce-cce1-464a-bbd0-8191be78b4f6/SMSF5249.jpg</img>
+<img>https://images.century21.pt/bc30531a-3e26-4b9d-b452-d2fe74f02d69/SMSF5478.jpg</img>
+<img>https://images.century21.pt/73036ca9-cd52-4bcf-8577-c139b349eabc/SMSF5487.jpg</img>
+<img>https://images.century21.pt/bd319580-61f0-4ac8-9fd3-bae60ab0be6c/SMSF5482.jpg</img>
+<img>https://images.century21.pt/e3340c1b-3c14-4819-ba25-01836e77988f/SMSF5304.jpg</img>
+<img>https://images.century21.pt/bf8ae157-57ef-46e6-9379-c7e0aac3adb9/SMSF5457.jpg</img>
+<img>https://images.century21.pt/01ef07eb-3547-4860-9254-491c7a3f04da/SMSF5476.jpg</img>
+<img>https://images.century21.pt/67a7192b-170a-4cfa-86ed-a90e574a39c3/SMSF5454.jpg</img>
+<img>https://images.century21.pt/c264ba77-81bd-4a44-86e6-9d2d8bdd8991/SMSF5456.jpg</img>
+<img>https://images.century21.pt/d2883791-7e16-41a0-961c-57cf2bd1ecb6/SMSF5452.jpg</img>
+<img>https://images.century21.pt/f78296ff-60c5-4eb4-8319-fe79b2f16cb0/SMSF5324.jpg</img>
+<img>https://images.century21.pt/9cc7909e-fd7d-49b1-8f89-a8e9c6530d29/SMSF5483.jpg</img>
+<img>https://images.century21.pt/61841946-a391-4640-9fbc-7e945f8e7735/SMSF5310.jpg</img>
+<img>https://images.century21.pt/94075901-93ae-4abc-b8e0-d6a1bda57376/SMSF5308.jpg</img>
+<img>https://images.century21.pt/0a100b81-5a49-4c09-ad50-310b819e72be/SMSF5335.jpg</img>
+<img>https://images.century21.pt/deea4c66-1ab4-4563-8937-9bb4ee146d78/SMSF5343.jpg</img>
+<img>https://images.century21.pt/ee3e4b6b-9677-45b5-a9ec-d7f0da612bd8/SMSF5349.jpg</img>
+<img>https://images.century21.pt/27020c97-bd64-4b6b-b68f-197db62fac44/SMSF5348.jpg</img>
+<img>https://images.century21.pt/ea1ab409-7b50-4d42-8e02-b1392da220dc/SMSF5344.jpg</img>
+</media>
+</property>
+
+    
+<property last_update="2026-04-24 12:14:27">
+<bathrooms>1</bathrooms>
+<bedrooms>2</bedrooms>
+<building_density>0</building_density>
+<cadastral_reference></cadastral_reference>
+<city></city>
+<construction_stage>unfinished</construction_stage>
+<construction_year>1972</construction_year>
+<coordinates></coordinates>
+<country></country>
+<custom_es_piso>1</custom_es_piso>
+<custom_es_status_of_conservation>for_recovery</custom_es_status_of_conservation>
+<custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
+<description>Situada en calle Muntaner, en una 1ª planta de una finca representativa del centro de Barcelona. 🏢 El inmueble está actualmente registrado como oficina, con posibilidad de cambio de uso a vivienda. 📐 Cuenta con una superficie aproximada de 83 m², ideal para desarrollar una vivienda cómoda y funcional. 🖼️ En el anuncio se incluyen fotografías actuales del inmueble, así como renders orientativos y dos planos de distribución, que muestran distintas opciones de cómo podría configurarse la futura vivienda. 🏠 La finca dispone de conserje y ascensores, y en ella conviven actualmente viviendas y oficinas, ofreciendo un entorno bien mantenido y versátil. 🚇 Excelente ubicación y comunicaciones, con metro y transporte público cercano, además de comercios, servicios y todos los equipamientos propios de la zona. 💡 Ideal tanto para comprador final, que busque una vivienda en una ubicación prime, como para inversor, con alta demanda para alquiler residencial. ⚠️ El inmueble se transmite como oficina, siendo necesario que el comprador realice el cambio de uso a vivienda.</description>
+<email>e.saborit@century21.es</email>
+<energy_efficiency_grade>f</energy_efficiency_grade>
+<energy_consumption_rating>F</energy_consumption_rating>
+<energy_consumption_value>115</energy_consumption_value>
+<energy_emission_rating>F</energy_emission_rating>
+<energy_emission_value>95</energy_emission_value>
+<floor_number>1</floor_number>
+<list_selling_price_amount>450000</list_selling_price_amount>
+<municipality>Eixample</municipality>
+<name>Inmueble céntrico en Barcelona</name>
+<phone>+34627217240</phone>
+<property_type>apartment</property_type>
+<ref>irisd-location-caixa-027_solo-distrito</ref>
+<sale_rent>for_sale</sale_rent>
+<state></state>
+<street></street>
+<total_area_amount>93</total_area_amount>
+<wc_bathrooms>1</wc_bathrooms>
+<media>
+<img>https://images.century21.pt/144c6c55-555d-49e6-9e80-b791f28d3220/RENDER2.png</img>
+<img>https://images.century21.pt/f9c54555-0a71-498f-9ea0-e90562e44b24/RENDER1.png</img>
+<img>https://images.century21.pt/fc115852-96e0-4099-a0e8-ff950683ae2e/e496886d-6606-440a-8c03-9cf7a6e546e8.jpg</img>
+<img>https://images.century21.pt/253a32bf-4c9d-4861-b623-ebc5ec536061/Render3.png</img>
+<img>https://images.century21.pt/1d12c73e-2c21-4a37-9288-984fa865b9bb/b8fea6e1-4df0-4d07-9d14-e34e8556a590.jpg</img>
+<img>https://images.century21.pt/da4ca1b9-399c-4f52-8ad6-f809d327f37a/Render4.png</img>
+<img>https://images.century21.pt/f20105a0-495d-4eab-bd67-1c73eb25b953/rendernuevo1.jpg</img>
+<img>https://images.century21.pt/b3d08773-dc70-4ce0-8471-e1097dec21cf/08946b35-fd19-4427-9d83-ce087a835fc0(1).jpg</img>
+<img>https://images.century21.pt/697841cf-be8b-4b7b-9c06-a45c5ca30e5e/922cc279-15a8-4fb9-add5-86b1b66b7958.jpg</img>
+<img>https://images.century21.pt/2ad54ecf-6b9b-4e4a-89fb-6bf15fb1f6db/1ec4a8f1-c6c0-42de-9330-4ad551bdda58.jpg</img>
+<img>https://images.century21.pt/9fec6c2b-90e1-4a19-ba56-e3aa0900992f/rendernuevo.jpg</img>
+<img>https://images.century21.pt/1f2f7904-e8df-4542-bd72-9dcfee4823e0/eb3a21f9-42c7-4ef1-983f-78847070d313.jpg</img>
+<img>https://images.century21.pt/91f24955-0d8c-4c42-ba2e-a77e58111ef1/Rendergeneral.png</img>
+<img>https://images.century21.pt/d0163a2e-763f-4bf5-88ff-bd13ed04fcb3/Render5.png</img>
+<img>https://images.century21.pt/0a347ece-76e8-4045-b659-1ca4667dbda9/PLANOBueno.png</img>
+<img>https://images.century21.pt/8665e49f-d4e6-41b3-8704-7f88733b9864/Render6.png</img>
+<img>https://images.century21.pt/a64eaea6-1918-4838-a5ba-ae3f93a09b45/5.jpg</img>
+<img>https://images.century21.pt/036a41bd-1401-4c88-ab2f-c0e8467db2c6/render8.png</img>
+<img>https://images.century21.pt/06fe7d7a-7e79-465e-8dda-e8926820477d/Render7.png</img>
+<img>https://images.century21.pt/50a6d33d-5860-4fb1-9779-97528fdcbda9/PLANO.png</img>
+<img>https://images.century21.pt/06579e68-df76-4857-80dd-145d14c70e91/PLANOBueno.png</img>
+</media>
+</property>
+
+
+
+    <property last_update="2026-04-29 14:26:20">
+<name>Acogedor piso en Medina del Campo</name>
+<state>Valladolid</state>
+<property_type>apartment</property_type>
+<property_subtype>standard_apartment</property_subtype>
+<ref>test-housfy</ref>
+<air_condition>0</air_condition>
+<bathrooms>2</bathrooms>
+<bedrooms>5</bedrooms>
+<city>Medina del Campo</city>
+<common_swimming_pool>0</common_swimming_pool>
+<price_field_amount>110000</price_field_amount>
+<constructor_year>1938</constructor_year>
+<coordinates>41.30961555,-4.91496856</coordinates>
+<country>ES</country>
+<custom_es_garden>0</custom_es_garden>
+<custom_es_orientation>Sur</custom_es_orientation>
+<custom_es_parking>0</custom_es_parking>
+<custom_es_piso>3º</custom_es_piso>
+<custom_es_portal>3</custom_es_portal>
+<custom_es_puerta>Derecha</custom_es_puerta>
+<custom_es_status_of_conservation>good_condition</custom_es_status_of_conservation>
+<custom_es_subsidized_housing>0</custom_es_subsidized_housing>
+<custom_es_terrace>0</custom_es_terrace>
+<custom_es_trastero_superficie_util>0</custom_es_trastero_superficie_util>
+<description>Vende 🏡 piso construido en el año 1938 en Medina del Campo. La propiedad cuenta con 198 m² de superficie (verificados con la Dirección General de Catastro). Distribución y estancias principales: Dormitorios: 5 Baños: 2 Salón-comedor Cocina Detalles que marcan la diferencia: Exterior Sobre la zona: Ubicado en Medina del Campo. ¿Quieres visitarla? 🗓️ Contacta con Housfy y agenda tu visita sin compromiso. Más información en: housfy.com Aviso legal: El precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. Consulta siempre la nota simple con Housfy antes de formalizar la compraventa. Sobre nosotros: Housfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922. Para tu seguridad, nunca cobramos honorarios ni reservas de inmuebles en alquiler antes de la firma del contrato de reserva.</description>
+<elevator>0</elevator>
+<energy_efficiency_grade>g</energy_efficiency_grade>
+<energy_consumption_rating/>
+<energy_consumption_value>342</energy_consumption_value>
+<energy_emission_rating>F</energy_emission_rating>
+<energy_emission_value>72</energy_emission_value>
+<floor_number/>
+<floors_building>0</floors_building>
+<internal_area_amount>181</internal_area_amount>
+<mountain_view>0</mountain_view>
+<new_build>0</new_build>
+<pets_allowed>0</pets_allowed>
+<plot_area_amount>0</plot_area_amount>
+<post_code>47400</post_code>
+<private_swimming_pool>0</private_swimming_pool>
+<sea_view>0</sea_view>
+<secure_door>0</secure_door>
+<short_description>Acogedor piso en Medina del Campo</short_description>
+<status>available</status>
+<store_room>0</store_room>
+<street>CL BERNAL DIAZ DEL CASTILLO</street>
+<total_area_amount>198</total_area_amount>
+<verandas>0</verandas>
+<wc_bathrooms>2</wc_bathrooms>
+<sale_rent>for_sale</sale_rent>
+<media>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-N9W0AV0wJf-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-Armv06R02e-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-GzmFtc4UYa-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-YwB0HRSMjz-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-ApaiEatQEd-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-ioNORZNCXI-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-JrJn2gY60S-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-mEtNzzqsMw-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-P6OMaw5PdO-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-3s0bGdpa9m-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-dfpFNugdZ1-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-v9o0NxSCRg-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-eNhfc3J6Jx-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-Q2GTcmRld0-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-1wyhTXA0tC-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-ptr5mRLN3e-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-GKQDFG7GjL-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-yoD4ras7WW-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-RjQrAKCJxK-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-1uENxfNCon-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-cUYkLySogW-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-PUyjqFV04I-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-VeVWvYv5Vk-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-ShxE2Tv3x4-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-Ds4NugKcwt-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-iSAIVu9ipF-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-I0bcihgEJa-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-04ZDufykDg-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251110-rEFzlCasfG-1200x800.jpg</img>
+</media>
+<list_selling_price_amount>110000</list_selling_price_amount>
+</property>
+
+     <property last_update="2026-01-13 11:11:17">
+        <bathrooms>7</bathrooms>
+        <bedrooms>8</bedrooms>
+        <building_density>0</building_density>
+        <city>Boadilla del Monte</city>
+        <construction_stage>resale</construction_stage>
+        <construction_year>1973</construction_year>
+        <coordinates>40.4312253634899,-3.89408473096049</coordinates>
+        <country>ES</country>
+        <custom_es_status_of_conservation>used</custom_es_status_of_conservation>
+        <custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
+        <description>Test 17/04 En CENTURY 21, construida en 1973, se alza sobre una parcela de casi 5.000 m2. Linda con tres calles de la urbanización en sus extremos norte, sur y este y con dos parcelas en su cara oeste. Más de 1.600 m2 construidos que ofrecen un sinfín de posibilidades. Su método constructivo, con ausencia casi total de pilares y muros de carga, permiten una distribución en grandes espacios diáfanos según necesidades. La construcción se desarrolla en tres plantas con forma de “U” abierta al suroeste, lo que permite captar mayor iluminación de sol directa. Cubierta terminada en pizarra a 45 grados. PLANTA BAJA: (353,92 m2 construidos más 99,15 m2 de porches) En ella se ubica el vestíbulo de entrada con escalera circular, de mármol blanco yugoslavo, que da acceso a la planta primera o principal. Desde este vestíbulo se accede también a la planta baja de la biblioteca, salón, comedor y a la zona de cocina y servicio. La biblioteca, en dos plantas unidas por una escalera de caracol, está toda revestida con boiserie de madera de nogal. Es el tesoro mejor guardado de esta propiedad. Salón principal de unos 100 m2 y con salida directa al jardín. Dispone de chimenea, barra de bar, escalera de acceso a la planta primera y comedor adicional separado del salón por una bonita reja metálica. En la zona de servicio encontramos, entre otras estancias, la cocina, dormitorios de servicio y otro salón de 55 m2 con salida igualmente al jardín, así como un ascensor con capacidad para cuatro personas que comunica tanto con la planta primera como con el sótano. Esta planta baja dispone de un porche cubierto bajo el que se encuentra la piscina cubierta de la planta sótano. PLANTA PRIMERA O SUPERIOR: (417,76 m2 construidos más 65,62 m2 de terrazas) En esta planta se ubica la zona de descanso. A ella podemos acceder desde cuatro puntos: la escalera circular del vestíbulo de entrada, la escalera del salón principal, el ascensor y la escalera de caracol de la biblioteca. En esta planta encontramos seis habitaciones, tres de ellas con baño en suite, la planta superior de la biblioteca y dos baños completos. A destacar en esta planta el dormitorio que actualmente se utiliza como principal que cuenta con vestidor, chimenea, uno de los baños en suite, acceso a una pequeña cocina y a la terraza cubierta. PLANTA SÓTANO: (687,03 m2 construidos más 107,95 m2 de porche) Planta con distintas estancias entre las que destacan un garaje con superficie de aparcamiento de unos 100 m2, zona de taller, cuarto de calderas y una espectacular piscina cubierta con lámina de agua de 6 x 12 m y ventanales a ras del jardín orientados al suroeste. EXTERIOR: Los espacios exteriores van en consonancia con la magnitud de la vivienda. La finca cuenta con tres puntos de acceso, dos para peatones (en distintas calles) y uno para vehículos con puerta automática. Cabe destacar la piscina que preside la vivienda, con lámina de agua de 25 x 10 m. Adicionalmente la parcela cuenta con grandes extensiones de césped, una antigua pista de tenis, huerta y una amplia variedad de árboles y plantas. Certificado de Eficiencia Energética en trámite. Vivienda habitada actualmente y con alarma conectada a policía. Disponemos de planos de la vivienda. Impuestos y gastos de compra-venta no incluidos en el precio de venta. Llámanos para ampliar información.</description>
+        <email>calidade@century21.es</email>
+        <energy_efficiency_grade>d</energy_efficiency_grade>
+        <list_selling_price_amount>3500000</list_selling_price_amount>
+        <name>ESPECTACULAR CHALET INDEPENDIENTE EN LAS LOMAS</name>
+        <phone>+34915295492</phone>
+        <property_type>house</property_type>
+        <ref>tc_ccee_12_any</ref>
+        <sale_rent>for_sale</sale_rent>
+        <state>Madrid</state>
+        <street>Las Lomas</street>
+        <total_area_amount>4809</total_area_amount>
+        <video_link>https://youtu.be/XwyBoNX75uw</video_link>
+        <wc_bathrooms>7</wc_bathrooms>
+        <media>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-7-_126661ad-3672-41f9-984e-18c64e75b8b3.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-1-_8d33dfe0-4bb5-4f15-9c84-bbb0cc00e623.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-10-_5965815b-3248-4e29-9c3f-f6f3a951d4a6.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-2-_c419607c-c860-4d4c-9a81-2cc6b766c110.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-4-_0bdcf597-3171-4738-856d-0c652ad405b9.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-11-_187a1100-9bac-4f00-91b7-2a8c18bc9386.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-3-_acaa3fd3-230b-42f8-8b34-c28a0fa6db05.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-6-_fc0b8770-0311-40b1-8041-b4277501dc57.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-5-_0582c21f-1a00-423c-8c6b-6a4711f9bf1f.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-8-_51f570c1-dc04-40fd-be13-8b141660f218.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-9-_3f2e578c-7658-4556-9db8-7debb8e788f3.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-26-_c7433b74-d404-4aa7-a2aa-bbba55752c2e.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-33-_f75b3bc1-89f5-4c47-98df-d4f5a3502936.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-30-_ec6f3cb2-cf85-4da1-9a11-10c8dcacd32b.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-31-_16419150-d9f4-44a1-b348-c3963e38daae.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-19-_7c8168b4-4e43-4f9c-a2bb-9ba963689d41.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-16-_cdbb1c32-86ba-481d-b119-c310d8550c10.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-25-_15f8b571-6c51-4d47-9ac2-2d566e97b25e.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-24-_5c501ed1-03a7-41fb-9555-4f6493c5b635.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-17-_d224f1c8-e467-4978-a111-016c5d653191.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-18-_6fb1a8e5-c8b1-44b5-b455-fde660a0313b.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-20-_e6dc37f7-9e64-46b6-8dc3-675e897cfcab.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-21-_e924c7d7-077e-44cf-ac9d-794c1c631601.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-22-_09905abc-1ba5-4e6a-a29d-1e8e340acf1a.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-23-_d41fe210-cd6c-4870-a731-5ccc4043b472.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-35-_7c53180d-96cc-4416-b811-6abbc682ae7f.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-36-_8d5a3ca8-abed-4e32-b151-a00492721377.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-27-_56785364-5e4e-4416-bb42-84a307c0e314.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-28-_7c23eaf4-5f39-450f-a632-8964ae78c110.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-34-_01a163cc-092f-41e4-ba6d-7bdbce117e6b.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-14-_799c6890-34de-4433-8423-30559dd0e7e9.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-15-_489403b5-3b22-4318-9e73-34f440f9ed36.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-12-_4b20be20-6593-489a-81be-f7fc7b12a5dc.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-13-_92947260-be1f-4adf-8823-5cd301736972.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-39-_3991b5bf-e9f6-457f-96d4-7ba6525caf11.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-40-_d50dcdaa-66e4-4926-85f6-ac994cf5a686.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-45-_fc2719af-c191-4d93-ad4b-2209b7385b89.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-44-_ac2b63f6-aad4-4d2e-a9a7-f39de7773c8b.jpg</img>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-42-_823e70bd-f4fd-4b84-aa50-3a61a525342c.jpg</img>
+        </media>
+    </property>
+
+    <property last_update="2026-01-13 11:11:17">
+<name>Acogedor piso en Medina del Campo</name>
+<state>Valladolid</state>
+<property_type>apartment</property_type>
+<property_subtype>standard_apartment</property_subtype>
+<ref>tc_ccee_12_any_2</ref>
+<air_condition>0</air_condition>
+<bathrooms>2</bathrooms>
+<bedrooms>5</bedrooms>
+<city>Medina del Campo</city>
+<common_swimming_pool>0</common_swimming_pool>
+<price_field_amount>110000</price_field_amount>
+<constructor_year>1938</constructor_year>
+<coordinates>41.30961555,-4.91496856</coordinates>
+<country>ES</country>
+<custom_es_garden>0</custom_es_garden>
+<custom_es_orientation>Sur</custom_es_orientation>
+<custom_es_parking>0</custom_es_parking>
+<custom_es_piso>3º</custom_es_piso>
+<custom_es_portal>3</custom_es_portal>
+<custom_es_puerta>Derecha</custom_es_puerta>
+<custom_es_status_of_conservation>good_condition</custom_es_status_of_conservation>
+<custom_es_subsidized_housing>0</custom_es_subsidized_housing>
+<custom_es_terrace>0</custom_es_terrace>
+<custom_es_trastero_superficie_util>0</custom_es_trastero_superficie_util>
+<description>Vende 🏡 piso construido en el año 1938 en Medina del Campo. La propiedad cuenta con 198 m² de superficie (verificados con la Dirección General de Catastro). Distribución y estancias principales: Dormitorios: 5 Baños: 2 Salón-comedor Cocina Detalles que marcan la diferencia: Exterior Sobre la zona: Ubicado en Medina del Campo. ¿Quieres visitarla? 🗓️ Contacta con Housfy y agenda tu visita sin compromiso. Más información en: housfy.com Aviso legal: El precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. Consulta siempre la nota simple con Housfy antes de formalizar la compraventa. Sobre nosotros: Housfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922. Para tu seguridad, nunca cobramos honorarios ni reservas de inmuebles en alquiler antes de la firma del contrato de reserva.</description>
+<elevator>0</elevator>
+<energy_efficiency_grade>g</energy_efficiency_grade>
+<energy_consumption_rating/>
+<energy_consumption_value>342</energy_consumption_value>
+<energy_emission_rating>F</energy_emission_rating>
+<energy_emission_value>72</energy_emission_value>
+<floor_number/>
+<floors_building>0</floors_building>
+<internal_area_amount>181</internal_area_amount>
+<mountain_view>0</mountain_view>
+<new_build>0</new_build>
+<pets_allowed>0</pets_allowed>
+<plot_area_amount>0</plot_area_amount>
+<post_code>47400</post_code>
+<private_swimming_pool>0</private_swimming_pool>
+<sea_view>0</sea_view>
+<secure_door>0</secure_door>
+<short_description>Acogedor piso en Medina del Campo</short_description>
+<status>available</status>
+<store_room>0</store_room>
+<street>CL BERNAL DIAZ DEL CASTILLO</street>
+<total_area_amount>198</total_area_amount>
+<verandas>0</verandas>
+<wc_bathrooms>2</wc_bathrooms>
+<sale_rent>for_sale</sale_rent>
+<media>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-N9W0AV0wJf-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-Armv06R02e-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-GzmFtc4UYa-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-YwB0HRSMjz-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-ApaiEatQEd-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-ioNORZNCXI-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-JrJn2gY60S-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-mEtNzzqsMw-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-P6OMaw5PdO-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-3s0bGdpa9m-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-dfpFNugdZ1-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-v9o0NxSCRg-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-eNhfc3J6Jx-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-Q2GTcmRld0-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-1wyhTXA0tC-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-ptr5mRLN3e-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-GKQDFG7GjL-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-yoD4ras7WW-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-RjQrAKCJxK-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-1uENxfNCon-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-cUYkLySogW-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-PUyjqFV04I-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-VeVWvYv5Vk-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-ShxE2Tv3x4-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-Ds4NugKcwt-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-iSAIVu9ipF-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-I0bcihgEJa-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251027-04ZDufykDg-1200x800.jpg</img>
+<img>https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/926983/926983-housfy-20251110-rEFzlCasfG-1200x800.jpg</img>
+</media>
+<list_selling_price_amount>110000</list_selling_price_amount>
+    </property>
+
+    <property last_update="2026-01-13 11:11:17">
+        <bathrooms>7</bathrooms>
+        <bedrooms>8</bedrooms>
+        <building_density>0</building_density>
+        <city>Boadilla del Monte</city>
+        <construction_stage>resale</construction_stage>
+        <construction_year>1973</construction_year>
+        <coordinates>40.4312253634899,-3.89408473096049</coordinates>
+        <country>ES</country>
+        <custom_es_status_of_conservation>used</custom_es_status_of_conservation>
+        <custom_es_type_of_land>Urbanizable</custom_es_type_of_land>
+        <description>Test 17/04 En CENTURY 21, construida en 1973, se alza sobre una parcela de casi 5.000 m2. Linda con tres calles de la urbanización en sus extremos norte, sur y este y con dos parcelas en su cara oeste. Más de 1.600 m2 construidos que ofrecen un sinfín de posibilidades. Su método constructivo, con ausencia casi total de pilares y muros de carga, permiten una distribución en grandes espacios diáfanos según necesidades. La construcción se desarrolla en tres plantas con forma de “U” abierta al suroeste, lo que permite captar mayor iluminación de sol directa. Cubierta terminada en pizarra a 45 grados. PLANTA BAJA: (353,92 m2 construidos más 99,15 m2 de porches) En ella se ubica el vestíbulo de entrada con escalera circular, de mármol blanco yugoslavo, que da acceso a la planta primera o principal. Desde este vestíbulo se accede también a la planta baja de la biblioteca, salón, comedor y a la zona de cocina y servicio. La biblioteca, en dos plantas unidas por una escalera de caracol, está toda revestida con boiserie de madera de nogal. Es el tesoro mejor guardado de esta propiedad. Salón principal de unos 100 m2 y con salida directa al jardín. Dispone de chimenea, barra de bar, escalera de acceso a la planta primera y comedor adicional separado del salón por una bonita reja metálica. En la zona de servicio encontramos, entre otras estancias, la cocina, dormitorios de servicio y otro salón de 55 m2 con salida igualmente al jardín, así como un ascensor con capacidad para cuatro personas que comunica tanto con la planta primera como con el sótano. Esta planta baja dispone de un porche cubierto bajo el que se encuentra la piscina cubierta de la planta sótano. PLANTA PRIMERA O SUPERIOR: (417,76 m2 construidos más 65,62 m2 de terrazas) En esta planta se ubica la zona de descanso. A ella podemos acceder desde cuatro puntos: la escalera circular del vestíbulo de entrada, la escalera del salón principal, el ascensor y la escalera de caracol de la biblioteca. En esta planta encontramos seis habitaciones, tres de ellas con baño en suite, la planta superior de la biblioteca y dos baños completos. A destacar en esta planta el dormitorio que actualmente se utiliza como principal que cuenta con vestidor, chimenea, uno de los baños en suite, acceso a una pequeña cocina y a la terraza cubierta. PLANTA SÓTANO: (687,03 m2 construidos más 107,95 m2 de porche) Planta con distintas estancias entre las que destacan un garaje con superficie de aparcamiento de unos 100 m2, zona de taller, cuarto de calderas y una espectacular piscina cubierta con lámina de agua de 6 x 12 m y ventanales a ras del jardín orientados al suroeste. EXTERIOR: Los espacios exteriores van en consonancia con la magnitud de la vivienda. La finca cuenta con tres puntos de acceso, dos para peatones (en distintas calles) y uno para vehículos con puerta automática. Cabe destacar la piscina que preside la vivienda, con lámina de agua de 25 x 10 m. Adicionalmente la parcela cuenta con grandes extensiones de césped, una antigua pista de tenis, huerta y una amplia variedad de árboles y plantas. Certificado de Eficiencia Energética en trámite. Vivienda habitada actualmente y con alarma conectada a policía. Disponemos de planos de la vivienda. Impuestos y gastos de compra-venta no incluidos en el precio de venta. Llámanos para ampliar información.</description>
+        <email>calidade@century21.es</email>
+        <energy_efficiency_grade></energy_efficiency_grade>
+        <list_selling_price_amount>3500000</list_selling_price_amount>
+        <name>ESPECTACULAR CHALET INDEPENDIENTE EN LAS LOMAS</name>
+        <phone>+34915295492</phone>
+        <property_type>house</property_type>
+        <ref>test-img_exterior</ref>
+        <sale_rent>for_sale</sale_rent>
+        <state>Madrid</state>
+        <street>Las Lomas</street>
+        <total_area_amount>4809</total_area_amount>
+        <video_link>https://youtu.be/XwyBoNX75uw</video_link>
+        <wc_bathrooms>7</wc_bathrooms>
+        <media>
+            <img>https://images.century21.pt/valle-de-leniz-49-boadilla-42-_823e70bd-f4fd-4b84-aa50-3a61a525342c.jpg</img>
+        </media>
+    </property>
+
+    
+
+
+
+
+
+
+    
+
+
+
+    
+
+    
+
+    
+</properties>

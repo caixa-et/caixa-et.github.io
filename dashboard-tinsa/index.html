@@ -190,11 +190,15 @@
   .ba-label{font-size:12px;font-weight:700;color:var(--ink);line-height:1.25;}
   .ba-label small{display:block;font-size:10.5px;color:var(--sub);font-weight:600;}
   .ba-barwrap{display:flex;align-items:center;gap:10px;}
-  .ba-track{flex:1;height:26px;background:#F2F3FB;border-radius:8px;overflow:hidden;}
+  .ba-track{flex:1;height:26px;background:#F2F3FB;border-radius:8px;overflow:hidden;display:flex;align-items:center;}
   .ba-fill{height:100%;border-radius:8px;display:flex;align-items:center;justify-content:flex-end;
-    padding-right:9px;color:#fff;font-size:12.5px;font-weight:800;min-width:38px;transition:width .5s ease;}
+    padding-right:9px;min-width:4px;transition:width .5s ease;}
+  .ba-fill .in{color:#fff;font-size:12.5px;font-weight:800;white-space:nowrap;}
+  .ba-track .out{color:var(--ink);font-size:12.5px;font-weight:800;white-space:nowrap;margin-left:9px;}
   .ba-red-badge{flex:none;font-size:11.5px;font-weight:800;padding:3px 9px;border-radius:20px;background:#DFF6E7;color:#1B7A3D;white-space:nowrap;}
   .ba-red-badge.muted{background:#F2F3FB;color:var(--sub);}
+  .tiempos-detalle{margin-top:14px;padding-top:12px;border-top:1px solid var(--line);font-size:11.5px;color:var(--sub);line-height:1.6;}
+  .tiempos-detalle b{color:var(--ink);font-weight:700;}
   .tiempos-na{display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;
     min-height:150px;color:var(--sub);font-size:13px;font-weight:700;gap:4px;}
   .tiempos-na small{font-size:11.5px;font-weight:600;color:var(--grey);}
@@ -352,12 +356,9 @@
     </div>
     <div class="panel">
       <h3>Tiempo de creación → análisis</h3>
-      <p class="hint" id="tiemposHint">Desde que se crea el anuncio hasta que se analiza. Automático vs manual (HUB).</p>
-      <div class="chips">
-        <span class="chip"><span class="dot" style="background:var(--teal)"></span>Automático</span>
-        <span class="chip"><span class="dot" style="background:var(--orange)"></span>Manual (HUB)</span>
-      </div>
-      <div id="chartTiempos"></div>
+      <p class="hint" id="tiemposHint">Global: desde que se crea el anuncio hasta que se analiza. Antes (PreTinsa, manual) vs proceso actual.</p>
+      <div id="tiemposCreacion"></div>
+      <div class="tiempos-detalle" id="tiemposDetalle"></div>
     </div>
   </div>
 
@@ -423,7 +424,7 @@
   <div class="res-list" id="resList"></div>
 
   <div class="footnote">
-    <b>Notas de datos:</b> valores de cierre/acumulado semanal tomados del Excel de seguimiento (hoja resumen), S1–S7 (15 jun – 2 ago). La <b>Semana 1</b> incluye el reproceso inicial de todo el catálogo, por eso su volumen de análisis y modificaciones es muy superior al resto. <b>Tiempo por publicación</b>: tiempo medio automático de Tinsa por semana (37→37→29→27→34→34→40 s). <b>Tiempos de proceso</b> (KPI principal): tiempo medio de revisión 120 s antes (PreTinsa) → 40 s automático (−66,7%) / 75 s manual (−37,5%); y tiempo de creación → análisis (auto vs manual), referencia S7. <b>Performance del HUB</b>: agrupa las revisiones manuales según su origen — heredadas de Tinsa (feed no concluyente) y entrada manual (flujo legado). El bloque de calidad muestra la evolución del % con datos incompletos (PreTinsa→S7) y el volumen recuperado frente al baseline. Todos los agregados responden a la semana o al Acumulado seleccionado. Los datos se cargan desde <b>data.json</b>. <b>Top flags</b>: se muestra el <b>cierre de mes</b> del mes de la semana seleccionada — junio (15–30 jun) para S1–S3 y julio para S4–S7; en Acumulado, el mes más reciente. En Incidencias se incluye la evolución semanal de la flag <b>flg_image_download_error</b> (S3–S7).
+    <b>Notas de datos:</b> valores de cierre/acumulado semanal del Excel de seguimiento, S1–S8 (15 jun – 9 ago). La <b>Semana 1</b> incluye el reproceso inicial de todo el catálogo. <b>Revisiones (concluyentes)</b>: totales, automáticas y % de automatización se calculan sobre revisiones concluyentes (Green + Red), no sobre el total de análisis (que incluye Yellow → derivado al HUB). <b>Tiempos de proceso</b> (KPI principal, datos desde S6): tiempo medio de revisión 120 s antes → 37 s automático (−69,25%) / 75 s manual (−37,5%) en S8; y creación → análisis (auto vs manual) con baseline PreTinsa 37 h. <b>Performance del HUB</b>: revisiones manuales por origen (heredadas de Tinsa + entrada manual). <b>Top flags</b>: cierre de mes del mes de la semana — junio (15–30 jun) para S1–S3, julio para S4–S7; agosto (S8) aún sin cierre; en Acumulado, el mes más reciente con datos. En Incidencias, evolución semanal de <b>flg_image_download_error</b> (S3–S8). Modificadas de S8: n/a en la fuente. Datos desde <b>data.json</b>.
   </div>
 </div>
 
@@ -517,6 +518,13 @@
         "a": "27 jul",
         "b": "2 ago",
         "month": "jul"
+      },
+      {
+        "key": "s8",
+        "label": "S8",
+        "a": "3 ago",
+        "b": "9 ago",
+        "month": "ago"
       }
     ],
     "oferta": {
@@ -528,7 +536,8 @@
         "s4": 349967,
         "s5": 355641,
         "s6": 360061,
-        "s7": 365795
+        "s7": 365795,
+        "s8": 372263
       },
       "pub": {
         "pre": 73143,
@@ -538,7 +547,8 @@
         "s4": 81911,
         "s5": 81146,
         "s6": 80135,
-        "s7": 80976
+        "s7": 80976,
+        "s8": 80844
       },
       "nopub": {
         "pre": 27987,
@@ -548,7 +558,8 @@
         "s4": 57212,
         "s5": 57880,
         "s6": 57669,
-        "s7": 59502
+        "s7": 59502,
+        "s8": 60599
       }
     },
     "flujo": {
@@ -559,7 +570,8 @@
         "s4": 4940,
         "s5": 6805,
         "s6": 4434,
-        "s7": 5733
+        "s7": 5733,
+        "s8": 5021
       },
       "modif": {
         "s1": 136347,
@@ -568,7 +580,8 @@
         "s4": 14549,
         "s5": 33974,
         "s6": 33193,
-        "s7": 34798
+        "s7": 34798,
+        "s8": null
       },
       "retir": {
         "s1": 2580,
@@ -577,7 +590,8 @@
         "s4": 5466,
         "s5": 6664,
         "s6": 6202,
-        "s7": 4709
+        "s7": 4709,
+        "s8": 4344
       }
     },
     "feeds": {
@@ -589,7 +603,8 @@
         "s4": 1277,
         "s5": 1178,
         "s6": 1305,
-        "s7": 1239
+        "s7": 1239,
+        "s8": 1326
       },
       "err": {
         "pre": 887,
@@ -599,7 +614,8 @@
         "s4": 43,
         "s5": 42,
         "s6": 42,
-        "s7": 42
+        "s7": 42,
+        "s8": 41
       },
       "bloq": {
         "pre": 50,
@@ -609,7 +625,8 @@
         "s4": 43,
         "s5": 158,
         "s6": 31,
-        "s7": 110
+        "s7": 110,
+        "s8": 29
       },
       "pend": {
         "pre": 6,
@@ -619,7 +636,8 @@
         "s4": 6,
         "s5": 6,
         "s6": 6,
-        "s7": 6
+        "s7": 6,
+        "s8": 2
       },
       "curso": {
         "pre": 0,
@@ -629,7 +647,8 @@
         "s4": 0,
         "s5": 0,
         "s6": 1,
-        "s7": 1
+        "s7": 1,
+        "s8": 1
       }
     },
     "analisis": {
@@ -640,7 +659,8 @@
         "s4": 29749,
         "s5": 16589,
         "s6": 22689,
-        "s7": 26923
+        "s7": 26923,
+        "s8": 22432
       },
       "manual": {
         "s1": 2580,
@@ -649,7 +669,8 @@
         "s4": 3207,
         "s5": 3513,
         "s6": 2837,
-        "s7": 2840
+        "s7": 2840,
+        "s8": 3271
       }
     },
     "flags": {
@@ -660,7 +681,8 @@
         "s4": 18655,
         "s5": 8818,
         "s6": 16241,
-        "s7": 18061
+        "s7": 18061,
+        "s8": 14851
       },
       "red": {
         "s1": 47574,
@@ -669,7 +691,8 @@
         "s4": 4374,
         "s5": 3499,
         "s6": 3210,
-        "s7": 5081
+        "s7": 5081,
+        "s8": 4601
       },
       "yellow": {
         "s1": 29503,
@@ -678,36 +701,40 @@
         "s4": 6720,
         "s5": 4272,
         "s6": 3238,
-        "s7": 3781
+        "s7": 3781,
+        "s8": 2980
       }
     },
     "revis": {
       "total": {
         "s1": 109259,
         "s2": 31436,
-        "s3": 46936,
-        "s4": 32956,
-        "s5": 20102,
-        "s6": 25526,
-        "s7": 29763
+        "s3": 31478,
+        "s4": 26236,
+        "s5": 15830,
+        "s6": 22288,
+        "s7": 25982,
+        "s8": 22723
       },
       "auto": {
         "s1": 106679,
         "s2": 27177,
-        "s3": 38104,
-        "s4": 29749,
-        "s5": 16589,
-        "s6": 22689,
-        "s7": 26923
+        "s3": 22646,
+        "s4": 23029,
+        "s5": 12317,
+        "s6": 19451,
+        "s7": 23142,
+        "s8": 19452
       },
       "autoRate": {
         "s1": 98,
         "s2": 86,
-        "s3": 81,
-        "s4": 90,
-        "s5": 83,
-        "s6": 89,
-        "s7": 90
+        "s3": 72,
+        "s4": 88,
+        "s5": 78,
+        "s6": 87,
+        "s7": 89,
+        "s8": 86
       },
       "aprob": {
         "s1": 59932,
@@ -716,7 +743,8 @@
         "s4": 19462,
         "s5": 9865,
         "s6": 17021,
-        "s7": 19107
+        "s7": 19107,
+        "s8": 15839
       },
       "rech": {
         "s1": 49162,
@@ -725,7 +753,8 @@
         "s4": 6774,
         "s5": 5965,
         "s6": 5267,
-        "s7": 6875
+        "s7": 6875,
+        "s8": 6884
       }
     },
     "tiempo": {
@@ -737,7 +766,8 @@
         "s4": 27,
         "s5": 34,
         "s6": 34,
-        "s7": 40
+        "s7": 40,
+        "s8": 37
       }
     },
     "calidad": {
@@ -756,10 +786,12 @@
           "s4": 2.52,
           "s5": 2.23,
           "s6": 2.23,
-          "s7": 2.13
+          "s7": 2.13,
+          "s8": 2.04
         },
         "s6": 1785,
-        "s7": 1725
+        "s7": 1725,
+        "s8": 1648
       },
       "muni": {
         "pre": 10044,
@@ -776,10 +808,12 @@
           "s4": 6.46,
           "s5": 5.66,
           "s6": 5.5,
-          "s7": 4.7
+          "s7": 4.7,
+          "s8": 4.34
         },
         "s6": 4407,
-        "s7": 3802
+        "s7": 3802,
+        "s8": 3509
       },
       "cp": {
         "pre": 29054,
@@ -796,10 +830,12 @@
           "s4": 19.51,
           "s5": 17.94,
           "s6": 17.17,
-          "s7": 15.09
+          "s7": 15.09,
+          "s8": 13.66
         },
         "s6": 13758,
-        "s7": 12218
+        "s7": 12218,
+        "s8": 11042
       }
     },
     "hub": {
@@ -810,7 +846,8 @@
         "s4": 3207,
         "s5": 3513,
         "s6": 2837,
-        "s7": 2840
+        "s7": 2840,
+        "s8": 3271
       },
       "entrada": {
         "s1": 181,
@@ -819,14 +856,15 @@
         "s4": 56,
         "s5": 135,
         "s6": 171,
-        "s7": 113
+        "s7": 113,
+        "s8": 116
       }
     },
     "incidencias": [
       {
-        "value": "11",
+        "value": "6",
         "title": "Retiradas aún publicadas",
-        "desc": "Propiedades marcadas como retiradas que continúan visibles en el catálogo de cliente. Sigue bajando: 815 → 111 → 11.",
+        "desc": "Propiedades marcadas como retiradas que continúan visibles en el catálogo de cliente. Sigue bajando: 815 → 111 → 11 → 6.",
         "status": "Fix en curso · Qobrix",
         "state": "curso"
       }
@@ -910,34 +948,34 @@
       }
     ],
     "tiempoDetalle": {
-      "ref": "S7 · 27 jul – 2 ago",
+      "ref": "S8 · 3–9 ago",
+      "weeks": [
+        "s6",
+        "s7",
+        "s8"
+      ],
       "revision": {
         "pretinsa": 120,
-        "auto": 40,
+        "auto": 37,
         "manual": 75,
-        "redAuto": 66.7,
+        "redAuto": 69.25,
         "redManual": 37.5
       },
       "creacion": {
-        "labels": [
-          "Aprobación",
-          "Rechazo"
-        ],
-        "auto": [
-          14.3,
-          12.0
-        ],
-        "manual": [
-          888,
-          1002
-        ],
         "pretinsaMin": 2220,
-        "pretinsaLabel": "PreTinsa · 37 h"
-      },
-      "weeks": [
-        "s6",
-        "s7"
-      ]
+        "autoMin": 8.5,
+        "manualMin": 1308,
+        "detalle": {
+          "aprob": {
+            "auto": 8.8,
+            "manual": 1650
+          },
+          "rech": {
+            "auto": 7.8,
+            "manual": 1164
+          }
+        }
+      }
     },
     "flagEvol": {
       "flg_image_download_error": {
@@ -945,7 +983,8 @@
         "s4": 477,
         "s5": 615,
         "s6": 235,
-        "s7": 238
+        "s7": 238,
+        "s8": 139
       }
     },
     "flagsMonth": {
@@ -1395,7 +1434,9 @@
           acc+=h; tot+=v; }
         if(showLbl) g+=`<text class="vlbl" x="${cx}" y="${padT+plotH-acc-5}" text-anchor="middle" opacity="${lblOp}">${vFmt(tot)}</text>`;
       } else { const sx=cx-groupW/2;
-        series.forEach((se,si)=>{ const v=se.data[i]||0,h=plotH*(v/max),y=padT+plotH-h,x=sx+si*barW;
+        series.forEach((se,si)=>{ const raw=se.data[i], x=sx+si*barW;
+          if(raw==null){ g+=`<text x="${x+barW/2}" y="${padT+plotH-5}" text-anchor="middle" opacity="${lblOp}" style="font-size:8.5px;font-weight:700;fill:var(--grey)">s/i</text>`; return; }
+          const v=raw,h=plotH*(v/max),y=padT+plotH-h;
           g+=`<rect x="${x+1}" y="${y}" width="${Math.max(0,barW-2)}" height="${Math.max(0,h)}" fill="${se.color}" fill-opacity="${op}" rx="2" ${tip(se.name,labels[i],v,opts.pct,fv)}/>`;
           if(showLbl && series.length<=2) g+=`<text class="vlbl" x="${x+barW/2}" y="${y-4}" text-anchor="middle" opacity="${lblOp}">${vFmt(v)}</text>`; }); }
       g+=`<text class="axlbl" x="${cx}" y="${vbH-8}" text-anchor="middle"${dim?' opacity="0.5"':''}>${labels[i]}</text>`; }
@@ -1561,7 +1602,9 @@
     // Mes del cierre a mostrar: el de la semana seleccionada; en Acumulado, el más reciente
     let monthKey;
     if(isSingle()){ const w=V.weeks[rngHi()]; monthKey=w && w.month; }
-    else { const lw=V.weeks[V.weeks.length-1]; monthKey=lw && lw.month; }
+    else { // Acumulado → el mes más reciente que tenga cierre de flags
+      for(let i=V.weeks.length-1;i>=0;i--){ const m=V.weeks[i].month; if(fm[m]){ monthKey=m; break; } }
+    }
     const md=fm[monthKey];
     if(wkEl) wkEl.textContent = md ? '· '+md.period : '';
     const rows = md ? md.rows : [];
@@ -1700,55 +1743,59 @@
     lineChart(el, labels, [{name:name, data, color:C.orange, fill:true}], {height:210, labelPts:true});
   }
 
+  function renderBA(el, pre, auto, manual, redA, redM, fmt){
+    if(!el) return;
+    const max=Math.max(pre,auto,manual)||1;
+    if(redA==null) redA=(pre-auto)/pre*100;
+    if(redM==null) redM=(pre-manual)/pre*100;
+    const red=v=>'−'+(Math.round(v*100)/100).toString().replace('.',',')+'%';
+    const bar=(lbl,sub,val,color,badge,muted)=>{
+      const w=Math.max(3,Math.round(val/max*100)), inside=w>=30;
+      return `<div class="ba-row">
+        <div class="ba-label">${lbl}${sub?`<small>${sub}</small>`:''}</div>
+        <div class="ba-barwrap">
+          <div class="ba-track"><div class="ba-fill" style="width:${w}%;background:${color};">${inside?`<span class="in">${fmt(val)}</span>`:''}</div>${inside?'':`<span class="out">${fmt(val)}</span>`}</div>
+          ${badge?`<span class="ba-red-badge${muted?' muted':''}">${badge}</span>`:''}
+        </div></div>`;
+    };
+    el.innerHTML='<div class="ba-list">'+
+      bar('PreTinsa','antes · 100% manual', pre, C.grey, 'baseline', true)+
+      bar('Automático','Tinsa', auto, C.teal, red(redA))+
+      bar('Manual','HUB', manual, C.orange, red(redM))+
+      '</div>';
+  }
+
   function renderTiempos(){
     const t=V.tiempoDetalle; if(!t) return;
     const refEl=document.getElementById('tiemposRef');
     const ba=document.getElementById('tiemposAntes');
-    const el=document.getElementById('chartTiempos');
-    const hintEl=document.getElementById('tiemposHint');
-    // El módulo de tiempos solo tiene datos en ciertas semanas (S6, S7). En S1–S5: sin información.
+    const cr=document.getElementById('tiemposCreacion');
+    const det=document.getElementById('tiemposDetalle');
     const avail=t.weeks||[];
     if(isSingle() && avail.indexOf(endKey())<0){
       const msg='<div class="tiempos-na">Sin información de tiempos<br><small>El módulo de tiempos solo dispone de datos a partir de la S6.</small></div>';
       if(refEl) refEl.textContent=WK_LABELS[rngHi()]+' · n/a';
       if(ba) ba.innerHTML=msg;
-      if(el) el.innerHTML=msg;
-      if(hintEl) hintEl.textContent='Sin datos de tiempos para esta semana (disponible a partir de la S6).';
+      if(cr) cr.innerHTML=msg;
+      if(det) det.innerHTML='';
       return;
     }
-    if(refEl) refEl.textContent='Referencia · '+(t.ref||'S7');
+    if(refEl) refEl.textContent='Referencia · '+(t.ref||'S8');
 
-    // --- Antes vs después (tiempo medio de revisión) ---
-    if(ba && t.revision){
-      const r=t.revision, max=Math.max(r.pretinsa,r.auto,r.manual)||1;
-      const bar=(lbl,sub,val,color,badge,muted)=>{
-        const w=Math.max(6,Math.round(val/max*100));
-        return `<div class="ba-row">
-          <div class="ba-label">${lbl}${sub?`<small>${sub}</small>`:''}</div>
-          <div class="ba-barwrap">
-            <div class="ba-track"><div class="ba-fill" style="width:${w}%;background:${color};">${val} s</div></div>
-            ${badge?`<span class="ba-red-badge${muted?' muted':''}">${badge}</span>`:''}
-          </div></div>`;
-      };
-      const red=v=>'−'+v.toFixed(1).replace('.',',').replace(',0','')+'%';
-      ba.innerHTML='<div class="ba-list">'+
-        bar('PreTinsa','antes · 100% manual', r.pretinsa, C.grey, 'baseline', true)+
-        bar('Automático','Tinsa', r.auto, C.teal, red(r.redAuto))+
-        bar('Manual','HUB', r.manual, C.orange, red(r.redManual))+
-        '</div>';
+    // Panel 1: tiempo medio de revisión (segundos)
+    if(t.revision){ const r=t.revision;
+      renderBA(ba, r.pretinsa, r.auto, r.manual, r.redAuto, r.redManual, v=>v+' s');
     }
 
-    // --- Creación → análisis (auto vs manual, aprobado/rechazado) ---
-    if(el && t.creacion){
+    // Panel 2: creación → análisis GLOBAL (referencia principal) + detalle secundario
+    if(t.creacion){ const c=t.creacion;
       const fmtMin=v=>{ if(v>=60){ return (v/60).toFixed(2).replace(/\.?0+$/,'').replace('.',',')+' h'; } return (Math.round(v*10)/10).toString().replace('.',',')+' min'; };
-      const c=t.creacion;
-      if(hintEl && c.pretinsaLabel) hintEl.textContent='Desde que se crea el anuncio hasta que se analiza. Automático vs manual (HUB). Baseline PreTinsa (manual): '+(c.pretinsaLabel.replace('PreTinsa · ',''))+'.';
-      const opts={height:250, fmtVal:fmtMin};
-      if(c.pretinsaMin) opts.refLine={value:c.pretinsaMin, label:c.pretinsaLabel||'PreTinsa', color:C.grey};
-      barChart(el, c.labels,
-        [{name:'Automático', data:c.auto, color:C.teal},
-         {name:'Manual (HUB)', data:c.manual, color:C.orange}],
-        'group', opts);
+      renderBA(cr, c.pretinsaMin, c.autoMin, c.manualMin, null, null, fmtMin);
+      if(det && c.detalle){ const dt=c.detalle;
+        det.innerHTML='<b>Detalle</b> (aprobado / rechazado) · '+
+          '<b>Automático:</b> '+fmtMin(dt.aprob.auto)+' / '+fmtMin(dt.rech.auto)+' &nbsp;·&nbsp; '+
+          '<b>Manual (HUB):</b> '+fmtMin(dt.aprob.manual)+' / '+fmtMin(dt.rech.manual);
+      }
     }
   }
 

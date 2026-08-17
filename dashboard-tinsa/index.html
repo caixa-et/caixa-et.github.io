@@ -350,13 +350,13 @@
   <div class="subsection-title zoom"><h3>Tiempos de proceso · antes vs Tinsa</h3><span>KPI principal — reducción de tiempos con la automatización</span></div>
   <div class="grid2">
     <div class="panel tiempos-hero">
-      <h3>Tiempo medio de revisión <span class="ref-badge" id="tiemposRef">Referencia · S7</span></h3>
-      <p class="hint">Antes (PreTinsa, 100% manual) frente al proceso actual con Tinsa.</p>
+      <h3>Tiempo de revisión <span class="ref-badge" id="tiemposRef">Referencia · S9</span></h3>
+      <p class="hint">Cuánto tarda en analizarse y resolverse una propiedad. Antes (PreTinsa, 100% manual) vs proceso actual.</p>
       <div id="tiemposAntes"></div>
     </div>
     <div class="panel">
-      <h3>Tiempo de creación → análisis</h3>
-      <p class="hint" id="tiemposHint">Global: desde que se crea el anuncio hasta que se analiza. Antes (PreTinsa, manual) vs proceso actual.</p>
+      <h3>Tiempo de resolución general</h3>
+      <p class="hint" id="tiemposHint">Desde que una propiedad ingresa al sistema hasta que se decide si se publica o no. Media general y desglose auto/manual vs PreTinsa (37 h).</p>
       <div id="tiemposCreacion"></div>
       <div class="tiempos-detalle" id="tiemposDetalle"></div>
     </div>
@@ -404,6 +404,11 @@
       <div class="hub-legend" id="hubLegend"></div>
     </div>
   </div>
+  <div class="panel" style="margin-top:16px;">
+    <h3>Backlog del HUB · inicio de semana <span class="ref-badge" id="backlogRef"></span></h3>
+    <p class="hint">Propiedades pendientes de análisis manual (HUB) con las que arranca cada semana. Cuanto más baja, más al día está el HUB.</p>
+    <div id="chartBacklog"></div>
+  </div>
 
   <!-- ============ BLOQUE 3: INCIDENCIAS ============ -->
   <div class="section-title"><h2>Incidencias en oferta</h2><span>saneamiento del catálogo — estado de resolución</span></div>
@@ -424,7 +429,7 @@
   <div class="res-list" id="resList"></div>
 
   <div class="footnote">
-    <b>Notas de datos:</b> valores de cierre/acumulado semanal del Excel de seguimiento, S1–S8 (15 jun – 9 ago). La <b>Semana 1</b> incluye el reproceso inicial de todo el catálogo. <b>Revisiones (concluyentes)</b>: totales, automáticas y % de automatización se calculan sobre revisiones concluyentes (Green + Red), no sobre el total de análisis (que incluye Yellow → derivado al HUB). <b>Tiempos de proceso</b> (KPI principal, datos desde S6): tiempo medio de revisión 120 s antes → 37 s automático (−69,25%) / 75 s manual (−37,5%) en S8; y creación → análisis (auto vs manual) con baseline PreTinsa 37 h. <b>Performance del HUB</b>: revisiones manuales por origen (heredadas de Tinsa + entrada manual). <b>Top flags</b>: cierre de mes del mes de la semana — junio (15–30 jun) para S1–S3, julio para S4–S7; agosto (S8) aún sin cierre; en Acumulado, el mes más reciente con datos. En Incidencias, evolución semanal de <b>flg_image_download_error</b> (S3–S8). Modificadas de S8: n/a en la fuente. Datos desde <b>data.json</b>.
+    <b>Notas de datos:</b> valores de cierre/acumulado semanal del Excel de seguimiento, S1–S9 (15 jun – 16 ago). La <b>Semana 1</b> incluye el reproceso inicial de todo el catálogo. <b>% de aprobación</b> (indicador KPI): aprobadas sobre el total de revisiones concluyentes; en una semana concreta muestra su valor, en Acumulado el agregado ponderado (arrastrado por el gran volumen de la S1). <b>Revisiones (concluyentes)</b>: totales, automáticas y % de automatización sobre Green + Red (no incluye Yellow → derivado al HUB). <b>Tiempos de proceso</b> (KPI principal, datos desde S6), dos bloques: (1) <b>Tiempo de revisión</b> — 120 s PreTinsa → 35 s automático (−70,8%) / 75 s manual (−37,5%) en S9; (2) <b>Tiempo de resolución general</b> (ingreso → decisión) — 37 h PreTinsa → 1 h de media (−97,4%), con desglose automático 8,4 min (−99,6%) y manual 19,9 h (−46,2%). <b>Performance del HUB</b>: revisiones manuales por origen + <b>backlog de inicio de semana</b> (pendientes de análisis manual; S8 sin dato). <b>Top flags</b>: cierre de mes de la semana — junio (S1–S3), julio (S4–S7); agosto aún sin cierre; en Acumulado, el mes más reciente con datos. Evolución de <b>flg_image_download_error</b> (S3–S9). Modificadas de S8: n/a en la fuente. Datos desde <b>data.json</b>.
   </div>
 </div>
 
@@ -525,6 +530,13 @@
         "a": "3 ago",
         "b": "9 ago",
         "month": "ago"
+      },
+      {
+        "key": "s9",
+        "label": "S9",
+        "a": "10 ago",
+        "b": "16 ago",
+        "month": "ago"
       }
     ],
     "oferta": {
@@ -537,7 +549,8 @@
         "s5": 355641,
         "s6": 360061,
         "s7": 365795,
-        "s8": 372263
+        "s8": 372263,
+        "s9": 374333
       },
       "pub": {
         "pre": 73143,
@@ -548,7 +561,8 @@
         "s5": 81146,
         "s6": 80135,
         "s7": 80976,
-        "s8": 80844
+        "s8": 80844,
+        "s9": 80766
       },
       "nopub": {
         "pre": 27987,
@@ -559,7 +573,8 @@
         "s5": 57880,
         "s6": 57669,
         "s7": 59502,
-        "s8": 60599
+        "s8": 60599,
+        "s9": 60884
       }
     },
     "flujo": {
@@ -571,7 +586,8 @@
         "s5": 6805,
         "s6": 4434,
         "s7": 5733,
-        "s8": 5021
+        "s8": 5021,
+        "s9": 3497
       },
       "modif": {
         "s1": 136347,
@@ -581,7 +597,8 @@
         "s5": 33974,
         "s6": 33193,
         "s7": 34798,
-        "s8": null
+        "s8": null,
+        "s9": 17278
       },
       "retir": {
         "s1": 2580,
@@ -591,7 +608,8 @@
         "s5": 6664,
         "s6": 6202,
         "s7": 4709,
-        "s8": 4344
+        "s8": 4344,
+        "s9": 3721
       }
     },
     "feeds": {
@@ -604,7 +622,8 @@
         "s5": 1178,
         "s6": 1305,
         "s7": 1239,
-        "s8": 1326
+        "s8": 1326,
+        "s9": 1315
       },
       "err": {
         "pre": 887,
@@ -615,7 +634,8 @@
         "s5": 42,
         "s6": 42,
         "s7": 42,
-        "s8": 41
+        "s8": 41,
+        "s9": 41
       },
       "bloq": {
         "pre": 50,
@@ -626,7 +646,8 @@
         "s5": 158,
         "s6": 31,
         "s7": 110,
-        "s8": 29
+        "s8": 29,
+        "s9": 42
       },
       "pend": {
         "pre": 6,
@@ -637,7 +658,8 @@
         "s5": 6,
         "s6": 6,
         "s7": 6,
-        "s8": 2
+        "s8": 2,
+        "s9": 2
       },
       "curso": {
         "pre": 0,
@@ -648,7 +670,8 @@
         "s5": 0,
         "s6": 1,
         "s7": 1,
-        "s8": 1
+        "s8": 1,
+        "s9": 1
       }
     },
     "analisis": {
@@ -660,7 +683,8 @@
         "s5": 16589,
         "s6": 22689,
         "s7": 26923,
-        "s8": 22432
+        "s8": 22432,
+        "s9": 18322
       },
       "manual": {
         "s1": 2580,
@@ -670,7 +694,8 @@
         "s5": 3513,
         "s6": 2837,
         "s7": 2840,
-        "s8": 3271
+        "s8": 3271,
+        "s9": 776
       }
     },
     "flags": {
@@ -682,7 +707,8 @@
         "s5": 8818,
         "s6": 16241,
         "s7": 18061,
-        "s8": 14851
+        "s8": 14851,
+        "s9": 13510
       },
       "red": {
         "s1": 47574,
@@ -692,7 +718,8 @@
         "s5": 3499,
         "s6": 3210,
         "s7": 5081,
-        "s8": 4601
+        "s8": 4601,
+        "s9": 4065
       },
       "yellow": {
         "s1": 29503,
@@ -702,7 +729,8 @@
         "s5": 4272,
         "s6": 3238,
         "s7": 3781,
-        "s8": 2980
+        "s8": 2980,
+        "s9": 747
       }
     },
     "revis": {
@@ -714,7 +742,8 @@
         "s5": 15830,
         "s6": 22288,
         "s7": 25982,
-        "s8": 22723
+        "s8": 22723,
+        "s9": 18351
       },
       "auto": {
         "s1": 106679,
@@ -724,7 +753,8 @@
         "s5": 12317,
         "s6": 19451,
         "s7": 23142,
-        "s8": 19452
+        "s8": 19452,
+        "s9": 17575
       },
       "autoRate": {
         "s1": 98,
@@ -734,7 +764,8 @@
         "s5": 78,
         "s6": 87,
         "s7": 89,
-        "s8": 86
+        "s8": 86,
+        "s9": 96
       },
       "aprob": {
         "s1": 59932,
@@ -744,7 +775,8 @@
         "s5": 9865,
         "s6": 17021,
         "s7": 19107,
-        "s8": 15839
+        "s8": 15839,
+        "s9": 14004
       },
       "rech": {
         "s1": 49162,
@@ -754,7 +786,8 @@
         "s5": 5965,
         "s6": 5267,
         "s7": 6875,
-        "s8": 6884
+        "s8": 6884,
+        "s9": 4347
       }
     },
     "tiempo": {
@@ -767,7 +800,8 @@
         "s5": 34,
         "s6": 34,
         "s7": 40,
-        "s8": 37
+        "s8": 37,
+        "s9": 35
       }
     },
     "calidad": {
@@ -787,11 +821,13 @@
           "s5": 2.23,
           "s6": 2.23,
           "s7": 2.13,
-          "s8": 2.04
+          "s8": 2.04,
+          "s9": 2.02
         },
         "s6": 1785,
         "s7": 1725,
-        "s8": 1648
+        "s8": 1648,
+        "s9": 1633
       },
       "muni": {
         "pre": 10044,
@@ -809,11 +845,13 @@
           "s5": 5.66,
           "s6": 5.5,
           "s7": 4.7,
-          "s8": 4.34
+          "s8": 4.34,
+          "s9": 4.24
         },
         "s6": 4407,
         "s7": 3802,
-        "s8": 3509
+        "s8": 3509,
+        "s9": 3421
       },
       "cp": {
         "pre": 29054,
@@ -831,11 +869,13 @@
           "s5": 17.94,
           "s6": 17.17,
           "s7": 15.09,
-          "s8": 13.66
+          "s8": 13.66,
+          "s9": 13.32
         },
         "s6": 13758,
         "s7": 12218,
-        "s8": 11042
+        "s8": 11042,
+        "s9": 10758
       }
     },
     "hub": {
@@ -847,7 +887,8 @@
         "s5": 3513,
         "s6": 2837,
         "s7": 2840,
-        "s8": 3271
+        "s8": 3271,
+        "s9": 776
       },
       "entrada": {
         "s1": 181,
@@ -857,7 +898,19 @@
         "s5": 135,
         "s6": 171,
         "s7": 113,
-        "s8": 116
+        "s8": 116,
+        "s9": 47
+      },
+      "backlog": {
+        "s1": 8653,
+        "s2": 7373,
+        "s3": 1271,
+        "s4": 1529,
+        "s5": 898,
+        "s6": 852,
+        "s7": 1211,
+        "s8": null,
+        "s9": 365
       }
     },
     "incidencias": [
@@ -948,32 +1001,37 @@
       }
     ],
     "tiempoDetalle": {
-      "ref": "S8 · 3–9 ago",
+      "ref": "S9 · 10–16 ago",
       "weeks": [
         "s6",
         "s7",
-        "s8"
+        "s8",
+        "s9"
       ],
       "revision": {
         "pretinsa": 120,
-        "auto": 37,
+        "auto": 35,
         "manual": 75,
-        "redAuto": 69.25,
+        "redAuto": 70.8,
         "redManual": 37.5
       },
-      "creacion": {
-        "pretinsaMin": 2220,
-        "autoMin": 8.5,
-        "manualMin": 1308,
-        "detalle": {
-          "aprob": {
-            "auto": 8.8,
-            "manual": 1650
-          },
-          "rech": {
-            "auto": 7.8,
-            "manual": 1164
-          }
+      "resolucion": {
+        "general": {
+          "pretinsaMin": 2220,
+          "valMin": 60,
+          "red": 97.4
+        },
+        "auto": {
+          "min": 8.4,
+          "red": 99.6,
+          "aprob": 9.3,
+          "rech": 5.1
+        },
+        "manual": {
+          "min": 1194,
+          "red": 46.2,
+          "aprob": 1134,
+          "rech": 1296
         }
       }
     },
@@ -984,7 +1042,8 @@
         "s5": 615,
         "s6": 235,
         "s7": 238,
-        "s8": 139
+        "s8": 139,
+        "s9": 238
       }
     },
     "flagsMonth": {
@@ -1465,7 +1524,7 @@
     opts=opts||{};
     const vbW=680,vbH=opts.height||210,padL=58,padR=14,padT=14,padB=24;
     const plotW=vbW-padL-padR,plotH=vbH-padT-padB;
-    let all=series.flatMap(se=>se.data),min,max,step;
+    let all=series.flatMap(se=>se.data).filter(v=>v!=null),min,max,step;
     if(opts.min!=null&&opts.max!=null){ min=opts.min;max=opts.max;step=(max-min)/4; }
     else { const dmin=Math.min.apply(null,all),dmax=Math.max.apply(null,all);
       const pad=(dmax-dmin||dmax||1)*0.08; const sc=niceScale(dmin-pad,dmax+pad,4); min=sc.min;max=sc.max;step=sc.step; }
@@ -1473,17 +1532,25 @@
     const n=labels.length;
     const xAt=i=>padL+(n===1?plotW/2:plotW*i/(n-1));
     const yAt=v=>padT+plotH-plotH*(v-min)/(max-min);
+    const pv=v=>opts.pct?(Math.round(v*10)/10).toString().replace('.',',')+'%':fmt(v);
     let g=svgEl(vbW,vbH);
     for(let val=min;val<=max+step*0.001;val+=step){ const y=yAt(val);
       g+=`<line class="ax" x1="${padL}" y1="${y}" x2="${vbW-padR}" y2="${y}"/>`;
       g+=`<text class="axlbl" x="${padL-6}" y="${y+3}" text-anchor="end">${opts.pct?Math.round(val)+'%':fmt(val)}</text>`; }
     for(let i=0;i<n;i++) g+=`<text class="axlbl" x="${xAt(i)}" y="${vbH-8}" text-anchor="middle">${labels[i]}</text>`;
-    for(const se of series){ let d='';
-      se.data.forEach((v,i)=>{ d+=(i?'L':'M')+xAt(i).toFixed(1)+','+yAt(v).toFixed(1)+' '; });
-      if(se.fill){ g+=`<path d="${d}L${xAt(n-1)},${padT+plotH} L${xAt(0)},${padT+plotH} Z" fill="${se.color}" opacity="0.10"/>`; }
+    for(const se of series){
+      // línea con cortes en null
+      let d='', started=false;
+      se.data.forEach((v,i)=>{ if(v==null){ started=false; return; } d+=(started?'L':'M')+xAt(i).toFixed(1)+','+yAt(v).toFixed(1)+' '; started=true; });
+      if(se.fill){ let seg=[]; const flush=()=>{ if(seg.length){ let fd='M'+xAt(seg[0].i).toFixed(1)+','+yAt(seg[0].v).toFixed(1)+' ';
+            seg.forEach((p,k)=>{ if(k) fd+='L'+xAt(p.i).toFixed(1)+','+yAt(p.v).toFixed(1)+' '; });
+            fd+=`L${xAt(seg[seg.length-1].i).toFixed(1)},${padT+plotH} L${xAt(seg[0].i).toFixed(1)},${padT+plotH} Z`;
+            g+=`<path d="${fd}" fill="${se.color}" opacity="0.10"/>`; seg=[]; } };
+        se.data.forEach((v,i)=>{ if(v==null){ flush(); } else seg.push({v,i}); }); flush(); }
       g+=`<path d="${d}" fill="none" stroke="${se.color}" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>`;
-      se.data.forEach((v,i)=>{ g+=`<circle cx="${xAt(i).toFixed(1)}" cy="${yAt(v).toFixed(1)}" r="3.4" fill="${se.color}" ${tip(se.name,labels[i],v,opts.pct)}/>`;
-        if(opts.labelPts) g+=`<text class="vlbl" x="${xAt(i).toFixed(1)}" y="${(yAt(v)-8).toFixed(1)}" text-anchor="middle">${opts.pct?v+'%':fmt(v)}</text>`; }); }
+      se.data.forEach((v,i)=>{ if(v==null) return;
+        g+=`<circle cx="${xAt(i).toFixed(1)}" cy="${yAt(v).toFixed(1)}" r="3.4" fill="${se.color}" ${tip(se.name,labels[i],v,opts.pct)}/>`;
+        if(opts.labelPts) g+=`<text class="vlbl" x="${xAt(i).toFixed(1)}" y="${(yAt(v)-8).toFixed(1)}" text-anchor="middle">${pv(v)}</text>`; }); }
     g+='</svg>'; el.innerHTML=g;
   }
 
@@ -1555,10 +1622,16 @@
     // tiempo: mean over range
     const tc=Math.round(meanRange(t.auto)), red=Math.round((t.pretinsa-tc)/t.pretinsa*100);
 
+    // % de aprobación (aprobadas / total revisiones concluyentes)
+    const aprC=Math.round(sumRange(rv.aprob)/sumRange(rv.total)*100);
+    const aprPrev = bk==='pre'? null : (rv.total[bk]? Math.round(rv.aprob[bk]/rv.total[bk]*100):null);
+    const aprDelta = aprPrev==null? null : aprC-aprPrev;
+    const aprSerie = seriesWK(rv.autoRate).map((_,i)=>{ const w=WK[i]; return rv.total[w]? Math.round(rv.aprob[w]/rv.total[w]*100):0; });
+
     const cards=[
-      heroCard('Propiedades en catálogo', fmt(pubC),'', pubC-pubP,
-        `${pubC-pubP>=0?'+':''}${fmt(pubC-pubP)} ${beforeLabel()}`, true,
-        `<div class="spark">${sparkline(seriesWKP(o.pub),C.teal)}</div>`),
+      heroCard('% de aprobación', aprC,'%', aprDelta,
+        aprDelta==null?`media del rango (${WK_LABELS[rngLo()]}${isSingle()?'':'–'+WK_LABELS[rngHi()]})`:`${aprDelta>=0?'+':''}${aprDelta} pp ${beforeLabel()}`, true,
+        `<div class="spark">${sparkline(aprSerie,C.green)}</div>`),
       heroCard('% de automatización', arVal,'%', arDelta,
         arDelta==null?`media del rango (${WK_LABELS[rngLo()]}${isSingle()?'':'–'+WK_LABELS[rngHi()]})`:`${arDelta>=0?'+':''}${arDelta} pp ${beforeLabel()}`, true,
         `<div class="spark">${sparkline(seriesWK(rv.autoRate),C.orange)}</div>`),
@@ -1743,27 +1816,23 @@
     lineChart(el, labels, [{name:name, data, color:C.orange, fill:true}], {height:210, labelPts:true});
   }
 
-  function renderBA(el, pre, auto, manual, redA, redM, fmt){
+  // rows: [{label, sub, val, color, badge, muted}] — barras antes/después con etiqueta dentro/fuera
+  function renderBA(el, rows, fmt){
     if(!el) return;
-    const max=Math.max(pre,auto,manual)||1;
-    if(redA==null) redA=(pre-auto)/pre*100;
-    if(redM==null) redM=(pre-manual)/pre*100;
-    const red=v=>'−'+(Math.round(v*100)/100).toString().replace('.',',')+'%';
-    const bar=(lbl,sub,val,color,badge,muted)=>{
-      const w=Math.max(3,Math.round(val/max*100)), inside=w>=30;
+    const max=Math.max.apply(null, rows.map(r=>r.val))||1;
+    const bar=r=>{
+      const w=Math.max(3,Math.round(r.val/max*100)), inside=w>=30;
       return `<div class="ba-row">
-        <div class="ba-label">${lbl}${sub?`<small>${sub}</small>`:''}</div>
+        <div class="ba-label">${r.label}${r.sub?`<small>${r.sub}</small>`:''}</div>
         <div class="ba-barwrap">
-          <div class="ba-track"><div class="ba-fill" style="width:${w}%;background:${color};">${inside?`<span class="in">${fmt(val)}</span>`:''}</div>${inside?'':`<span class="out">${fmt(val)}</span>`}</div>
-          ${badge?`<span class="ba-red-badge${muted?' muted':''}">${badge}</span>`:''}
+          <div class="ba-track"><div class="ba-fill" style="width:${w}%;background:${r.color};">${inside?`<span class="in">${fmt(r.val)}</span>`:''}</div>${inside?'':`<span class="out">${fmt(r.val)}</span>`}</div>
+          ${r.badge?`<span class="ba-red-badge${r.muted?' muted':''}">${r.badge}</span>`:''}
         </div></div>`;
     };
-    el.innerHTML='<div class="ba-list">'+
-      bar('PreTinsa','antes · 100% manual', pre, C.grey, 'baseline', true)+
-      bar('Automático','Tinsa', auto, C.teal, red(redA))+
-      bar('Manual','HUB', manual, C.orange, red(redM))+
-      '</div>';
+    el.innerHTML='<div class="ba-list">'+rows.map(bar).join('')+'</div>';
   }
+  const _red=v=>'−'+(Math.round(v*100)/100).toString().replace('.',',')+'%';
+  const _fmtMin=v=>{ if(v>=60){ return (v/60).toFixed(2).replace(/\.?0+$/,'').replace('.',',')+' h'; } return (Math.round(v*10)/10).toString().replace('.',',')+' min'; };
 
   function renderTiempos(){
     const t=V.tiempoDetalle; if(!t) return;
@@ -1775,31 +1844,49 @@
     if(isSingle() && avail.indexOf(endKey())<0){
       const msg='<div class="tiempos-na">Sin información de tiempos<br><small>El módulo de tiempos solo dispone de datos a partir de la S6.</small></div>';
       if(refEl) refEl.textContent=WK_LABELS[rngHi()]+' · n/a';
-      if(ba) ba.innerHTML=msg;
-      if(cr) cr.innerHTML=msg;
-      if(det) det.innerHTML='';
+      if(ba) ba.innerHTML=msg; if(cr) cr.innerHTML=msg; if(det) det.innerHTML='';
       return;
     }
-    if(refEl) refEl.textContent='Referencia · '+(t.ref||'S8');
+    if(refEl) refEl.textContent='Referencia · '+(t.ref||'S9');
 
-    // Panel 1: tiempo medio de revisión (segundos)
+    // BLOQUE 1 · Tiempo de revisión (segundos) — PreTinsa 120 s
     if(t.revision){ const r=t.revision;
-      renderBA(ba, r.pretinsa, r.auto, r.manual, r.redAuto, r.redManual, v=>v+' s');
+      renderBA(ba, [
+        {label:'PreTinsa', sub:'antes · 100% manual', val:r.pretinsa, color:C.grey, badge:'baseline', muted:true},
+        {label:'Automático', sub:'Tinsa', val:r.auto, color:C.teal, badge:_red(r.redAuto)},
+        {label:'Manual', sub:'HUB', val:r.manual, color:C.orange, badge:_red(r.redManual)}
+      ], v=>v+' s');
     }
 
-    // Panel 2: creación → análisis GLOBAL (referencia principal) + detalle secundario
-    if(t.creacion){ const c=t.creacion;
-      const fmtMin=v=>{ if(v>=60){ return (v/60).toFixed(2).replace(/\.?0+$/,'').replace('.',',')+' h'; } return (Math.round(v*10)/10).toString().replace('.',',')+' min'; };
-      renderBA(cr, c.pretinsaMin, c.autoMin, c.manualMin, null, null, fmtMin);
-      if(det && c.detalle){ const dt=c.detalle;
+    // BLOQUE 2 · Tiempo de resolución general (creación → decisión) — PreTinsa 37 h
+    if(t.resolucion){ const r=t.resolucion;
+      renderBA(cr, [
+        {label:'PreTinsa', sub:'antes · 100% manual', val:r.general.pretinsaMin, color:C.grey, badge:'baseline', muted:true},
+        {label:'Resolución', sub:'media general', val:r.general.valMin, color:C.lav, badge:_red(r.general.red)},
+        {label:'Automático', sub:'Tinsa', val:r.auto.min, color:C.teal, badge:_red(r.auto.red)},
+        {label:'Manual', sub:'HUB', val:r.manual.min, color:C.orange, badge:_red(r.manual.red)}
+      ], _fmtMin);
+      if(det){
         det.innerHTML='<b>Detalle</b> (aprobado / rechazado) · '+
-          '<b>Automático:</b> '+fmtMin(dt.aprob.auto)+' / '+fmtMin(dt.rech.auto)+' &nbsp;·&nbsp; '+
-          '<b>Manual (HUB):</b> '+fmtMin(dt.aprob.manual)+' / '+fmtMin(dt.rech.manual);
+          '<b>Automático:</b> '+_fmtMin(r.auto.aprob)+' / '+_fmtMin(r.auto.rech)+' &nbsp;·&nbsp; '+
+          '<b>Manual (HUB):</b> '+_fmtMin(r.manual.aprob)+' / '+_fmtMin(r.manual.rech);
       }
     }
   }
 
-  function renderAll(){ paintPicker(); renderFeature(); renderKPIs(); renderCharts(); renderIncidents(); renderFlagEvol(); renderTiempos(); }
+  function renderBacklog(){
+    const el=document.getElementById('chartBacklog'); if(!el) return;
+    const bk=(V.hub&&V.hub.backlog)||{};
+    const data=WK.map(w=> bk[w]==null?null:bk[w]);
+    const refEl=document.getElementById('backlogRef');
+    // último valor con dato para la etiqueta
+    let lastV=null,lastL=''; for(let i=WK.length-1;i>=0;i--){ if(data[i]!=null){ lastV=data[i]; lastL=WK_LABELS[i]; break; } }
+    if(refEl) refEl.textContent = lastV!=null ? (lastL+': '+fmt(lastV)+' pend.') : '';
+    if(!data.some(v=>v!=null)){ el.innerHTML='<p class="hint">Sin datos de backlog.</p>'; return; }
+    lineChart(el, WK_LABELS, [{name:'Backlog HUB', data, color:C.lav, fill:true}], {height:210, labelPts:true});
+  }
+
+  function renderAll(){ paintPicker(); renderFeature(); renderKPIs(); renderCharts(); renderIncidents(); renderFlagEvol(); renderTiempos(); renderBacklog(); }
 
   // ---------- range picker ----------
   function buildWeekButtons(){

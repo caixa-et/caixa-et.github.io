@@ -4,7 +4,7 @@
 		<feed_version>3</feed_version>
 	</kyero>
 <property>
-<id>test-contacto_1</id>
+<id>test-contacto_1_2</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1290000</price>
@@ -76,7 +76,7 @@
 </property>
 
 	<property>
-<id>test-contacto_2</id>
+<id>test-contacto_2_2</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1290000</price>
@@ -158,7 +158,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </property>
 
 	<property>
-<id>test-contacto_3</id>
+<id>test-contacto_3_2</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1290000</price>
@@ -251,7 +251,7 @@ Seven International Realty es una agencia inmobiliaria establecida desde hace 22
 </property>
 
 	<property>
-<id>test-contacto_4</id>
+<id>test-contacto_4_2</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1290000</price>
@@ -331,7 +331,7 @@ Concierte una visita para conocer personalmente la propiedad. La presente public
 </property>
 
 	<property>
-<id>test-contacto_5</id>
+<id>test-contacto_5_2</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1290000</price>
@@ -404,7 +404,7 @@ Para más información puedes contactar con la agencia en el teléfono 612 345 6
 </property>
 
 	<property>
-<id>test-contacto_6</id>
+<id>test-contacto_6_2</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1290000</price>

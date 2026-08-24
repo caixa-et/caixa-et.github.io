@@ -258,7 +258,7 @@
   <div class="section-title"><h2>Oferta</h2><span>catálogo, ingesta y calidad del dato</span></div>
 
   <div class="subsection-title"><h3>Oferta y feeds</h3><span>estado del catálogo e ingesta</span></div>
-  <div class="grid3">
+  <div class="grid2">
     <div class="panel">
       <h3>Propiedades en Backoffice</h3>
       <p class="hint">Total y publicadas, cada una en su escala</p>
@@ -266,16 +266,6 @@
       <div id="chartOfertaTotal"></div>
       <div class="chip" style="margin:8px 0 4px;"><span class="dot" style="background:var(--teal)"></span>Publicadas</div>
       <div id="chartOfertaPub"></div>
-    </div>
-    <div class="panel">
-      <h3>Actividad de oferta</h3>
-      <p class="hint">Movimientos del catálogo por semana</p>
-      <div class="chips">
-        <span class="chip"><span class="dot" style="background:var(--teal)"></span>Nuevas</span>
-        <span class="chip"><span class="dot" style="background:var(--lav)"></span>Modificadas</span>
-        <span class="chip"><span class="dot" style="background:var(--grey)"></span>Retiradas</span>
-      </div>
-      <div id="chartActividad"></div>
     </div>
     <div class="panel">
       <h3>Estado de feeds</h3>
@@ -288,6 +278,23 @@
         <span class="chip"><span class="dot" style="background:var(--grey)"></span>En curso</span>
       </div>
       <div id="chartFeeds"></div>
+    </div>
+  </div>
+  <div class="grid2" style="margin-top:16px;">
+    <div class="panel">
+      <h3>Actividad de oferta</h3>
+      <p class="hint">Movimientos del catálogo por semana</p>
+      <div class="chips">
+        <span class="chip"><span class="dot" style="background:var(--teal)"></span>Nuevas</span>
+        <span class="chip"><span class="dot" style="background:var(--lav)"></span>Modificadas</span>
+        <span class="chip"><span class="dot" style="background:var(--grey)"></span>Retiradas</span>
+      </div>
+      <div id="chartActividad"></div>
+    </div>
+    <div class="panel">
+      <h3>Ratio altas / bajas</h3>
+      <p class="hint">Nuevas ÷ retiradas por semana. Referencia en 1,0: por encima el catálogo crece, por debajo se reduce. S1 se omite (reproceso inicial).</p>
+      <div id="chartRatio"></div>
     </div>
   </div>
 
@@ -333,7 +340,7 @@
       <div id="chartAuto"></div>
     </div>
   </div>
-  <div class="grid2" style="margin-top:16px;">
+  <div class="grid3" style="margin-top:16px;">
     <div class="panel">
       <h3>Revisiones: aprobadas vs rechazadas</h3>
       <p class="hint">Concluyentes por semana (automáticas + manuales). La barra completa es el total de revisiones.</p>
@@ -342,6 +349,11 @@
         <span class="chip"><span class="dot" style="background:var(--red)"></span>Rechazadas</span>
       </div>
       <div id="chartAprobRech"></div>
+    </div>
+    <div class="panel">
+      <h3>Evolución del % de aprobación</h3>
+      <p class="hint">Aprobadas sobre el total de revisiones concluyentes, por semana.</p>
+      <div id="chartAprobEvol"></div>
     </div>
     <div class="panel" style="display:flex;flex-direction:column;justify-content:center;">
       <h3>Resumen de revisiones</h3>
@@ -1525,7 +1537,7 @@
     const n=labels.length;
     const xAt=i=>padL+(n===1?plotW/2:plotW*i/(n-1));
     const yAt=v=>padT+plotH-plotH*(v-min)/(max-min);
-    const pv=v=>opts.pct?(Math.round(v*10)/10).toString().replace('.',',')+'%':fmt(v);
+    const pv=v=>opts.fmtVal?opts.fmtVal(v):(opts.pct?(Math.round(v*10)/10).toString().replace('.',',')+'%':fmt(v));
     let g=svgEl(vbW,vbH);
     for(let val=min;val<=max+step*0.001;val+=step){ const y=yAt(val);
       g+=`<line class="ax" x1="${padL}" y1="${y}" x2="${vbW-padR}" y2="${y}"/>`;
@@ -1542,8 +1554,11 @@
         se.data.forEach((v,i)=>{ if(v==null){ flush(); } else seg.push({v,i}); }); flush(); }
       g+=`<path d="${d}" fill="none" stroke="${se.color}" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>`;
       se.data.forEach((v,i)=>{ if(v==null) return;
-        g+=`<circle cx="${xAt(i).toFixed(1)}" cy="${yAt(v).toFixed(1)}" r="3.4" fill="${se.color}" ${tip(se.name,labels[i],v,opts.pct)}/>`;
+        g+=`<circle cx="${xAt(i).toFixed(1)}" cy="${yAt(v).toFixed(1)}" r="3.4" fill="${se.color}" ${tip(se.name,labels[i],v,opts.pct,opts.fmtVal)}/>`;
         if(opts.labelPts) g+=`<text class="vlbl" x="${xAt(i).toFixed(1)}" y="${(yAt(v)-8).toFixed(1)}" text-anchor="middle">${pv(v)}</text>`; }); }
+    if(opts.refLine){ const rl=opts.refLine, y=yAt(rl.value);
+      g+=`<line x1="${padL}" y1="${y.toFixed(1)}" x2="${vbW-padR}" y2="${y.toFixed(1)}" stroke="${rl.color||'#B9BDD6'}" stroke-width="1.5" stroke-dasharray="5 4"/>`;
+      g+=`<text x="${vbW-padR-2}" y="${(y-5).toFixed(1)}" text-anchor="end" style="font-size:10.5px;font-weight:800;fill:${rl.color||'#8A90AB'}">${rl.label||''}</text>`; }
     g+='</svg>'; el.innerHTML=g;
   }
 
@@ -1631,9 +1646,21 @@
       heroCard('% de propiedades sin municipio', muPctC.toFixed(2).replace('.',','),'%', muPctD,
         `${pp(muPctD)} pp ${beforeLabel()}`, false,
         `<div class="spark">${sparkline(seriesWKP(ca.muni.pct),C.lav)}</div>`),
-      heroCard('Propiedades en Backoffice', fmt(totC),'', totC-totP,
-        `${totC-totP>=0?'+':''}${fmt(totC-totP)} ${beforeLabel()}`, true,
-        `<div class="spark">${sparkline(seriesWKP(o.total),C.teal)}</div>`),
+      (function(){
+        const nv=V.flujo.nuevas, rt=V.flujo.retir;
+        const nC=isSingle()?nv[endKey()]:sumRange(nv), rC=isSingle()?rt[endKey()]:sumRange(rt);
+        const ratio=rC?nC/rC:0;
+        const bkk=beforeKey();
+        const rPrev=(isSingle() && bkk!=='pre' && rt[bkk])? nv[bkk]/rt[bkk] : null;
+        const rDelta=rPrev==null?null:ratio-rPrev;
+        const serie=WK.map(w=> rt[w]? nv[w]/rt[w] : 0);
+        const dl = rDelta==null
+          ? (isSingle()?'altas / bajas de la semana':`acumulado (${WK_LABELS[rngLo()]}–${WK_LABELS[rngHi()]})`)
+          : `${rDelta>=0?'+':'−'}${Math.abs(rDelta).toFixed(2).replace('.',',')} ${beforeLabel()}`;
+        return heroCard('Ratio altas / bajas', ratio.toFixed(2).replace('.',','),'×', rDelta, dl, true,
+          `<div class="spark">${sparkline(serie,C.teal)}</div>
+           <div class="hint" style="margin-top:6px;font-size:10.5px;">creadas por cada retirada · &gt;1 el catálogo crece</div>`);
+      })(),
       heroCard('Tiempo promedio por publicación', tc,'s', null,
         `antes ${t.pretinsa} s (PreTinsa)`, true,
         `<span class="badge-green">−${red}% con Tinsa</span>`),
@@ -1702,6 +1729,14 @@
       [{name:'Aprobadas',data:seriesWK(V.revis.aprob),color:C.green},
        {name:'Rechazadas',data:seriesWK(V.revis.rech),color:C.red}],'stack',{activeIdx:rngIdx()});
 
+    // Evolución del % de aprobación (aprobadas / total concluyentes)
+    (function(){
+      const el=document.getElementById('chartAprobEvol'); if(!el) return;
+      const serie=WK.map(w=> V.revis.total[w]? Math.round(V.revis.aprob[w]/V.revis.total[w]*1000)/10 : null);
+      lineChart(el, WK_LABELS, [{name:'% aprobación',data:serie,color:C.green,fill:true}],
+        {height:210,labelPts:true,pct:true});
+    })();
+
     renderRevisSummary();
     renderTopFlags();
 
@@ -1714,6 +1749,15 @@
       [{name:'Nuevas',data:seriesWK(V.flujo.nuevas),color:C.teal},
        {name:'Modificadas',data:seriesWK(V.flujo.modif),color:C.lav},
        {name:'Retiradas',data:seriesWK(V.flujo.retir),color:C.grey}],'group',{activeIdx:rngIdx()});
+
+    // Ratio altas/bajas por semana (se omite S1 = reproceso inicial)
+    (function(){
+      const el=document.getElementById('chartRatio'); if(!el) return;
+      const labels=[], data=[];
+      WK.forEach((w,i)=>{ if(w==='s1') return; const r=V.flujo.retir[w]; labels.push(WK_LABELS[i]); data.push(r? Math.round(V.flujo.nuevas[w]/r*100)/100 : null); });
+      lineChart(el, labels, [{name:'Ratio altas/bajas',data,color:C.teal,fill:true}],
+        {height:200,labelPts:true,fmtVal:v=>v.toFixed(2).replace('.',','),refLine:{value:1,label:'equilibrio (1,0)',color:C.orange}});
+    })();
 
     barChart(document.getElementById('chartFeeds'), WKP_LABELS,
       [{name:'Completados',data:seriesWKP(V.feeds.comp),color:C.green},

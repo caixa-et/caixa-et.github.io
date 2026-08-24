@@ -176,6 +176,9 @@
   .res-flag{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:10.5px;background:#F2F3FB;color:var(--ink);
     padding:2px 8px;border-radius:5px;border:1px solid var(--line);}
   .res-flag.add{background:#DFF6E7;color:#1B7A3D;border-color:#BFead0;}
+  .res-item.testing{border-left-color:var(--orange);}
+  .res-item.testing .res-check{background:#FDEBD9;color:#B8631A;}
+  .res-item.testing .res-date{background:#FDEBD9;color:#B8631A;}
 
   /* ---------- Tiempos ---------- */
   .tiempos-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin-top:6px;}
@@ -425,11 +428,11 @@
     </div>
   </div>
 
-  <div class="subsection-title"><h3>Resueltos</h3><span>incidencias cerradas y fixes aplicados</span></div>
+  <div class="subsection-title"><h3>Hitos</h3><span>cambios de criterio, fixes aplicados y mejoras en curso</span></div>
   <div class="res-list" id="resList"></div>
 
   <div class="footnote">
-    <b>Notas de datos:</b> valores de cierre/acumulado semanal del Excel de seguimiento, S1–S9 (15 jun – 16 ago). La <b>Semana 1</b> incluye el reproceso inicial de todo el catálogo. <b>% de aprobación</b> (indicador KPI): aprobadas sobre el total de revisiones concluyentes; en una semana concreta muestra su valor, en Acumulado el agregado ponderado (arrastrado por el gran volumen de la S1). <b>Revisiones (concluyentes)</b>: totales, automáticas y % de automatización sobre Green + Red (no incluye Yellow → derivado al HUB). <b>Tiempos de proceso</b> (KPI principal, datos desde S6), dos bloques: (1) <b>Tiempo de revisión</b> — 120 s PreTinsa → 35 s automático (−70,8%) / 75 s manual (−37,5%) en S9; (2) <b>Tiempo de resolución general</b> (ingreso → decisión) — 37 h PreTinsa → 1 h de media (−97,4%), con desglose automático 8,4 min (−99,6%) y manual 19,9 h (−46,2%). <b>Performance del HUB</b>: revisiones manuales por origen + <b>backlog de inicio de semana</b> (pendientes de análisis manual; S8 sin dato). <b>Top flags</b>: cierre de mes de la semana — junio (S1–S3), julio (S4–S7); agosto aún sin cierre; en Acumulado, el mes más reciente con datos. Evolución de <b>flg_image_download_error</b> (S3–S9). Modificadas de S8: n/a en la fuente. Datos desde <b>data.json</b>.
+    <b>Notas de datos:</b> valores de cierre/acumulado semanal del Excel de seguimiento, S1–S10 (15 jun – 23 ago). La <b>Semana 1</b> incluye el reproceso inicial de todo el catálogo. <b>% de aprobación</b> (indicador KPI): aprobadas sobre el total de revisiones concluyentes; en una semana concreta muestra su valor, en Acumulado el agregado ponderado (arrastrado por el gran volumen de la S1). <b>Revisiones (concluyentes)</b>: totales, automáticas y % de automatización sobre Green + Red (no incluye Yellow → derivado al HUB). <b>Tiempos de proceso</b> (KPI principal, datos desde S6), dos bloques: (1) <b>Tiempo de revisión</b> — 120 s PreTinsa → 35 s automático (−70,8%) / 75 s manual (−37,5%) en S10; (2) <b>Tiempo de resolución general</b> (ingreso → decisión) — 37 h PreTinsa → 0,6 h de media (−98,3%), con desglose automático 8,9 min (−99,6%) y manual 12,8 h (−45,8%). <b>Performance del HUB</b>: revisiones manuales por origen + <b>backlog de inicio de semana</b> (pendientes de análisis manual; S8 sin dato). <b>Top flags</b>: cierre de mes de la semana — junio (S1–S3), julio (S4–S7); agosto aún sin cierre; en Acumulado, el mes más reciente con datos. Evolución de <b>flg_image_download_error</b> (S3–S10). Modificadas de S8: n/a en la fuente. Datos desde <b>data.json</b>.
   </div>
 </div>
 
@@ -537,6 +540,13 @@
         "a": "10 ago",
         "b": "16 ago",
         "month": "ago"
+      },
+      {
+        "key": "s10",
+        "label": "S10",
+        "a": "17 ago",
+        "b": "23 ago",
+        "month": "ago"
       }
     ],
     "oferta": {
@@ -550,7 +560,8 @@
         "s6": 360061,
         "s7": 365795,
         "s8": 372263,
-        "s9": 374333
+        "s9": 374333,
+        "s10": 377867
       },
       "pub": {
         "pre": 73143,
@@ -562,7 +573,8 @@
         "s6": 80135,
         "s7": 80976,
         "s8": 80844,
-        "s9": 80766
+        "s9": 80766,
+        "s10": 80092
       },
       "nopub": {
         "pre": 27987,
@@ -574,7 +586,8 @@
         "s6": 57669,
         "s7": 59502,
         "s8": 60599,
-        "s9": 60884
+        "s9": 60884,
+        "s10": 61504
       }
     },
     "flujo": {
@@ -587,7 +600,8 @@
         "s6": 4434,
         "s7": 5733,
         "s8": 5021,
-        "s9": 3497
+        "s9": 3497,
+        "s10": 3378
       },
       "modif": {
         "s1": 136347,
@@ -598,7 +612,8 @@
         "s6": 33193,
         "s7": 34798,
         "s8": null,
-        "s9": 17278
+        "s9": 17278,
+        "s10": 9608
       },
       "retir": {
         "s1": 2580,
@@ -609,7 +624,8 @@
         "s6": 6202,
         "s7": 4709,
         "s8": 4344,
-        "s9": 3721
+        "s9": 3721,
+        "s10": 4024
       }
     },
     "feeds": {
@@ -623,7 +639,8 @@
         "s6": 1305,
         "s7": 1239,
         "s8": 1326,
-        "s9": 1315
+        "s9": 1315,
+        "s10": 1299
       },
       "err": {
         "pre": 887,
@@ -635,7 +652,8 @@
         "s6": 42,
         "s7": 42,
         "s8": 41,
-        "s9": 41
+        "s9": 41,
+        "s10": 41
       },
       "bloq": {
         "pre": 50,
@@ -647,7 +665,8 @@
         "s6": 31,
         "s7": 110,
         "s8": 29,
-        "s9": 42
+        "s9": 42,
+        "s10": 63
       },
       "pend": {
         "pre": 6,
@@ -659,7 +678,8 @@
         "s6": 6,
         "s7": 6,
         "s8": 2,
-        "s9": 2
+        "s9": 2,
+        "s10": 2
       },
       "curso": {
         "pre": 0,
@@ -671,7 +691,8 @@
         "s6": 1,
         "s7": 1,
         "s8": 1,
-        "s9": 1
+        "s9": 1,
+        "s10": 1
       }
     },
     "analisis": {
@@ -684,7 +705,8 @@
         "s6": 22689,
         "s7": 26923,
         "s8": 22432,
-        "s9": 18322
+        "s9": 18322,
+        "s10": 23255
       },
       "manual": {
         "s1": 2580,
@@ -695,7 +717,8 @@
         "s6": 2837,
         "s7": 2840,
         "s8": 3271,
-        "s9": 776
+        "s9": 776,
+        "s10": 902
       }
     },
     "flags": {
@@ -708,7 +731,8 @@
         "s6": 16241,
         "s7": 18061,
         "s8": 14851,
-        "s9": 13510
+        "s9": 13510,
+        "s10": 17610
       },
       "red": {
         "s1": 47574,
@@ -719,7 +743,8 @@
         "s6": 3210,
         "s7": 5081,
         "s8": 4601,
-        "s9": 4065
+        "s9": 4065,
+        "s10": 4508
       },
       "yellow": {
         "s1": 29503,
@@ -730,7 +755,8 @@
         "s6": 3238,
         "s7": 3781,
         "s8": 2980,
-        "s9": 747
+        "s9": 747,
+        "s10": 1137
       }
     },
     "revis": {
@@ -743,7 +769,8 @@
         "s6": 22288,
         "s7": 25982,
         "s8": 22723,
-        "s9": 18351
+        "s9": 18351,
+        "s10": 23020
       },
       "auto": {
         "s1": 106679,
@@ -754,7 +781,8 @@
         "s6": 19451,
         "s7": 23142,
         "s8": 19452,
-        "s9": 17575
+        "s9": 17575,
+        "s10": 22118
       },
       "autoRate": {
         "s1": 98,
@@ -765,7 +793,8 @@
         "s6": 87,
         "s7": 89,
         "s8": 86,
-        "s9": 96
+        "s9": 96,
+        "s10": 96
       },
       "aprob": {
         "s1": 59932,
@@ -776,7 +805,8 @@
         "s6": 17021,
         "s7": 19107,
         "s8": 15839,
-        "s9": 14004
+        "s9": 14004,
+        "s10": 18089
       },
       "rech": {
         "s1": 49162,
@@ -787,7 +817,8 @@
         "s6": 5267,
         "s7": 6875,
         "s8": 6884,
-        "s9": 4347
+        "s9": 4347,
+        "s10": 4931
       }
     },
     "tiempo": {
@@ -801,7 +832,8 @@
         "s6": 34,
         "s7": 40,
         "s8": 37,
-        "s9": 35
+        "s9": 35,
+        "s10": 35
       }
     },
     "calidad": {
@@ -822,12 +854,14 @@
           "s6": 2.23,
           "s7": 2.13,
           "s8": 2.04,
-          "s9": 2.02
+          "s9": 2.02,
+          "s10": 1.88
         },
         "s6": 1785,
         "s7": 1725,
         "s8": 1648,
-        "s9": 1633
+        "s9": 1633,
+        "s10": 1506
       },
       "muni": {
         "pre": 10044,
@@ -846,12 +880,14 @@
           "s6": 5.5,
           "s7": 4.7,
           "s8": 4.34,
-          "s9": 4.24
+          "s9": 4.24,
+          "s10": 3.9
         },
         "s6": 4407,
         "s7": 3802,
         "s8": 3509,
-        "s9": 3421
+        "s9": 3421,
+        "s10": 3120
       },
       "cp": {
         "pre": 29054,
@@ -870,12 +906,14 @@
           "s6": 17.17,
           "s7": 15.09,
           "s8": 13.66,
-          "s9": 13.32
+          "s9": 13.32,
+          "s10": 12.1
         },
         "s6": 13758,
         "s7": 12218,
         "s8": 11042,
-        "s9": 10758
+        "s9": 10758,
+        "s10": 9695
       }
     },
     "hub": {
@@ -888,7 +926,8 @@
         "s6": 2837,
         "s7": 2840,
         "s8": 3271,
-        "s9": 776
+        "s9": 776,
+        "s10": 902
       },
       "entrada": {
         "s1": 181,
@@ -899,7 +938,8 @@
         "s6": 171,
         "s7": 113,
         "s8": 116,
-        "s9": 47
+        "s9": 47,
+        "s10": 106
       },
       "backlog": {
         "s1": 8653,
@@ -910,7 +950,8 @@
         "s6": 852,
         "s7": 1211,
         "s8": null,
-        "s9": 365
+        "s9": 365,
+        "s10": 341
       }
     },
     "incidencias": [
@@ -931,82 +972,33 @@
       {
         "date": "09/07",
         "title": "Caso parcelas · flag de detección",
-        "desc": "Se aplicó una flag para detectar si el anuncio solo contiene paisajes (sin edificación) y rechazarlo. Resuelve el caso de parcelas/suelo."
+        "desc": "Flag para detectar anuncios que solo contienen paisajes (sin edificación) y rechazarlos. Resuelve el caso de parcelas/suelo."
       },
       {
         "date": "S6",
         "title": "Parcelas · 192 despublicadas manualmente",
-        "desc": "En S6 se despublicaron manualmente 192 propiedades por motivo parcelas/suelo, en línea con la flag de detección aplicada el 09/07."
+        "desc": "En S6 se despublicaron manualmente 192 propiedades por motivo parcelas/suelo, en línea con la flag de detección del 09/07."
       },
       {
-        "date": "S7",
-        "title": "Flags REVIEW → REJECT (Yellow → Red)",
-        "desc": "Flags actualmente Yellow (REVIEW) pasan a Red (REJECT) para disminuir la carga operativa del HUB.",
-        "groups": [
-          {
-            "name": "flag_unwanted_promotion",
-            "flags": [
-              "flg_info_contacto_api",
-              "flg_publi_engañosa",
-              "flg_external_url"
-            ]
-          },
-          {
-            "name": "flag_ownership_status",
-            "flags": [
-              "flg_autopromocion",
-              "flg_descripcion_cesion_de_remate",
-              "flg_cesion_de_credito",
-              "flg_is_joint_ownership",
-              "flg_is_coop",
-              "flg_descripcion_subasta_judicial",
-              "flg_descripcion_ocupado",
-              "flg_okupa",
-              "flg_descripcion_okupado",
-              "flg_descripcion_sin_posesion",
-              "flg_without_possession",
-              "flg_is_nuda",
-              "flg_descripcion_nuda_propiedad",
-              "flg_descripcion_proindiviso",
-              "flg_usufructo",
-              "flg_sin_disponibilidad",
-              "flg_alquiler_estudiantes",
-              "flg_alquiler_habitaciones",
-              "flg_old_rent",
-              "flg_fondo_inversion",
-              "flg_reservado",
-              "flg_en_ruinas",
-              "flg_en_bruto",
-              "flg_sin_instalacion_suministros",
-              "flg_sin_instalacion_suministros_regex"
-            ]
-          },
-          {
-            "name": "flag_property_conditions",
-            "flags": [
-              "flg_en_ruinas",
-              "flg_en_bruto",
-              "flg_sin_instalacion_suministros",
-              "flg_sin_instalacion_suministros_regex"
-            ]
-          },
-          {
-            "name": "Agregar (nuevas)",
-            "flags": [
-              "flg_inmueble_en_obras_description",
-              "flg_tapiado_description"
-            ]
-          }
-        ]
+        "date": "06/08",
+        "title": "27 flags: REVIEW → REJECT · cambio de criterio",
+        "desc": "Cambio general de criterio acordado (ver pestaña New_criterios y correo): 27 flags pasan de revisión a rechazo automático. Los grupos flag_unwanted_promotion, flag_ownership_status y flag_property_conditions pasan íntegros de review a reject, reduciendo la carga operativa del HUB. Listado completo flag a flag disponible bajo petición."
+      },
+      {
+        "date": "En curso",
+        "state": "testing",
+        "title": "En testing · mejoras de detección",
+        "desc": "Mejoras en pruebas: flag de crédito hipotecario, ofuscación de datos de API, análisis de tipología (bungalow y camping) y refinamiento de la detección de parcelas."
       }
     ],
     "tiempoDetalle": {
-      "ref": "S9 · 10–16 ago",
+      "ref": "S10 · 17–23 ago",
       "weeks": [
         "s6",
         "s7",
         "s8",
-        "s9"
+        "s9",
+        "s10"
       ],
       "revision": {
         "pretinsa": 120,
@@ -1018,20 +1010,20 @@
       "resolucion": {
         "general": {
           "pretinsaMin": 2220,
-          "valMin": 60,
-          "red": 97.4
+          "valMin": 36,
+          "red": 98.3
         },
         "auto": {
-          "min": 8.4,
+          "min": 8.9,
           "red": 99.6,
-          "aprob": 9.3,
-          "rech": 5.1
+          "aprob": 9.5,
+          "rech": 6.4
         },
         "manual": {
-          "min": 1194,
-          "red": 46.2,
-          "aprob": 1134,
-          "rech": 1296
+          "min": 768,
+          "red": 45.8,
+          "aprob": 732,
+          "rech": 810
         }
       }
     },
@@ -1043,7 +1035,8 @@
         "s6": 235,
         "s7": 238,
         "s8": 139,
-        "s9": 238
+        "s9": 238,
+        "s10": 225
       }
     },
     "flagsMonth": {
@@ -1789,9 +1782,10 @@
     const rl=document.getElementById('resList');
     if(rl){
       const rs=V.resueltos||[];
-      rl.innerHTML = rs.length ? rs.map(r=>`
-        <div class="res-item">
-          <div class="res-check">✓</div>
+      rl.innerHTML = rs.length ? rs.map(r=>{ const testing=r.state==='testing';
+        return `
+        <div class="res-item${testing?' testing':''}">
+          <div class="res-check">${testing?'⏳':'✓'}</div>
           <div class="res-body">
             <div class="res-title">${r.title}</div>
             <div class="res-desc">${r.desc}</div>
@@ -1801,8 +1795,8 @@
             }).join('')}</div>` : ''}
           </div>
           <span class="res-date">${r.date}</span>
-        </div>`).join('')
-        : '<p class="hint">Sin incidencias resueltas registradas.</p>';
+        </div>`; }).join('')
+        : '<p class="hint">Sin hitos registrados.</p>';
     }
   }
 

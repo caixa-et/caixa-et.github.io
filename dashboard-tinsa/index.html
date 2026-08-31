@@ -366,7 +366,7 @@
   <div class="grid2">
     <div class="panel tiempos-hero">
       <h3>Tiempo de revisión <span class="ref-badge" id="tiemposRef">Referencia · S9</span></h3>
-      <p class="hint">Cuánto tarda en analizarse y resolverse una propiedad. Antes (PreTinsa, 100% manual) vs proceso actual.</p>
+      <p class="hint">Cuánto tarda en analizarse y resolverse una propiedad. La <b>media</b> está ponderada por volumen (auto vs manual). Antes (PreTinsa, 100% manual) vs proceso actual.</p>
       <div id="tiemposAntes"></div>
     </div>
     <div class="panel">
@@ -444,7 +444,7 @@
   <div class="res-list" id="resList"></div>
 
   <div class="footnote">
-    <b>Notas de datos:</b> valores de cierre/acumulado semanal del Excel de seguimiento, S1–S10 (15 jun – 23 ago). La <b>Semana 1</b> incluye el reproceso inicial de todo el catálogo. <b>% de aprobación</b> (indicador KPI): aprobadas sobre el total de revisiones concluyentes; en una semana concreta muestra su valor, en Acumulado el agregado ponderado (arrastrado por el gran volumen de la S1). <b>Revisiones (concluyentes)</b>: totales, automáticas y % de automatización sobre Green + Red (no incluye Yellow → derivado al HUB). <b>Tiempos de proceso</b> (KPI principal, datos desde S6), dos bloques: (1) <b>Tiempo de revisión</b> — 120 s PreTinsa → 35 s automático (−70,8%) / 75 s manual (−37,5%) en S10; (2) <b>Tiempo de resolución general</b> (ingreso → decisión) — 37 h PreTinsa → 0,6 h de media (−98,3%), con desglose automático 8,9 min (−99,6%) y manual 12,8 h (−45,8%). <b>Performance del HUB</b>: revisiones manuales por origen + <b>backlog de inicio de semana</b> (pendientes de análisis manual; S8 sin dato). <b>Top flags</b>: cierre de mes de la semana — junio (S1–S3), julio (S4–S7); agosto aún sin cierre; en Acumulado, el mes más reciente con datos. Evolución de <b>flg_image_download_error</b> (S3–S10). Modificadas de S8: n/a en la fuente. Datos desde <b>data.json</b>.
+    <b>Notas de datos:</b> valores de cierre/acumulado semanal del Excel de seguimiento, S1–S11 (15 jun – 30 ago). La <b>Semana 1</b> incluye el reproceso inicial de todo el catálogo. <b>% de aprobación</b> (indicador KPI): aprobadas sobre el total de revisiones concluyentes; en una semana concreta muestra su valor, en Acumulado el agregado ponderado (arrastrado por el gran volumen de la S1). <b>Revisiones (concluyentes)</b>: totales, automáticas y % de automatización sobre Green + Red (no incluye Yellow → derivado al HUB). <b>Tiempos de proceso</b> (KPI principal, datos desde S6), dos bloques: (1) <b>Tiempo de revisión</b> — 120 s PreTinsa → 32,6 s de media ponderada (−72,8%); automático 31 s (−74,2%) / manual 75 s (−37,5%) en S11; (2) <b>Tiempo de resolución general</b> (ingreso → decisión) — 37 h PreTinsa → 0,6 h de media (−98,3%), con desglose automático 11,2 min (−99,5%) y manual 12 h (−67,6%). <b>Performance del HUB</b>: revisiones manuales por origen + <b>backlog de inicio de semana</b> (pendientes de análisis manual; S8 sin dato). <b>Top flags</b>: cierre de mes de la semana — junio (S1–S3), julio (S4–S7); agosto aún sin cierre; en Acumulado, el mes más reciente con datos. Evolución de <b>flg_image_download_error</b> (S3–S11). Modificadas de S8: n/a en la fuente. Datos desde <b>data.json</b>.
   </div>
 </div>
 
@@ -559,6 +559,13 @@
         "a": "17 ago",
         "b": "23 ago",
         "month": "ago"
+      },
+      {
+        "key": "s11",
+        "label": "S11",
+        "a": "24 ago",
+        "b": "30 ago",
+        "month": "ago"
       }
     ],
     "oferta": {
@@ -573,7 +580,8 @@
         "s7": 365795,
         "s8": 372263,
         "s9": 374333,
-        "s10": 377867
+        "s10": 377867,
+        "s11": 381884
       },
       "pub": {
         "pre": 73143,
@@ -586,7 +594,8 @@
         "s7": 80976,
         "s8": 80844,
         "s9": 80766,
-        "s10": 80092
+        "s10": 80092,
+        "s11": 80117
       },
       "nopub": {
         "pre": 27987,
@@ -599,7 +608,8 @@
         "s7": 59502,
         "s8": 60599,
         "s9": 60884,
-        "s10": 61504
+        "s10": 61504,
+        "s11": 61216
       }
     },
     "flujo": {
@@ -613,7 +623,8 @@
         "s7": 5733,
         "s8": 5021,
         "s9": 3497,
-        "s10": 3378
+        "s10": 3378,
+        "s11": 3884
       },
       "modif": {
         "s1": 136347,
@@ -625,7 +636,8 @@
         "s7": 34798,
         "s8": null,
         "s9": 17278,
-        "s10": 9608
+        "s10": 9608,
+        "s11": 8753
       },
       "retir": {
         "s1": 2580,
@@ -637,7 +649,8 @@
         "s7": 4709,
         "s8": 4344,
         "s9": 3721,
-        "s10": 4024
+        "s10": 4024,
+        "s11": 4879
       }
     },
     "feeds": {
@@ -652,7 +665,8 @@
         "s7": 1239,
         "s8": 1326,
         "s9": 1315,
-        "s10": 1299
+        "s10": 1299,
+        "s11": 1317
       },
       "err": {
         "pre": 887,
@@ -665,7 +679,8 @@
         "s7": 42,
         "s8": 41,
         "s9": 41,
-        "s10": 41
+        "s10": 41,
+        "s11": 43
       },
       "bloq": {
         "pre": 50,
@@ -678,7 +693,8 @@
         "s7": 110,
         "s8": 29,
         "s9": 42,
-        "s10": 63
+        "s10": 63,
+        "s11": 44
       },
       "pend": {
         "pre": 6,
@@ -691,7 +707,8 @@
         "s7": 6,
         "s8": 2,
         "s9": 2,
-        "s10": 2
+        "s10": 2,
+        "s11": 2
       },
       "curso": {
         "pre": 0,
@@ -704,7 +721,8 @@
         "s7": 1,
         "s8": 1,
         "s9": 1,
-        "s10": 1
+        "s10": 1,
+        "s11": 1
       }
     },
     "analisis": {
@@ -718,7 +736,8 @@
         "s7": 26923,
         "s8": 22432,
         "s9": 18322,
-        "s10": 23255
+        "s10": 23255,
+        "s11": 22343
       },
       "manual": {
         "s1": 2580,
@@ -730,7 +749,8 @@
         "s7": 2840,
         "s8": 3271,
         "s9": 776,
-        "s10": 902
+        "s10": 902,
+        "s11": 814
       }
     },
     "flags": {
@@ -744,7 +764,8 @@
         "s7": 18061,
         "s8": 14851,
         "s9": 13510,
-        "s10": 17610
+        "s10": 17610,
+        "s11": 16608
       },
       "red": {
         "s1": 47574,
@@ -756,7 +777,8 @@
         "s7": 5081,
         "s8": 4601,
         "s9": 4065,
-        "s10": 4508
+        "s10": 4508,
+        "s11": 4605
       },
       "yellow": {
         "s1": 29503,
@@ -768,7 +790,8 @@
         "s7": 3781,
         "s8": 2980,
         "s9": 747,
-        "s10": 1137
+        "s10": 1137,
+        "s11": 1130
       }
     },
     "revis": {
@@ -782,7 +805,8 @@
         "s7": 25982,
         "s8": 22723,
         "s9": 18351,
-        "s10": 23020
+        "s10": 23020,
+        "s11": 22027
       },
       "auto": {
         "s1": 106679,
@@ -794,7 +818,8 @@
         "s7": 23142,
         "s8": 19452,
         "s9": 17575,
-        "s10": 22118
+        "s10": 22118,
+        "s11": 21213
       },
       "autoRate": {
         "s1": 98,
@@ -806,7 +831,8 @@
         "s7": 89,
         "s8": 86,
         "s9": 96,
-        "s10": 96
+        "s10": 96,
+        "s11": 96
       },
       "aprob": {
         "s1": 59932,
@@ -818,7 +844,8 @@
         "s7": 19107,
         "s8": 15839,
         "s9": 14004,
-        "s10": 18089
+        "s10": 18089,
+        "s11": 17008
       },
       "rech": {
         "s1": 49162,
@@ -830,7 +857,8 @@
         "s7": 6875,
         "s8": 6884,
         "s9": 4347,
-        "s10": 4931
+        "s10": 4931,
+        "s11": 5019
       }
     },
     "tiempo": {
@@ -845,7 +873,8 @@
         "s7": 40,
         "s8": 37,
         "s9": 35,
-        "s10": 35
+        "s10": 35,
+        "s11": 31
       }
     },
     "calidad": {
@@ -867,13 +896,15 @@
           "s7": 2.13,
           "s8": 2.04,
           "s9": 2.02,
-          "s10": 1.88
+          "s10": 1.88,
+          "s11": 1.84
         },
         "s6": 1785,
         "s7": 1725,
         "s8": 1648,
         "s9": 1633,
-        "s10": 1506
+        "s10": 1506,
+        "s11": 1474
       },
       "muni": {
         "pre": 10044,
@@ -893,13 +924,15 @@
           "s7": 4.7,
           "s8": 4.34,
           "s9": 4.24,
-          "s10": 3.9
+          "s10": 3.9,
+          "s11": 3.82
         },
         "s6": 4407,
         "s7": 3802,
         "s8": 3509,
         "s9": 3421,
-        "s10": 3120
+        "s10": 3120,
+        "s11": 3063
       },
       "cp": {
         "pre": 29054,
@@ -919,13 +952,15 @@
           "s7": 15.09,
           "s8": 13.66,
           "s9": 13.32,
-          "s10": 12.1
+          "s10": 12.1,
+          "s11": 11.75
         },
         "s6": 13758,
         "s7": 12218,
         "s8": 11042,
         "s9": 10758,
-        "s10": 9695
+        "s10": 9695,
+        "s11": 9415
       }
     },
     "hub": {
@@ -939,7 +974,8 @@
         "s7": 2840,
         "s8": 3271,
         "s9": 776,
-        "s10": 902
+        "s10": 902,
+        "s11": 814
       },
       "entrada": {
         "s1": 181,
@@ -951,7 +987,8 @@
         "s7": 113,
         "s8": 116,
         "s9": 47,
-        "s10": 106
+        "s10": 106,
+        "s11": 62
       },
       "backlog": {
         "s1": 8653,
@@ -963,7 +1000,8 @@
         "s7": 1211,
         "s8": null,
         "s9": 365,
-        "s10": 341
+        "s10": 341,
+        "s11": 373
       }
     },
     "incidencias": [
@@ -1001,22 +1039,30 @@
         "state": "testing",
         "title": "En testing · mejoras de detección",
         "desc": "Mejoras en pruebas: flag de crédito hipotecario, ofuscación de datos de API, análisis de tipología (bungalow y camping) y refinamiento de la detección de parcelas."
+      },
+      {
+        "date": "27/08",
+        "title": "INI-04 · Enmascaramiento de contacto (en pro)",
+        "desc": "flg_info_contacto_api y flg_external_url dejan de pasar a Red/KO y pasan a INFO con enmascaramiento (punto 2 del correo de confirmación): en la descripción se sustituyen teléfonos, emails y URLs detectados por marcadores ([teléfono oculto], [email oculto], [enlace oculto]) y el anuncio se publica limpio; el flag queda a nivel informativo para trazabilidad. Evolución del criterio del 06/08 (estos dos flags salían del grupo flag_unwanted_promotion, que había pasado a reject). Seguimiento: el criterio implementado excluía las URLs sin «www» (falsos negativos); pendiente de una nueva respuesta que ajuste el criterio para cubrirlas."
       }
     ],
     "tiempoDetalle": {
-      "ref": "S10 · 17–23 ago",
+      "ref": "S11 · 24–30 ago",
       "weeks": [
         "s6",
         "s7",
         "s8",
         "s9",
-        "s10"
+        "s10",
+        "s11"
       ],
       "revision": {
         "pretinsa": 120,
-        "auto": 35,
+        "media": 32.6,
+        "redMedia": 72.8,
+        "auto": 31,
+        "redAuto": 74.2,
         "manual": 75,
-        "redAuto": 70.8,
         "redManual": 37.5
       },
       "resolucion": {
@@ -1026,16 +1072,16 @@
           "red": 98.3
         },
         "auto": {
-          "min": 8.9,
-          "red": 99.6,
-          "aprob": 9.5,
-          "rech": 6.4
+          "min": 11.2,
+          "red": 99.5,
+          "aprob": 12.3,
+          "rech": 7.1
         },
         "manual": {
-          "min": 768,
-          "red": 45.8,
-          "aprob": 732,
-          "rech": 810
+          "min": 720,
+          "red": 67.6,
+          "aprob": 612,
+          "rech": 828
         }
       }
     },
@@ -1048,7 +1094,8 @@
         "s7": 238,
         "s8": 139,
         "s9": 238,
-        "s10": 225
+        "s10": 225,
+        "s11": 145
       }
     },
     "flagsMonth": {
@@ -1412,6 +1459,69 @@
           }
         ]
       }
+    },
+    "estimaciones": {
+      "nota": "Estimación de reseñas con Tinsa · 2º semestre",
+      "meses": [
+        "ago",
+        "sep",
+        "oct",
+        "nov",
+        "dic",
+        "ene",
+        "feb",
+        "mar"
+      ],
+      "total": [
+        90000,
+        94500,
+        99225,
+        104186,
+        109396,
+        117053,
+        125247,
+        134014
+      ],
+      "pctManual": [
+        7,
+        5,
+        5,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "pctAuto": [
+        94,
+        95,
+        95,
+        97,
+        97,
+        98,
+        98,
+        98
+      ],
+      "manual": [
+        6300,
+        4725,
+        4961,
+        3126,
+        3282,
+        2341,
+        2505,
+        2680
+      ],
+      "auto": [
+        84600,
+        89775,
+        94264,
+        101061,
+        106114,
+        114712,
+        122742,
+        131334
+      ]
     }
   };
   let V=V_DEFAULT; // se sobrescribe con data.json si está disponible (ver init)
@@ -1889,11 +1999,12 @@
 
     // BLOQUE 1 · Tiempo de revisión (segundos) — PreTinsa 120 s
     if(t.revision){ const r=t.revision;
-      renderBA(ba, [
-        {label:'PreTinsa', sub:'antes · 100% manual', val:r.pretinsa, color:C.grey, badge:'baseline', muted:true},
-        {label:'Automático', sub:'Tinsa', val:r.auto, color:C.teal, badge:_red(r.redAuto)},
-        {label:'Manual', sub:'HUB', val:r.manual, color:C.orange, badge:_red(r.redManual)}
-      ], v=>v+' s');
+      const fs=v=>(Number.isInteger(v)?v:(Math.round(v*10)/10).toString().replace('.',','))+' s';
+      const rows=[{label:'PreTinsa', sub:'antes · 100% manual', val:r.pretinsa, color:C.grey, badge:'baseline', muted:true}];
+      if(r.media!=null) rows.push({label:'Media', sub:'ponderada', val:r.media, color:C.lav, badge:_red(r.redMedia)});
+      rows.push({label:'Automático', sub:'Tinsa', val:r.auto, color:C.teal, badge:_red(r.redAuto)});
+      rows.push({label:'Manual', sub:'HUB', val:r.manual, color:C.orange, badge:_red(r.redManual)});
+      renderBA(ba, rows, fs);
     }
 
     // BLOQUE 2 · Tiempo de resolución general (creación → decisión) — PreTinsa 37 h

@@ -1,0 +1,3297 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+	<kyero>
+		<feed_version>3</feed_version>
+	</kyero>
+<property>
+<id>test-contacto_1_3</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>Aire condicionat, Jardí, Terrassa, garatge, Piscina privada, vista sobre la muntanya</ca>
+<da>air conditioning, Garden, Terrasse, Garage, privat pool, Mountain visninger</da>
+<de>Klimaanlage, Garten, Terrasse, Garage, Privater Pool, Bergblick</de>
+<en>Fantastic luxury villas under construction in La Nucia. The Noa Garden residential complex is a recent promotion of 9 villas full of luxury and exclusivity. The villas will be built on plots of approximately 520 square meters, with a built area of ​​approximately 320 square meters, with 4 bedrooms and 4 bathrooms, an American-style kitchen and a bright living room. Made of high quality materials according to the latest trends and with the latest technologies. Solar panels, double glazed windows, charging points for electric cars, private pools in each property with self-control systems for PH and lighting. Gardens with automatic irrigation systems and maintenance of common areas. Air conditioning in all rooms and underfloor heating in the bathrooms. Kitchen appliances with a 5-year warranty and Silestone-type countertop. To guarantee your safety, armored doors, video surveillance and night security guards. In addition, the extras as possibilities, among which, elevators, landscaping projects or even home automation.</en>
+<es> Test 20/08-2 Vivienda para quienes quieran vivir en una zona tranquila y muy bien comunicada como para aquellos que busquen invertir para arrendamiento con una muy buena rentabilidad. Todo ello, además, con excelentes comunicaciones por transporte público y carreteras. Consulte la disponibilidad de los inmuebles y solicite información sin compromiso. Colabora en la comercialización: SERVIHABITAT SERVICIOS INMOBILIARIOS, S.L.U., (CIF B66082629). La información contenida en la presente descripción ha sido facilitada por el propietario y proviene de sus fuentes, por lo que Servihabitat queda eximida de cualquier responsabilidad que se derive de la inexactitud de dichos contenidos. Del 05/08/2026 al 19/08/2026 este es un producto incluido en "WOW! Ventas especiales". El precio indicado es precio de salida. Descúbrelo e infórmate en www.servihabitat.com/es/wowventasespeciales.</es>
+<fi>ilmastointi, puutarha, terassi, autotalli, yksityisallas, vuoristonäkymät</fi>
+<fr>climatisation, jardin, terrasse, garage, piscine privée, vue sur la montagne</fr>
+<it>Fantastiche ville di lusso in costruzione a La Nucia. Il complesso residenziale Noa Garden è una recente promozione di 9 ville ricche di lusso ed esclusività. Le ville saranno costruite su lotti di circa 520 mq, con una superficie edificata di circa 320 mq, con 4 camere da letto e 4 bagni, una cucina all'americana e un luminoso soggiorno. Realizzata con materiali di alta qualità secondo le ultime tendenze e con le più recenti tecnologie. Pannelli solari, finestre con doppi vetri, colonnine di ricarica per auto elettriche, piscine private in ogni proprietà con sistemi di autocontrollo per PH e illuminazione. Giardini con impianti di irrigazione automatica e manutenzione delle aree comuni. Aria condizionata in tutte le stanze e riscaldamento a pavimento nei bagni. Elettrodomestici da cucina con garanzia di 5 anni e piano di lavoro tipo Silestone. A garanzia della vostra sicurezza, porte blindate, videosorveglianza e guardiania notturna. Inoltre, gli extra come possibilità, tra cui ascensori, progetti paesaggistici o anche domotica.</it>
+<nl>Air conditioning, Tuin, Terras, garage, privé zwembad, uitzicht op de bergen</nl>
+<no>klimaanlegg, hage, terrasse, garasje, privat svømmebasseng, utsikt over fjell</no>
+<pt>ar condicionado, jardim, terraço, garagem, piscina privada, vista para a montanha</pt>
+<ru>Роскошные строящиеся виллы в Ла-Нусии. Жилой комплекс Noa Garden состоит из 9 вилл, полных роскоши и эксклюзивности. Виллы будут построены на участках площадью около 520 квадратных метров, с застроенной площадью около 320 квадратных метров, с 4 спальнями и 4 ванными комнатами, кухней в американском стиле и светлой гостиной. С использованием высококачественных материалов в соответствии с последними тенденциями и новейшими технологиями. Солнечные панели, окна с двойным остеклением, точки зарядки электромобилей, частные бассейны в каждом доме с системами самоконтроля для РН и освещения. Сады с автоматическими системами полива и обслуживанием общих зон. Кондиционеры во всех комнатах и ​​полы с подогревом в ванных комнатах. Кухонная техника с гарантией 5 лет и столешницей типа Silestone. Для гарантии вашей безопасности бронированные двери, видеонаблюдение и ночная охрана. Кроме того, дополнительные возможности, среди которых лифты, ландшафтные проекты или даже домашняя автоматизация.</ru>
+<sv>luftkonditionerare, trädgård, terrass, garage, privat pool, bergsutsikt</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>test-contacto_2_3</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>Aire condicionat, Jardí, Terrassa, garatge, Piscina privada, vista sobre la muntanya</ca>
+<da>air conditioning, Garden, Terrasse, Garage, privat pool, Mountain visninger</da>
+<de>Klimaanlage, Garten, Terrasse, Garage, Privater Pool, Bergblick</de>
+<en>Fantastic luxury villas under construction in La Nucia. The Noa Garden residential complex is a recent promotion of 9 villas full of luxury and exclusivity. The villas will be built on plots of approximately 520 square meters, with a built area of ​​approximately 320 square meters, with 4 bedrooms and 4 bathrooms, an American-style kitchen and a bright living room. Made of high quality materials according to the latest trends and with the latest technologies. Solar panels, double glazed windows, charging points for electric cars, private pools in each property with self-control systems for PH and lighting. Gardens with automatic irrigation systems and maintenance of common areas. Air conditioning in all rooms and underfloor heating in the bathrooms. Kitchen appliances with a 5-year warranty and Silestone-type countertop. To guarantee your safety, armored doors, video surveillance and night security guards. In addition, the extras as possibilities, among which, elevators, landscaping projects or even home automation.</en>
+<es>Test 20/08-2   Una vivienda singular, amplia y luminosa. La vivienda cuenta con una superficie construida aproximada de 167 m² y se encuentra en un edificio de reciente construcción con ascensor. Distribución y características principales: La vivienda dispone de doble acceso, pudiendo entrar tanto desde la planta tercera como desde la zona superior mediante ascensor. En su interior encontramos un amplio salón muy luminoso, con suelo de mármol y balcones, aportando abundante luz natural. La cocina se encuentra integrada en el salón, con preinstalación y tomas preparadas, aunque se entrega sin amueblar ni equipar. Dispone de tres dormitorios, uno de ellos con baño en suite y zona prevista para vestidor, además de dos baños completos con placa de ducha y acabados de calidad.
+
+Entre sus calidades destacan: * Climatización centralizada frío/calor en toda la vivienda. * Sistema de calefacción mediante radiadores de gas natural. * Puertas blancas de diseño actual. * Ventanas de doble acristalamiento tipo Climalit. * Suelos de mármol. * Buena luminosidad y distribución funcional.
+
+Zona de cubierta y piscina: La vivienda cuenta, según documentación registral, con una parte de azotea vinculada al inmueble como anejo inseparable, donde se ubica la piscina. En relación con el resto de zonas de cubierta/azotea, existe documentación específica y situación jurídica en análisis, por lo que toda la información disponible será facilitada a los interesados para su correcta valoración técnica y jurídica antes de avanzar en la operación. Por transparencia, se recomienda que el comprador analice la documentación registral, técnica y jurídica disponible antes de formalizar cualquier decisión de compra.
+
+Garaje opcional: Existe posibilidad de adquirir plaza de garaje de forma opcional.
+
+Precio: 625.000 €. Para más información o concertar una visita, contacte con nosotros. Teléfono: 640 856 879.
+
+Información al consumidor: Informamos a nuestros clientes que el precio de venta no incluye honorarios de la agencia inmobiliaria, impuestos (Impuesto de Transmisiones Patrimoniales, IVA o AJD según proceda), ni otros gastos inherentes a la compraventa (Registro de la Propiedad, Notaría, gestoría o financiación). Documento D.I.A. a disposición del consumidor según Decreto 218/2005 de la Junta de Andalucía. Comercializa en EXCLUSIVA Grupo Inmobiliario Tovar-Mateos.</es>
+<fi>ilmastointi, puutarha, terassi, autotalli, yksityisallas, vuoristonäkymät</fi>
+<fr>climatisation, jardin, terrasse, garage, piscine privée, vue sur la montagne</fr>
+<it>Fantastiche ville di lusso in costruzione a La Nucia. Il complesso residenziale Noa Garden è una recente promozione di 9 ville ricche di lusso ed esclusività. Le ville saranno costruite su lotti di circa 520 mq, con una superficie edificata di circa 320 mq, con 4 camere da letto e 4 bagni, una cucina all'americana e un luminoso soggiorno. Realizzata con materiali di alta qualità secondo le ultime tendenze e con le più recenti tecnologie. Pannelli solari, finestre con doppi vetri, colonnine di ricarica per auto elettriche, piscine private in ogni proprietà con sistemi di autocontrollo per PH e illuminazione. Giardini con impianti di irrigazione automatica e manutenzione delle aree comuni. Aria condizionata in tutte le stanze e riscaldamento a pavimento nei bagni. Elettrodomestici da cucina con garanzia di 5 anni e piano di lavoro tipo Silestone. A garanzia della vostra sicurezza, porte blindate, videosorveglianza e guardiania notturna. Inoltre, gli extra come possibilità, tra cui ascensori, progetti paesaggistici o anche domotica.</it>
+<nl>Air conditioning, Tuin, Terras, garage, privé zwembad, uitzicht op de bergen</nl>
+<no>klimaanlegg, hage, terrasse, garasje, privat svømmebasseng, utsikt over fjell</no>
+<pt>ar condicionado, jardim, terraço, garagem, piscina privada, vista para a montanha</pt>
+<ru>Роскошные строящиеся виллы в Ла-Нусии. Жилой комплекс Noa Garden состоит из 9 вилл, полных роскоши и эксклюзивности. Виллы будут построены на участках площадью около 520 квадратных метров, с застроенной площадью около 320 квадратных метров, с 4 спальнями и 4 ванными комнатами, кухней в американском стиле и светлой гостиной. С использованием высококачественных материалов в соответствии с последними тенденциями и новейшими технологиями. Солнечные панели, окна с двойным остеклением, точки зарядки электромобилей, частные бассейны в каждом доме с системами самоконтроля для РН и освещения. Сады с автоматическими системами полива и обслуживанием общих зон. Кондиционеры во всех комнатах и ​​полы с подогревом в ванных комнатах. Кухонная техника с гарантией 5 лет и столешницей типа Silestone. Для гарантии вашей безопасности бронированные двери, видеонаблюдение и ночная охрана. Кроме того, дополнительные возможности, среди которых лифты, ландшафтные проекты или даже домашняя автоматизация.</ru>
+<sv>luftkonditionerare, trädgård, terrass, garage, privat pool, bergsutsikt</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>test-contacto_3_3</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>Aire condicionat, Jardí, Terrassa, garatge, Piscina privada, vista sobre la muntanya</ca>
+<da>air conditioning, Garden, Terrasse, Garage, privat pool, Mountain visninger</da>
+<de>Klimaanlage, Garten, Terrasse, Garage, Privater Pool, Bergblick</de>
+<en>Fantastic luxury villas under construction in La Nucia. The Noa Garden residential complex is a recent promotion of 9 villas full of luxury and exclusivity. The villas will be built on plots of approximately 520 square meters, with a built area of ​​approximately 320 square meters, with 4 bedrooms and 4 bathrooms, an American-style kitchen and a bright living room. Made of high quality materials according to the latest trends and with the latest technologies. Solar panels, double glazed windows, charging points for electric cars, private pools in each property with self-control systems for PH and lighting. Gardens with automatic irrigation systems and maintenance of common areas. Air conditioning in all rooms and underfloor heating in the bathrooms. Kitchen appliances with a 5-year warranty and Silestone-type countertop. To guarantee your safety, armored doors, video surveillance and night security guards. In addition, the extras as possibilities, among which, elevators, landscaping projects or even home automation.</en>
+<es> Test 20/08-2  Casa de campo soleada. Descubre esta acogedora y luminosa vivienda, ideal para quienes buscan vivir en un entorno tranquilo y disfrutar de espacios exteriores.
+
+Distribución de la vivienda:
+
+Planta baja: Encantador porche rodeado de árboles frutales, bancales con flores y una fuente decorativa, ideal para disfrutar al aire libre. Amplia cocina abierta con zona de comedor, dos dormitorios, un dormitorio doble con armario y otro dormitorio doble actualmente adaptado como despacho. Un baño completo con bañera.
+
+Planta alta: Por las escaleras ubicadas en la cocina se accede a un acogedor salón con chimenea y aire acondicionado, un tercer dormitorio doble con un gran armario y un baño equipado con ducha.
+
+Desde el salón se tiene acceso directo a dos terrazas:
+
+Terraza con amplia superficie para disfrutar del sol y vistas panorámicas.
+Terraza con porche, pequeño huerto y depósito de agua de 5 m³ para riego.
+
+Entre los árboles frutales se incluyen un naranjo, un limonero, un pomelo y recientemente se han plantado un almendro y un mango. Tiene un depósito de agua de 5 m³.
+
+En el exterior de la propiedad encontramos una zona de aparcamiento privada con capacidad para tres vehículos y dos trasteros. La propiedad dispone de suministro de agua y electricidad. Posibilidad de instalar aire acondicionado en los dormitorios de forma sencilla.
+
+Sin comisión para el comprador. Las superficies expresadas en esta página tienen carácter descriptivo y son aproximadas.
+
+Visite nuestra página web hoy en www.immoseven.net, llámenos al +34 958 630733 o simplemente envíenos una consulta diciéndonos lo que está buscando. Estamos disponibles para comunicarnos por WhatsApp cuando usted lo desee: +34 618086580.
+
+Seven International Realty es una agencia inmobiliaria establecida desde hace 22 años. Nosotros les ofrecemos una gran selección de apartamentos, casas adosadas, chalets, villas y fincas en venta. Estamos aquí para ayudarle a encontrar la propiedad adecuada para usted y las necesidades de su familia. SEVEN, tu inmobiliaria para alquilar, vender y comprar.</es>
+<fi>ilmastointi, puutarha, terassi, autotalli, yksityisallas, vuoristonäkymät</fi>
+<fr>climatisation, jardin, terrasse, garage, piscine privée, vue sur la montagne</fr>
+<it>Fantastiche ville di lusso in costruzione a La Nucia. Il complesso residenziale Noa Garden è una recente promozione di 9 ville ricche di lusso ed esclusività. Le ville saranno costruite su lotti di circa 520 mq, con una superficie edificata di circa 320 mq, con 4 camere da letto e 4 bagni, una cucina all'americana e un luminoso soggiorno. Realizzata con materiali di alta qualità secondo le ultime tendenze e con le più recenti tecnologie. Pannelli solari, finestre con doppi vetri, colonnine di ricarica per auto elettriche, piscine private in ogni proprietà con sistemi di autocontrollo per PH e illuminazione. Giardini con impianti di irrigazione automatica e manutenzione delle aree comuni. Aria condizionata in tutte le stanze e riscaldamento a pavimento nei bagni. Elettrodomestici da cucina con garanzia di 5 anni e piano di lavoro tipo Silestone. A garanzia della vostra sicurezza, porte blindate, videosorveglianza e guardiania notturna. Inoltre, gli extra come possibilità, tra cui ascensori, progetti paesaggistici o anche domotica.</it>
+<nl>Air conditioning, Tuin, Terras, garage, privé zwembad, uitzicht op de bergen</nl>
+<no>klimaanlegg, hage, terrasse, garasje, privat svømmebasseng, utsikt over fjell</no>
+<pt>ar condicionado, jardim, terraço, garagem, piscina privada, vista para a montanha</pt>
+<ru>Роскошные строящиеся виллы в Ла-Нусии. Жилой комплекс Noa Garden состоит из 9 вилл, полных роскоши и эксклюзивности. Виллы будут построены на участках площадью около 520 квадратных метров, с застроенной площадью около 320 квадратных метров, с 4 спальнями и 4 ванными комнатами, кухней в американском стиле и светлой гостиной. С использованием высококачественных материалов в соответствии с последними тенденциями и новейшими технологиями. Солнечные панели, окна с двойным остеклением, точки зарядки электромобилей, частные бассейны в каждом доме с системами самоконтроля для РН и освещения. Сады с автоматическими системами полива и обслуживанием общих зон. Кондиционеры во всех комнатах и ​​полы с подогревом в ванных комнатах. Кухонная техника с гарантией 5 лет и столешницей типа Silestone. Для гарантии вашей безопасности бронированные двери, видеонаблюдение и ночная охрана. Кроме того, дополнительные возможности, среди которых лифты, ландшафтные проекты или даже домашняя автоматизация.</ru>
+<sv>luftkonditionerare, trädgård, terrass, garage, privat pool, bergsutsikt</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>test-contacto_4_3</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>Aire condicionat, Jardí, Terrassa, garatge, Piscina privada, vista sobre la muntanya</ca>
+<da>air conditioning, Garden, Terrasse, Garage, privat pool, Mountain visninger</da>
+<de>Klimaanlage, Garten, Terrasse, Garage, Privater Pool, Bergblick</de>
+<en>Fantastic luxury villas under construction in La Nucia. The Noa Garden residential complex is a recent promotion of 9 villas full of luxury and exclusivity. The villas will be built on plots of approximately 520 square meters, with a built area of ​​approximately 320 square meters, with 4 bedrooms and 4 bathrooms, an American-style kitchen and a bright living room. Made of high quality materials according to the latest trends and with the latest technologies. Solar panels, double glazed windows, charging points for electric cars, private pools in each property with self-control systems for PH and lighting. Gardens with automatic irrigation systems and maintenance of common areas. Air conditioning in all rooms and underfloor heating in the bathrooms. Kitchen appliances with a 5-year warranty and Silestone-type countertop. To guarantee your safety, armored doors, video surveillance and night security guards. In addition, the extras as possibilities, among which, elevators, landscaping projects or even home automation.</en>
+<es> Test 20/08-2   Referencia A-CAR-P1545S. Interesados llamar al Sr. José Carlos: 651 126 096.
+
+Se trata de una propiedad totalmente exterior, amplia y luminosa, con una excelente distribución y grandes posibilidades para dotarla de un estilo personal. Con una construcción sólida y de calidad, la vivienda se ofrece amueblada, se encuentra en muy buen estado y dispone de primeras calidades, contando con suelos de terrazo pulido, AA.CC centralizado, puerta blindada, toldos, carpintería de pino, techos en cámara de pladur, ventiladores de techo y ventanas de aluminio Climalit, entre otras mejoras.
+
+El amplio y luminoso salón dispone de dos ambientes. La cocina independiente, con zona de office, se encuentra totalmente equipada, cuenta con todos los electrodomésticos y dispone también de galería acristalada comunicada con la terraza.
+
+La vivienda cuenta con 2 dormitorios con armarios empotrados y 1 baño completo. La finca dispone de ascensor y videoportero, y la vivienda cuenta además con plaza de garaje, piscinas para adultos y niños, zonas ajardinadas e instalaciones deportivas y sociales.
+
+Concierte una visita para conocer personalmente la propiedad. La presente publicación tiene carácter meramente informativo, orientativo y no vinculante, por lo que no supone información contractual alguna. Este anuncio puede contener errores y se muestra a título informativo de la información recibida, sin ser responsable la inmobiliaria de dichos errores.</es>
+<fi>ilmastointi, puutarha, terassi, autotalli, yksityisallas, vuoristonäkymät</fi>
+<fr>climatisation, jardin, terrasse, garage, piscine privée, vue sur la montagne</fr>
+<it>Fantastiche ville di lusso in costruzione a La Nucia. Il complesso residenziale Noa Garden è una recente promozione di 9 ville ricche di lusso ed esclusività. Le ville saranno costruite su lotti di circa 520 mq, con una superficie edificata di circa 320 mq, con 4 camere da letto e 4 bagni, una cucina all'americana e un luminoso soggiorno. Realizzata con materiali di alta qualità secondo le ultime tendenze e con le più recenti tecnologie. Pannelli solari, finestre con doppi vetri, colonnine di ricarica per auto elettriche, piscine private in ogni proprietà con sistemi di autocontrollo per PH e illuminazione. Giardini con impianti di irrigazione automatica e manutenzione delle aree comuni. Aria condizionata in tutte le stanze e riscaldamento a pavimento nei bagni. Elettrodomestici da cucina con garanzia di 5 anni e piano di lavoro tipo Silestone. A garanzia della vostra sicurezza, porte blindate, videosorveglianza e guardiania notturna. Inoltre, gli extra come possibilità, tra cui ascensori, progetti paesaggistici o anche domotica.</it>
+<nl>Air conditioning, Tuin, Terras, garage, privé zwembad, uitzicht op de bergen</nl>
+<no>klimaanlegg, hage, terrasse, garasje, privat svømmebasseng, utsikt over fjell</no>
+<pt>ar condicionado, jardim, terraço, garagem, piscina privada, vista para a montanha</pt>
+<ru>Роскошные строящиеся виллы в Ла-Нусии. Жилой комплекс Noa Garden состоит из 9 вилл, полных роскоши и эксклюзивности. Виллы будут построены на участках площадью около 520 квадратных метров, с застроенной площадью около 320 квадратных метров, с 4 спальнями и 4 ванными комнатами, кухней в американском стиле и светлой гостиной. С использованием высококачественных материалов в соответствии с последними тенденциями и новейшими технологиями. Солнечные панели, окна с двойным остеклением, точки зарядки электромобилей, частные бассейны в каждом доме с системами самоконтроля для РН и освещения. Сады с автоматическими системами полива и обслуживанием общих зон. Кондиционеры во всех комнатах и ​​полы с подогревом в ванных комнатах. Кухонная техника с гарантией 5 лет и столешницей типа Silestone. Для гарантии вашей безопасности бронированные двери, видеонаблюдение и ночная охрана. Кроме того, дополнительные возможности, среди которых лифты, ландшафтные проекты или даже домашняя автоматизация.</ru>
+<sv>luftkonditionerare, trädgård, terrass, garage, privat pool, bergsutsikt</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>test-contacto_5_3</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>Aire condicionat, Jardí, Terrassa, garatge, Piscina privada, vista sobre la muntanya</ca>
+<da>air conditioning, Garden, Terrasse, Garage, privat pool, Mountain visninger</da>
+<de>Klimaanlage, Garten, Terrasse, Garage, Privater Pool, Bergblick</de>
+<en>Fantastic luxury villas under construction in La Nucia. The Noa Garden residential complex is a recent promotion of 9 villas full of luxury and exclusivity. The villas will be built on plots of approximately 520 square meters, with a built area of ​​approximately 320 square meters, with 4 bedrooms and 4 bathrooms, an American-style kitchen and a bright living room. Made of high quality materials according to the latest trends and with the latest technologies. Solar panels, double glazed windows, charging points for electric cars, private pools in each property with self-control systems for PH and lighting. Gardens with automatic irrigation systems and maintenance of common areas. Air conditioning in all rooms and underfloor heating in the bathrooms. Kitchen appliances with a 5-year warranty and Silestone-type countertop. To guarantee your safety, armored doors, video surveillance and night security guards. In addition, the extras as possibilities, among which, elevators, landscaping projects or even home automation.</en>
+<es> Test 20/08-2   Piso luminoso de 2 habitaciones y 1 baño. La vivienda dispone de salón-comedor, cocina equipada y balcón exterior.
+Para más información puedes contactar con la agencia en el teléfono 612 345 678, escribir a info@inmobiliariaejemplo.es o consultar www.inmobiliariaejemplo.es.</es>
+<fi>ilmastointi, puutarha, terassi, autotalli, yksityisallas, vuoristonäkymät</fi>
+<fr>climatisation, jardin, terrasse, garage, piscine privée, vue sur la montagne</fr>
+<it>Fantastiche ville di lusso in costruzione a La Nucia. Il complesso residenziale Noa Garden è una recente promozione di 9 ville ricche di lusso ed esclusività. Le ville saranno costruite su lotti di circa 520 mq, con una superficie edificata di circa 320 mq, con 4 camere da letto e 4 bagni, una cucina all'americana e un luminoso soggiorno. Realizzata con materiali di alta qualità secondo le ultime tendenze e con le più recenti tecnologie. Pannelli solari, finestre con doppi vetri, colonnine di ricarica per auto elettriche, piscine private in ogni proprietà con sistemi di autocontrollo per PH e illuminazione. Giardini con impianti di irrigazione automatica e manutenzione delle aree comuni. Aria condizionata in tutte le stanze e riscaldamento a pavimento nei bagni. Elettrodomestici da cucina con garanzia di 5 anni e piano di lavoro tipo Silestone. A garanzia della vostra sicurezza, porte blindate, videosorveglianza e guardiania notturna. Inoltre, gli extra come possibilità, tra cui ascensori, progetti paesaggistici o anche domotica.</it>
+<nl>Air conditioning, Tuin, Terras, garage, privé zwembad, uitzicht op de bergen</nl>
+<no>klimaanlegg, hage, terrasse, garasje, privat svømmebasseng, utsikt over fjell</no>
+<pt>ar condicionado, jardim, terraço, garagem, piscina privada, vista para a montanha</pt>
+<ru>Роскошные строящиеся виллы в Ла-Нусии. Жилой комплекс Noa Garden состоит из 9 вилл, полных роскоши и эксклюзивности. Виллы будут построены на участках площадью около 520 квадратных метров, с застроенной площадью около 320 квадратных метров, с 4 спальнями и 4 ванными комнатами, кухней в американском стиле и светлой гостиной. С использованием высококачественных материалов в соответствии с последними тенденциями и новейшими технологиями. Солнечные панели, окна с двойным остеклением, точки зарядки электромобилей, частные бассейны в каждом доме с системами самоконтроля для РН и освещения. Сады с автоматическими системами полива и обслуживанием общих зон. Кондиционеры во всех комнатах и ​​полы с подогревом в ванных комнатах. Кухонная техника с гарантией 5 лет и столешницей типа Silestone. Для гарантии вашей безопасности бронированные двери, видеонаблюдение и ночная охрана. Кроме того, дополнительные возможности, среди которых лифты, ландшафтные проекты или даже домашняя автоматизация.</ru>
+<sv>luftkonditionerare, trädgård, terrass, garage, privat pool, bergsutsikt</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>test-contacto_6_3</id>
+<date>2025-08-15 01:03:23</date>
+<ref>VS1003DN</ref>
+<price>1290000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<new_build>1</new_build>
+<type>villa</type>
+<location_id>1521</location_id>
+<town>La Nucia</town>
+<postcode>03530</postcode>
+<province>Alicante</province>
+<location>
+<latitude>38.5682590155394</latitude>
+<longitude>-0.127800571649666</longitude>
+</location>
+<location_detail/>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>0</built>
+<plot>520</plot>
+</surface_area>
+<energy_rating>
+<consumption>G</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>X</url>
+<desc>
+<ca>Aire condicionat, Jardí, Terrassa, garatge, Piscina privada, vista sobre la muntanya</ca>
+<da>air conditioning, Garden, Terrasse, Garage, privat pool, Mountain visninger</da>
+<de>Klimaanlage, Garten, Terrasse, Garage, Privater Pool, Bergblick</de>
+<en>Fantastic luxury villas under construction in La Nucia. The Noa Garden residential complex is a recent promotion of 9 villas full of luxury and exclusivity. The villas will be built on plots of approximately 520 square meters, with a built area of ​​approximately 320 square meters, with 4 bedrooms and 4 bathrooms, an American-style kitchen and a bright living room. Made of high quality materials according to the latest trends and with the latest technologies. Solar panels, double glazed windows, charging points for electric cars, private pools in each property with self-control systems for PH and lighting. Gardens with automatic irrigation systems and maintenance of common areas. Air conditioning in all rooms and underfloor heating in the bathrooms. Kitchen appliances with a 5-year warranty and Silestone-type countertop. To guarantee your safety, armored doors, video surveillance and night security guards. In addition, the extras as possibilities, among which, elevators, landscaping projects or even home automation.</en>
+<es>Test 20/08-2 Espectacular vivienda de 4 dormitorios y 3 baños situada en una tranquila zona residencial. La propiedad dispone de amplio salón-comedor, cocina independiente equipada, terraza exterior, plaza de garaje y trastero.
+
+Para ampliar información o concertar una visita puede contactar con nuestro equipo comercial llamando al +34 932 456 789 o al móvil 612 345 678. También atendemos consultas por WhatsApp en el +34 677 889 900.
+
+Puede escribirnos a ventas@inmobiliariaejemplo.es o, para consultas administrativas, a info.barcelona@inmobiliariaejemplo.es.
+
+Toda la información adicional sobre esta vivienda está disponible en https://www.inmobiliariaejemplo.es/inmuebles/barcelona/atico-12345. También puede consultar nuestro portal en www.inmobiliariaejemplo.es.
+
+Referencia comercial: BCN-45897. Para concertar una visita indique esta referencia al contactar con nuestro equipo. La información contenida en este anuncio es orientativa y puede estar sujeta a modificaciones.</es>
+<fi>ilmastointi, puutarha, terassi, autotalli, yksityisallas, vuoristonäkymät</fi>
+<fr>climatisation, jardin, terrasse, garage, piscine privée, vue sur la montagne</fr>
+<it>Fantastiche ville di lusso in costruzione a La Nucia. Il complesso residenziale Noa Garden è una recente promozione di 9 ville ricche di lusso ed esclusività. Le ville saranno costruite su lotti di circa 520 mq, con una superficie edificata di circa 320 mq, con 4 camere da letto e 4 bagni, una cucina all'americana e un luminoso soggiorno. Realizzata con materiali di alta qualità secondo le ultime tendenze e con le più recenti tecnologie. Pannelli solari, finestre con doppi vetri, colonnine di ricarica per auto elettriche, piscine private in ogni proprietà con sistemi di autocontrollo per PH e illuminazione. Giardini con impianti di irrigazione automatica e manutenzione delle aree comuni. Aria condizionata in tutte le stanze e riscaldamento a pavimento nei bagni. Elettrodomestici da cucina con garanzia di 5 anni e piano di lavoro tipo Silestone. A garanzia della vostra sicurezza, porte blindate, videosorveglianza e guardiania notturna. Inoltre, gli extra come possibilità, tra cui ascensori, progetti paesaggistici o anche domotica.</it>
+<nl>Air conditioning, Tuin, Terras, garage, privé zwembad, uitzicht op de bergen</nl>
+<no>klimaanlegg, hage, terrasse, garasje, privat svømmebasseng, utsikt over fjell</no>
+<pt>ar condicionado, jardim, terraço, garagem, piscina privada, vista para a montanha</pt>
+<ru>Роскошные строящиеся виллы в Ла-Нусии. Жилой комплекс Noa Garden состоит из 9 вилл, полных роскоши и эксклюзивности. Виллы будут построены на участках площадью около 520 квадратных метров, с застроенной площадью около 320 квадратных метров, с 4 спальнями и 4 ванными комнатами, кухней в американском стиле и светлой гостиной. С использованием высококачественных материалов в соответствии с последними тенденциями и новейшими технологиями. Солнечные панели, окна с двойным остеклением, точки зарядки электромобилей, частные бассейны в каждом доме с системами самоконтроля для РН и освещения. Сады с автоматическими системами полива и обслуживанием общих зон. Кондиционеры во всех комнатах и ​​полы с подогревом в ванных комнатах. Кухонная техника с гарантией 5 лет и столешницей типа Silestone. Для гарантии вашей безопасности бронированные двери, видеонаблюдение и ночная охрана. Кроме того, дополнительные возможности, среди которых лифты, ландшафтные проекты или даже домашняя автоматизация.</ru>
+<sv>luftkonditionerare, trädgård, terrass, garage, privat pool, bergsutsikt</sv>
+</desc>
+<features>
+<feature>air conditioning</feature>
+<feature>garden</feature>
+<feature>terrace</feature>
+<feature>garage</feature>
+<feature>private pool</feature>
+<feature>mountain views</feature>
+</features>
+<notes/>
+<images>
+<image id="222086786">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+</image>
+<image id="222086787">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+</image>
+<image id="222086788">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+</image>
+<image id="222086789">
+<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>test_casamodular_3</id>
+<date>2026-03-25 10:45:29</date>
+<ref>09430/2371</ref>
+<price>69000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>house</type>
+<country>España</country>
+<province>ALBACETE</province>
+<town>Albacete</town>
+<location_detail>Albacete</location_detail>
+<cp>02002</cp>
+<postal_code>02002</postal_code>
+<calle/>
+<access_type/>
+<numero/>
+<block/>
+<bloque/>
+<stairs/>
+<escalera/>
+<floor/>
+<planta/>
+<door/>
+<puerta/>
+<address>, (Albacete)</address>
+<refcatastral/>
+<catastral/>
+<altitud>-1.860019</altitud>
+<latitud>38.995001</latitud>
+<location>
+<latitude>38.995001</latitude>
+<longitude>-1.860019</longitude>
+</location>
+<beds>1</beds>
+<baths>1</baths>
+<pool>0</pool>
+<orientation/>
+<surface_area>
+<built>60</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating> </energy_rating>
+<url>
+<es></es>
+</url>
+<desc>
+<es>
+<![CDATA[ Test 20/08 Elija la zona donde quiera vivir, con esta estupenda casa modular, que podrá colocar donde le apetezca.. . Esta magnifica vivienda prefabricada cuenta con todas las comodidades de una casa convencional, ya que su revestimiento exterior le permite ser un hogar muy eficiente. . . *Gastos , honorarios de agencia e impuestos inherentes a la compraventa no incluidos en el precio de venta.. *La información contenida en este anuncio tiene carácter meramente informativo y no contractual.. . Puede colocarla sobre terreno urbano o rústico, en una superficie firme o compactada, cuenta con un forjado sanitario ya que esta elevada del suelo.. . En su interior cabe destacar la linea moderna que le dan sus puertas lacadas en blanco, los suelos de tarima C5. La vivienda cuenta con una distribución de un salón comedor con salida a través de unas puertas de cristal cocina americana, dormitorio principal, un estupendo vestidor y un baño.. . No pierda la oportunidad de vivir donde siempre soñó sin esperar a que le construyan una casa, ¡porque esta ya la tiene!.. . Pregunte sin compromiso. . ]]>
+</es>
+<en>
+<![CDATA[ ]]>
+</en>
+<de>
+<![CDATA[ ]]>
+</de>
+<da>
+<![CDATA[ ]]>
+</da>
+<fr>
+<![CDATA[ ]]>
+</fr>
+<it>
+<![CDATA[ ]]>
+</it>
+<nl>
+<![CDATA[ ]]>
+</nl>
+<ru>
+<![CDATA[ ]]>
+</ru>
+<fi>
+<![CDATA[ ]]>
+</fi>
+<ca>
+<![CDATA[ ]]>
+</ca>
+<no>
+<![CDATA[ ]]>
+</no>
+<pt>
+<![CDATA[ ]]>
+</pt>
+<sv>
+<![CDATA[ ]]>
+</sv>
+</desc>
+<features>
+<feature>Appliances</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/2371/20380068/2-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/2371/20380068/2-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/2371/20380068/2-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/2371/20380068/2-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/2371/20380068/2-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/2371/20380068/2-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/2371/20380068/2-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/2371/20380068/2-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/2371/20380068/2-9.jpg</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>test_solar_3</id>
+<date>2026-02-10 19:09:51</date>
+<ref>S.23005/9349</ref>
+<price>69500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>Urban building plot</type>
+<country>España</country>
+<province>BARCELONA</province>
+<town>Montcada i Reixac</town>
+<location_detail>Terra Nostra</location_detail>
+<cp>08110</cp>
+<postal_code>08110</postal_code>
+<calle/>
+<access_type/>
+<numero/>
+<block/>
+<bloque/>
+<stairs/>
+<escalera/>
+<floor/>
+<planta/>
+<door/>
+<puerta/>
+<address>, (Terra Nostra)</address>
+<refcatastral/>
+<catastral/>
+<altitud>2.165613</altitud>
+<latitud>41.478193</latitud>
+<location>
+<latitude>41.478193</latitude>
+<longitude>2.165613</longitude>
+</location>
+<beds>0</beds>
+<baths>0</baths>
+<pool>0</pool>
+<orientation/>
+<surface_area>
+<built>0</built>
+<plot>429</plot>
+</surface_area>
+<energy_rating> </energy_rating>
+<url>
+<es></es>
+</url>
+<desc>
+<es>
+<![CDATA[ Solar en Montcada i Reixac zona Terra Nostra, 429 m. superficie parcela. No edificable. . Venta: 69.500 € ]]>
+</es>
+<en>
+<![CDATA[ ]]>
+</en>
+<de>
+<![CDATA[ ]]>
+</de>
+<da>
+<![CDATA[ ]]>
+</da>
+<fr>
+<![CDATA[ ]]>
+</fr>
+<it>
+<![CDATA[ ]]>
+</it>
+<nl>
+<![CDATA[ ]]>
+</nl>
+<ru>
+<![CDATA[ ]]>
+</ru>
+<fi>
+<![CDATA[ ]]>
+</fi>
+<ca>
+<![CDATA[ ]]>
+</ca>
+<no>
+<![CDATA[ ]]>
+</no>
+<pt>
+<![CDATA[ ]]>
+</pt>
+<sv>
+<![CDATA[ ]]>
+</sv>
+</desc>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/9349/19068214/1-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/9349/19068214/1-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/9349/19068214/1-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/9349/19068214/1-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/9349/19068214/1-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/9349/19068214/1-6.jpg</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>test_creditohipotecario_1_3</id>
+<ref>6707/935</ref>
+<date>2026-08-11 11:15:41</date>
+<price>343300</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<type>Casa pareada</type>
+<town>San Rafael</town>
+<province>Segovia</province>
+<location>
+<latitude>40.7180705</latitude>
+<longitude>-4.1951857</longitude>
+</location>
+<location_detail/>
+<beds>3</beds>
+<baths>3</baths>
+<surface_area>
+<built>158</built>
+<plot>152</plot>
+</surface_area>
+<energy_rating>
+<consumption>C</consumption>
+<emissions>B</emissions>
+</energy_rating>
+<url>
+<es>https://www.alfasanrafael.com/ref/6707-935/</es>
+</url>
+<desc>
+<es>5 CHALETS A ESTRENAR con jardín y /o terraza, 3 dormitorios, 1 aseo , dos baños (uno en suite en dormitorio principal), bodega, garaje. AEROTERMIA SUELO RADIANTE. Las viviendas se dividen en tres plantas, la de abajo tiene los garajes y las bodegas, en primera planta cocina, salón-comedor, aseo y salida a las amplias terrazas. en la planta superior tres dormitorios y dos baños. Con vistas a la montaña y construidos con muy buenas calidades asegurando eficiencia energética tanto en verano como en invierno. Entrega de las viviendas de octubre a diciembre de 2026 RESERVA YA LA TUYA La situación es muy buena, cerca de la estación de autobuses y del núcleo urbano. * Gastos e impuestos no incluidos en el precio. A título orientativo, en segundas transmisiones, el comprador, abonará el IVA sobre la base imponible el cual es el 10% en obra nueva. Gastos de notaría y registro: aprox. entre 1,5% y 2% (aranceles variables según precio, número de copias y complejidad). El comprador escoge libremente notario. El vendedor asume, por ley, los gastos que le correspondan, salvo pacto en contrario. Si se precisa hipoteca: Tasación, condiciones y costes bancarios según entidad elegida por el comprador; así como los gastos de gestoría y cualesquiera otros inherentes a la formalización de la compraventa. De acuerdo con la ley, no se incluyen en el precio otros gastos o tributos que legalmente correspondan al comprador. Honorarios de intermediación inmobiliaria: A cargo del vendedor. Incluidos en el precio de venta. </es>
+</desc>
+<features>
+<feature>Storage room</feature>
+<feature>Private terrace</feature>
+<feature>Parking - Garage</feature>
+<feature>Security door</feature>
+</features>
+<images>
+<image id="1">
+<url>https://admin.alfainmo.com/app/webroot/files/2026/07/x_0144127-06.jpg</url>
+</image>
+<image id="2">
+<url>https://admin.alfainmo.com/app/webroot/files/2026/07/x_0144127-01.jpg</url>
+</image>
+<image id="3">
+<url>https://admin.alfainmo.com/app/webroot/files/2026/07/x_0144127-02.jpg</url>
+</image>
+<image id="4">
+<url>https://admin.alfainmo.com/app/webroot/files/2026/07/x_0144127-03.jpg</url>
+</image>
+<image id="5">
+<url>https://admin.alfainmo.com/app/webroot/files/2026/07/x_0144127-04.jpg</url>
+</image>
+<image id="6">
+<url>https://admin.alfainmo.com/app/webroot/files/2026/07/x_0144127-05.jpg</url>
+</image>
+<image id="7">
+<url>https://admin.alfainmo.com/app/webroot/files/2026/07/x_0144127-07.jpg</url>
+</image>
+<image id="8">
+<url>https://admin.alfainmo.com/app/webroot/files/2026/07/x_0144127-08.jpg</url>
+</image>
+<image id="9">
+<url>https://admin.alfainmo.com/app/webroot/files/2026/07/x_0144127-09.jpg</url>
+</image>
+<image id="10">
+<url>https://admin.alfainmo.com/app/webroot/files/2026/07/x_0144127-10.jpg</url>
+</image>
+</images>
+<email>comercial@alfasanrafael.com</email>
+<whatsapp_number>610543254</whatsapp_number>
+<contact_number>921171717</contact_number>
+</property>
+
+	
+	<property>
+<id>test_creditohipotecario_2_3</id>
+<date>2026-08-09 16:58:14</date>
+<agencia>RE/MAX Innova</agencia>
+<email>i.remax.8653@crmremax.com</email>
+<telefono>955673044</telefono>
+<ref>3450-09114/8653</ref>
+<state>Free</state>
+<operation_type>For sale</operation_type>
+<price>410000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>Villa</type>
+<country>España</country>
+<province>SEVILLA</province>
+<town>Montequinto</town>
+<location_detail>Olivar de Quintos</location_detail>
+<cp>41089</cp>
+<postal_code>41089</postal_code>
+<location>
+<latitude>37.324343</latitude>
+<longitude>-5.932009</longitude>
+</location>
+<beds>5</beds>
+<baths>2</baths>
+<estado_propiedad>30</estado_propiedad>
+<antiguedad>1999</antiguedad>
+<pool>0</pool>
+<surface_area>
+<built>186</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<status>Provided</status>
+<consumption>D</consumption>
+<emissions>D</emissions>
+<consumption_value>117.03</consumption_value>
+<emissions_value>20.43</emissions_value>
+</energy_rating>
+<url>
+<es>http://remaxinnova.es/ficha/index.php?codigo=8653_29769484</es>
+</url>
+<desc>
+<es>
+<![CDATA[ Ubicado en una de las mejores zonas de Olivar de Quintos, este espectacular chalet totalmente independiente se encuentra dentro de un exclusivo recinto privado de solo 8 viviendas. Un entorno seguro, familiar y extraordinariamente silencioso donde prima la intimidad.~~✨ PUNTOS DESTACADOS~PRIVACIDAD Y TRANQUILIDAD ABSOLUTA: Chalet 100% independiente en una urbanización cerrada de solo 8 vecinos.~~COCINA TOTALMENTE EQUIPADA: Espaciosa, con zona de comedor e incluye todos los electrodomésticos (menos frigorífico).~~MÁXIMA LUMINOSIDAD: Todas las estancias son exteriores y cuentan con grandes ventanales.~~GRAN CAPACIDAD DE APARCAMIENTO: Garaje cubierto para 2 vehículos + 1 plaza reservada en la misma puerta (calle peatonal).~~PUNTO DE CARGA: Cuenta con la Preinstalación Operativa de Carga de Vehículos Eléctricos (hasta 7.2 Kw)~~📐 DISTRIBUCIÓN POR PLANTAS~El chalet se distribuye en 3 cómodas plantas:~🔹 Planta Baja~Gran patio exterior con zona de trastero independiente.~Amplio y acogedor salón equipado con chimenea.~Cocina independiente con zona de comedor, entregada completamente amueblada y con electrodomésticos.~Aseo de cortesía.~~🔹 Segunda Planta~3 amplias habitaciones (todas exteriores).~Dormitorio principal con baño privado en suite.~Segundo baño completo para dar servicio al resto de habitaciones.~~🔹 Tercera Planta~Gran estancia diáfana muy luminosa, ideal como zona de juegos, despacho, gimnasio o con la posibilidad de convertirla en 2 dormitorios adicionales.~~🛠️ CALIDADES Y CONFORT~Climatización: Split de aire frío/calor en todas las estancias.~~Agua Caliente Eficiente: Sistema de termodinámica con acumulador de 250 litros (gran ahorro energético).~~Luz Natural: Vivienda muy soleada gracias a su orientación y grandes ventanas exteriores.~~📍 UBICACIÓN Y SERVICIOS EXCELENTES~Una localización inmejorable que combina la calma residencial con el acceso rápido a todo lo que necesitas:~~Transporte público: Parada de autobús a menos de 200 metros y Metro muy cercano.~~Servicios a menos de 800 metros: Zona comercial, colegios, farmacias y centro de salud.~~Una oportunidad única de vivir en un chalet con la combinación perfecta entre la tranquilidad de un jardín privado y la comodidad de tenerlo todo a mano. ¡Ven a visitarlo!~~Información sobre el precio y gastos (Ley 10/2025):~El precio publicitado no incluye los gastos derivados de la compraventa que, por ley, correspondan a la parte compradora, tales como:~1.Impuestos y Aranceles. ~oImpuestos: Impuesto sobre Transmisiones Patrimoniales (ITP). El tipo general en Andalucía es del 7%, aunque existen tipos reducidos (6%, 3,5%, etc.) aplicables según perfil del comprador o el inmueble. El impuesto se calcula sobre el valor superior entre el precio de venta y el Valor de Referencia de Catastro. Puede consultar su caso en el Portal de la Agencia Tributaria de Andalucía. ~oGastos de Notaría. Honorarios regulados por arancel oficial (Real Decreto 1426/1989)~oGastos de Registro de la Propiedad. Honorarios regulados por arancel oficial (Real Decreto 1427/1989)~2.Gestoría: Gasto opcional. En caso de requerir los servicios de una gestoría, consultar tarifas a la empresa gestora.~3.Financiación. En caso de requerir préstamo hipotecario, su entidad bancaria le informará de las condiciones y gastos asociados.~4.Honorarios de Agencia: La agencia prestará los servicios de información, asesoramiento y acompañamiento previstos en el Encargo de Servicios y en el D.I.A. ]]>
+</es>
+<en>
+<![CDATA[ ]]>
+</en>
+<de>
+<![CDATA[ ]]>
+</de>
+<da>
+<![CDATA[ ]]>
+</da>
+<fr>
+<![CDATA[ ]]>
+</fr>
+<it>
+<![CDATA[ ]]>
+</it>
+<nl>
+<![CDATA[ ]]>
+</nl>
+<ru>
+<![CDATA[ ]]>
+</ru>
+<fi>
+<![CDATA[ ]]>
+</fi>
+<ca>
+<![CDATA[ ]]>
+</ca>
+<no>
+<![CDATA[ ]]>
+</no>
+<pt>
+<![CDATA[ ]]>
+</pt>
+<sv>
+<![CDATA[ ]]>
+</sv>
+<eu>
+<![CDATA[ ]]>
+</eu>
+<cn>
+<![CDATA[ ]]>
+</cn>
+<gl>
+<![CDATA[ ]]>
+</gl>
+<lt>
+<![CDATA[ ]]>
+</lt>
+<cs>
+<![CDATA[ ]]>
+</cs>
+<bg>
+<![CDATA[ ]]>
+</bg>
+<pl>
+<![CDATA[ ]]>
+</pl>
+</desc>
+<title_extra/>
+<desc_extra/>
+<features>
+<feature>Alarm Theft</feature>
+<feature>porch</feature>
+<feature>telephone</feature>
+<feature>Wardrobes cupboard</feature>
+<feature>Video Intercom</feature>
+<feature>Light</feature>
+<feature>Water</feature>
+<feature>Ceilings</feature>
+<feature> Water Deposit</feature>
+<feature>T. V.</feature>
+<feature>Residencial</feature>
+<feature>Air-Conditioning</feature>
+<feature>Garden</feature>
+<feature>Appliances</feature>
+<feature>Storeroom</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/8653/29769484/28-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/8653/29769484/28-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/8653/29769484/28-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/8653/29769484/28-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/8653/29769484/28-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/8653/29769484/28-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/8653/29769484/28-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/8653/29769484/28-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/8653/29769484/28-9.jpg</url>
+</image>
+<image id="10">
+<url>https://fotos15.apinmo.com/8653/29769484/28-10.jpg</url>
+</image>
+<image id="11">
+<url>https://fotos15.apinmo.com/8653/29769484/28-11.jpg</url>
+</image>
+<image id="12">
+<url>https://fotos15.apinmo.com/8653/29769484/28-12.jpg</url>
+</image>
+<image id="13">
+<url>https://fotos15.apinmo.com/8653/29769484/28-13.jpg</url>
+</image>
+<image id="14">
+<url>https://fotos15.apinmo.com/8653/29769484/28-14.jpg</url>
+</image>
+<image id="15">
+<url>https://fotos15.apinmo.com/8653/29769484/28-15.jpg</url>
+</image>
+<image id="16">
+<url>https://fotos15.apinmo.com/8653/29769484/28-16.jpg</url>
+</image>
+<image id="17">
+<url>https://fotos15.apinmo.com/8653/29769484/28-17.jpg</url>
+</image>
+<image id="18">
+<url>https://fotos15.apinmo.com/8653/29769484/28-18.jpg</url>
+</image>
+<image id="19">
+<url>https://fotos15.apinmo.com/8653/29769484/28-19.jpg</url>
+</image>
+<image id="20">
+<url>https://fotos15.apinmo.com/8653/29769484/28-20.jpg</url>
+</image>
+<image id="21">
+<url>https://fotos15.apinmo.com/8653/29769484/28-21.jpg</url>
+</image>
+<image id="22">
+<url>https://fotos15.apinmo.com/8653/29769484/28-22.jpg</url>
+</image>
+<image id="23">
+<url>https://fotos15.apinmo.com/8653/29769484/28-23.jpg</url>
+</image>
+<image id="24">
+<url>https://fotos15.apinmo.com/8653/29769484/28-24.jpg</url>
+</image>
+<image id="25">
+<url>https://fotos15.apinmo.com/8653/29769484/28-25.jpg</url>
+</image>
+<image id="26">
+<url>https://fotos15.apinmo.com/8653/29769484/28-26.jpg</url>
+</image>
+<image id="27">
+<url>https://fotos15.apinmo.com/8653/29769484/28-27.jpg</url>
+</image>
+<image id="28">
+<url>https://fotos15.apinmo.com/8653/29769484/28-28.jpg</url>
+</image>
+<image id="29">
+<url>https://fotos15.apinmo.com/8653/29769484/28-29.jpg</url>
+</image>
+<image id="30">
+<url>https://fotos15.apinmo.com/8653/29769484/28-30.jpg</url>
+</image>
+<image id="31">
+<url>https://fotos15.apinmo.com/8653/29769484/28-31.jpg</url>
+</image>
+<image id="32">
+<url>https://fotos15.apinmo.com/8653/29769484/28-32.jpg</url>
+</image>
+<image id="33">
+<url>https://fotos15.apinmo.com/8653/29769484/28-33.jpg</url>
+</image>
+<image id="34">
+<url>https://fotos15.apinmo.com/8653/29769484/28-34.jpg</url>
+</image>
+<image id="35">
+<url>https://fotos15.apinmo.com/8653/29769484/28-35.jpg</url>
+</image>
+<image id="36">
+<url>https://fotos15.apinmo.com/8653/29769484/28-36.jpg</url>
+</image>
+<image id="37">
+<url>https://fotos15.apinmo.com/8653/29769484/28-37.jpg</url>
+</image>
+<image id="38">
+<url>https://fotos15.apinmo.com/8653/29769484/28-38.jpg</url>
+</image>
+<image id="39">
+<url>https://fotos15.apinmo.com/8653/29769484/28-39.jpg</url>
+</image>
+<image id="40">
+<url>https://fotos15.apinmo.com/8653/29769484/28-40.jpg</url>
+</image>
+</images>
+</property>
+	
+	<property>
+<id>test_creditohipotecario_3_3</id>
+<date>2026-08-03 12:36:40</date>
+<ref>00776/5743</ref>
+<price>164000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>Duplex</type>
+<country>España</country>
+<province>TOLEDO</province>
+<town>Magan</town>
+<location_detail>CENTRO</location_detail>
+<cp>45590</cp>
+<postal_code>45590</postal_code>
+<calle/>
+<access_type/>
+<numero/>
+<block/>
+<bloque/>
+<stairs/>
+<escalera/>
+<floor/>
+<planta/>
+<door/>
+<puerta/>
+<address>, (CENTRO)</address>
+<refcatastral/>
+<catastral/>
+<altitud>-3.928388</altitud>
+<latitud>39.959554</latitud>
+<location>
+<latitude>39.959554</latitude>
+<longitude>-3.928388</longitude>
+</location>
+<beds>2</beds>
+<baths>1</baths>
+<pool>0</pool>
+<orientation/>
+<surface_area>
+<built>95</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<consumption>E</consumption>
+<emissions>E</emissions>
+</energy_rating>
+<url>
+<es></es>
+</url>
+<desc>
+<es>
+<![CDATA[ Piso tipo Dúplex de 2 Dormitorios situado en Magán (Toledo) cercano a los servicios de la localidad, como Colegios, Centro médico, supermercados, autobuses, a 10 minutos del Centro Comercial Puerta de Toledo, a tan sólo 20 minutos de Illescas y a 35 minutos a Madrid.. La vivienda tiene 95m2 distribuidos en dos plantas diferenciando la zona de ocio y la zona de descanso. Planta baja Hall recibidor, cocina independiente amplia y luminosa, completamente amueblada y equipada con vitro, campana y horno. Salón Comedor Independiente con un tamaño ideal para tener ambiente de comedor y ambiente de confort y con 2 ventanas a ambos lados que ofrece iluminación natural en ambos lados de la estancia. Aseo, y escalera revestida en madera y barandilla metálica que ofrece el acceso a la planta primera.. . Planta primera distribuidor con 1 baño completo con plato de ducha y con columna de hidromasaje. Dormitorio principal amplio y luminoso, con un amplio armario empotrado con puertas en corredera y completamente revestido con cajonera, baldas y barra de colgar. 1 Dormitorio infantil luminoso y armario empotrado también revestido con cajonera, baldas y barra de colgar. Las ventanas de ambos dormitorios son Velúx y tienen cortina.. Suelos de Tarima, puertas lacadas en blanco, ventanas tipo climalit, Aire Acondicionado por conductos con bomba de calor, agua caliente con termo eléctrico. . Edificio tranquilo con 10 viviendas, Videoportero y ascensor. Dentro del precio se incluye una plaza de Garaje y 1 trastero.. Ideal para inversores por cercanía a Illescas con amplia rentabilidad para un alquiler.. Te ayudamos a conseguir la hipoteca.. . El precio de venta publicado no incluye los gastos derivados de la compraventa, tales como los honorarios de notaría, registro de la propiedad y gestión de escrituras. Tampoco están incluidos los impuestos aplicables (Impuesto sobre Transmisiones Patrimoniales - ITP para viviendas de segunda mano, o IVA y Actos Jurídicos Documentados - AJD para viviendas de obra nueva). ]]>
+</es>
+<en>
+<![CDATA[ ]]>
+</en>
+<de>
+<![CDATA[ ]]>
+</de>
+<da>
+<![CDATA[ ]]>
+</da>
+<fr>
+<![CDATA[ ]]>
+</fr>
+<it>
+<![CDATA[ ]]>
+</it>
+<nl>
+<![CDATA[ ]]>
+</nl>
+<ru>
+<![CDATA[ ]]>
+</ru>
+<fi>
+<![CDATA[ ]]>
+</fi>
+<ca>
+<![CDATA[ ]]>
+</ca>
+<no>
+<![CDATA[ ]]>
+</no>
+<pt>
+<![CDATA[ ]]>
+</pt>
+<sv>
+<![CDATA[ ]]>
+</sv>
+</desc>
+<features>
+<feature>A/A</feature>
+<feature>Garage</feature>
+<feature>Elevator</feature>
+<feature>Wardrobes cupboard</feature>
+<feature>Storeroom</feature>
+<feature>Armored Door</feature>
+<feature>Heating</feature>
+<feature>Video Intercom</feature>
+<feature>Parking</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/5743/29476787/13-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/5743/29476787/13-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/5743/29476787/13-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/5743/29476787/13-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/5743/29476787/13-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/5743/29476787/13-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/5743/29476787/13-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/5743/29476787/13-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/5743/29476787/13-9.jpg</url>
+</image>
+<image id="10">
+<url>https://fotos15.apinmo.com/5743/29476787/13-10.jpg</url>
+</image>
+<image id="11">
+<url>https://fotos15.apinmo.com/5743/29476787/13-11.jpg</url>
+</image>
+<image id="12">
+<url>https://fotos15.apinmo.com/5743/29476787/13-12.jpg</url>
+</image>
+<image id="13">
+<url>https://fotos15.apinmo.com/5743/29476787/13-13.jpg</url>
+</image>
+<image id="14">
+<url>https://fotos15.apinmo.com/5743/29476787/13-14.jpg</url>
+</image>
+<image id="15">
+<url>https://fotos15.apinmo.com/5743/29476787/13-15.jpg</url>
+</image>
+<image id="16">
+<url>https://fotos15.apinmo.com/5743/29476787/13-16.jpg</url>
+</image>
+<image id="17">
+<url>https://fotos15.apinmo.com/5743/29476787/13-17.jpg</url>
+</image>
+<image id="18">
+<url>https://fotos15.apinmo.com/5743/29476787/13-18.jpg</url>
+</image>
+<image id="19">
+<url>https://fotos15.apinmo.com/5743/29476787/13-19.jpg</url>
+</image>
+<image id="20">
+<url>https://fotos15.apinmo.com/5743/29476787/13-20.jpg</url>
+</image>
+<image id="21">
+<url>https://fotos15.apinmo.com/5743/29476787/13-21.jpg</url>
+</image>
+<image id="22">
+<url>https://fotos15.apinmo.com/5743/29476787/13-22.jpg</url>
+</image>
+<image id="23">
+<url>https://fotos15.apinmo.com/5743/29476787/13-23.jpg</url>
+</image>
+<image id="24">
+<url>https://fotos15.apinmo.com/5743/29476787/13-24.jpg</url>
+</image>
+<image id="25">
+<url>https://fotos15.apinmo.com/5743/29476787/13-25.jpg</url>
+</image>
+<image id="26">
+<url>https://fotos15.apinmo.com/5743/29476787/13-26.jpg</url>
+</image>
+<image id="27">
+<url>https://fotos15.apinmo.com/5743/29476787/13-27.jpg</url>
+</image>
+<image id="28">
+<url>https://fotos15.apinmo.com/5743/29476787/13-28.jpg</url>
+</image>
+<image id="29">
+<url>https://fotos15.apinmo.com/5743/29476787/13-29.jpg</url>
+</image>
+<image id="30">
+<url>https://fotos15.apinmo.com/5743/29476787/13-30.jpg</url>
+</image>
+<image id="31">
+<url>https://fotos15.apinmo.com/5743/29476787/13-31.jpg</url>
+</image>
+<image id="32">
+<url>https://fotos15.apinmo.com/5743/29476787/13-32.jpg</url>
+</image>
+<image id="33">
+<url>https://fotos15.apinmo.com/5743/29476787/13-33.jpg</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>test_creditohipotecario_4_3</id>
+<date>2026-07-29 13:56:47</date>
+<agencia>RE/MAX Innova</agencia>
+<email>i.remax.8653@crmremax.com</email>
+<telefono>955673044</telefono>
+<ref>3450-09088/8653</ref>
+<state>Free</state>
+<operation_type>Illegally occupied</operation_type>
+<price>72000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>Flat</type>
+<country>España</country>
+<province>SEVILLA</province>
+<town>Cantillana</town>
+<location_detail>Andalucia</location_detail>
+<cp>00000</cp>
+<postal_code>00000</postal_code>
+<location>
+<latitude>37.609466</latitude>
+<longitude>-5.820579</longitude>
+</location>
+<beds>3</beds>
+<baths>1</baths>
+<estado_propiedad>30</estado_propiedad>
+<antiguedad>2002</antiguedad>
+<pool>0</pool>
+<surface_area>
+<built>103</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<status>Provided</status>
+<consumption>G</consumption>
+<emissions>G</emissions>
+<consumption_value>255.27</consumption_value>
+<emissions_value>49.55</emissions_value>
+</energy_rating>
+<url>
+<es>http://remaxinnova.es/ficha/index.php?codigo=8653_29167535</es>
+</url>
+<desc>
+<es>
+<![CDATA[ Oportunidad en Cantillana (Sevilla) | Sólo inversores ~~Ubicación: Carretera de Lora, Cantillana - Sevilla~Presentamos esta excelente oportunidad de inversión en Cantillana. Un activo diseñado exclusivamente para profesionales o inversores particulares que busquen rentabilidad a través de la adquisición de activos en situaciones especiales.~~ESTADO: Vivienda SIN POSESIÓN.~SIN COMISIONES: El comprador no paga honorarios de agencia inmobiliaria.~~CONDICIONES DE LA VENTA~Al tratarse de una propiedad sin posesión inmediata, es fundamental tener en cuenta los siguientes puntos:~~Imposibilidad de Visita: No se puede acceder al interior del inmueble. ~~Sin Financiación: Debido a su situación jurídica, NO ES POSIBLE SOLICITAR HIPOTECA sobre este activo. Se requiere disponibilidad de fondos propios para la compra.~~¿Es usted inversor y busca activos con alta rentabilidad en Sevilla?~Contacte hoy mismo para recibir más información técnica y dar el siguiente paso en su cartera de activos.~~Información sobre el precio y gastos (Ley 10/2025):~El precio publicitado no incluye los gastos derivados de la compraventa que, por ley, correspondan a la parte compradora, tales como:~1.Impuestos y Aranceles.~ Impuestos: Impuesto sobre Transmisiones Patrimoniales (ITP). El tipo general en Andalucía es del 7%, aunque existen tipos reducidos (6%, 3,5%, etc.) aplicables según perfil del comprador o el inmueble. El impuesto se calcula sobre el valor superior entre el precio de venta y el Valor de Referencia de Catastro. Puede consultar su caso en el Portal de la Agencia Tributaria de Andalucía. ~Gastos de Notaría. Honorarios regulados por arancel oficial (Real Decreto 1426/1989)~Gastos de Registro de la Propiedad. Honorarios regulados por arancel oficial (Real Decreto 1427/1989)~2.Gestoría: Gasto opcional. En caso de requerir los servicios de una gestoría, consultar tarifas a la empresa gestora.~3.Financiación. En caso de requerir préstamo hipotecario, su entidad bancaria le informará de las condiciones y gastos asociados.~4.Honorarios de Agencia: ~Sin honorarios profesionales al comprador.~~ ]]>
+</es>
+<en>
+<![CDATA[ ]]>
+</en>
+<de>
+<![CDATA[ ]]>
+</de>
+<da>
+<![CDATA[ ]]>
+</da>
+<fr>
+<![CDATA[ ]]>
+</fr>
+<it>
+<![CDATA[ ]]>
+</it>
+<nl>
+<![CDATA[ ]]>
+</nl>
+<ru>
+<![CDATA[ ]]>
+</ru>
+<fi>
+<![CDATA[ ]]>
+</fi>
+<ca>
+<![CDATA[ ]]>
+</ca>
+<no>
+<![CDATA[ ]]>
+</no>
+<pt>
+<![CDATA[ ]]>
+</pt>
+<sv>
+<![CDATA[ ]]>
+</sv>
+<eu>
+<![CDATA[ ]]>
+</eu>
+<cn>
+<![CDATA[ ]]>
+</cn>
+<gl>
+<![CDATA[ ]]>
+</gl>
+<lt>
+<![CDATA[ ]]>
+</lt>
+<cs>
+<![CDATA[ ]]>
+</cs>
+<bg>
+<![CDATA[ ]]>
+</bg>
+<pl>
+<![CDATA[ ]]>
+</pl>
+</desc>
+<title_extra/>
+<desc_extra/>
+<features>
+<feature>Elevator</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/8653/29167535/2-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/8653/29167535/2-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/8653/29167535/2-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/8653/29167535/2-4.jpg</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>test_parcela_1_3</id>
+<date>2026-04-06 12:32:17</date>
+<agencia>REMAX GRUPO TERMES</agencia>
+<email>i.grupotermes.12120@crmremax.com</email>
+<telefono>911344502</telefono>
+<ref>3486-05679/12120</ref>
+<state>Free</state>
+<operation_type>For sale</operation_type>
+<price>20815</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>Country land</type>
+<country>España</country>
+<province>MADRID</province>
+<town>Navalcarnero</town>
+<location_detail>Navalcarnero</location_detail>
+<cp>28600</cp>
+<postal_code>28600</postal_code>
+<location>
+<latitude>40.276357</latitude>
+<longitude>-4.003702</longitude>
+</location>
+<beds>0</beds>
+<baths>0</baths>
+<estado_propiedad>0</estado_propiedad>
+<antiguedad>0</antiguedad>
+<pool>0</pool>
+<surface_area>
+<built>0</built>
+<plot>5583</plot>
+</surface_area>
+<energy_rating>
+<status>Exempt</status>
+</energy_rating>
+<url>
+<es>http://grupotermes.es/ficha/index.php?codigo=12120_26229481</es>
+</url>
+<desc>
+<es>
+<![CDATA[ Se vende finca rústica de 5.538 m2 con calificación de suelo urbanizable sectorizado, ubicada a tan solo 1.3 kilómetros del núcleo urbano de Navalcarnero. ~~Una oportunidad única para quienes buscan invertir cerca de una zona en crecimiento o desarrollar un proyecto a largo plazo.~~Actualmente, el terreno está dedicado a labranza, lo que permite su aprovechamiento agrícola inmediato, sin perder de vista su potencial urbanístico futuro. ~~Su excelente ubicación, con fácil acceso desde el centro del municipio, lo convierte en una propiedad versátil y con muchas posibilidades. Ideal tanto para promotores como para particulares.~~Para más información o concertar una visita, no dude en ponerse en contacto con nosotros. ]]>
+</es>
+<en>
+<![CDATA[ ]]>
+</en>
+<de>
+<![CDATA[ ]]>
+</de>
+<da>
+<![CDATA[ ]]>
+</da>
+<fr>
+<![CDATA[ ]]>
+</fr>
+<it>
+<![CDATA[ ]]>
+</it>
+<nl>
+<![CDATA[ ]]>
+</nl>
+<ru>
+<![CDATA[ ]]>
+</ru>
+<fi>
+<![CDATA[ ]]>
+</fi>
+<ca>
+<![CDATA[ ]]>
+</ca>
+<no>
+<![CDATA[ ]]>
+</no>
+<pt>
+<![CDATA[ ]]>
+</pt>
+<sv>
+<![CDATA[ ]]>
+</sv>
+<eu>
+<![CDATA[ ]]>
+</eu>
+<cn>
+<![CDATA[ ]]>
+</cn>
+<gl>
+<![CDATA[ ]]>
+</gl>
+<lt>
+<![CDATA[ ]]>
+</lt>
+<cs>
+<![CDATA[ ]]>
+</cs>
+<bg>
+<![CDATA[ ]]>
+</bg>
+<pl>
+<![CDATA[ ]]>
+</pl>
+</desc>
+<title_extra/>
+<desc_extra/>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/12120/26229481/3-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/12120/26229481/3-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/12120/26229481/3-3.jpg</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>test_parcela_2_3</id>
+<date>2026-08-04 10:03:48</date>
+<agencia>REMAX GRUPO TERMES</agencia>
+<email>i.grupotermes.12120@crmremax.com</email>
+<telefono>911344502</telefono>
+<ref>3486-05796/12120</ref>
+<state>Free</state>
+<operation_type>For sale</operation_type>
+<price>29900</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>Country Land</type>
+<country>España</country>
+<province>MADRID</province>
+<town>Villamanta</town>
+<location_detail>Las cruces 2</location_detail>
+<cp>28610</cp>
+<postal_code>28610</postal_code>
+<location>
+<latitude>40.300904</latitude>
+<longitude>-4.116324</longitude>
+</location>
+<beds>0</beds>
+<baths>0</baths>
+<estado_propiedad>0</estado_propiedad>
+<antiguedad>0</antiguedad>
+<pool>0</pool>
+<surface_area>
+<built>0</built>
+<plot>34841</plot>
+</surface_area>
+<energy_rating>
+<status>Exempt</status>
+</energy_rating>
+<url>
+<es>http://grupotermes.es/ficha/index.php?codigo=12120_29322133</es>
+</url>
+<desc>
+<es>
+<![CDATA[ Se vende el conjunto de dos fincas rústicas con un total de 34.841 m2 situada en el término municipal de Villamanta, en un entorno natural tranquilo y con excelente accesibilidad. Una oportunidad ideal para quienes buscan disfrutar del campo, desarrollar actividades agrícolas o simplemente contar con un amplio espacio en plena naturaleza.~~La finca se encuentra a tan solo 3,1 kilómetros del casco urbano de Villamanta, lo que permite combinar la tranquilidad del entorno rural con la comodidad de disponer de todos los servicios del municipio a pocos minutos. Su acceso mediante un camino de tierra es fácilmente transitable durante todo el año.~~Estas propiedades ofrecen múltiples posibilidades y constituye una excelente inversión para quienes buscan una finca rústica.~~Para más información o para concertar una visita, no dude en ponerse en contacto con nosotros. Estaremos encantados de atenderle y mostrarle la finca.~ ]]>
+</es>
+<en>
+<![CDATA[ ]]>
+</en>
+<de>
+<![CDATA[ ]]>
+</de>
+<da>
+<![CDATA[ ]]>
+</da>
+<fr>
+<![CDATA[ ]]>
+</fr>
+<it>
+<![CDATA[ ]]>
+</it>
+<nl>
+<![CDATA[ ]]>
+</nl>
+<ru>
+<![CDATA[ ]]>
+</ru>
+<fi>
+<![CDATA[ ]]>
+</fi>
+<ca>
+<![CDATA[ ]]>
+</ca>
+<no>
+<![CDATA[ ]]>
+</no>
+<pt>
+<![CDATA[ ]]>
+</pt>
+<sv>
+<![CDATA[ ]]>
+</sv>
+<eu>
+<![CDATA[ ]]>
+</eu>
+<cn>
+<![CDATA[ ]]>
+</cn>
+<gl>
+<![CDATA[ ]]>
+</gl>
+<lt>
+<![CDATA[ ]]>
+</lt>
+<cs>
+<![CDATA[ ]]>
+</cs>
+<bg>
+<![CDATA[ ]]>
+</bg>
+<pl>
+<![CDATA[ ]]>
+</pl>
+</desc>
+<title_extra/>
+<desc_extra/>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/12120/29322133/1-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/12120/29322133/1-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/12120/29322133/1-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/12120/29322133/1-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/12120/29322133/1-5.jpg</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>test_parcela_3_3</id>
+<date>2025-11-10 18:28:28</date>
+<agencia>REMAX GRUPO TERMES</agencia>
+<email>i.grupotermes.12120@crmremax.com</email>
+<telefono>911344502</telefono>
+<ref>3486-05725/12120</ref>
+<state>Free</state>
+<operation_type>For sale</operation_type>
+<price>1500000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>Country Land</type>
+<country>España</country>
+<province>MADRID</province>
+<town>Navalcarnero</town>
+<location_detail>La Dehesa - El Pinar</location_detail>
+<cp>28600</cp>
+<postal_code>28600</postal_code>
+<location>
+<latitude>40.285549</latitude>
+<longitude>-3.948378</longitude>
+</location>
+<beds>0</beds>
+<baths>0</baths>
+<estado_propiedad>0</estado_propiedad>
+<antiguedad>0</antiguedad>
+<pool>0</pool>
+<surface_area>
+<built>0</built>
+<plot>69945</plot>
+</surface_area>
+<energy_rating>
+<status>Exempt</status>
+</energy_rating>
+<url>
+<es>http://grupotermes.es/ficha/index.php?codigo=12120_27141320</es>
+</url>
+<desc>
+<es>
+<![CDATA[ Hípica en Venta – A solo 30 km de Madrid~~Ubicada en un entorno natural privilegiado junto al río Guadarrama, esta hípica representa una oportunidad única para quienes buscan combinar pasión ecuestre, bienestar animal y una excelente proyección empresarial. Su localización, a tan solo 30 kilómetros de Madrid capital, ofrece la combinación perfecta entre accesibilidad y tranquilidad, permitiendo disfrutar del campo sin renunciar a la cercanía de la capital.~~Las instalaciones deportivas han sido diseñadas para satisfacer las necesidades tanto de la práctica profesional como del ocio ecuestre. La finca cuenta con una pista cubierta iluminada de 25x65 metros, una pista de salto de 60x60, una pista específica para horse-ball y otra en construcción para uso de propietarios (25x65). Además, dispone de dos círculos de trabajo y un caminador, garantizando así un espacio completo y funcional para el entrenamiento y cuidado de los caballos.~~El área de cuadras está perfectamente organizada para el bienestar de los animales. La propiedad alberga tres naves con capacidad total para más de 50 caballos: una con 19 cuadras (ampliable), otra con 17 y una tercera con 18, además de cinco cuadras destinadas a ponys club y cinco parideras. Se incluyen también un silo de pienso y maquinaria de mantenimiento, como tractor y equipo auxiliar, lo que permite un funcionamiento autónomo y eficiente.~Los espacios comunes completan la oferta con una casa de 90 m2, ideal para el propietario o el personal residente, un salón de juntas para reuniones y planificación, y un amplio salón de eventos que ofrece múltiples posibilidades de uso social o comercial. El bar con terraza, piscina y las cinco barbacoas conforman una agradable zona de descanso y convivencia, perfecta para encuentros y celebraciones. Además, el cobertizo de herramientas y maquinaria asegura el orden y la operatividad diaria de las instalaciones.~~El equipo humano actual está formado por tres trabajadores y cuatro monitores altamente capacitados, garantizando un servicio profesional y una atención personalizada. La hípica cuenta con 25 pupilajes activos, reflejo de la confianza y fidelidad de sus clientes. Como valor añadido, el actual propietario ofrece un acompañamiento de hasta dos años para facilitar una transición fluida y compartir su experiencia en la gestión del centro.~~En términos económicos, la hípica presenta un interesante potencial de rentabilidad. Solo en los meses de verano, la facturación alcanza aproximadamente los 75.000 €, y los detalles de la facturación anual se proporcionarán a los interesados serios, ofreciendo así una visión clara del rendimiento financiero del negocio.~~En conclusión, esta hípica combina instalaciones excepcionales, un equipo profesional consolidado y un entorno natural incomparable. Se trata de una oportunidad ideal para quienes desean invertir en un espacio con historia, reputación y posibilidades de crecimiento, donde la pasión por la equitación y el bienestar animal se unen en perfecta armonía.~ ]]>
+</es>
+<en>
+<![CDATA[ ]]>
+</en>
+<de>
+<![CDATA[ ]]>
+</de>
+<da>
+<![CDATA[ ]]>
+</da>
+<fr>
+<![CDATA[ ]]>
+</fr>
+<it>
+<![CDATA[ ]]>
+</it>
+<nl>
+<![CDATA[ ]]>
+</nl>
+<ru>
+<![CDATA[ ]]>
+</ru>
+<fi>
+<![CDATA[ ]]>
+</fi>
+<ca>
+<![CDATA[ ]]>
+</ca>
+<no>
+<![CDATA[ ]]>
+</no>
+<pt>
+<![CDATA[ ]]>
+</pt>
+<sv>
+<![CDATA[ ]]>
+</sv>
+<eu>
+<![CDATA[ ]]>
+</eu>
+<cn>
+<![CDATA[ ]]>
+</cn>
+<gl>
+<![CDATA[ ]]>
+</gl>
+<lt>
+<![CDATA[ ]]>
+</lt>
+<cs>
+<![CDATA[ ]]>
+</cs>
+<bg>
+<![CDATA[ ]]>
+</bg>
+<pl>
+<![CDATA[ ]]>
+</pl>
+</desc>
+<title_extra/>
+<desc_extra/>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/12120/27141320/2-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/12120/27141320/2-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/12120/27141320/2-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/12120/27141320/2-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/12120/27141320/2-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/12120/27141320/2-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/12120/27141320/2-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/12120/27141320/2-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/12120/27141320/2-9.jpg</url>
+</image>
+<image id="10">
+<url>https://fotos15.apinmo.com/12120/27141320/2-10.jpg</url>
+</image>
+<image id="11">
+<url>https://fotos15.apinmo.com/12120/27141320/2-11.jpg</url>
+</image>
+<image id="12">
+<url>https://fotos15.apinmo.com/12120/27141320/2-12.jpg</url>
+</image>
+<image id="13">
+<url>https://fotos15.apinmo.com/12120/27141320/2-13.jpg</url>
+</image>
+<image id="14">
+<url>https://fotos15.apinmo.com/12120/27141320/2-14.jpg</url>
+</image>
+<image id="15">
+<url>https://fotos15.apinmo.com/12120/27141320/2-15.jpg</url>
+</image>
+<image id="16">
+<url>https://fotos15.apinmo.com/12120/27141320/2-16.jpg</url>
+</image>
+<image id="17">
+<url>https://fotos15.apinmo.com/12120/27141320/2-17.jpg</url>
+</image>
+<image id="18">
+<url>https://fotos15.apinmo.com/12120/27141320/2-18.jpg</url>
+</image>
+<image id="19">
+<url>https://fotos15.apinmo.com/12120/27141320/2-19.jpg</url>
+</image>
+<image id="20">
+<url>https://fotos15.apinmo.com/12120/27141320/2-20.jpg</url>
+</image>
+<image id="21">
+<url>https://fotos15.apinmo.com/12120/27141320/2-21.jpg</url>
+</image>
+<image id="22">
+<url>https://fotos15.apinmo.com/12120/27141320/2-22.jpg</url>
+</image>
+<image id="23">
+<url>https://fotos15.apinmo.com/12120/27141320/2-23.jpg</url>
+</image>
+<image id="24">
+<url>https://fotos15.apinmo.com/12120/27141320/2-24.jpg</url>
+</image>
+<image id="25">
+<url>https://fotos15.apinmo.com/12120/27141320/2-25.jpg</url>
+</image>
+<image id="26">
+<url>https://fotos15.apinmo.com/12120/27141320/2-26.jpg</url>
+</image>
+<image id="27">
+<url>https://fotos15.apinmo.com/12120/27141320/2-27.jpg</url>
+</image>
+<image id="28">
+<url>https://fotos15.apinmo.com/12120/27141320/2-28.jpg</url>
+</image>
+<image id="29">
+<url>https://fotos15.apinmo.com/12120/27141320/2-29.jpg</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>test_parcela_4_3</id>
+<date>2026-08-05 00:00:00</date>
+<ref>16413R</ref>
+<price>439900</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<type>Rustic Land</type>
+<town>San Vicente Del Raspeig</town>
+<province>Alicante</province>
+<postcode>03690</postcode>
+<country>spain</country>
+<location>
+<latitude>38.46508891837711</latitude>
+<longitude>-0.5843219161033631</longitude>
+</location>
+<location_detail>San Vicente Del Raspeig</location_detail>
+<beds>0</beds>
+<baths>0</baths>
+<pool>0</pool>
+<surface_area>
+<built>0</built>
+<plot>25000</plot>
+</surface_area>
+<energy_rating>
+<consumption>X</consumption>
+<consumption_value>0</consumption_value>
+<emissions>X</emissions>
+<emissions_value>0</emissions_value>
+</energy_rating>
+<url>
+<es>
+<![CDATA[ http://www.qualitycasas.com/venta-comprar/parc-rúst-/alicante/san-vicente-del-raspeig/san-vicente-del-raspeig/enta-comprar-parc-rúst--alicante-san-vicente-del-raspeig-san-vicente-del-raspeig-16413R.html ]]>
+</es>
+</url>
+<desc>
+<de>
+<![CDATA[ ]]>
+</de>
+<da>
+<![CDATA[ ]]>
+</da>
+<en>
+<![CDATA[ ]]>
+</en>
+<es>
+<![CDATA[ Referencia 16413R Amplísima parcela rústica en muy buena zona de San Vicente del Raspeig. Junto a Autovía del Mediterráneo, se encuentra perfectamente comunicada y cerca del núcleo urbano. La parcela dispone de acometidas cercanas de agua y luz, y por su excelente ubicación y gran amplitud (25.000 m2) representa una gran oportunidad de inversión. Concierte ahora una visita y compruebe personalmente todas las ventajas que supone la adquisición de esta propiedad. La presente publicación tiene carácter meramente informativo, orientativo y no vinculante, por lo que no supone información contractual alguna, siendo su uso estrictamente comercial. Este anuncio puede contener errores, se muestra a título informativo de la información recibida, sin ser responsable la inmobiliaria de dichos errores. Nota informativa conforme al Art. 20 TRLGDCU El precio de venta publicado no constituye una oferta vinculante y no incluye los gastos e impuestos derivados de la compraventa. La operación puede estar sujeta a ITP y/o IVA. Se estiman unos costes adicionales de Notaría, Registro de la Propiedad y Tasación. Honorarios inmobiliarios a cargo del vendedor. ]]>
+</es>
+<fr>
+<![CDATA[ ]]>
+</fr>
+<it>
+<![CDATA[ ]]>
+</it>
+<nl>
+<![CDATA[ ]]>
+</nl>
+<pt>
+<![CDATA[ ]]>
+</pt>
+<ru>
+<![CDATA[ ]]>
+</ru>
+</desc>
+<features>
+<feature>Rústico</feature>
+</features>
+<notes/>
+<images>
+<image id="1">
+<url>https://www.forocasas.com/fotos/inmuebles/79785/7978511874500_2.jpg</url>
+</image>
+<image id="2">
+<url>https://www.forocasas.com/fotos/inmuebles/79785/7978511874500_1.jpg</url>
+</image>
+<image id="3">
+<url>https://www.forocasas.com/fotos/inmuebles/79785/7978511874500_3.jpg</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>test_parcela_5</id>
+<date>2026-03-25 18:28:47</date>
+<agencia>INMO SAN FERNANDO SANTANDER</agencia>
+<email>i.santander.972@inmovilla.com</email>
+<telefono>942371999</telefono>
+<ref>56027/972</ref>
+<state>Free</state>
+<operation_type>For sale</operation_type>
+<price>65000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>Country Land</type>
+<country>España</country>
+<province>CANTABRIA</province>
+<town>Puente Viesgo</town>
+<location_detail>Puente Viesgo</location_detail>
+<cp>39670</cp>
+<postal_code>39670</postal_code>
+<location>
+<latitude>43.283549</latitude>
+<longitude>-3.979983</longitude>
+</location>
+<beds>0</beds>
+<baths>0</baths>
+<estado_propiedad>0</estado_propiedad>
+<antiguedad>0</antiguedad>
+<pool>0</pool>
+<surface_area>
+<built>0</built>
+<plot>21328</plot>
+</surface_area>
+<energy_rating>
+<status>Exempt</status>
+</energy_rating>
+<url>
+<es>http://www.inmosanfernando.es/ficha/index.php?codigo=972_19033495</es>
+</url>
+<desc>
+<es>
+<![CDATA[ A la salida de Puente Viesgo, en dirección a San Felices de Buelna, se encuentra esta parcela rústica ideal para quienes buscan desconectar sin alejarse de los servicios y comunicaciones.~~La finca, poblada de árboles autóctonos y manzanos, cuenta con acceso rodado hasta la entrada y dispone de agua y luz, ofreciendo todas las comodidades necesarias para disfrutar del entorno. En ella se encuentra una construcción de 111 m2 de planta, que, aunque actualmente requiere rehabilitación, brinda la base perfecta para crear un hogar a tu medida o un espacio de ocio en plena naturaleza.~~Este lugar es ideal para quienes desean pasar tiempo al aire libre, conectar con la tranquilidad del campo y disfrutar de la vida rural, sin renunciar a la proximidad con Puente Viesgo y otras localidades cercanas.~~Una oportunidad única para construir tu refugio personal, un lugar donde cada momento se convierte en una experiencia de relajación y disfrute.~~Contacta con el departamento de ventas de Inmobiliaria SanFernando y agenda tu visita para descubrir todo lo que esta finca puede ofrecerte. ]]>
+</es>
+<en>
+<![CDATA[ ]]>
+</en>
+<de>
+<![CDATA[ ]]>
+</de>
+<da>
+<![CDATA[ ]]>
+</da>
+<fr>
+<![CDATA[ ]]>
+</fr>
+<it>
+<![CDATA[ ]]>
+</it>
+<nl>
+<![CDATA[ ]]>
+</nl>
+<ru>
+<![CDATA[ ]]>
+</ru>
+<fi>
+<![CDATA[ ]]>
+</fi>
+<ca>
+<![CDATA[ ]]>
+</ca>
+<no>
+<![CDATA[ ]]>
+</no>
+<pt>
+<![CDATA[ ]]>
+</pt>
+<sv>
+<![CDATA[ ]]>
+</sv>
+<eu>
+<![CDATA[ ]]>
+</eu>
+<cn>
+<![CDATA[ ]]>
+</cn>
+<gl>
+<![CDATA[ ]]>
+</gl>
+<lt>
+<![CDATA[ ]]>
+</lt>
+<cs>
+<![CDATA[ ]]>
+</cs>
+<bg>
+<![CDATA[ ]]>
+</bg>
+<pl>
+<![CDATA[ ]]>
+</pl>
+</desc>
+<title_extra/>
+<desc_extra/>
+<features>
+<feature>Light</feature>
+<feature>Water</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/972/19033495/8-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/972/19033495/8-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/972/19033495/8-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/972/19033495/8-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/972/19033495/8-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/972/19033495/8-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/972/19033495/8-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/972/19033495/8-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/972/19033495/8-9.jpg</url>
+</image>
+<image id="10">
+<url>https://fotos15.apinmo.com/972/19033495/8-10.jpg</url>
+</image>
+<image id="11">
+<url>https://fotos15.apinmo.com/972/19033495/8-11.jpg</url>
+</image>
+<image id="12">
+<url>https://fotos15.apinmo.com/972/19033495/8-12.jpg</url>
+</image>
+<image id="13">
+<url>https://fotos15.apinmo.com/972/19033495/8-13.jpg</url>
+</image>
+<image id="14">
+<url>https://fotos15.apinmo.com/972/19033495/8-14.jpg</url>
+</image>
+</images>
+</property>
+
+<property>
+<id>test_creditohipotecario_5</id>
+<date>2026-08-19 11:28:49</date>
+<ref>15479</ref>
+<price>30000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership/>
+<leasehold>0</leasehold>
+<new_build>0</new_build>
+<type>finca</type>
+<town>Layos</town>
+<province>Toledo</province>
+<country>Spain</country>
+<location>
+<latitude>39.765921</latitude>
+<longitude>-4.080903</longitude>
+</location>
+<location_detail/>
+<beds>0</beds>
+<baths>0</baths>
+<pool>0</pool>
+<surface_area>
+<plot>640</plot>
+</surface_area>
+<energy_rating>
+<consumption>X</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>
+<es>https://www.akris.es/Mobilia/VerInmueble/1712244/Ficha.html</es>
+</url>
+<catastral>7524403VK0072S0001QJ</catastral>
+<desc>
+<es>OCASIÓN EN LAYOS GOLF!Parcela urbana de 650 m² ubicada en la avenida principal de Layos Golf, C/ Águila Real . Situada en una urbanización exclusiva, con vigilancia 24 horas y rodeada de naturaleza.Una excelente oportunidad para construir la vivienda que siempre has querido en un entorno tranquilo, a pocos minutos de Toledo.La parcela incluye acción del Campo de Golf en el precio.💰 Precio: 30.000 €En AKRIS te acompañamos durante todo el proceso de compra y te ayudamos a encontrar la financiación que mejor se adapte a tus necesidades.Solicita más información sin compromiso.</es>
+<de>Grundstück zu verkaufen in Layos.</de>
+<en>Plot for sale in Layos.</en>
+<fr>Parcelle en vente á Layos.</fr>
+<it>Terreno in vendita in Layos.</it>
+<pt>Parcela à venda en Layos.</pt>
+<ru>участок на продажу в Layos.</ru>
+</desc>
+<notes/>
+<images>
+<image id="1">
+<url>https://media.mobiliagestion.es/Portals/inmoakris/Images/15479/26805288.jpg</url>
+</image>
+<image id="2">
+<url>https://media.mobiliagestion.es/Portals/inmoakris/Images/15479/26805302.jpg</url>
+</image>
+<image id="3">
+<url>https://media.mobiliagestion.es/Portals/inmoakris/Images/15479/26805320.jpg</url>
+</image>
+<image id="4">
+<url>https://media.mobiliagestion.es/Portals/inmoakris/Images/15479/26805327.jpg</url>
+</image>
+</images>
+<email>publicacion@akris.es</email>
+<contact_number>925282201</contact_number>
+</property>
+
+
+	<property>
+<id>test_creditohipotecario_6</id>
+<date>2026-08-17 11:05:31</date>
+<agencia>LAMSA INMOBILIARIA S.L.</agencia>
+<email>i.lamsainmobiliaria.7518@inmovilla.com</email>
+<telefono>957611853</telefono>
+<ref>AH1801/7518</ref>
+<state>Free</state>
+<operation_type>For sale</operation_type>
+<price>179900</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>house</type>
+<country>España</country>
+<province>CORDOBA</province>
+<town>Córdoba</town>
+<location_detail>Crta. de Trassierra</location_detail>
+<cp>14011</cp>
+<postal_code>14011</postal_code>
+<location>
+<latitude>37.890014</latitude>
+<longitude>-4.794884</longitude>
+</location>
+<beds>4</beds>
+<baths>1</baths>
+<estado_propiedad>10</estado_propiedad>
+<antiguedad>1936</antiguedad>
+<pool>0</pool>
+<surface_area>
+<built>176</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<status>Provided</status>
+<consumption>E</consumption>
+<emissions>D</emissions>
+<consumption_value>132.47</consumption_value>
+<emissions_value>27.2</emissions_value>
+</energy_rating>
+<url>
+<es>http://www.lamsainmobiliaria.es/ficha/index.php?codigo=7518_29541502</es>
+</url>
+<desc>
+<es>
+<![CDATA[ Se vende amplia vivienda de dos plantas con cuatro dormitorios (anteriormente cinco), fachada de 9 metros y una distribución muy funcional, ideal para familias que buscan espacio y comodidad.~~En la planta baja encontramos una entrada con doble puerta, siendo la segunda de rejas, lo que permite mantener la vivienda ventilada con total seguridad. Dispone de dos habitaciones exteriores con vistas a la calle, un salón, un trastero, cocina con alacena y un baño completo con bañera y ventilación natural. Además, cuenta con un patio techado con pozo, donde se ubican las escaleras de acceso a la primera planta y un práctico hueco de escalera con pila.~~La primera planta se distribuye en un amplio salón, un aseo y dos dormitorios dobles. El dormitorio principal dispone de armario empotrado y dos balconadas, mientras que el segundo dormitorio cuenta con una balconada. En esta planta también encontramos una amplia terraza, perfecta para disfrutar del aire libre.~~Entre sus calidades destacan las paredes lisas, carpintería exterior de aluminio color bronce, carpintería interior de madera, suelos de plaqueta y terrazo, y termo de gas butano.~~Una vivienda con grandes posibilidades, amplia, situada en una excelente ubicación, próxima a Carretera Trassierra y rodeada de todo tipo de servicios.~~IBI: 365´72 €~~---~En cumplimiento de las obligaciones de información previstas en la Ley 10/2025, de 28 de diciembre, de servicios de atención a la clientela y transparencia, así como en la normativa sectorial vigente, el precio indicado no incluye los gastos e impuestos inherentes a la adquisición, los cuales se desglosan estimados o con posibilidad de calcularlos a continuación; los gastos más ajustados serán dados en el D.I.A. en la visita a inmuebles, o antes.~*Gastos de Notaría: La Minuta se calculará según al arancel notarial oficial: Anexo I, del Real Decreto 1426/1989, de 17 de noviembre. Enlace: https://notariared.com/calculadora-gastos-compra-vivienda/~*Gastos de Registro de la Propiedad: La inscripción se facturará según el arancel oficial: ANEXO I, del Real Decreto 1427/1989, de 17 de noviembre. Igual enlace anterior~*Gastos de Gestión (Gestoría): Los honorarios por la tramitación administrativa, liquidación de impuestos e inscripción registral ascienden de forma estimativa a [363 € aprox.] (IVA incluido), aunque depende de cada caso, y su dificultad.~*Honorarios Agencia del Vendedor: incluidos en el PVP.~*Honorarios Agencia del comprador: La agencia prestará los servicios de información, asesoramiento y acompañamiento previstos en el Encargo de Servicios y en el D.I.A. Si solicita servicios adicionales o personalizados, sus honorarios serán informados previamente, de forma individualizada y por escrito, conforme a la libertad de pactos y a la normativa vigente.~*Si necesita Financiación, su banco le informará~*Impuesto sobre Transmisiones Patrimoniales (ITP): Se aplicará el tipo impositivo vigente en Andalucía (generalmente el 7%, sin perjuicio de tipos reducidos del 6%. 3,5%, etc, aplicables según las circunstancias personales del comprador o las características del inmueble). El impuesto se devenga sobre el superior entre: 1.- Valor de Referencia de Catastro; y 2.- Precio de venta. Puede calcular su situación personal en el portal oficial de la A.T. de Andalucia. enlace: https://www.juntadeandalucia.es/organismos/economiahaciendayfondoseuropeos/areas/tributos-juego/tributos/paginas/impuesto ]]>
+</es>
+<en>
+<![CDATA[ ]]>
+</en>
+<de>
+<![CDATA[ ]]>
+</de>
+<da>
+<![CDATA[ ]]>
+</da>
+<fr>
+<![CDATA[ ]]>
+</fr>
+<it>
+<![CDATA[ ]]>
+</it>
+<nl>
+<![CDATA[ ]]>
+</nl>
+<ru>
+<![CDATA[ ]]>
+</ru>
+<fi>
+<![CDATA[ ]]>
+</fi>
+<ca>
+<![CDATA[ ]]>
+</ca>
+<no>
+<![CDATA[ ]]>
+</no>
+<pt>
+<![CDATA[ ]]>
+</pt>
+<sv>
+<![CDATA[ ]]>
+</sv>
+<eu>
+<![CDATA[ ]]>
+</eu>
+<cn>
+<![CDATA[ ]]>
+</cn>
+<gl>
+<![CDATA[ ]]>
+</gl>
+<lt>
+<![CDATA[ ]]>
+</lt>
+<cs>
+<![CDATA[ ]]>
+</cs>
+<bg>
+<![CDATA[ ]]>
+</bg>
+<pl>
+<![CDATA[ ]]>
+</pl>
+</desc>
+<title_extra/>
+<desc_extra/>
+<features>
+<feature>porch</feature>
+<feature>Wardrobes cupboard</feature>
+<feature>Light</feature>
+<feature>Terrace</feature>
+<feature>Storeroom</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/7518/29541502/7-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/7518/29541502/7-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/7518/29541502/7-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/7518/29541502/7-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/7518/29541502/7-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/7518/29541502/7-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/7518/29541502/7-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/7518/29541502/7-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/7518/29541502/7-9.jpg</url>
+</image>
+<image id="10">
+<url>https://fotos15.apinmo.com/7518/29541502/7-10.jpg</url>
+</image>
+<image id="11">
+<url>https://fotos15.apinmo.com/7518/29541502/7-11.jpg</url>
+</image>
+<image id="12">
+<url>https://fotos15.apinmo.com/7518/29541502/7-12.jpg</url>
+</image>
+<image id="13">
+<url>https://fotos15.apinmo.com/7518/29541502/7-13.jpg</url>
+</image>
+<image id="14">
+<url>https://fotos15.apinmo.com/7518/29541502/7-14.jpg</url>
+</image>
+<image id="15">
+<url>https://fotos15.apinmo.com/7518/29541502/7-15.jpg</url>
+</image>
+<image id="16">
+<url>https://fotos15.apinmo.com/7518/29541502/7-16.jpg</url>
+</image>
+<image id="17">
+<url>https://fotos15.apinmo.com/7518/29541502/7-17.jpg</url>
+</image>
+<image id="18">
+<url>https://fotos15.apinmo.com/7518/29541502/7-18.jpg</url>
+</image>
+<image id="19">
+<url>https://fotos15.apinmo.com/7518/29541502/7-19.jpg</url>
+</image>
+<image id="20">
+<url>https://fotos15.apinmo.com/7518/29541502/7-20.jpg</url>
+</image>
+<image id="21">
+<url>https://fotos15.apinmo.com/7518/29541502/7-21.jpg</url>
+</image>
+<image id="22">
+<url>https://fotos15.apinmo.com/7518/29541502/7-22.jpg</url>
+</image>
+<image id="23">
+<url>https://fotos15.apinmo.com/7518/29541502/7-23.jpg</url>
+</image>
+<image id="24">
+<url>https://fotos15.apinmo.com/7518/29541502/7-24.jpg</url>
+</image>
+<image id="25">
+<url>https://fotos15.apinmo.com/7518/29541502/7-25.jpg</url>
+</image>
+</images>
+</property>
+
+
+	<property>
+<id>test_creditohipotecario_7</id>
+<date>2026-08-14 10:27:58</date>
+<ref>C3316/5940</ref>
+<price>187000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>Flat</type>
+<country>España</country>
+<province>CASTELLON</province>
+<town>Moncofar</town>
+<location_detail>Moncófar playa</location_detail>
+<cp>12593</cp>
+<postal_code>12593</postal_code>
+<calle>BENICÀSSIM</calle>
+<access_type/>
+<numero/>
+<block/>
+<bloque/>
+<stairs/>
+<escalera/>
+<floor/>
+<planta/>
+<door/>
+<puerta/>
+<address>BENICÀSSIM, (Moncófar playa)</address>
+<refcatastral/>
+<catastral/>
+<altitud>-0.127598</altitud>
+<latitud>39.806384</latitud>
+<location>
+<latitude>39.806384</latitude>
+<longitude>-0.127598</longitude>
+</location>
+<beds>2</beds>
+<baths>1</baths>
+<pool>0</pool>
+<orientation/>
+<surface_area>
+<built>72</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<consumption>E</consumption>
+<emissions>E</emissions>
+</energy_rating>
+<url>
+<es>http://www.agenciamediterranea.com/fichapiso.php?datoofe=28991972numagencia=5940soyinmo=5940</es>
+</url>
+<desc>
+<es>
+<![CDATA[ 🌊 Magnífico apartamento en venta en Moncofar (Castellón) con vistas al mar 🌊. . Descubre este estupendo apartamento, ideal para disfrutar del mar Mediterráneo durante todo el año. Situado a tan solo 50m de la playa y a 35 minutos de Valencia, permite combinar la tranquilidad de la costa con la cercanía a la ciudad.. . La vivienda cuenta con un amplio y luminoso salón con cocina de concepto abierto, perfectamente integrada, que crea un espacio moderno y acogedor. Desde aquí se accede a una agradable terraza, perfecta para relajarse mientras contemplas el mar.. . Dispone de dos cómodos dormitorios, un cuarto de baño completo y una distribución funcional que aprovecha al máximo cada metro. Se vende tal y como se ve en las fotos, totalmente equipado!. . Además, incluye una plaza de garaje y trastero, aportando comodidad y espacio extra de almacenamiento.. . Moncofar es una encantadora localidad costera que destaca por sus amplias playas de aguas tranquilas y su ambiente familiar. Combina a la perfección la esencia de un pueblo mediterráneo con todos los servicios necesarios, ofreciendo comercios locales, gastronomía típica, zonas de paseo junto al mar y espacios naturales donde desconectar. Su clima suave durante todo el año y su ritmo de vida relajado la convierten en un lugar ideal tanto para vivir como para disfrutar de escapadas.. . Una oportunidad perfecta tanto como residencia habitual, segunda vivienda o inversión en un entorno privilegiado junto al mar.. . ✨ ¡Ven a visitarlo y enamórate de sus vistas!. . AGENCIA MEDITERRÁNEA está inscrita en el Registro de Agentes de Intermediación Inmobiliaria de la Comunidad Valenciana RAICV 2002.. . Llámanos y te ampliamos toda la información. Si lo necesitas te ayudamos a conseguir la mejor financiación. Ven a visitarlo.. ]]>
+</es>
+<en>
+<![CDATA[ ]]>
+</en>
+<de>
+<![CDATA[ ]]>
+</de>
+<da>
+<![CDATA[ ]]>
+</da>
+<fr>
+<![CDATA[ ]]>
+</fr>
+<it>
+<![CDATA[ ]]>
+</it>
+<nl>
+<![CDATA[ ]]>
+</nl>
+<ru>
+<![CDATA[ ]]>
+</ru>
+<fi>
+<![CDATA[ ]]>
+</fi>
+<ca>
+<![CDATA[ ]]>
+</ca>
+<no>
+<![CDATA[ ]]>
+</no>
+<pt>
+<![CDATA[ ]]>
+</pt>
+<sv>
+<![CDATA[ ]]>
+</sv>
+</desc>
+<features>
+<feature>Balcon</feature>
+<feature>Garage</feature>
+<feature>Elevator</feature>
+<feature>Storeroom</feature>
+<feature>Appliances</feature>
+<feature>Parking</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/5940/28991972/13-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/5940/28991972/13-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/5940/28991972/13-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/5940/28991972/13-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/5940/28991972/13-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/5940/28991972/13-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/5940/28991972/13-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/5940/28991972/13-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/5940/28991972/13-9.jpg</url>
+</image>
+<image id="10">
+<url>https://fotos15.apinmo.com/5940/28991972/13-10.jpg</url>
+</image>
+<image id="11">
+<url>https://fotos15.apinmo.com/5940/28991972/13-11.jpg</url>
+</image>
+<image id="12">
+<url>https://fotos15.apinmo.com/5940/28991972/13-12.jpg</url>
+</image>
+<image id="13">
+<url>https://fotos15.apinmo.com/5940/28991972/13-13.jpg</url>
+</image>
+<image id="14">
+<url>https://fotos15.apinmo.com/5940/28991972/13-14.jpg</url>
+</image>
+<image id="15">
+<url>https://fotos15.apinmo.com/5940/28991972/13-15.jpg</url>
+</image>
+<image id="16">
+<url>https://fotos15.apinmo.com/5940/28991972/13-16.jpg</url>
+</image>
+<image id="17">
+<url>https://fotos15.apinmo.com/5940/28991972/13-17.jpg</url>
+</image>
+<image id="18">
+<url>https://fotos15.apinmo.com/5940/28991972/13-18.jpg</url>
+</image>
+<image id="19">
+<url>https://fotos15.apinmo.com/5940/28991972/13-19.jpg</url>
+</image>
+<image id="20">
+<url>https://fotos15.apinmo.com/5940/28991972/13-20.jpg</url>
+</image>
+<image id="21">
+<url>https://fotos15.apinmo.com/5940/28991972/13-21.jpg</url>
+</image>
+<image id="22">
+<url>https://fotos15.apinmo.com/5940/28991972/13-22.jpg</url>
+</image>
+<image id="23">
+<url>https://fotos15.apinmo.com/5940/28991972/13-23.jpg</url>
+</image>
+<image id="24">
+<url>https://fotos15.apinmo.com/5940/28991972/13-24.jpg</url>
+</image>
+<image id="25">
+<url>https://fotos15.apinmo.com/5940/28991972/13-25.jpg</url>
+</image>
+<image id="26">
+<url>https://fotos15.apinmo.com/5940/28991972/13-26.jpg</url>
+</image>
+<image id="27">
+<url>https://fotos15.apinmo.com/5940/28991972/13-27.jpg</url>
+</image>
+<image id="28">
+<url>https://fotos15.apinmo.com/5940/28991972/13-28.jpg</url>
+</image>
+<image id="29">
+<url>https://fotos15.apinmo.com/5940/28991972/13-29.jpg</url>
+</image>
+<image id="30">
+<url>https://fotos15.apinmo.com/5940/28991972/13-30.jpg</url>
+</image>
+<image id="31">
+<url>https://fotos15.apinmo.com/5940/28991972/13-31.jpg</url>
+</image>
+<image id="32">
+<url>https://fotos15.apinmo.com/5940/28991972/13-32.jpg</url>
+</image>
+<image id="33">
+<url>https://fotos15.apinmo.com/5940/28991972/13-33.jpg</url>
+</image>
+<image id="34">
+<url>https://fotos15.apinmo.com/5940/28991972/13-34.jpg</url>
+</image>
+<image id="35">
+<url>https://fotos15.apinmo.com/5940/28991972/13-35.jpg</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>test_creditohipotecario_8</id>
+<date>2026-08-24 10:25:32</date>
+<ref>C3346/5940</ref>
+<price>433000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>Flat</type>
+<country>España</country>
+<province>VALENCIA</province>
+<town>Valencia</town>
+<location_detail>Trinitat</location_detail>
+<cp>46010</cp>
+<postal_code>46010</postal_code>
+<calle>ALBORAYA</calle>
+<access_type>Calle</access_type>
+<numero/>
+<block/>
+<bloque/>
+<stairs/>
+<escalera/>
+<floor/>
+<planta/>
+<door/>
+<puerta/>
+<address>ALBORAYA, (Trinitat)</address>
+<refcatastral/>
+<catastral/>
+<altitud>-0.368106</altitud>
+<latitud>39.487950</latitud>
+<location>
+<latitude>39.487950</latitude>
+<longitude>-0.368106</longitude>
+</location>
+<virtual_tour_dominio>otros</virtual_tour_dominio>
+<virtual_tour_url>https://my.matterport.com/show/?m=bJgHC99PC16</virtual_tour_url>
+<beds>3</beds>
+<baths>2</baths>
+<pool>0</pool>
+<orientation/>
+<surface_area>
+<built>127</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<consumption>E</consumption>
+<emissions>E</emissions>
+</energy_rating>
+<url>
+<es>http://www.agenciamediterranea.com/fichapiso.php?datoofe=29568504numagencia=5940soyinmo=5940</es>
+</url>
+<desc>
+<es>
+<![CDATA[ Piso en venta en Valencia, CON plaza de GARAJE! en magnífica zona de Valencia, muy bien comunicada.. ¿Buscas un hogar que combine amplitud, luz natural y una ubicación privilegiada? Te presentamos esta excelente propiedad en la emblemática calle Alboraya, una vivienda que ha sido adaptada para maximizar el confort y el espacio.. Distribución inteligente y espacios amplios. La vivienda, que originalmente contaba con cuatro dormitorios, ha sido redistribuida para ofrecer tres habitaciones muy espaciosas, siendo dos de ellas dobles. Esto permite disfrutar de un mayor desahogo en las estancias. Además, cuenta con dos baños completos, ambos con moderno plato de ducha: uno de ellos equipado con bidé y el otro con lavabo de doble seno, ideal para la comodidad familiar.. Zona de día: La luz de la mañana es la protagonista en el salón-comedor y en la cocina. El salón cuenta con aire acondicionado y es el lugar perfecto para tus momentos de relax. La cocina, amplia y funcional, dispone de un espacio de "salita" o comedor diario (también con aire acondicionado) y da acceso directo a un balcón exterior con vistas a la calle Alboraya, perfecto para disfrutar de un respiro al aire libre.. Calidades y confort La vivienda cuida cada detalle para ofrecer bienestar:. •Acabados modernos: Paredes lisas y elegantes puertas de madera de haya.. •Suelos: Combina la durabilidad del terrazo y el gres.. •Carpintería: Ventanales de aluminio.. •Almacenamiento: Dispone de armarios empotrados perfectamente integrados.. •Seguridad: Puerta de entrada blindada.. Extras que marcan la diferencia Incluye plaza de garaje, un activo imprescindible en la zona que te permitirá olvidarte de los problemas de aparcamiento. El edificio cuenta con ascensor y elevador (acceso no a cota 0).. Es una vivienda ideal para familias o parejas que buscan vivir en un entorno consolidado, con todos los servicios a pie de calle y la comodidad de tener una vivienda lista para entrar a vivir.. ¿Te interesa conocerlo?? No dejes pasar esta oportunidad de vivir en una de las zonas más demandadas. Contacta con nosotros hoy mismo para concertar una visita. ¡Estaremos encantados de enseñarte tu próximo hogar!. AGENCIA MEDITERRÁNEA está inscrita en el Registro de Agentes de Intermediación Inmobiliaria de la Comunidad Valenciana RAICV 2002.. Llámanos ya! o si lo prefieres puedes enviarnos un correo electrónico y te ampliaremos toda la información que necesites!. Y si lo necesitas te ayudamos a conseguir la mejor financiación. Ven a visitarlo!. . . ]]>
+</es>
+<en>
+<![CDATA[ ]]>
+</en>
+<de>
+<![CDATA[ ]]>
+</de>
+<da>
+<![CDATA[ ]]>
+</da>
+<fr>
+<![CDATA[ ]]>
+</fr>
+<it>
+<![CDATA[ ]]>
+</it>
+<nl>
+<![CDATA[ ]]>
+</nl>
+<ru>
+<![CDATA[ ]]>
+</ru>
+<fi>
+<![CDATA[ ]]>
+</fi>
+<ca>
+<![CDATA[ ]]>
+</ca>
+<no>
+<![CDATA[ ]]>
+</no>
+<pt>
+<![CDATA[ ]]>
+</pt>
+<sv>
+<![CDATA[ ]]>
+</sv>
+</desc>
+<features>
+<feature>Balcon</feature>
+<feature>Garage</feature>
+<feature>porch</feature>
+<feature>Elevator</feature>
+<feature>Wardrobes cupboard</feature>
+<feature>Armored Door</feature>
+<feature>Appliances</feature>
+<feature>Air-Conditioning</feature>
+<feature>Video Intercom</feature>
+<feature>Light</feature>
+<feature>Water</feature>
+<feature>Parking</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/5940/29568504/12-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/5940/29568504/12-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/5940/29568504/12-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/5940/29568504/12-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/5940/29568504/12-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/5940/29568504/12-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/5940/29568504/12-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/5940/29568504/12-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/5940/29568504/12-9.jpg</url>
+</image>
+<image id="10">
+<url>https://fotos15.apinmo.com/5940/29568504/12-10.jpg</url>
+</image>
+<image id="11">
+<url>https://fotos15.apinmo.com/5940/29568504/12-11.jpg</url>
+</image>
+<image id="12">
+<url>https://fotos15.apinmo.com/5940/29568504/12-12.jpg</url>
+</image>
+<image id="13">
+<url>https://fotos15.apinmo.com/5940/29568504/12-13.jpg</url>
+</image>
+<image id="14">
+<url>https://fotos15.apinmo.com/5940/29568504/12-14.jpg</url>
+</image>
+<image id="15">
+<url>https://fotos15.apinmo.com/5940/29568504/12-15.jpg</url>
+</image>
+<image id="16">
+<url>https://fotos15.apinmo.com/5940/29568504/12-16.jpg</url>
+</image>
+<image id="17">
+<url>https://fotos15.apinmo.com/5940/29568504/12-17.jpg</url>
+</image>
+<image id="18">
+<url>https://fotos15.apinmo.com/5940/29568504/12-18.jpg</url>
+</image>
+<image id="19">
+<url>https://fotos15.apinmo.com/5940/29568504/12-19.jpg</url>
+</image>
+<image id="20">
+<url>https://fotos15.apinmo.com/5940/29568504/12-20.jpg</url>
+</image>
+<image id="21">
+<url>https://fotos15.apinmo.com/5940/29568504/12-21.jpg</url>
+</image>
+<image id="22">
+<url>https://fotos15.apinmo.com/5940/29568504/12-22.jpg</url>
+</image>
+<image id="23">
+<url>https://fotos15.apinmo.com/5940/29568504/12-23.jpg</url>
+</image>
+<image id="24">
+<url>https://fotos15.apinmo.com/5940/29568504/12-24.jpg</url>
+</image>
+<image id="25">
+<url>https://fotos15.apinmo.com/5940/29568504/12-25.jpg</url>
+</image>
+<image id="26">
+<url>https://fotos15.apinmo.com/5940/29568504/12-26.jpg</url>
+</image>
+<image id="27">
+<url>https://fotos15.apinmo.com/5940/29568504/12-27.jpg</url>
+</image>
+<image id="28">
+<url>https://fotos15.apinmo.com/5940/29568504/12-28.jpg</url>
+</image>
+<image id="29">
+<url>https://fotos15.apinmo.com/5940/29568504/12-29.jpg</url>
+</image>
+<image id="30">
+<url>https://fotos15.apinmo.com/5940/29568504/12-30.jpg</url>
+</image>
+<image id="31">
+<url>https://fotos15.apinmo.com/5940/29568504/12-31.jpg</url>
+</image>
+<image id="32">
+<url>https://fotos15.apinmo.com/5940/29568504/12-32.jpg</url>
+</image>
+<image id="33">
+<url>https://fotos15.apinmo.com/5940/29568504/12-33.jpg</url>
+</image>
+<image id="34">
+<url>https://fotos15.apinmo.com/5940/29568504/12-34.jpg</url>
+</image>
+<image id="35">
+<url>https://fotos15.apinmo.com/5940/29568504/12-35.jpg</url>
+</image>
+<image id="36">
+<url>https://fotos15.apinmo.com/5940/29568504/12-36.jpg</url>
+</image>
+<image id="37">
+<url>https://fotos15.apinmo.com/5940/29568504/12-37.jpg</url>
+</image>
+<image id="38">
+<url>https://fotos15.apinmo.com/5940/29568504/12-38.jpg</url>
+</image>
+<image id="39">
+<url>https://fotos15.apinmo.com/5940/29568504/12-39.jpg</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>test_creditohipotecario_9</id>
+<date>2026-08-14 09:53:00</date>
+<ref>C3336/5940</ref>
+<price>145000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>Apartment</type>
+<country>España</country>
+<province>VALENCIA</province>
+<town>Cullera</town>
+<location_detail>San Antonio</location_detail>
+<cp>46400</cp>
+<postal_code>46400</postal_code>
+<calle>MADRID</calle>
+<access_type>Calle</access_type>
+<numero/>
+<block/>
+<bloque/>
+<stairs/>
+<escalera/>
+<floor/>
+<planta/>
+<door/>
+<puerta/>
+<address>MADRID, (San Antonio)</address>
+<refcatastral/>
+<catastral/>
+<altitud>-0.243232</altitud>
+<latitud>39.167061</latitud>
+<location>
+<latitude>39.167061</latitude>
+<longitude>-0.243232</longitude>
+</location>
+<beds>1</beds>
+<baths>1</baths>
+<pool>0</pool>
+<orientation/>
+<surface_area>
+<built>43</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<consumption>E</consumption>
+<emissions>E</emissions>
+</energy_rating>
+<url>
+<es>http://www.agenciamediterranea.com/fichapiso.php?datoofe=29445579numagencia=5940soyinmo=5940</es>
+</url>
+<desc>
+<es>
+<![CDATA[ Apartamento en venta en Cullera playa, Valencia ¿Quieres pasar tus próximos veranos a 2 minutos del mar!? Coqueto y luminoso apartamento en venta en la famosa y acogedora playa de Cullera.. Si buscas un rincón perfecto para disfrutar del Mediterráneo o una inversión con alta rentabilidad, este apartamento es ideal para ti. Situado en una sexta planta con ascensor de un edificio de 1968, la vivienda destaca por su increíble luminosidad y su excelente estado.. Sus 40 m2 están inteligentemente aprovechados y se distribuyen en:. •Salón-comedor con acceso directo a un agradable balcón, el lugar perfecto para relajarse y disfrutar de unas bonitas vistas laterales al mar.. •Moderna cocina office integrada, diseñada para maximizar el espacio y fomentar la convivencia.. •Una habitación independiente, cómoda y tranquila.. •Un baño completo de diseño funcional con plato de ducha.. (Plano no vinculante; las dimensiones y distribución son aproximadas y pueden variar respecto a la realidad).. Una ubicación privilegiada. El apartamento se encuentra en segunda línea de playa, en una de las zonas más cotizadas y valoradas de Cullera. Olvídate del coche: tendrás el mar a solo unos pasos y estarás rodeado de absolutamente todos los servicios esenciales (supermercados, farmacias, centro de salud, transporte público, tiendas y una fantástica oferta de restauración).. Listo para entrar a vivir y empezar a disfrutar del estilo de vida costero. ¡Agenda tu visita antes de que vuele!. NUESTRA AGENCIA está inscrita en el Registro de Agentes de Intermediación Inmobiliaria de la Comunidad Valenciana RAICV 2002.. Llámanos o envíanos un correo electrónico y te ampliamos toda la información. Si lo necesitas te ayudamos a conseguir la mejor financiación. Ven a visitarlo!!. ]]>
+</es>
+<en>
+<![CDATA[ ]]>
+</en>
+<de>
+<![CDATA[ ]]>
+</de>
+<da>
+<![CDATA[ ]]>
+</da>
+<fr>
+<![CDATA[ ]]>
+</fr>
+<it>
+<![CDATA[ ]]>
+</it>
+<nl>
+<![CDATA[ ]]>
+</nl>
+<ru>
+<![CDATA[ ]]>
+</ru>
+<fi>
+<![CDATA[ ]]>
+</fi>
+<ca>
+<![CDATA[ ]]>
+</ca>
+<no>
+<![CDATA[ ]]>
+</no>
+<pt>
+<![CDATA[ ]]>
+</pt>
+<sv>
+<![CDATA[ ]]>
+</sv>
+</desc>
+<features>
+<feature>Balcon</feature>
+<feature>Elevator</feature>
+<feature>Wardrobes cupboard</feature>
+<feature>Appliances</feature>
+<feature>Light</feature>
+<feature>Water</feature>
+<feature>Vistas al mar</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/5940/29445579/19-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/5940/29445579/19-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/5940/29445579/19-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/5940/29445579/19-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/5940/29445579/19-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/5940/29445579/19-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/5940/29445579/19-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/5940/29445579/19-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/5940/29445579/19-9.jpg</url>
+</image>
+<image id="10">
+<url>https://fotos15.apinmo.com/5940/29445579/19-10.jpg</url>
+</image>
+<image id="11">
+<url>https://fotos15.apinmo.com/5940/29445579/19-11.jpg</url>
+</image>
+<image id="12">
+<url>https://fotos15.apinmo.com/5940/29445579/19-12.jpg</url>
+</image>
+<image id="13">
+<url>https://fotos15.apinmo.com/5940/29445579/19-13.jpg</url>
+</image>
+<image id="14">
+<url>https://fotos15.apinmo.com/5940/29445579/19-14.jpg</url>
+</image>
+<image id="15">
+<url>https://fotos15.apinmo.com/5940/29445579/19-15.jpg</url>
+</image>
+<image id="16">
+<url>https://fotos15.apinmo.com/5940/29445579/19-16.jpg</url>
+</image>
+<image id="17">
+<url>https://fotos15.apinmo.com/5940/29445579/19-17.jpg</url>
+</image>
+<image id="18">
+<url>https://fotos15.apinmo.com/5940/29445579/19-18.jpg</url>
+</image>
+<image id="19">
+<url>https://fotos15.apinmo.com/5940/29445579/19-19.jpg</url>
+</image>
+<image id="20">
+<url>https://fotos15.apinmo.com/5940/29445579/19-20.jpg</url>
+</image>
+<image id="21">
+<url>https://fotos15.apinmo.com/5940/29445579/19-21.jpg</url>
+</image>
+<image id="22">
+<url>https://fotos15.apinmo.com/5940/29445579/19-22.jpg</url>
+</image>
+<image id="23">
+<url>https://fotos15.apinmo.com/5940/29445579/19-23.jpg</url>
+</image>
+<image id="24">
+<url>https://fotos15.apinmo.com/5940/29445579/19-24.jpg</url>
+</image>
+<image id="25">
+<url>https://fotos15.apinmo.com/5940/29445579/19-25.jpg</url>
+</image>
+<image id="26">
+<url>https://fotos15.apinmo.com/5940/29445579/19-26.jpg</url>
+</image>
+<image id="27">
+<url>https://fotos15.apinmo.com/5940/29445579/19-27.jpg</url>
+</image>
+<image id="28">
+<url>https://fotos15.apinmo.com/5940/29445579/19-28.jpg</url>
+</image>
+<image id="29">
+<url>https://fotos15.apinmo.com/5940/29445579/19-29.jpg</url>
+</image>
+</images>
+</property>
+
+	<property>
+<id>test_creditohipotecario_12</id>
+<date>2026-01-15 16:46:28</date>
+<ref>81982</ref>
+<price>365000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<part_ownership/>
+<leasehold>0</leasehold>
+<new_build>0</new_build>
+<type>apartment</type>
+<town>Sevilla</town>
+<province>Sevilla</province>
+<country>Spain</country>
+<location>
+<latitude>37.3765882</latitude>
+<longitude>-5.9968957</longitude>
+</location>
+<location_detail/>
+<beds>2</beds>
+<baths>2</baths>
+<pool>0</pool>
+<surface_area>
+<built>90</built>
+</surface_area>
+<energy_rating>
+<consumption>X</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<url>
+<es>https://daurumlamoraleja.mobiliagestion.es/Mobilia/VerInmueble/1475492/Ficha.html</es>
+</url>
+<desc>
+<es>Fantástico piso de 2 habitaciones(antes 4) cuarto de baño y aseo, en San Julián.90 m2 construidos. 80 m2 útiles.nbsp;2ª planta CON ASCENSOR.Armarios empotrados.Comunidad 80€.NO PIERDA ESTA OPORTUNIDAD Y CONTACTE CON NOSOTROS PARA REALIZAR UNA VISITA.Daurum Estate ofrece conseguir la mejor financiación a su medida hasta el 100% del valor de compra venta sea nuestra la vivienda o no.INFORMACIÓN SIN COMPROMISO en el mismo número de teléfono del anuncio.</es>
+<en>Flat for sale in Sevilla, with 90 m2, 2 rooms and 2 bathrooms, Storage room, Lift and Air conditioning.</en>
+</desc>
+<features>
+<feature>Aire Acondicionado</feature>
+<feature>Ascensor</feature>
+</features>
+<notes/>
+<images>
+<image id="1">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553507.jpg</url>
+</image>
+<image id="2">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553508.jpg</url>
+</image>
+<image id="3">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553509.jpg</url>
+</image>
+<image id="4">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553510.jpg</url>
+</image>
+<image id="5">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553511.jpg</url>
+</image>
+<image id="6">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553512.jpg</url>
+</image>
+<image id="7">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553513.jpg</url>
+</image>
+<image id="8">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553514.jpg</url>
+</image>
+<image id="9">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553515.jpg</url>
+</image>
+<image id="10">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553516.jpg</url>
+</image>
+<image id="11">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553517.jpg</url>
+</image>
+<image id="12">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553518.jpg</url>
+</image>
+<image id="13">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553519.jpg</url>
+</image>
+<image id="14">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553520.jpg</url>
+</image>
+<image id="15">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553521.jpg</url>
+</image>
+<image id="16">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553522.jpg</url>
+</image>
+<image id="17">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553523.jpg</url>
+</image>
+<image id="18">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553524.jpg</url>
+</image>
+<image id="19">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553525.jpg</url>
+</image>
+<image id="20">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553526.jpg</url>
+</image>
+<image id="21">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553527.jpg</url>
+</image>
+<image id="22">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553528.jpg</url>
+</image>
+<image id="23">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553529.jpg</url>
+</image>
+<image id="24">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553530.jpg</url>
+</image>
+<image id="25">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553531.jpg</url>
+</image>
+<image id="26">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553532.jpg</url>
+</image>
+<image id="27">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553533.jpg</url>
+</image>
+<image id="28">
+<url>https://media.mobiliagestion.es/Portals/daurumlamoraleja/Images/81982/22553534.jpg</url>
+</image>
+</images>
+<email>sevilla@daurumestate.com</email>
+<contact_number>669447306</contact_number>
+</property>
+
+	<property>
+<id>test_creditohipotecario_13</id>
+<date>2026-08-18 13:14:52</date>
+<ref>CL-179/10559</ref>
+<price>85000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>house</type>
+<country>España</country>
+<province>A CORUÑA</province>
+<town>Brion</town>
+<location_detail>Brion 3</location_detail>
+<cp>15865</cp>
+<postal_code>15865</postal_code>
+<calle>BRION DE ABAIXO</calle>
+<access_type/>
+<numero/>
+<block/>
+<bloque/>
+<stairs/>
+<escalera/>
+<floor>0</floor>
+<planta>0</planta>
+<door/>
+<puerta/>
+<address>BRION DE ABAIXO, (Brion 3)</address>
+<refcatastral/>
+<catastral/>
+<altitud>-8.69141164861263</altitud>
+<latitud>42.863950776379404</latitud>
+<location>
+<latitude>42.863950776379404</latitude>
+<longitude>-8.69141164861263</longitude>
+</location>
+<beds>3</beds>
+<baths>1</baths>
+<pool>0</pool>
+<orientation>Este</orientation>
+<surface_area>
+<built>74</built>
+<plot>800</plot>
+</surface_area>
+<energy_rating> </energy_rating>
+<url>
+<es>http://reactivainmobiliaria.es/fichapiso.php?datoofe=24188027numagencia=10559soyinmo=10559</es>
+</url>
+<desc>
+<es>
+<![CDATA[ Os presentamos esta CASITA con pequeña FINCA, para REHABILITAR por completo.. ESTÁ YA INSCRITA EN EL REGISTRO DE LA PROPIEDAD.. . La aldea de Brión de Abaixo se encuentra a unos 4 km (9 minutos en coche) del centro de Bertamiráns, en una ZONA MUY DESPEJADA Y SOLEADA. Esa zona la completan casas unifamiliares entre los campos, ideal para disfrutar de la naturaleza y el aire libre.. . En Bertamiráns contamos con todos los servicios necesarios para el día a día: supermercados, tiendas, restauración, colegios y academias, centro de salud y clínicas, instalaciones deportivas, farmacias, oficinas bancarias, etc.. . Se trata de una casa de dos plantas, con un galpón pegado a ella.. El suministro de agua es mediante traída comunitaria para las viviendas de la aldea. Tiene acceso a los suministros municipales de agua y alcantarillado.. . Creemos que esta propiedad es una OPORTUNIDAD FANTÁSTICA PARA REHABILITARLA y convertirla en una vivienda, con jardincito, en un sitio muy atractivo.. . . En Reactiva Inmobiliaria contamos con servicio de intermediación financiera, por si necesitasen financiación bancaria.. . La información contenida en este anuncio puede contener errores, por lo que no tiene valor contractual. ]]>
+</es>
+<en>
+<![CDATA[ ]]>
+</en>
+<de>
+<![CDATA[ ]]>
+</de>
+<da>
+<![CDATA[ ]]>
+</da>
+<fr>
+<![CDATA[ ]]>
+</fr>
+<it>
+<![CDATA[ ]]>
+</it>
+<nl>
+<![CDATA[ ]]>
+</nl>
+<ru>
+<![CDATA[ ]]>
+</ru>
+<fi>
+<![CDATA[ ]]>
+</fi>
+<ca>
+<![CDATA[ ]]>
+</ca>
+<no>
+<![CDATA[ ]]>
+</no>
+<pt>
+<![CDATA[ ]]>
+</pt>
+<sv>
+<![CDATA[ ]]>
+</sv>
+</desc>
+<features>
+<feature>Water</feature>
+<feature>Garden</feature>
+</features>
+<images>
+<image id="1">
+<url>https://fotos15.apinmo.com/10559/24188027/2-1.jpg</url>
+</image>
+<image id="2">
+<url>https://fotos15.apinmo.com/10559/24188027/2-2.jpg</url>
+</image>
+<image id="3">
+<url>https://fotos15.apinmo.com/10559/24188027/2-3.jpg</url>
+</image>
+<image id="4">
+<url>https://fotos15.apinmo.com/10559/24188027/2-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/10559/24188027/2-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/10559/24188027/2-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/10559/24188027/2-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/10559/24188027/2-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/10559/24188027/2-9.jpg</url>
+</image>
+<image id="10">
+<url>https://fotos15.apinmo.com/10559/24188027/2-10.jpg</url>
+</image>
+<image id="11">
+<url>https://fotos15.apinmo.com/10559/24188027/2-11.jpg</url>
+</image>
+<image id="12">
+<url>https://fotos15.apinmo.com/10559/24188027/2-12.jpg</url>
+</image>
+<image id="13">
+<url>https://fotos15.apinmo.com/10559/24188027/2-13.jpg</url>
+</image>
+<image id="14">
+<url>https://fotos15.apinmo.com/10559/24188027/2-14.jpg</url>
+</image>
+<image id="15">
+<url>https://fotos15.apinmo.com/10559/24188027/2-15.jpg</url>
+</image>
+<image id="16">
+<url>https://fotos15.apinmo.com/10559/24188027/2-16.jpg</url>
+</image>
+<image id="17">
+<url>https://fotos15.apinmo.com/10559/24188027/2-17.jpg</url>
+</image>
+<image id="18">
+<url>https://fotos15.apinmo.com/10559/24188027/2-18.jpg</url>
+</image>
+<image id="19">
+<url>https://fotos15.apinmo.com/10559/24188027/2-19.jpg</url>
+</image>
+<image id="20">
+<url>https://fotos15.apinmo.com/10559/24188027/2-20.jpg</url>
+</image>
+<image id="21">
+<url>https://fotos15.apinmo.com/10559/24188027/2-21.jpg</url>
+</image>
+<image id="22">
+<url>https://fotos15.apinmo.com/10559/24188027/2-22.jpg</url>
+</image>
+<image id="23">
+<url>https://fotos15.apinmo.com/10559/24188027/2-23.jpg</url>
+</image>
+<image id="24">
+<url>https://fotos15.apinmo.com/10559/24188027/2-24.jpg</url>
+</image>
+<image id="25">
+<url>https://fotos15.apinmo.com/10559/24188027/2-25.jpg</url>
+</image>
+<image id="26">
+<url>https://fotos15.apinmo.com/10559/24188027/2-26.jpg</url>
+</image>
+<image id="27">
+<url>https://fotos15.apinmo.com/10559/24188027/2-27.jpg</url>
+</image>
+<image id="28">
+<url>https://fotos15.apinmo.com/10559/24188027/2-28.jpg</url>
+</image>
+<image id="29">
+<url>https://fotos15.apinmo.com/10559/24188027/2-29.jpg</url>
+</image>
+<image id="30">
+<url>https://fotos15.apinmo.com/10559/24188027/2-30.jpg</url>
+</image>
+<image id="31">
+<url>https://fotos15.apinmo.com/10559/24188027/2-31.jpg</url>
+</image>
+<image id="32">
+<url>https://fotos15.apinmo.com/10559/24188027/2-32.jpg</url>
+</image>
+<image id="33">
+<url>https://fotos15.apinmo.com/10559/24188027/2-33.jpg</url>
+</image>
+<image id="34">
+<url>https://fotos15.apinmo.com/10559/24188027/2-34.jpg</url>
+</image>
+<image id="35">
+<url>https://fotos15.apinmo.com/10559/24188027/2-35.jpg</url>
+</image>
+<image id="36">
+<url>https://fotos15.apinmo.com/10559/24188027/2-36.jpg</url>
+</image>
+<image id="37">
+<url>https://fotos15.apinmo.com/10559/24188027/2-37.jpg</url>
+</image>
+</images>
+</property>
+	
+	
+	
+
+
+
+
+	
+	
+</root>

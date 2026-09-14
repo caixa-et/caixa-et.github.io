@@ -3586,7 +3586,8 @@ Referencia comercial: BCN-45897. Para concertar una visita indique esta referenc
 </image>
 </images>
 </property>
-<property>
+
+	<property>
 <id>test-selector-no-match-tinsa</id>
 <date>2026-09-14 09:00:00</date>
 <agencia>QA Selector Flags</agencia>
@@ -3630,11 +3631,11 @@ Referencia comercial: BCN-45897. Para concertar una visita indique esta referenc
 <emissions_value>28.10</emissions_value>
 </energy_rating>
 <url>
-<es>https://www.inmobiliariaqa.test/test-selector-no-match-tinsa</es>
+<es>inmobiliariaqa.test/test-selector-no-match-tinsa</es>
 </url>
 <desc>
 <es>
-<![CDATA[ Vivienda exterior con salón comedor, cocina independiente equipada y habitaciones con armarios empotrados. Dispone de ascensor, calefacción y una terraza orientada al sur. Situada a pocos minutos del centro, con transporte público, colegios y comercios en el entorno inmediato. Casa modular prefabricada instalada sobre parcela urbana, montada en fábrica y trasladada a su emplazamiento actual. ]]>
+<![CDATA[ qa.selector@inmobiliariaqa.test Vivienda exterior con salón comedor, cocina independiente equipada y habitaciones con armarios empotrados. Dispone de ascensor, calefacción y una terraza orientada al sur. Situada a pocos minutos del centro, con transporte público, colegios y comercios en el entorno inmediato. Casa modular prefabricada instalada sobre parcela urbana, montada en fábrica y trasladada a su emplazamiento actual. ]]>
 </es>
 </desc>
 <images>

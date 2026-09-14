@@ -3285,6 +3285,487 @@ Referencia comercial: BCN-45897. Para concertar una visita indique esta referenc
 </image>
 </images>
 </property>
+
+	<property>
+<id>test-selector-mixta</id>
+<date>2026-09-14 09:00:00</date>
+<agencia>QA Selector Flags</agencia>
+<email>qa.selector@inmobiliariaqa.test</email>
+<telefono>900000000</telefono>
+<ref>test-selector-mixta</ref>
+<state>Free</state>
+<operation_type>For sale</operation_type>
+<price>185000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>Mobile home</type>
+<country>España</country>
+<province>Alicante</province>
+<town>Torrevieja</town>
+<location_detail>Playa del Cura</location_detail>
+<cp>03181</cp>
+<postal_code>03181</postal_code>
+<refcatastral>5091705YH0059S0001ZY</refcatastral>
+<location>
+<latitude>41.387015</latitude>
+<longitude>2.170047</longitude>
+</location>
+<beds>3</beds>
+<baths>2</baths>
+<estado_propiedad>0</estado_propiedad>
+<antiguedad>2004</antiguedad>
+<pool>0</pool>
+<surface_area>
+<built>95</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<status>Provided</status>
+<consumption>D</consumption>
+<emissions/>
+<consumption_value/>
+<emissions_value/>
+</energy_rating>
+<url>
+<es>https://www.inmobiliariaqa.test/test-selector-mixta</es>
+</url>
+<desc>
+<es>
+<![CDATA[ Vivienda exterior con salón comedor, cocina independiente equipada y habitaciones con armarios empotrados. Dispone de ascensor, calefacción y una terraza orientada al sur. Situada a pocos minutos del centro, con transporte público, colegios y comercios en el entorno inmediato. El inmueble mantiene cargas previas no hipotecarias pendientes de cancelación registral. Para concertar visita contacta con nosotros en el 600 123 456 o escríbenos a ventas@inmobiliariaqa.test. Ficha ampliada y plano en https://www.inmobiliariaqa.test/ficha/1001. ]]>
+</es>
+</desc>
+<images>
+<image id="1">
+<url>https://caixa-et.github.io/Images/exterior-casa.jpeg</url>
+</image>
+<image id="2">
+<url>https://caixa-et.github.io/Images/habitacion.jpg</url>
+</image>
+</images>
+</property>
+<property>
+<id>test-selector-aprobar-sin-flags</id>
+<date>2026-09-14 09:00:00</date>
+<agencia>QA Selector Flags</agencia>
+<email>qa.selector@inmobiliariaqa.test</email>
+<telefono>900000000</telefono>
+<ref>test-selector-aprobar-sin-flags</ref>
+<state>Free</state>
+<operation_type>For sale</operation_type>
+<price>185000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>Apartment</type>
+<country>España</country>
+<province>Alicante</province>
+<town>Torrevieja</town>
+<location_detail>Playa del Cura</location_detail>
+<cp>03181</cp>
+<postal_code>03181</postal_code>
+<refcatastral>5091705YH0059S0002ZY</refcatastral>
+<location>
+<latitude>37.978700</latitude>
+<longitude>-0.681700</longitude>
+</location>
+<beds>3</beds>
+<baths>2</baths>
+<estado_propiedad>0</estado_propiedad>
+<antiguedad>2004</antiguedad>
+<pool>0</pool>
+<surface_area>
+<built>95</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<status>Provided</status>
+<consumption>E</consumption>
+<emissions/>
+<consumption_value/>
+<emissions_value/>
+</energy_rating>
+<url>
+<es>https://www.inmobiliariaqa.test/test-selector-aprobar-sin-flags</es>
+</url>
+<desc>
+<es>
+<![CDATA[ Vivienda exterior con salón comedor, cocina independiente equipada y habitaciones con armarios empotrados. Dispone de ascensor, calefacción y una terraza orientada al sur. Situada a pocos minutos del centro, con transporte público, colegios y comercios en el entorno inmediato. Para concertar visita contacta con nosotros en el 600 123 456 o escríbenos a ventas@inmobiliariaqa.test. Ficha ampliada y plano en https://www.inmobiliariaqa.test/ficha/1001. ]]>
+</es>
+</desc>
+<images>
+<image id="1">
+<url>https://caixa-et.github.io/Images/exterior-casa.jpeg</url>
+</image>
+<image id="2">
+<url>https://caixa-et.github.io/Images/habitacion.jpg</url>
+</image>
+</images>
+</property>
+<property>
+<id>test-selector-solo-informativas</id>
+<date>2026-09-14 09:00:00</date>
+<agencia>QA Selector Flags</agencia>
+<email>qa.selector@inmobiliariaqa.test</email>
+<telefono>900000000</telefono>
+<ref>test-selector-solo-informativas</ref>
+<state>Free</state>
+<operation_type>For sale</operation_type>
+<price>185000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>Apartment</type>
+<country>España</country>
+<province>Alicante</province>
+<town>Elche</town>
+<location_detail>Centro</location_detail>
+<cp>03201</cp>
+<postal_code>03201</postal_code>
+<refcatastral>5091705YH0059S0003ZY</refcatastral>
+<location>
+<latitude>38.264800</latitude>
+<longitude>-0.698300</longitude>
+</location>
+<beds>3</beds>
+<baths>2</baths>
+<estado_propiedad>0</estado_propiedad>
+<antiguedad>2004</antiguedad>
+<pool>0</pool>
+<surface_area>
+<built>95</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<status>Provided</status>
+<consumption>D</consumption>
+<emissions/>
+<consumption_value/>
+<emissions_value/>
+</energy_rating>
+<url>
+<es>https://www.inmobiliariaqa.test/test-selector-solo-informativas</es>
+</url>
+<desc>
+<es>
+<![CDATA[ Vivienda exterior con salón comedor, cocina independiente equipada y habitaciones con armarios empotrados. Dispone de ascensor, calefacción y una terraza orientada al sur. Situada a pocos minutos del centro, con transporte público, colegios y comercios en el entorno inmediato. ]]>
+</es>
+</desc>
+<images>
+<image id="1">
+<url>https://caixa-et.github.io/Images/exterior-casa.jpeg</url>
+</image>
+<image id="2">
+<url>https://caixa-et.github.io/Images/habitacion.jpg</url>
+</image>
+</images>
+</property>
+<property>
+<id>test-selector-solo-bloqueantes</id>
+<date>2026-09-14 09:00:00</date>
+<agencia>QA Selector Flags</agencia>
+<email>qa.selector@inmobiliariaqa.test</email>
+<telefono>900000000</telefono>
+<ref>test-selector-solo-bloqueantes</ref>
+<state>Free</state>
+<operation_type>For sale</operation_type>
+<price>395000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>Apartment</type>
+<country>España</country>
+<province>Madrid</province>
+<town>Madrid</town>
+<location_detail>Chamberí</location_detail>
+<cp>28010</cp>
+<postal_code>28010</postal_code>
+<refcatastral>5091705YH0059S0004ZY</refcatastral>
+<location>
+<latitude>37.389100</latitude>
+<longitude>-5.984500</longitude>
+</location>
+<beds>3</beds>
+<baths>2</baths>
+<estado_propiedad>0</estado_propiedad>
+<antiguedad>2004</antiguedad>
+<pool>0</pool>
+<surface_area>
+<built>95</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<status>Provided</status>
+<consumption>D</consumption>
+<emissions>D</emissions>
+<consumption_value>142.50</consumption_value>
+<emissions_value>28.10</emissions_value>
+</energy_rating>
+<url>
+<es>https://www.inmobiliariaqa.test/test-selector-solo-bloqueantes</es>
+</url>
+<desc>
+<es>
+<![CDATA[ Vivienda exterior con salón comedor, cocina independiente equipada y habitaciones con armarios empotrados. Dispone de ascensor, calefacción y una terraza orientada al sur. Situada a pocos minutos del centro, con transporte público, colegios y comercios en el entorno inmediato. ]]>
+</es>
+</desc>
+<images>
+<image id="1">
+<url>https://caixa-et.github.io/Images/exterior-casa.jpeg</url>
+</image>
+<image id="2">
+<url>https://caixa-et.github.io/Images/habitacion.jpg</url>
+</image>
+</images>
+</property>
+<property>
+<id>test-selector-happy-path-tinsa</id>
+<date>2026-09-14 09:00:00</date>
+<agencia>QA Selector Flags</agencia>
+<email>qa.selector@inmobiliariaqa.test</email>
+<telefono>900000000</telefono>
+<ref>test-selector-happy-path-tinsa</ref>
+<state>Free</state>
+<operation_type>For sale</operation_type>
+<price>72000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>Mobile home</type>
+<country>España</country>
+<province>Alicante</province>
+<town>Torrevieja</town>
+<location_detail>Playa del Cura</location_detail>
+<cp>03181</cp>
+<postal_code>03181</postal_code>
+<refcatastral>5091705YH0059S0005ZY</refcatastral>
+<location>
+<latitude>41.387015</latitude>
+<longitude>2.170047</longitude>
+</location>
+<beds>3</beds>
+<baths>2</baths>
+<estado_propiedad>0</estado_propiedad>
+<antiguedad>2004</antiguedad>
+<pool>0</pool>
+<surface_area>
+<built>95</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<status>Provided</status>
+<consumption>D</consumption>
+<emissions/>
+<consumption_value/>
+<emissions_value/>
+</energy_rating>
+<url>
+<es>https://www.inmobiliariaqa.test/test-selector-happy-path-tinsa</es>
+</url>
+<desc>
+<es>
+<![CDATA[ Vivienda exterior con salón comedor, cocina independiente equipada y habitaciones con armarios empotrados. Dispone de ascensor, calefacción y una terraza orientada al sur. Situada a pocos minutos del centro, con transporte público, colegios y comercios en el entorno inmediato. ]]>
+</es>
+</desc>
+<images>
+<image id="1">
+<url>https://caixa-et.github.io/Images/exterior-casa.jpeg</url>
+</image>
+<image id="2">
+<url>https://caixa-et.github.io/Images/habitacion.jpg</url>
+</image>
+</images>
+</property>
+<property>
+<id>test-selector-no-match-tinsa</id>
+<date>2026-09-14 09:00:00</date>
+<agencia>QA Selector Flags</agencia>
+<email>qa.selector@inmobiliariaqa.test</email>
+<telefono>900000000</telefono>
+<ref>test-selector-no-match-tinsa</ref>
+<state>Free</state>
+<operation_type>For sale</operation_type>
+<price>148000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>House</type>
+<country>España</country>
+<province>Alicante</province>
+<town>Alcoy</town>
+<location_detail>Zona Norte</location_detail>
+<cp>03801</cp>
+<postal_code>03801</postal_code>
+<refcatastral>5091705YH0059S0006ZY</refcatastral>
+<location>
+<latitude>39.469900</latitude>
+<longitude>-0.376300</longitude>
+</location>
+<beds>3</beds>
+<baths>2</baths>
+<estado_propiedad>0</estado_propiedad>
+<antiguedad>2004</antiguedad>
+<pool>0</pool>
+<surface_area>
+<built>95</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<status>Provided</status>
+<consumption>D</consumption>
+<emissions>D</emissions>
+<consumption_value>142.50</consumption_value>
+<emissions_value>28.10</emissions_value>
+</energy_rating>
+<url>
+<es>https://www.inmobiliariaqa.test/test-selector-no-match-tinsa</es>
+</url>
+<desc>
+<es>
+<![CDATA[ Vivienda exterior con salón comedor, cocina independiente equipada y habitaciones con armarios empotrados. Dispone de ascensor, calefacción y una terraza orientada al sur. Situada a pocos minutos del centro, con transporte público, colegios y comercios en el entorno inmediato. Casa modular prefabricada instalada sobre parcela urbana, montada en fábrica y trasladada a su emplazamiento actual. ]]>
+</es>
+</desc>
+<images>
+<image id="1">
+<url>https://caixa-et.github.io/Images/exterior-casa.jpeg</url>
+</image>
+<image id="2">
+<url>https://caixa-et.github.io/Images/habitacion.jpg</url>
+</image>
+</images>
+</property>
+<property>
+<id>test-selector-scroll-buscador</id>
+<date>2026-09-14 09:00:00</date>
+<agencia>QA Selector Flags</agencia>
+<email>qa.selector@inmobiliariaqa.test</email>
+<telefono>900000000</telefono>
+<ref>test-selector-scroll-buscador</ref>
+<state>Free</state>
+<operation_type>For sale</operation_type>
+<price>250000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>Mobile home</type>
+<country>España</country>
+<province>Murcia</province>
+<town>Cartagena</town>
+<location_detail>Casco Antiguo</location_detail>
+<cp>30201</cp>
+<postal_code>30201</postal_code>
+<refcatastral>5091705YH0059S0007ZY</refcatastral>
+<location>
+<latitude>43.362300</latitude>
+<longitude>-8.411500</longitude>
+</location>
+<beds>3</beds>
+<baths>2</baths>
+<estado_propiedad>0</estado_propiedad>
+<antiguedad>2004</antiguedad>
+<pool>0</pool>
+<surface_area>
+<built>95</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<status>Provided</status>
+<consumption>D</consumption>
+<emissions/>
+<consumption_value/>
+<emissions_value/>
+</energy_rating>
+<url>
+<es>https://www.inmobiliariaqa.test/test-selector-scroll-buscador</es>
+</url>
+<desc>
+<es>
+<![CDATA[ Vivienda exterior con salón comedor, cocina independiente equipada y habitaciones con armarios empotrados. Dispone de ascensor, calefacción y una terraza orientada al sur. Situada a pocos minutos del centro, con transporte público, colegios y comercios en el entorno inmediato. El inmueble mantiene cargas previas no hipotecarias pendientes de cancelación registral. Para concertar visita contacta con nosotros en el 600 123 456 o escríbenos a ventas@inmobiliariaqa.test. Ficha ampliada y plano en https://www.inmobiliariaqa.test/ficha/1001. El inmueble se encuentra actualmente ocupado y se vende sin posesión. Procedente de subasta judicial, con cesión de remate. Se transmite únicamente la nuda propiedad, con usufructo vitalicio vigente. Precio de venta: 195.000 €, negociables. ]]>
+</es>
+</desc>
+<images>
+<image id="1">
+<url>https://caixa-et.github.io/Images/exterior-casa.jpeg</url>
+</image>
+<image id="2">
+<url>https://caixa-et.github.io/Images/habitacion.jpg</url>
+</image>
+</images>
+</property>
+<property>
+<id>test-selector-control-limpia</id>
+<date>2026-09-14 09:00:00</date>
+<agencia>QA Selector Flags</agencia>
+<email>qa.selector@inmobiliariaqa.test</email>
+<telefono>900000000</telefono>
+<ref>test-selector-control-limpia</ref>
+<state>Free</state>
+<operation_type>For sale</operation_type>
+<price>162000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>0</new_build>
+<part_ownership>0</part_ownership>
+<leasehold>0</leasehold>
+<type>Apartment</type>
+<country>España</country>
+<province>Alicante</province>
+<town>San Vicente del Raspeig</town>
+<location_detail>Centro</location_detail>
+<cp>03690</cp>
+<postal_code>03690</postal_code>
+<refcatastral>5091705YH0059S0008ZY</refcatastral>
+<location>
+<latitude>38.396400</latitude>
+<longitude>-0.525600</longitude>
+</location>
+<beds>3</beds>
+<baths>2</baths>
+<estado_propiedad>0</estado_propiedad>
+<antiguedad>2004</antiguedad>
+<pool>0</pool>
+<surface_area>
+<built>95</built>
+<plot>0</plot>
+</surface_area>
+<energy_rating>
+<status>Provided</status>
+<consumption>D</consumption>
+<emissions>D</emissions>
+<consumption_value>142.50</consumption_value>
+<emissions_value>28.10</emissions_value>
+</energy_rating>
+<url>
+<es>https://www.inmobiliariaqa.test/test-selector-control-limpia</es>
+</url>
+<desc>
+<es>
+<![CDATA[ Vivienda exterior con salón comedor, cocina independiente equipada y habitaciones con armarios empotrados. Dispone de ascensor, calefacción y una terraza orientada al sur. Situada a pocos minutos del centro, con transporte público, colegios y comercios en el entorno inmediato. ]]>
+</es>
+</desc>
+<images>
+<image id="1">
+<url>https://caixa-et.github.io/Images/exterior-casa.jpeg</url>
+</image>
+<image id="2">
+<url>https://caixa-et.github.io/Images/habitacion.jpg</url>
+</image>
+</images>
+</property>
 	
 	
 	

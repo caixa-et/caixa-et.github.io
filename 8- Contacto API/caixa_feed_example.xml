@@ -379,7 +379,7 @@
 
     <property>
 <ref>test_type_1</ref>
-<description><p>Magníficos locales exteriores a la venta en la promoción de obra nueva situada en la Ronda Cervantes de Mataró, en el barrio de la Habana. Situado a 2 calles de la playa y del paseo marítimo, a 10 minutos del centro de Mataró y a 15 de la estación de cercanías de Renfe, demás frente a la línea 3 de bus municipal. Se vende junto con dos plazas de garaje por importe de 38.500 € no incluidas en el precio.</p></description>
+<description> Magníficos locales exteriores a la venta en la promoción de obra nueva situada en la Ronda Cervantes de Mataró, en el barrio de la Habana. Situado a 2 calles de la playa y del paseo marítimo, a 10 minutos del centro de Mataró y a 15 de la estación de cercanías de Renfe, demás frente a la línea 3 de bus municipal. Se vende junto con dos plazas de garaje por importe de 38.500 € no incluidas en el precio¡.</description>
 <name>Venta Comercial Local comercial MATARÓ MATARÓ</name>
 <unit_number/>
 <property_type>house</property_type>

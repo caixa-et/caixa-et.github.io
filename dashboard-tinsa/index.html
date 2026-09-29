@@ -159,6 +159,11 @@
   .gate-foot{font-size:11px;color:var(--sub);margin-top:20px;padding-top:16px;border-top:1px solid var(--line);line-height:1.5;}
   body.locked{overflow:hidden;}
   body.locked .wrap{filter:blur(7px);pointer-events:none;user-select:none;}
+  .disclaimer-banner{display:flex;gap:12px;align-items:flex-start;background:#FDF3E7;border:1px solid #F2C994;
+    border-left:4px solid var(--orange);border-radius:12px;padding:14px 16px;margin:0 0 18px;
+    font-size:12.5px;color:#7A4E1E;line-height:1.55;}
+  .disclaimer-banner .db-icon{flex:none;font-size:16px;line-height:1.35;}
+  .disclaimer-banner b{color:#5E3A12;font-weight:800;}
 
   /* ---------- Resueltos ---------- */
   .res-list{display:flex;flex-direction:column;gap:10px;}
@@ -237,6 +242,8 @@
   </div>
 
   <!-- FEATURE: evolución propiedades publicadas -->
+  <div id="disclaimerBanner" class="disclaimer-banner" style="display:none;"></div>
+
   <div class="feature">
     <div class="feature-left">
       <div class="feature-eyebrow">Estado de la oferta</div>
@@ -444,7 +451,7 @@
   <div class="res-list" id="resList"></div>
 
   <div class="footnote">
-    <b>Notas de datos:</b> valores de cierre/acumulado semanal del Excel de seguimiento, S1–S11 (15 jun – 30 ago). La <b>Semana 1</b> incluye el reproceso inicial de todo el catálogo. <b>% de aprobación</b> (indicador KPI): aprobadas sobre el total de revisiones concluyentes; en una semana concreta muestra su valor, en Acumulado el agregado ponderado (arrastrado por el gran volumen de la S1). <b>Revisiones (concluyentes)</b>: totales, automáticas y % de automatización sobre Green + Red (no incluye Yellow → derivado al HUB). <b>Tiempos de proceso</b> (KPI principal, datos desde S6), dos bloques: (1) <b>Tiempo de revisión</b> — 120 s PreTinsa → 32,6 s de media ponderada (−72,8%); automático 31 s (−74,2%) / manual 75 s (−37,5%) en S11; (2) <b>Tiempo de resolución general</b> (ingreso → decisión) — 37 h PreTinsa → 0,6 h de media (−98,3%), con desglose automático 11,2 min (−99,5%) y manual 12 h (−67,6%). <b>Performance del HUB</b>: revisiones manuales por origen + <b>backlog de inicio de semana</b> (pendientes de análisis manual; S8 sin dato). <b>Top flags</b>: cierre de mes de la semana — junio (S1–S3), julio (S4–S7); agosto aún sin cierre; en Acumulado, el mes más reciente con datos. Evolución de <b>flg_image_download_error</b> (S3–S11). Modificadas de S8: n/a en la fuente. Datos desde <b>data.json</b>.
+    <b>Notas de datos:</b> valores de cierre/acumulado semanal del Excel de seguimiento, S1–S14 (15 jun – 20 sep). La <b>Semana 1</b> incluye el reproceso inicial de todo el catálogo. <b>% de aprobación</b> (indicador KPI): aprobadas sobre el total de revisiones concluyentes; en una semana concreta muestra su valor, en Acumulado el agregado ponderado (arrastrado por el gran volumen de la S1). <b>Revisiones (concluyentes)</b>: totales, automáticas y % de automatización sobre Green + Red (no incluye Yellow → derivado al HUB). <b>Tiempos de proceso</b> (KPI principal, datos desde S6), dos bloques: (1) <b>Tiempo de revisión</b> — 120 s PreTinsa → 32,6 s de media ponderada (−72,8%); automático 31 s (−74,2%) / manual 75 s (−37,5%) en S11; (2) <b>Tiempo de resolución general</b> (ingreso → decisión) — 37 h PreTinsa → 0,6 h de media (−98,3%), con desglose automático 11,2 min (−99,5%) y manual 12 h (−67,6%). <b>Performance del HUB</b>: revisiones manuales por origen + <b>backlog de inicio de semana</b> (pendientes de análisis manual; S8 sin dato). <b>Top flags</b>: cierre de mes de la semana — junio (S1–S3), julio (S4–S7); agosto aún sin cierre; en Acumulado, el mes más reciente con datos. Evolución de <b>flg_image_download_error</b> (S3–S14). Modificadas de S8: n/a en la fuente. <b>S12 y S13 están afectadas por la incidencia de Qobrix (3–7 sep)</b> y no son comparables con el resto: se avisa con un banner al seleccionarlas. Datos desde <b>data.json</b>.
   </div>
 </div>
 
@@ -566,6 +573,27 @@
         "a": "24 ago",
         "b": "30 ago",
         "month": "ago"
+      },
+      {
+        "key": "s12",
+        "label": "S12",
+        "a": "31 ago",
+        "b": "6 sep",
+        "month": "sep"
+      },
+      {
+        "key": "s13",
+        "label": "S13",
+        "a": "7 sep",
+        "b": "13 sep",
+        "month": "sep"
+      },
+      {
+        "key": "s14",
+        "label": "S14",
+        "a": "14 sep",
+        "b": "20 sep",
+        "month": "sep"
       }
     ],
     "oferta": {
@@ -581,7 +609,10 @@
         "s8": 372263,
         "s9": 374333,
         "s10": 377867,
-        "s11": 381884
+        "s11": 381884,
+        "s12": 385769,
+        "s13": 393520,
+        "s14": 400273
       },
       "pub": {
         "pre": 73143,
@@ -595,7 +626,10 @@
         "s8": 80844,
         "s9": 80766,
         "s10": 80092,
-        "s11": 80117
+        "s11": 80117,
+        "s12": 79499,
+        "s13": 80044,
+        "s14": 80279
       },
       "nopub": {
         "pre": 27987,
@@ -609,7 +643,10 @@
         "s8": 60599,
         "s9": 60884,
         "s10": 61504,
-        "s11": 61216
+        "s11": 61216,
+        "s12": 61192,
+        "s13": 61438,
+        "s14": 61985
       }
     },
     "flujo": {
@@ -624,7 +661,10 @@
         "s8": 5021,
         "s9": 3497,
         "s10": 3378,
-        "s11": 3884
+        "s11": 3884,
+        "s12": 4196,
+        "s13": 7756,
+        "s14": 6752
       },
       "modif": {
         "s1": 136347,
@@ -637,7 +677,10 @@
         "s8": null,
         "s9": 17278,
         "s10": 9608,
-        "s11": 8753
+        "s11": 8753,
+        "s12": 35620,
+        "s13": 36850,
+        "s14": 34971
       },
       "retir": {
         "s1": 2580,
@@ -650,7 +693,10 @@
         "s8": 4344,
         "s9": 3721,
         "s10": 4024,
-        "s11": 4879
+        "s11": 4879,
+        "s12": 5008,
+        "s13": 7842,
+        "s14": 6589
       }
     },
     "feeds": {
@@ -666,7 +712,10 @@
         "s8": 1326,
         "s9": 1315,
         "s10": 1299,
-        "s11": 1317
+        "s11": 1317,
+        "s12": 1332,
+        "s13": 1336,
+        "s14": 1343
       },
       "err": {
         "pre": 887,
@@ -680,7 +729,10 @@
         "s8": 41,
         "s9": 41,
         "s10": 41,
-        "s11": 43
+        "s11": 43,
+        "s12": 40,
+        "s13": 45,
+        "s14": 43
       },
       "bloq": {
         "pre": 50,
@@ -694,7 +746,10 @@
         "s8": 29,
         "s9": 42,
         "s10": 63,
-        "s11": 44
+        "s11": 44,
+        "s12": 41,
+        "s13": 44,
+        "s14": 46
       },
       "pend": {
         "pre": 6,
@@ -708,7 +763,10 @@
         "s8": 2,
         "s9": 2,
         "s10": 2,
-        "s11": 2
+        "s11": 2,
+        "s12": 2,
+        "s13": 2,
+        "s14": 2
       },
       "curso": {
         "pre": 0,
@@ -722,7 +780,10 @@
         "s8": 1,
         "s9": 1,
         "s10": 1,
-        "s11": 1
+        "s11": 1,
+        "s12": 0,
+        "s13": 0,
+        "s14": 0
       }
     },
     "analisis": {
@@ -737,7 +798,10 @@
         "s8": 22432,
         "s9": 18322,
         "s10": 23255,
-        "s11": 22343
+        "s11": 22343,
+        "s12": 54731,
+        "s13": 28644,
+        "s14": 24906
       },
       "manual": {
         "s1": 2580,
@@ -750,7 +814,10 @@
         "s8": 3271,
         "s9": 776,
         "s10": 902,
-        "s11": 814
+        "s11": 814,
+        "s12": 2292,
+        "s13": 2239,
+        "s14": 1291
       }
     },
     "flags": {
@@ -765,7 +832,10 @@
         "s8": 14851,
         "s9": 13510,
         "s10": 17610,
-        "s11": 16608
+        "s11": 16608,
+        "s12": 34427,
+        "s13": 21319,
+        "s14": 18696
       },
       "red": {
         "s1": 47574,
@@ -778,7 +848,10 @@
         "s8": 4601,
         "s9": 4065,
         "s10": 4508,
-        "s11": 4605
+        "s11": 4605,
+        "s12": 16853,
+        "s13": 5506,
+        "s14": 4736
       },
       "yellow": {
         "s1": 29503,
@@ -791,7 +864,10 @@
         "s8": 2980,
         "s9": 747,
         "s10": 1137,
-        "s11": 1130
+        "s11": 1130,
+        "s12": 3451,
+        "s13": 1819,
+        "s14": 1474
       }
     },
     "revis": {
@@ -806,7 +882,10 @@
         "s8": 22723,
         "s9": 18351,
         "s10": 23020,
-        "s11": 22027
+        "s11": 22027,
+        "s12": 53572,
+        "s13": 29064,
+        "s14": 24723
       },
       "auto": {
         "s1": 106679,
@@ -819,7 +898,10 @@
         "s8": 19452,
         "s9": 17575,
         "s10": 22118,
-        "s11": 21213
+        "s11": 21213,
+        "s12": 51280,
+        "s13": 26825,
+        "s14": 23432
       },
       "autoRate": {
         "s1": 98,
@@ -832,7 +914,10 @@
         "s8": 86,
         "s9": 96,
         "s10": 96,
-        "s11": 96
+        "s11": 96,
+        "s12": 96,
+        "s13": 92,
+        "s14": 95
       },
       "aprob": {
         "s1": 59932,
@@ -845,7 +930,10 @@
         "s8": 15839,
         "s9": 14004,
         "s10": 18089,
-        "s11": 17008
+        "s11": 17008,
+        "s12": 35580,
+        "s13": 22363,
+        "s14": 19400
       },
       "rech": {
         "s1": 49162,
@@ -858,7 +946,10 @@
         "s8": 6884,
         "s9": 4347,
         "s10": 4931,
-        "s11": 5019
+        "s11": 5019,
+        "s12": 17992,
+        "s13": 6701,
+        "s14": 5323
       }
     },
     "tiempo": {
@@ -874,7 +965,10 @@
         "s8": 37,
         "s9": 35,
         "s10": 35,
-        "s11": 31
+        "s11": 31,
+        "s12": 25,
+        "s13": 38,
+        "s14": 36
       }
     },
     "calidad": {
@@ -897,14 +991,20 @@
           "s8": 2.04,
           "s9": 2.02,
           "s10": 1.88,
-          "s11": 1.84
+          "s11": 1.84,
+          "s12": 1.85,
+          "s13": 1.72,
+          "s14": 1.72
         },
         "s6": 1785,
         "s7": 1725,
         "s8": 1648,
         "s9": 1633,
         "s10": 1506,
-        "s11": 1474
+        "s11": 1474,
+        "s12": 1467,
+        "s13": 1377,
+        "s14": 1381
       },
       "muni": {
         "pre": 10044,
@@ -925,14 +1025,20 @@
           "s8": 4.34,
           "s9": 4.24,
           "s10": 3.9,
-          "s11": 3.82
+          "s11": 3.82,
+          "s12": 3.72,
+          "s13": 3.22,
+          "s14": 3.12
         },
         "s6": 4407,
         "s7": 3802,
         "s8": 3509,
         "s9": 3421,
         "s10": 3120,
-        "s11": 3063
+        "s11": 3063,
+        "s12": 2957,
+        "s13": 2574,
+        "s14": 2506
       },
       "cp": {
         "pre": 29054,
@@ -953,14 +1059,20 @@
           "s8": 13.66,
           "s9": 13.32,
           "s10": 12.1,
-          "s11": 11.75
+          "s11": 11.75,
+          "s12": 10.72,
+          "s13": 10.14,
+          "s14": 9.6
         },
         "s6": 13758,
         "s7": 12218,
         "s8": 11042,
         "s9": 10758,
         "s10": 9695,
-        "s11": 9415
+        "s11": 9415,
+        "s12": 8525,
+        "s13": 8113,
+        "s14": 7704
       }
     },
     "hub": {
@@ -975,7 +1087,10 @@
         "s8": 3271,
         "s9": 776,
         "s10": 902,
-        "s11": 814
+        "s11": 814,
+        "s12": 2292,
+        "s13": 2239,
+        "s14": 1291
       },
       "entrada": {
         "s1": 181,
@@ -988,7 +1103,10 @@
         "s8": 116,
         "s9": 47,
         "s10": 106,
-        "s11": 62
+        "s11": 62,
+        "s12": 62,
+        "s13": 85,
+        "s14": 198
       },
       "backlog": {
         "s1": 8653,
@@ -1001,7 +1119,10 @@
         "s8": null,
         "s9": 365,
         "s10": 341,
-        "s11": 373
+        "s11": 373,
+        "s12": 1067,
+        "s13": 422,
+        "s14": 434
       }
     },
     "incidencias": [
@@ -1047,41 +1168,44 @@
       }
     ],
     "tiempoDetalle": {
-      "ref": "S11 · 24–30 ago",
+      "ref": "S14 · 14–20 sep",
       "weeks": [
         "s6",
         "s7",
         "s8",
         "s9",
         "s10",
-        "s11"
+        "s11",
+        "s12",
+        "s13",
+        "s14"
       ],
       "revision": {
         "pretinsa": 120,
-        "media": 32.6,
-        "redMedia": 72.8,
-        "auto": 31,
-        "redAuto": 74.2,
-        "manual": 75,
-        "redManual": 37.5
+        "media": null,
+        "redMedia": null,
+        "auto": 36,
+        "redAuto": 70.0,
+        "manual": null,
+        "redManual": null
       },
       "resolucion": {
         "general": {
           "pretinsaMin": 2220,
-          "valMin": 36,
-          "red": 98.3
+          "valMin": 42,
+          "red": 98.2
         },
         "auto": {
-          "min": 11.2,
-          "red": 99.5,
-          "aprob": 12.3,
-          "rech": 7.1
+          "min": 9.5,
+          "red": 99.6,
+          "aprob": 9.9,
+          "rech": 7.7
         },
         "manual": {
-          "min": 720,
-          "red": 67.6,
-          "aprob": 612,
-          "rech": 828
+          "min": 618,
+          "red": 72.2,
+          "aprob": 600,
+          "rech": 630
         }
       }
     },
@@ -1095,7 +1219,10 @@
         "s8": 139,
         "s9": 238,
         "s10": 225,
-        "s11": 145
+        "s11": 145,
+        "s12": 499,
+        "s13": 358,
+        "s14": 151
       }
     },
     "flagsMonth": {
@@ -1522,6 +1649,10 @@
         122742,
         131334
       ]
+    },
+    "disclaimers": {
+      "s12": "Incidencia del 3 de septiembre — parámetro de ubicaciones (Qobrix). Una actualización del SAS de Qobrix provocó que el parámetro de ubicaciones pasara a detectarse como campo sensible: el sistema comparaba ubicaciones equivalentes que llegaban con distinto formato y, al no reconocerlas como iguales, marcaba la propiedad para revisión. El efecto fue un aumento anómalo del número de revisiones generadas, no una degradación del tiempo de proceso. Como contención se pararon los feeds y se dejó vaciar la cola pendiente. El 7 de septiembre se aplicó el fix (validado en PRE y subido a PRO), se reactivaron los feeds y el número de revisiones se normalizó.",
+      "s13": "Valor alterado por la incidencia del 3 al 7 de septiembre. Los feeds estuvieron parados y no se reactivaron hasta las 17 h del lunes 7, por lo que la semana arranca con la cola acumulada vaciándose. El dato no refleja el rendimiento del sistema y no es comparable con el resto de semanas."
     }
   };
   let V=V_DEFAULT; // se sobrescribe con data.json si está disponible (ver init)
@@ -2002,9 +2133,11 @@
       const fs=v=>(Number.isInteger(v)?v:(Math.round(v*10)/10).toString().replace('.',','))+' s';
       const rows=[{label:'PreTinsa', sub:'antes · 100% manual', val:r.pretinsa, color:C.grey, badge:'baseline', muted:true}];
       if(r.media!=null) rows.push({label:'Media', sub:'ponderada', val:r.media, color:C.lav, badge:_red(r.redMedia)});
-      rows.push({label:'Automático', sub:'Tinsa', val:r.auto, color:C.teal, badge:_red(r.redAuto)});
-      rows.push({label:'Manual', sub:'HUB', val:r.manual, color:C.orange, badge:_red(r.redManual)});
+      if(r.auto!=null) rows.push({label:'Automático', sub:'Tinsa', val:r.auto, color:C.teal, badge:_red(r.redAuto)});
+      if(r.manual!=null) rows.push({label:'Manual', sub:'HUB', val:r.manual, color:C.orange, badge:_red(r.redManual)});
       renderBA(ba, rows, fs);
+      if(r.media==null || r.manual==null)
+        ba.innerHTML += '<p class="hint" style="margin-top:10px;">Media ponderada y tiempo de revisión manual: sin información en la referencia actual (no se reportan desde S12).</p>';
     }
 
     // BLOQUE 2 · Tiempo de resolución general (creación → decisión) — PreTinsa 37 h
@@ -2035,7 +2168,24 @@
     lineChart(el, WK_LABELS, [{name:'Backlog HUB', data, color:C.lav, fill:true}], {height:210, labelPts:true});
   }
 
-  function renderAll(){ paintPicker(); renderFeature(); renderKPIs(); renderCharts(); renderIncidents(); renderFlagEvol(); renderTiempos(); renderBacklog(); }
+  function renderDisclaimer(){
+    const el=document.getElementById('disclaimerBanner'); if(!el) return;
+    const dc=V.disclaimers||{};
+    let html='';
+    if(isSingle()){
+      const w=endKey(), txt=dc[w];
+      if(txt) html='<span class="db-icon">⚠️</span><div><b>'+WK_LABELS[rngHi()]+' · dato afectado por incidencia, no comparable.</b> '+txt+'</div>';
+    } else {
+      const flagged=rngKeys().filter(w=>dc[w]);
+      if(flagged.length){
+        const labels=flagged.map(w=>WK_LABELS[WK.indexOf(w)]).join(' y ');
+        html='<span class="db-icon">⚠️</span><div><b>'+labels+' incluyen incidencias</b> que afectan la comparabilidad de los datos del acumulado. Selecciona esa semana para ver el detalle.</div>';
+      }
+    }
+    el.innerHTML=html; el.style.display = html?'':'none';
+  }
+
+  function renderAll(){ paintPicker(); renderDisclaimer(); renderFeature(); renderKPIs(); renderCharts(); renderIncidents(); renderFlagEvol(); renderTiempos(); renderBacklog(); }
 
   // ---------- range picker ----------
   function buildWeekButtons(){

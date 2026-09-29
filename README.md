@@ -12,6 +12,8 @@
 * [Inmovilla Feed](/1-%20Tech/inmovilla_feed_example.xml)
 * [Inmoweb Feed](/1-%20Tech/inmoweb_feed_example.xml)
 * [Caixa XML Feed](/1-%20Tech/caixa_feed_example.xml)
+#Trazabilidad
+* [Trazabilidad Caixa XML Feed](/1-%20Tech/Trazabilidad/kyero_feed_example.xml)
 
 ## Product Team
 * [Kyero Feed](/2-%20Product/kyero_feed_example.xml)

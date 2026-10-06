@@ -1964,7 +1964,7 @@
         <ref>test_disponibilidad_9</ref>
         <id_oficina>1060</id_oficina>
         <description>
-            <![CDATA[Casa espectacular con vistas a las montañas. Alquiler turístico/de temporada.]]>
+            <![CDATA[Casa espectacular con vistas a las montanas. Alquiler turístico/de temporada.]]>
         </description>
         <unit_number/>
         <property_type>house</property_type>
@@ -1972,7 +1972,7 @@
         <status/>
         <sale_rent>for_rent</sale_rent>
         <list_selling_price_amount/>
-        <list_rental_price_amount/>1300</list_rental_price_amount>
+        <list_rental_price_amount>1300</list_rental_price_amount>
         <construction_stage/>
         <bedrooms>3</bedrooms>
         <bathrooms>1</bathrooms>
@@ -2049,7 +2049,7 @@
         <status/>
         <sale_rent>for_rent</sale_rent>
         <list_selling_price_amount/>
-        <list_rental_price_amount/>1300</list_rental_price_amount>
+        <list_rental_price_amount>1300</list_rental_price_amount>
         <construction_stage/>
         <bedrooms>3</bedrooms>
         <bathrooms>1</bathrooms>

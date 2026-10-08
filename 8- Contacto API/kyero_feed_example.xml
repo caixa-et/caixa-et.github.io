@@ -166,7 +166,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 <price_freq>sale</price_freq>
 <part_ownership>0</part_ownership>
 <leasehold>0</leasehold>
-<new_build>1</new_build>
+<new_build>0</new_build>
 <type>villa</type>
 <location_id>1521</location_id>
 <town>La Nucia</town>
@@ -202,17 +202,32 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </features>
 <notes/>
 <images>
-<image id="222086786">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+<image id="1">
+<url>https://fotos15.apinmo.com/2371/20380068/2-1.jpg</url>
 </image>
-<image id="222086787">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+<image id="2">
+<url>https://fotos15.apinmo.com/2371/20380068/2-2.jpg</url>
 </image>
-<image id="222086788">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+<image id="3">
+<url>https://fotos15.apinmo.com/2371/20380068/2-3.jpg</url>
 </image>
-<image id="222086789">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+<image id="4">
+<url>https://fotos15.apinmo.com/2371/20380068/2-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/2371/20380068/2-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/2371/20380068/2-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/2371/20380068/2-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/2371/20380068/2-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/2371/20380068/2-9.jpg</url>
 </image>
 </images>
 </property>
@@ -226,7 +241,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 <price_freq>sale</price_freq>
 <part_ownership>0</part_ownership>
 <leasehold>0</leasehold>
-<new_build>1</new_build>
+<new_build>0</new_build>
 <type>villa</type>
 <location_id>1521</location_id>
 <town>La Nucia</town>
@@ -262,23 +277,38 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </features>
 <notes/>
 <images>
-<image id="222086786">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+<image id="1">
+<url>https://fotos15.apinmo.com/2371/20380068/2-1.jpg</url>
 </image>
-<image id="222086787">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+<image id="2">
+<url>https://fotos15.apinmo.com/2371/20380068/2-2.jpg</url>
 </image>
-<image id="222086788">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+<image id="3">
+<url>https://fotos15.apinmo.com/2371/20380068/2-3.jpg</url>
 </image>
-<image id="222086789">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+<image id="4">
+<url>https://fotos15.apinmo.com/2371/20380068/2-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/2371/20380068/2-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/2371/20380068/2-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/2371/20380068/2-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/2371/20380068/2-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/2371/20380068/2-9.jpg</url>
 </image>
 </images>
 </property>
 
 <property>
-<id>test-suministros-3K</id>
+<id>test-suministros-3KNBuild</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1290000</price>
@@ -322,17 +352,32 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </features>
 <notes/>
 <images>
-<image id="222086786">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+<image id="1">
+<url>https://fotos15.apinmo.com/2371/20380068/2-1.jpg</url>
 </image>
-<image id="222086787">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+<image id="2">
+<url>https://fotos15.apinmo.com/2371/20380068/2-2.jpg</url>
 </image>
-<image id="222086788">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+<image id="3">
+<url>https://fotos15.apinmo.com/2371/20380068/2-3.jpg</url>
 </image>
-<image id="222086789">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+<image id="4">
+<url>https://fotos15.apinmo.com/2371/20380068/2-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/2371/20380068/2-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/2371/20380068/2-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/2371/20380068/2-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/2371/20380068/2-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/2371/20380068/2-9.jpg</url>
 </image>
 </images>
 </property>
@@ -346,7 +391,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 <price_freq>sale</price_freq>
 <part_ownership>0</part_ownership>
 <leasehold>0</leasehold>
-<new_build>1</new_build>
+<new_build>0</new_build>
 <type>villa</type>
 <location_id>1521</location_id>
 <town>La Nucia</town>
@@ -382,17 +427,32 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </features>
 <notes/>
 <images>
-<image id="222086786">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+<image id="1">
+<url>https://fotos15.apinmo.com/2371/20380068/2-1.jpg</url>
 </image>
-<image id="222086787">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+<image id="2">
+<url>https://fotos15.apinmo.com/2371/20380068/2-2.jpg</url>
 </image>
-<image id="222086788">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+<image id="3">
+<url>https://fotos15.apinmo.com/2371/20380068/2-3.jpg</url>
 </image>
-<image id="222086789">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+<image id="4">
+<url>https://fotos15.apinmo.com/2371/20380068/2-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/2371/20380068/2-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/2371/20380068/2-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/2371/20380068/2-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/2371/20380068/2-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/2371/20380068/2-9.jpg</url>
 </image>
 </images>
 </property>
@@ -406,7 +466,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 <price_freq>sale</price_freq>
 <part_ownership>0</part_ownership>
 <leasehold>0</leasehold>
-<new_build>1</new_build>
+<new_build>0</new_build>
 <type>villa</type>
 <location_id>1521</location_id>
 <town>La Nucia</town>
@@ -442,17 +502,32 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </features>
 <notes/>
 <images>
-<image id="222086786">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+<image id="1">
+<url>https://fotos15.apinmo.com/2371/20380068/2-1.jpg</url>
 </image>
-<image id="222086787">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+<image id="2">
+<url>https://fotos15.apinmo.com/2371/20380068/2-2.jpg</url>
 </image>
-<image id="222086788">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+<image id="3">
+<url>https://fotos15.apinmo.com/2371/20380068/2-3.jpg</url>
 </image>
-<image id="222086789">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+<image id="4">
+<url>https://fotos15.apinmo.com/2371/20380068/2-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/2371/20380068/2-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/2371/20380068/2-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/2371/20380068/2-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/2371/20380068/2-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/2371/20380068/2-9.jpg</url>
 </image>
 </images>
 </property>
@@ -466,7 +541,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 <price_freq>sale</price_freq>
 <part_ownership>0</part_ownership>
 <leasehold>0</leasehold>
-<new_build>1</new_build>
+<new_build>0</new_build>
 <type>villa</type>
 <location_id>1521</location_id>
 <town>La Nucia</town>
@@ -502,17 +577,32 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </features>
 <notes/>
 <images>
-<image id="222086786">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+<image id="1">
+<url>https://fotos15.apinmo.com/2371/20380068/2-1.jpg</url>
 </image>
-<image id="222086787">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+<image id="2">
+<url>https://fotos15.apinmo.com/2371/20380068/2-2.jpg</url>
 </image>
-<image id="222086788">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+<image id="3">
+<url>https://fotos15.apinmo.com/2371/20380068/2-3.jpg</url>
 </image>
-<image id="222086789">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+<image id="4">
+<url>https://fotos15.apinmo.com/2371/20380068/2-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/2371/20380068/2-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/2371/20380068/2-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/2371/20380068/2-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/2371/20380068/2-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/2371/20380068/2-9.jpg</url>
 </image>
 </images>
 </property>
@@ -527,7 +617,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 <price_freq>sale</price_freq>
 <part_ownership>0</part_ownership>
 <leasehold>0</leasehold>
-<new_build>1</new_build>
+<new_build>0</new_build>
 <type>villa</type>
 <location_id>1521</location_id>
 <town>La Nucia</town>
@@ -563,17 +653,32 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </features>
 <notes/>
 <images>
-<image id="222086786">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+<image id="1">
+<url>https://fotos15.apinmo.com/2371/20380068/2-1.jpg</url>
 </image>
-<image id="222086787">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+<image id="2">
+<url>https://fotos15.apinmo.com/2371/20380068/2-2.jpg</url>
 </image>
-<image id="222086788">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+<image id="3">
+<url>https://fotos15.apinmo.com/2371/20380068/2-3.jpg</url>
 </image>
-<image id="222086789">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+<image id="4">
+<url>https://fotos15.apinmo.com/2371/20380068/2-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/2371/20380068/2-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/2371/20380068/2-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/2371/20380068/2-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/2371/20380068/2-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/2371/20380068/2-9.jpg</url>
 </image>
 </images>
 </property>
@@ -587,7 +692,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 <price_freq>sale</price_freq>
 <part_ownership>0</part_ownership>
 <leasehold>0</leasehold>
-<new_build>1</new_build>
+<new_build>0</new_build>
 <type>villa</type>
 <location_id>1521</location_id>
 <town>La Nucia</town>
@@ -623,17 +728,32 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </features>
 <notes/>
 <images>
-<image id="222086786">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+<image id="1">
+<url>https://fotos15.apinmo.com/2371/20380068/2-1.jpg</url>
 </image>
-<image id="222086787">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+<image id="2">
+<url>https://fotos15.apinmo.com/2371/20380068/2-2.jpg</url>
 </image>
-<image id="222086788">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+<image id="3">
+<url>https://fotos15.apinmo.com/2371/20380068/2-3.jpg</url>
 </image>
-<image id="222086789">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+<image id="4">
+<url>https://fotos15.apinmo.com/2371/20380068/2-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/2371/20380068/2-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/2371/20380068/2-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/2371/20380068/2-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/2371/20380068/2-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/2371/20380068/2-9.jpg</url>
 </image>
 </images>
 </property>
@@ -647,7 +767,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 <price_freq>sale</price_freq>
 <part_ownership>0</part_ownership>
 <leasehold>0</leasehold>
-<new_build>1</new_build>
+<new_build>0</new_build>
 <type>villa</type>
 <location_id>1521</location_id>
 <town>La Nucia</town>
@@ -683,17 +803,32 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </features>
 <notes/>
 <images>
-<image id="222086786">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+<image id="1">
+<url>https://fotos15.apinmo.com/2371/20380068/2-1.jpg</url>
 </image>
-<image id="222086787">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+<image id="2">
+<url>https://fotos15.apinmo.com/2371/20380068/2-2.jpg</url>
 </image>
-<image id="222086788">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+<image id="3">
+<url>https://fotos15.apinmo.com/2371/20380068/2-3.jpg</url>
 </image>
-<image id="222086789">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+<image id="4">
+<url>https://fotos15.apinmo.com/2371/20380068/2-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/2371/20380068/2-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/2371/20380068/2-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/2371/20380068/2-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/2371/20380068/2-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/2371/20380068/2-9.jpg</url>
 </image>
 </images>
 </property>
@@ -707,7 +842,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 <price_freq>sale</price_freq>
 <part_ownership>0</part_ownership>
 <leasehold>0</leasehold>
-<new_build>1</new_build>
+<new_build>0</new_build>
 <type>villa</type>
 <location_id>1521</location_id>
 <town>La Nucia</town>
@@ -743,17 +878,32 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </features>
 <notes/>
 <images>
-<image id="222086786">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+<image id="1">
+<url>https://fotos15.apinmo.com/2371/20380068/2-1.jpg</url>
 </image>
-<image id="222086787">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+<image id="2">
+<url>https://fotos15.apinmo.com/2371/20380068/2-2.jpg</url>
 </image>
-<image id="222086788">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+<image id="3">
+<url>https://fotos15.apinmo.com/2371/20380068/2-3.jpg</url>
 </image>
-<image id="222086789">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+<image id="4">
+<url>https://fotos15.apinmo.com/2371/20380068/2-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/2371/20380068/2-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/2371/20380068/2-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/2371/20380068/2-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/2371/20380068/2-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/2371/20380068/2-9.jpg</url>
 </image>
 </images>
 </property>
@@ -803,17 +953,32 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </features>
 <notes/>
 <images>
-<image id="222086786">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+<image id="1">
+<url>https://fotos15.apinmo.com/2371/20380068/2-1.jpg</url>
 </image>
-<image id="222086787">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+<image id="2">
+<url>https://fotos15.apinmo.com/2371/20380068/2-2.jpg</url>
 </image>
-<image id="222086788">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+<image id="3">
+<url>https://fotos15.apinmo.com/2371/20380068/2-3.jpg</url>
 </image>
-<image id="222086789">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+<image id="4">
+<url>https://fotos15.apinmo.com/2371/20380068/2-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/2371/20380068/2-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/2371/20380068/2-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/2371/20380068/2-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/2371/20380068/2-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/2371/20380068/2-9.jpg</url>
 </image>
 </images>
 </property>
@@ -864,17 +1029,32 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </features>
 <notes/>
 <images>
-<image id="222086786">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+<image id="1">
+<url>https://fotos15.apinmo.com/2371/20380068/2-1.jpg</url>
 </image>
-<image id="222086787">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+<image id="2">
+<url>https://fotos15.apinmo.com/2371/20380068/2-2.jpg</url>
 </image>
-<image id="222086788">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+<image id="3">
+<url>https://fotos15.apinmo.com/2371/20380068/2-3.jpg</url>
 </image>
-<image id="222086789">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+<image id="4">
+<url>https://fotos15.apinmo.com/2371/20380068/2-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/2371/20380068/2-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/2371/20380068/2-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/2371/20380068/2-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/2371/20380068/2-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/2371/20380068/2-9.jpg</url>
 </image>
 </images>
 </property>
@@ -883,9 +1063,9 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 <id>test-suministros-20K</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
-<price>1200</price>
+<price>120000</price>
 <currency>EUR</currency>
-<price_freq>rent</price_freq>
+<price_freq>sale</price_freq>
 <part_ownership>0</part_ownership>
 <leasehold>0</leasehold>
 <new_build>0</new_build>
@@ -924,17 +1104,32 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </features>
 <notes/>
 <images>
-<image id="222086786">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+<image id="1">
+<url>https://fotos15.apinmo.com/2371/20380068/2-1.jpg</url>
 </image>
-<image id="222086787">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+<image id="2">
+<url>https://fotos15.apinmo.com/2371/20380068/2-2.jpg</url>
 </image>
-<image id="222086788">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+<image id="3">
+<url>https://fotos15.apinmo.com/2371/20380068/2-3.jpg</url>
 </image>
-<image id="222086789">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+<image id="4">
+<url>https://fotos15.apinmo.com/2371/20380068/2-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/2371/20380068/2-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/2371/20380068/2-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/2371/20380068/2-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/2371/20380068/2-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/2371/20380068/2-9.jpg</url>
 </image>
 </images>
 </property>
@@ -943,9 +1138,9 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 <id>test-disponibilidad-3K</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
-<price>1200</price>
+<price>120000</price>
 <currency>EUR</currency>
-<price_freq>rent</price_freq>
+<price_freq>sale</price_freq>
 <part_ownership>0</part_ownership>
 <leasehold>0</leasehold>
 <new_build>0</new_build>
@@ -984,17 +1179,32 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </features>
 <notes/>
 <images>
-<image id="222086786">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+<image id="1">
+<url>https://fotos15.apinmo.com/2371/20380068/2-1.jpg</url>
 </image>
-<image id="222086787">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+<image id="2">
+<url>https://fotos15.apinmo.com/2371/20380068/2-2.jpg</url>
 </image>
-<image id="222086788">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+<image id="3">
+<url>https://fotos15.apinmo.com/2371/20380068/2-3.jpg</url>
 </image>
-<image id="222086789">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+<image id="4">
+<url>https://fotos15.apinmo.com/2371/20380068/2-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/2371/20380068/2-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/2371/20380068/2-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/2371/20380068/2-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/2371/20380068/2-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/2371/20380068/2-9.jpg</url>
 </image>
 </images>
 </property>
@@ -1004,9 +1214,9 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 <id>test-disponibilidad-4K</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
-<price>1200</price>
+<price>120000</price>
 <currency>EUR</currency>
-<price_freq>rent</price_freq>
+<price_freq>sale</price_freq>
 <part_ownership>0</part_ownership>
 <leasehold>0</leasehold>
 <new_build>0</new_build>
@@ -1045,17 +1255,32 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </features>
 <notes/>
 <images>
-<image id="222086786">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+<image id="1">
+<url>https://fotos15.apinmo.com/2371/20380068/2-1.jpg</url>
 </image>
-<image id="222086787">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+<image id="2">
+<url>https://fotos15.apinmo.com/2371/20380068/2-2.jpg</url>
 </image>
-<image id="222086788">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+<image id="3">
+<url>https://fotos15.apinmo.com/2371/20380068/2-3.jpg</url>
 </image>
-<image id="222086789">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+<image id="4">
+<url>https://fotos15.apinmo.com/2371/20380068/2-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/2371/20380068/2-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/2371/20380068/2-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/2371/20380068/2-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/2371/20380068/2-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/2371/20380068/2-9.jpg</url>
 </image>
 </images>
 </property>
@@ -1065,9 +1290,9 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 <id>test-disponibilidad-5K</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
-<price>1200</price>
+<price>100200</price>
 <currency>EUR</currency>
-<price_freq>rent</price_freq>
+<price_freq>sale</price_freq>
 <part_ownership>0</part_ownership>
 <leasehold>0</leasehold>
 <new_build>0</new_build>
@@ -1106,17 +1331,32 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </features>
 <notes/>
 <images>
-<image id="222086786">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+<image id="1">
+<url>https://fotos15.apinmo.com/2371/20380068/2-1.jpg</url>
 </image>
-<image id="222086787">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+<image id="2">
+<url>https://fotos15.apinmo.com/2371/20380068/2-2.jpg</url>
 </image>
-<image id="222086788">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+<image id="3">
+<url>https://fotos15.apinmo.com/2371/20380068/2-3.jpg</url>
 </image>
-<image id="222086789">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+<image id="4">
+<url>https://fotos15.apinmo.com/2371/20380068/2-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/2371/20380068/2-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/2371/20380068/2-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/2371/20380068/2-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/2371/20380068/2-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/2371/20380068/2-9.jpg</url>
 </image>
 </images>
 </property>
@@ -1132,7 +1372,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 <price_freq>sale</price_freq>
 <part_ownership>0</part_ownership>
 <leasehold>0</leasehold>
-<new_build>1</new_build>
+<new_build>0</new_build>
 <type>villa</type>
 <location_id>1521</location_id>
 <town>La Nucia</town>
@@ -1168,17 +1408,32 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </features>
 <notes/>
 <images>
-<image id="222086786">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+<image id="1">
+<url>https://fotos15.apinmo.com/2371/20380068/2-1.jpg</url>
 </image>
-<image id="222086787">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+<image id="2">
+<url>https://fotos15.apinmo.com/2371/20380068/2-2.jpg</url>
 </image>
-<image id="222086788">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+<image id="3">
+<url>https://fotos15.apinmo.com/2371/20380068/2-3.jpg</url>
 </image>
-<image id="222086789">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+<image id="4">
+<url>https://fotos15.apinmo.com/2371/20380068/2-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/2371/20380068/2-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/2371/20380068/2-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/2371/20380068/2-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/2371/20380068/2-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/2371/20380068/2-9.jpg</url>
 </image>
 </images>
 </property>
@@ -1193,7 +1448,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 <price_freq>sale</price_freq>
 <part_ownership>0</part_ownership>
 <leasehold>0</leasehold>
-<new_build>1</new_build>
+<new_build>0</new_build>
 <type>villa</type>
 <location_id>1521</location_id>
 <town>La Nucia</town>
@@ -1229,17 +1484,32 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </features>
 <notes/>
 <images>
-<image id="222086786">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086786_original.jpg?checksum=47a49a9c0909235f9cc036ddec4e34a6438439da</url>
+<image id="1">
+<url>https://fotos15.apinmo.com/2371/20380068/2-1.jpg</url>
 </image>
-<image id="222086787">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086787_original.jpg?checksum=6e5d89dac983cf786ae2898a3c512f8307d03ef1</url>
+<image id="2">
+<url>https://fotos15.apinmo.com/2371/20380068/2-2.jpg</url>
 </image>
-<image id="222086788">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086788_original.jpg?checksum=0aa92326feddd51c62ad1fce587350f2fdf08db6</url>
+<image id="3">
+<url>https://fotos15.apinmo.com/2371/20380068/2-3.jpg</url>
 </image>
-<image id="222086789">
-<url>https://production-kyero-property-images.s3.amazonaws.com/12110/12110075/222086789_original.jpg?checksum=06ffd3387a497fadf73e372b77bc6ac407c2a8d3</url>
+<image id="4">
+<url>https://fotos15.apinmo.com/2371/20380068/2-4.jpg</url>
+</image>
+<image id="5">
+<url>https://fotos15.apinmo.com/2371/20380068/2-5.jpg</url>
+</image>
+<image id="6">
+<url>https://fotos15.apinmo.com/2371/20380068/2-6.jpg</url>
+</image>
+<image id="7">
+<url>https://fotos15.apinmo.com/2371/20380068/2-7.jpg</url>
+</image>
+<image id="8">
+<url>https://fotos15.apinmo.com/2371/20380068/2-8.jpg</url>
+</image>
+<image id="9">
+<url>https://fotos15.apinmo.com/2371/20380068/2-9.jpg</url>
 </image>
 </images>
 </property>

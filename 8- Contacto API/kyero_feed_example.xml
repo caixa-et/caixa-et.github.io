@@ -158,7 +158,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </property>
 
 <property>
-<id>test-suministros-1</id>
+<id>test-suministros-1K</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1290000</price>
@@ -218,7 +218,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </property>
 
 <property>
-<id>test-suministros-2</id>
+<id>test-suministros-2K</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1290000</price>
@@ -278,7 +278,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </property>
 
 <property>
-<id>test-suministros-3</id>
+<id>test-suministros-3K</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1290000</price>
@@ -338,7 +338,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </property>
 
 <property>
-<id>test-suministros-4</id>
+<id>test-suministros-4K</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1290000</price>
@@ -398,7 +398,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </property>
 
 <property>
-<id>test-suministros-5</id>
+<id>test-suministros-5K</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1290000</price>
@@ -458,7 +458,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </property>
 
 <property>
-<id>test-suministros-6</id>
+<id>test-suministros-6K</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1290000</price>
@@ -519,7 +519,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 
 
 <property>
-<id>test-suministros-7</id>
+<id>test-suministros-7K</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1290000</price>
@@ -579,7 +579,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </property>
 
 <property>
-<id>test-suministros-8</id>
+<id>test-suministros-8K</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1290000</price>
@@ -639,7 +639,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </property>
 
 <property>
-<id>test-suministros-9</id>
+<id>test-suministros-9K</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1290000</price>
@@ -699,7 +699,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </property>
 
 <property>
-<id>test-suministros-10</id>
+<id>test-suministros-10K</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1290000</price>
@@ -759,7 +759,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </property>
 
 <property>
-<id>test-disponibilidad-1</id>
+<id>test-disponibilidad-1K</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1200</price>
@@ -820,7 +820,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 
 
 <property>
-<id>test-disponibilidad-2</id>
+<id>test-disponibilidad-2K</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1200</price>
@@ -880,7 +880,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </property>
 
 <property>
-<id>test-suministros-20</id>
+<id>test-suministros-20K</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1200</price>
@@ -940,7 +940,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 </property>
 
 <property>
-<id>test-disponibilidad-3</id>
+<id>test-disponibilidad-3K</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1200</price>
@@ -1001,7 +1001,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 
 
 <property>
-<id>test-disponibilidad-4</id>
+<id>test-disponibilidad-4K</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1200</price>
@@ -1062,7 +1062,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 
 
 <property>
-<id>test-disponibilidad-5</id>
+<id>test-disponibilidad-5K</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>1200</price>
@@ -1124,7 +1124,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 
 
 <property>
-<id>test-disponibilidad-6</id>
+<id>test-disponibilidad-6K</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>120000</price>
@@ -1185,7 +1185,7 @@ Información al consumidor: Informamos a nuestros clientes que el precio de vent
 
 
 <property>
-<id>test-disponibilidad-7</id>
+<id>test-disponibilidad-7K</id>
 <date>2025-08-15 01:03:23</date>
 <ref>VS1003DN</ref>
 <price>120000</price>

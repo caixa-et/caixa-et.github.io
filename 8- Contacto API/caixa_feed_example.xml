@@ -1662,7 +1662,7 @@
         <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>63000</list_selling_price_amount>
         <list_rental_price_amount/>
-        <construction_stage/>
+        <construction_stage>new_build</construction_stage>
         <bedrooms>3</bedrooms>
         <bathrooms>1</bathrooms>
         <wc_bathrooms>0</wc_bathrooms>

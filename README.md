@@ -14,7 +14,8 @@
 * [Caixa XML Feed](/1-%20Tech/caixa_feed_example.xml)
 
 ### Trazabilidad
-* [Trazabilidad Caixa XML Feed](/1-%20Tech/Trazabilidad/kyero_feed_example.xml)
+* [Aliseda Caixa XML Feed](/1-%20Tech/Trazabilidad/aliseda_example.xml)
+* [Century 21 Caixa XML Feed](/1-%20Tech/Trazabilidad/century21_example.xml)
 
 ## Product Team
 * [Kyero Feed](/2-%20Product/kyero_feed_example.xml)

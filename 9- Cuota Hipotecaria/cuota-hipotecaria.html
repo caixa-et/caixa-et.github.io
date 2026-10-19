@@ -1,0 +1,1599 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Flujo cuota hipotecaria · Casa</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@300;400;500;600;700&family=Roboto:wght@300;400;500;600;700&family=Roboto+Mono:wght@400&display=swap" rel="stylesheet">
+<style>
+/* =====================================================================
+   FLUJO CUOTA HIPOTECARIA — 565:70208
+   1 Usuario llega a catálogo
+   2 Usuario activa filtrar por cuota
+   3 Establece rango y cambia plazo (se recarga el catálogo)
+   4 Usuario accede a ficha de inmueble
+   5 Usuario cambia el interés (al volver atrás se mantiene la config.)
+   6 Usuario abre «Cómo se calcula» · ✕ cierra · los «i» son toggle tips
+   ===================================================================== */
+:root{
+  --verdinegro:#003c46;
+  --brand-40:#e5e7ff;
+  --accent:#bdc3ff;        /* casa/color/bg/accent-default — lila del tag NEW! */
+  --rojo-10:#fbebef;       /* Rojo/10 — fondo del corazón */
+  --rojo-100:#ca0035;      /* Rojo/100 — trazo y relleno del corazón */
+  --neutros-25:#f6f5f3;
+  --pagina:#fafaf9;
+  --neutral-35:#edece7;
+  --divider:#cccccc;
+  --gris-66:#666666;
+  --gris-33:#333333;
+  --gris-72:#727272;
+  --tinta:#000000;
+  --tinta-cuota:#1a1a1a;
+  --fin:#f1f1ed;
+  --modal-bloque:#f4f4f5;
+  --modal-div:#e0e0e0;
+  --modal-div2:#d6d6d6;
+  --seg-1:#d9d9d9;
+  --seg-2:#8c8c8c;
+  --seg-3:#1a1a1a;
+  /* Modal «Así se calcula tu cuota» · 586:105202 */
+  --lila-bloque:#f2f3ff;   /* fondo del bloque de cuota */
+  --vn-20:#cfdde0;         /* verdinegro 20 % — entrada */
+  --vn-45:#93adb3;         /* verdinegro 45 % — gastos  */
+  --hl:"RB Faktum Neue","Figtree",-apple-system,BlinkMacSystemFont,sans-serif;
+  --body:"Roboto",-apple-system,BlinkMacSystemFont,sans-serif;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{font-family:var(--body);color:var(--tinta);background:var(--pagina);-webkit-font-smoothing:antialiased}
+h1,h2,h3,h4{margin:0;font-weight:400}
+p,ul{margin:0;padding:0}
+ul{list-style:none}
+button{font:inherit;color:inherit;background:none;border:none;padding:0;cursor:pointer}
+a{color:inherit;text-decoration:none}
+:focus-visible{outline:3px solid var(--verdinegro);outline-offset:2px;border-radius:4px}
+.sr{position:absolute;width:1px;height:1px;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.skip{position:absolute;left:8px;top:-60px;background:var(--verdinegro);color:#fff;padding:10px 16px;border-radius:8px;z-index:400}
+.skip:focus{top:8px}
+.marco{width:1440px;margin:0 auto}
+[hidden]{display:none !important}
+
+/* ============ NAV ============ */
+.nav{height:71px;background:#fff;display:flex;align-items:center;padding:0 80px;gap:32px}
+/* placeholder del logo: el real es un vector del DS, aquí va marcado como pendiente */
+.nav .logo{width:112px;height:28px;border-radius:4px;background:rgba(0,60,70,.10);
+  border:1px dashed rgba(0,60,70,.35);display:grid;place-items:center;
+  font-family:var(--body);font-weight:500;font-size:10px;letter-spacing:.08em;
+  text-transform:uppercase;color:rgba(0,60,70,.65)}
+.nav nav{display:flex;gap:28px;margin-left:auto}
+.nav nav a{font-family:var(--hl);font-weight:500;font-size:14px;color:var(--verdinegro);white-space:nowrap}
+.nav .sesion{font-family:var(--hl);font-weight:600;font-size:16px;color:var(--verdinegro);white-space:nowrap}
+
+/* ============ BREADCRUMBS ============ */
+.crumbs{height:81px;padding:24px 80px;display:flex;align-items:center;gap:8px}
+.crumbs a,.crumbs button{font-family:var(--body);font-weight:400;font-size:14px;color:var(--tinta)}
+.crumbs .sep{font-size:14px}
+.crumbs .actual{font-family:var(--body);font-weight:600;font-size:14px;color:var(--verdinegro);text-decoration:underline}
+
+/* ============ TÍTULO ============ */
+.titulo{height:102px;padding:32px 80px 0}
+.titulo h1{font-family:var(--hl);font-weight:400;font-size:32px;line-height:38px;color:var(--verdinegro)}
+
+/* ============ LAYOUT PLP ============ */
+.maqueta{display:flex;gap:24px;padding:0 80px;align-items:flex-start}
+.col-filtros{width:302px;flex:0 0 302px}
+.col-contenido{width:954px;flex:0 0 954px;padding-bottom:48px}
+
+.guardar{width:302px;height:56px;border-radius:8px 8px 0 0;background:var(--verdinegro);
+  display:flex;align-items:center;justify-content:center;gap:8px;padding:16px 24px;
+  font-family:var(--hl);font-weight:600;font-size:16px;line-height:16px;color:#fff}
+
+/* el panel va en blanco y cierra con 8 abajo, bajo el botón de Guardar búsqueda */
+.filtros{background:#fff;border-radius:0 0 8px 8px;padding:12px 0 24px}
+.cab{width:100%;padding:0 24px;display:flex;flex-direction:column;gap:4px;text-align:left;margin:24px 0 16px}
+.cab .t{font-family:var(--hl);font-weight:500;font-size:18px;color:var(--verdinegro);
+  display:flex;align-items:center;justify-content:space-between;gap:12px}
+.cab .t .chev{font-size:12px;transition:transform .18s}
+.cab[aria-expanded="false"] .chev{transform:rotate(-90deg)}
+.cab .v{font-family:var(--body);font-weight:300;font-size:14px;color:var(--gris-66)}
+.cuerpo{padding:0 24px}
+.div-f{height:1px;background:var(--divider);margin:16px 0}
+
+.seg{display:flex;padding:0 24px}
+.seg label{flex:0 0 127.5px}
+.seg input{position:absolute;opacity:0;width:0;height:0}
+/* el pill es SOLO el span hijo directo del label; el tag NEW! queda fuera de esta regla */
+.seg > label > span{display:flex;align-items:center;justify-content:center;gap:6px;height:40px;padding:8px 12px;
+  background:#fff;border:1px solid var(--verdinegro);color:var(--verdinegro);
+  font-family:var(--body);font-weight:500;font-size:14px;line-height:1;white-space:nowrap}
+.seg > label:first-child > span{border-radius:7.3px 0 0 7.3px}
+.seg > label:last-child > span{border-radius:0 7.3px 7.3px 0;border-left:none}
+.seg input:checked + span{background:var(--verdinegro);color:#fff}
+.seg input:focus-visible + span{outline:3px solid var(--verdinegro);outline-offset:2px;position:relative;z-index:2}
+/* MASTER_Tag «NEW!» — lila, sobre fondo claro y sobre el pill activo */
+.seg .nuevo{display:inline-flex;align-items:center;height:18px;padding:0 7px;border-radius:100px;
+  background:var(--accent);color:var(--verdinegro);border:none;
+  font-family:var(--body);font-weight:700;font-size:10px;line-height:1;letter-spacing:.03em}
+
+.par{display:flex;gap:16px;padding:16px 24px 0}
+.campo-dd{width:119px}
+.campo-dd label{display:block;font-family:var(--body);font-weight:400;font-size:12px;color:var(--tinta);margin-bottom:6px}
+.campo-dd select{width:119px;height:42px;border:1px solid var(--divider);border-radius:7.3px;padding:0 10px;
+  font-family:var(--body);font-weight:300;font-size:14px;color:var(--gris-66);background:#fff}
+.campo-dd select.puesto{font-weight:400;color:var(--tinta)}
+.campo-in{width:123px}
+.campo-in label{display:block;font-family:var(--body);font-weight:400;font-size:14px;color:var(--gris-33);margin-bottom:6px}
+.campo-in input{width:123px;height:46px;border:1px solid var(--divider);border-radius:7.3px;padding:0 12px;
+  font-family:var(--body);font-weight:400;font-size:16px;color:var(--tinta);background:#fff}
+.campo-in input::placeholder{color:var(--tinta);opacity:1}
+
+/* sub-bloque TIN / Plazo dentro del filtro de cuota */
+.sub{padding:16px 24px 0}
+.sub .et{font-family:var(--hl);font-weight:500;font-size:14px;color:var(--verdinegro);display:block;margin-bottom:8px}
+.nota-cuota{margin:16px 24px 0;background:#f1f1f1;border-radius:7.3px;padding:10px 12px;
+  font-family:var(--body);font-weight:400;font-size:11.5px;line-height:16px;color:var(--gris-33)}
+.nota-cuota button{text-decoration:underline;font:inherit;color:var(--verdinegro);font-weight:500}
+
+.grupo-t{font-family:var(--body);font-weight:700;font-size:14px;color:var(--tinta);margin:0 0 12px}
+.op{display:flex;align-items:center;gap:12px;min-height:32px;margin-bottom:12px;cursor:pointer;
+  font-family:var(--body);font-weight:400;font-size:14px;color:var(--tinta)}
+.op input{appearance:none;-webkit-appearance:none;width:24px;height:24px;flex:0 0 24px;margin:0;
+  border:1px solid var(--verdinegro);border-radius:4px;background:#fff;position:relative;cursor:pointer}
+.op input:checked{background:var(--verdinegro)}
+.op input:checked::after{content:"";position:absolute;left:7px;top:3px;width:7px;height:12px;
+  border:2px solid #fff;border-top:none;border-left:none;transform:rotate(42deg)}
+
+/* los segmentos reparten a partes iguales el ancho del contenedor */
+.pills{display:flex;width:100%}
+.pills label{flex:1 1 0;min-width:0}
+.pills input{position:absolute;opacity:0;width:0;height:0}
+.pills span{display:flex;align-items:center;justify-content:center;width:100%;height:32px;padding:8px 6px;
+  background:#fff;border:1px solid var(--verdinegro);color:var(--verdinegro);
+  font-family:var(--body);font-weight:500;font-size:14px;white-space:nowrap}
+.pills label:first-child span{border-radius:7.3px 0 0 7.3px}
+.pills label:last-child span{border-radius:0 7.3px 7.3px 0}
+.pills label+label span{border-left:none}
+.pills input:checked+span{background:var(--verdinegro);color:#fff}
+.pills input:focus-visible+span{outline:3px solid var(--verdinegro);outline-offset:2px;position:relative;z-index:2}
+
+/* ============ CONTENIDO PLP ============ */
+.tabs{height:40px;display:flex;gap:32px;align-items:center;border-bottom:1px solid var(--neutral-35)}
+.tabs button{height:40px;position:relative;font-family:var(--hl);font-weight:500;font-size:16px;color:var(--gris-66)}
+.tabs button[aria-selected="true"]{color:var(--verdinegro)}
+.tabs button[aria-selected="true"]::after{content:"";position:absolute;left:0;right:0;bottom:-1px;height:2px;background:var(--verdinegro)}
+.menu{height:44px;margin-top:40px;display:flex;align-items:center}
+.menu .et{font-family:var(--body);font-weight:400;font-size:16px;line-height:130%;color:var(--gris-33);margin-right:10px}
+.menu select{width:320px;height:44px;border:1px solid var(--divider);border-radius:8px;padding:0 12px;
+  font-family:var(--body);font-weight:400;font-size:16px;color:var(--tinta);background:#fff}
+.vistas{margin-left:auto;display:flex}
+.vistas input{position:absolute;opacity:0;width:0;height:0}
+.vistas span.b{display:flex;align-items:center;justify-content:center;width:48px;height:40px;padding:8px 12px;
+  background:#fff;border:1px solid var(--verdinegro);color:var(--verdinegro);font-size:15px}
+.vistas label:first-child span.b{border-radius:8px 0 0 8px}
+.vistas label:last-child span.b{border-radius:0 8px 8px 0}
+.vistas label+label span.b{border-left:none}
+.vistas input:checked+span.b{background:var(--verdinegro);color:#fff}
+
+/* ============ CARD ============ */
+.catalogo{margin-top:40px;display:flex;flex-direction:column;gap:24px}
+/* casos límite (509:222658) */
+/* Card sin módulo de cuota (sin precio, alquiler o fuera del rango del simulador) */
+.card.sin-cuota,
+.card.sin-cuota .foto,
+.card.sin-cuota .detalle{height:293px}
+.card.sin-cuota .interior{height:237px}
+.vacio{padding:48px 0;font-family:var(--body);font-size:16px;color:var(--gris-33)}
+/* la card entera es clicable y lleva a la ficha */
+.card{width:953px;height:325px;background:#fff;border-radius:16px;display:flex;align-items:flex-end;
+  cursor:pointer;transition:box-shadow .18s}
+.card:hover{box-shadow:0 4px 20px rgba(0,60,70,.14)}
+.card:focus-within{box-shadow:0 4px 20px rgba(0,60,70,.14)}
+.card:hover .cab-card h3 button{text-decoration:underline}
+/* lo que NO navega vuelve al cursor normal */
+.card .flechas button,.card .btn-contactar,.card .fav,.card .enlace-sim,.card .tip-btn{cursor:pointer}
+.card .foto{width:487px;height:325px;flex:0 0 487px;border-radius:16px;position:relative;background:rgba(0,0,0,.20)}
+.card .foto .flechas{position:absolute;left:24px;right:24px;top:166.5px;display:flex;justify-content:space-between}
+.card .foto .flechas button{width:24px;height:24px;border-radius:50%;background:rgba(255,255,255,.92);
+  display:grid;place-items:center;font-size:12px;color:var(--tinta)}
+.card .detalle{width:466px;height:325px;flex:0 0 466px;padding:32px 24px 24px}
+.card .interior{width:418px;height:269px;display:flex;flex-direction:column}
+.cab-card{min-height:62px;display:flex}
+.cab-card .tp{width:283px}
+.cab-card h3{font-family:var(--hl);font-weight:400;font-size:18px;line-height:22px;color:var(--tinta);text-align:left}
+.cab-card h3 button{font:inherit;color:inherit;text-align:left}
+.cab-card h3 button:hover{text-decoration:underline}
+.cab-card .precio{font-family:var(--hl);font-weight:600;font-size:24px;line-height:29px;color:var(--verdinegro);margin-top:9px}
+.cab-card .logo{margin-left:23px;width:112px;height:22px;border-radius:4px;background:var(--neutros-25);
+  display:grid;place-items:center;font-family:var(--hl);font-weight:600;font-size:11px;color:var(--verdinegro)}
+.mod-cuota{margin-top:4px;height:96px}
+.fila-cuota{height:24px;display:flex;align-items:center}
+.fila-cuota .et{font-family:var(--body);font-weight:400;font-size:12px;line-height:16px;color:var(--tinta-cuota)}
+.chip{margin-left:8px;height:24px;display:inline-flex;align-items:center;padding:2px 8px;border-radius:57px;
+  background:var(--brand-40);font-family:var(--body);font-weight:500;font-size:15px;line-height:20px;
+  color:var(--tinta-cuota);white-space:nowrap}
+.supuestos{margin-top:8px;width:418px;height:32px;
+  font-family:var(--body);font-weight:400;font-size:11.5px;line-height:16px;color:var(--gris-33)}
+.supuestos .gris{color:var(--gris-72)}
+.enlace-sim{margin-top:8px;display:inline-flex;align-items:center;height:24px;
+  font-family:var(--body);font-weight:700;font-size:12px;line-height:16px;color:var(--verdinegro);text-decoration:underline}
+.tags{margin-top:12px;height:24px;display:flex;gap:8px}
+.tag{display:inline-flex;align-items:center;gap:4px;height:24px;padding:4px 8px;border-radius:16px;
+  background:var(--neutros-25);font-family:var(--body);font-weight:500;font-size:14px;color:var(--tinta);white-space:nowrap}
+.acciones{margin-top:auto;height:51px;display:flex;align-items:center}
+.btn-contactar{width:212px;height:51px;border-radius:100px;background:var(--verdinegro);
+  font-family:var(--hl);font-weight:600;font-size:16px;color:#fff}
+/* Favoritos (459:117794): círculo 32 en Rojo/10 con el heart de 18 en Rojo/100 */
+.fav{margin-left:auto;width:32px;height:32px;border-radius:50%;background:var(--rojo-10);
+  display:grid;place-items:center;color:var(--rojo-100)}
+.fav svg{width:18px;height:18px;display:block}
+.fav .relleno{display:none}
+.fav[aria-pressed="true"] .contorno{display:none}
+.fav[aria-pressed="true"] .relleno{display:block}
+
+.paginador{margin-top:40px;height:33px;display:flex;align-items:center}
+.pags{display:flex;gap:8px;align-items:center}
+.pags button,.pags span{font-family:var(--hl);font-weight:300;font-size:16px;line-height:18px;color:var(--tinta)}
+.pags button[aria-current="page"]{font-weight:600;color:var(--verdinegro)}
+.resultados{margin-left:auto;font-family:var(--body);font-weight:400;font-size:16px;line-height:130%;color:var(--tinta)}
+
+/* ============ TOGGLE-TIP (botón, diana 24×24) ============ */
+.tip-wrap{position:relative;display:inline-flex}
+.tip-btn,.ico-btn,.ico-card{width:24px;height:24px;display:grid;place-items:center;border-radius:50%}
+.tip-btn i,.ico-btn i,.ico-card i{display:grid;place-items:center;width:16px;height:16px;border-radius:50%;
+  border:1px solid currentColor;font-style:normal;font-family:var(--body);font-weight:500;font-size:9px;line-height:1}
+.tip{position:absolute;z-index:60;left:-8px;top:30px;width:280px;max-width:calc(100vw - 32px);
+  background:#fff;border-radius:10px;padding:13px 15px 15px;
+  box-shadow:0 6px 24px rgba(0,60,70,.18);border:1px solid var(--neutral-35)}
+.tip h4{font-family:var(--body);font-weight:700;font-size:12.5px;color:var(--verdinegro);margin:0 0 6px}
+.tip p{font-family:var(--body);font-weight:400;font-size:12px;line-height:17px;color:var(--gris-33)}
+/* el toggle-tip se cierra con la propia ⓘ, con Escape o pulsando fuera */
+
+/* ============ PDP ============ */
+.pdp .galeria{max-width:1440px;margin:0 auto;padding:0 80px;display:grid;grid-template-columns:791fr 465fr;gap:24px}
+.pdp .gal-main{height:542px;border-radius:24px;background:rgba(0,0,0,.14);position:relative}
+.pdp .gal-lado{display:grid;grid-template-rows:259px 259px;gap:24px}
+.pdp .gal-lado div{border-radius:16px;background:rgba(0,0,0,.14);position:relative}
+.pdp .ver-todas{position:absolute;right:24px;bottom:24px;width:126px;height:40px;border-radius:100px;background:#fff;
+  font-family:var(--hl);font-weight:600;font-size:14px;color:var(--verdinegro);box-shadow:0 2px 8px rgba(0,0,0,.16)}
+.pdp .wrap{max-width:1440px;margin:0 auto;padding:24px 80px 48px;display:grid;grid-template-columns:791fr 465fr;gap:24px;align-items:start}
+.pdp .columna{display:flex;flex-direction:column;gap:32px;min-width:0}   /* Summary Container · gap 32 */
+.pdp .rail{position:sticky;top:24px;display:flex;flex-direction:column;gap:24px}
+.pdp .tarjeta{background:#fff;border-radius:24px;padding:24px;display:flex;flex-direction:column;gap:24px}
+.pdp .tarjeta h2{font-family:var(--hl);font-weight:600;font-size:24px;color:var(--verdinegro)}
+.pdp .tit-fila{display:flex;align-items:flex-start;justify-content:space-between;gap:12px}
+.pdp .tit-fila h1{font-family:var(--hl);font-weight:400;font-size:38px;line-height:46px;color:var(--verdinegro)}
+.pdp .acc-tit{display:flex;gap:8px}
+.pdp .acc-tit button{width:32px;height:32px;border-radius:50%;background:var(--neutros-25);display:grid;place-items:center;color:var(--verdinegro)}
+.pdp .et-precio{font-family:var(--body);font-size:12px;color:var(--gris-33)}
+.pdp .precio-g{font-family:var(--hl);font-weight:600;font-size:38px;line-height:46px;color:var(--verdinegro);margin-top:4px}
+.pdp .lista{font-family:var(--body);font-size:16px;line-height:24px;color:var(--tinta)}
+.pdp .divisor{height:1px;background:var(--divider);border:0;margin:0}
+.pdp .btn-fantasma{display:inline-flex;align-items:center;justify-content:center;height:40px;padding:0 20px;
+  border:2px solid var(--verdinegro);border-radius:100px;background:#fff;color:var(--verdinegro);
+  font-family:var(--hl);font-weight:600;font-size:16px}
+/* CASA_Action Card · cada una con su color e icono (565:67345 y 565:67358) */
+.pdp .accion{border-radius:24px;padding:32px 24px;display:flex;align-items:center;gap:24px}
+.pdp .accion.simulador{background:#f2f3ff}
+.pdp .accion.facilitea{background:#f1f1ed}
+.pdp .accion .ico{flex:0 0 80px;width:80px;height:80px;border-radius:40px;display:grid;place-items:center;
+  font-size:30px;color:var(--verdinegro)}
+.pdp .accion.simulador .ico{background:#bdc3ff}
+.pdp .accion.facilitea .ico{background:#ffd072}
+.pdp .accion .texto{flex:1;min-width:0}
+.pdp .accion h3{font-family:var(--hl);font-weight:600;font-size:24px;line-height:29px;color:var(--verdinegro);margin-bottom:12px}
+.pdp .accion p{font-family:var(--body);font-size:16px;line-height:21px;color:var(--gris-33)}
+.pdp .accion .ir{flex:0 0 32px;width:32px;height:32px;border-radius:50%;background:#fff;
+  display:grid;place-items:center;font-size:15px;color:var(--verdinegro)}
+.pdp .mapa{height:332px;background:rgba(0,0,0,.14);position:relative}
+.pdp .form{background:#fff;border-radius:24px;padding:24px;display:flex;flex-direction:column;gap:16px}
+.pdp .form h2{font-family:var(--hl);font-weight:600;font-size:24px;color:var(--verdinegro)}
+.pdp .campo label{display:block;font-family:var(--body);font-size:12px;color:var(--gris-66);margin-bottom:4px}
+.pdp .campo input,.pdp .campo select{width:100%;height:48px;border:1px solid var(--divider);border-radius:8px;
+  padding:0 12px;font-family:var(--body);font-size:14px;background:#fff;color:var(--tinta)}
+.pdp .form .enviar{height:48px;border-radius:100px;background:var(--verdinegro);color:#fff;font-family:var(--hl);font-weight:600;font-size:16px}
+.pdp .form hr{height:1px;background:var(--divider);border:0;margin:0}
+.pdp .form .pie{font-family:var(--body);font-size:14px;color:var(--gris-33)}
+.pdp .acepto{display:flex;gap:10px;align-items:flex-start;font-family:var(--body);font-size:12px;line-height:18px}
+
+/* fin wrap desktop */
+/* Precio y Ubicación: datos a la izquierda, acción a la derecha (491:41286 / 491:41298) */
+.pdp .fila-dato{display:flex;align-items:center;gap:24px}
+.pdp .fila-dato .btn-fantasma{margin-left:auto;flex:0 0 auto}
+.pdp .desglose{display:flex;gap:42px;font-family:var(--body);font-size:16px;line-height:21px;color:var(--tinta)}
+.pdp .desglose .v{font-weight:500}
+
+.fin{background:#f2f3ff;border-radius:10px;padding:24px 28px}
+
+/* ---- certificado energético (PDP) ---- */
+.pdp .ico-e{display:inline-grid;place-items:center;width:24px;height:24px;border-radius:4px;vertical-align:-6px;
+  background:#c0c0c0;color:#fff;font-family:var(--hl);font-weight:700;font-size:12px;margin:0 4px}
+.pdp .escala{border:1px solid var(--divider);border-radius:6px;padding:8px 9px 10px;max-width:298px;margin-top:10px}
+.pdp .escala-cab{display:flex;align-items:flex-end;gap:6px;font-size:6px;line-height:1.2;margin-bottom:6px;color:var(--gris-33)}
+.pdp .escala-cab .t{font-size:7px;letter-spacing:.02em;flex:1}
+.pdp .escala-cab .c,.pdp .escala-cab .e{width:55px;flex:0 0 55px}
+.pdp .banda{display:flex;align-items:center;gap:3px;margin-bottom:4px}
+.pdp .banda .flecha{height:24px;display:flex;align-items:center;padding-left:6px;color:#fff;
+  font-family:var(--hl);font-weight:700;font-size:20px;line-height:1;
+  clip-path:polygon(0 0,calc(100% - 12px) 0,100% 50%,calc(100% - 12px) 100%,0 100%)}
+.pdp .banda .flecha em{font-style:normal;font-size:7px;font-weight:400;margin-left:5px}
+.pdp .banda .hueco{flex:1}
+.pdp .banda .celda{width:55px;flex:0 0 55px;height:24px;background:#ededed;border-radius:3px;
+  display:grid;place-items:center;font-family:var(--body);font-size:12px;color:var(--tinta)}
+.pdp .banda.on .celda{background:var(--divider);font-weight:600}
+.pdp .b-a{background:#1d7b3e;width:74px}.pdp .b-b{background:#3f9c35;width:86px}
+.pdp .b-c{background:#8bbe2a;width:98px;color:#111}.pdp .b-d{background:#f2d500;width:110px;color:#111}
+.pdp .b-e{background:#f0a500;width:123px;color:#111}.pdp .b-f{background:#e0671c;width:135px}
+.pdp .b-g{background:#d0021b;width:148px}   /* Franja financiación en color */
+.fin-cols{display:grid;grid-template-columns:300px 1fr;gap:40px;align-items:start}
+.fin .lab{font-family:var(--body);font-size:13px;color:var(--gris-33);
+  display:flex;align-items:center;gap:4px;min-height:24px}
+.fin .cuota-v{font-family:var(--hl);font-weight:600;font-size:36px;line-height:1;color:#0f2b31;margin-top:8px}
+.fin .cuota-v small{font-size:16px}
+.fin .btn-sim{margin-top:24px;width:300px;height:52px;border-radius:100px;background:var(--verdinegro);color:#fff;
+  display:flex;align-items:center;justify-content:center;gap:10px;font-family:var(--hl);font-weight:600;font-size:14px}
+.fin .controles{display:flex;gap:20px}
+.fin .ctrl{flex:1}
+/* las dos etiquetas miden lo mismo para que TIN y Plazo queden alineados */
+.fin .ctrl .et{font-family:var(--body);font-size:12px;color:#5b7a80;display:flex;align-items:center;gap:4px;
+  min-height:24px;margin-bottom:6px}
+.fin .nota{margin-top:24px;font-family:var(--body);font-size:12px;color:var(--gris-33)}
+.fin .calc{margin-top:8px;font-family:var(--body);font-size:12.5px;color:var(--tinta);text-decoration:underline;display:inline-block}
+.fin .div{height:1px;background:var(--divider);margin:24px 0 20px}
+.fin .disclaimer{font-family:var(--body);font-size:12px;line-height:18px;color:var(--gris-33)}
+
+/* ============ FOOTER ============ */
+footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;flex-direction:column;gap:32px}
+.foot-nav{display:flex;flex-wrap:wrap;gap:12px 32px}
+.foot-nav a{font-family:var(--hl);font-weight:400;font-size:18px;color:#fff}
+.foot-legal{font-family:var(--body);font-size:12px;line-height:1.4;color:var(--divider)}
+.foot-links{display:flex;flex-wrap:wrap;gap:8px 24px}
+.foot-links a{font-family:var(--body);font-size:12px;color:var(--divider)}
+
+/* ============ MODAL · overlay 50 % ============ */
+.overlay{position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:300;display:flex;align-items:center;justify-content:center;padding:16px}
+.modal{width:min(440px,100%);max-height:92vh;overflow-y:auto;background:#fff;border-radius:20px;display:flex;flex-direction:column}
+
+/* ---------- modal «Así cambia tu cuota» (565:69853), responsive ---------- */
+.modal.combis{width:min(440px,100%)}
+.mc-head{padding:22px 20px 16px;display:flex;flex-direction:column;gap:6px}
+.mc-head .fila{display:flex;gap:12px;align-items:flex-start}
+.mc-head h2{flex:1;font-family:var(--hl);font-weight:600;font-size:18px;line-height:26px;color:var(--verdinegro)}
+.mc-head .cerrar{width:24px;height:24px;display:grid;place-items:center;font-family:var(--body);font-size:16px;color:var(--verdinegro)}
+.mc-head .sub1{font-family:var(--body);font-weight:400;font-size:12.5px;color:var(--tinta)}
+.mc-head .sub2{font-family:var(--body);font-weight:400;font-size:11.5px;color:#6b6b6b}
+.mc-cuerpo{overflow-y:auto;padding:20px 32px;display:flex;flex-direction:column;gap:10px;-webkit-overflow-scrolling:touch}
+/* opciones · 565:69789 sin seleccionar y 565:69813 seleccionada */
+.mc-op{display:flex;align-items:center;gap:14px;width:100%;min-height:58px;padding:14px 18px 14px 16px;
+  border-radius:12px;background:#f4f4f5;text-align:left;cursor:pointer}
+.mc-op .datos{display:flex;flex-direction:column;gap:3px}
+.mc-op .ref{font-family:var(--body);font-weight:700;font-size:9px;letter-spacing:.06em;color:var(--gris-33)}
+.mc-op .comb{font-family:var(--body);font-weight:500;font-size:13.5px;color:var(--tinta-cuota)}
+.mc-op .cuota{margin-left:auto;display:flex;align-items:baseline;gap:4px;white-space:nowrap}
+.mc-op .cuota b{font-family:var(--hl);font-weight:600;font-size:16px;color:var(--tinta-cuota)}
+.mc-op .cuota em{font-style:normal;font-family:var(--body);font-weight:400;font-size:12px;color:#6b6b6b}
+.mc-op[aria-current="true"]{background:#f2f3ff;min-height:61px}
+.mc-op[aria-current="true"] .comb,
+.mc-op[aria-current="true"] .cuota b,
+.mc-op[aria-current="true"] .cuota em{color:var(--verdinegro)}
+.mc-op[aria-current="true"] .ref{color:var(--gris-33)}
+.mc-op:focus-visible{outline:3px solid var(--verdinegro);outline-offset:2px}
+/* Separador entre la selección actual y el resto de combinaciones */
+.mc-sep{display:flex;align-items:center;gap:10px;margin:4px 0 2px}
+.mc-sep .linea{flex:1;height:1px;background:var(--neutral-35)}
+.mc-sep .txt{font-family:var(--body);font-weight:500;font-size:11px;color:var(--gris-72);white-space:nowrap}
+.mc-cta{padding:0 20px 25px;display:flex;flex-direction:column;gap:12px;align-items:center;text-align:center}
+.mc-cta h3{font-family:var(--hl);font-weight:400;font-size:14px;line-height:23px;color:var(--tinta-cuota)}
+.mc-cta .btn{width:100%;height:52px;border-radius:100px;background:var(--verdinegro);color:#fff;
+  display:flex;align-items:center;justify-content:center;gap:6px;font-family:var(--hl);font-weight:600;font-size:14px}
+.mc-cta .legal{font-family:var(--body);font-weight:400;font-size:11.5px;line-height:16px;color:var(--gris-66)}
+/* ---------- modal «¿Cómo calculamos esta cuota?» (586:105083) · solo catálogo ---------- */
+.modal.como{width:min(420px,100%)}
+.mk-head{padding:22px 20px 16px;display:flex;gap:12px;align-items:flex-start}
+.mk-head h2{flex:1;font-family:var(--hl);font-weight:600;font-size:18px;line-height:26px;color:var(--verdinegro)}
+.mk-head .cerrar{width:24px;height:24px;display:grid;place-items:center;font-family:var(--body);font-size:16px;color:var(--verdinegro)}
+.mk-cuerpo{padding:18px 20px;display:flex;flex-direction:column;gap:14px}
+.mk-cuerpo p{font-family:var(--body);font-weight:400;font-size:14px;line-height:21px;color:var(--gris-33)}
+.mk-cuerpo p.menor{font-size:13.5px;line-height:20px}
+.mk-formula{background:var(--fin);border-radius:10px;padding:13px 15px;display:flex;flex-direction:column;gap:5px}
+.mk-formula code{font-family:"Roboto Mono",ui-monospace,Menlo,monospace;font-size:13px;line-height:19px;color:var(--verdinegro)}
+.mk-formula span{font-family:var(--body);font-weight:400;font-size:11.5px;line-height:16px;color:#6b7378}
+.mk-pie{padding:16px 20px 24px;display:flex;flex-direction:column;gap:10px}
+.mk-pie .btn{width:100%;height:40px;border-radius:100px;background:var(--verdinegro);color:#fff;
+  display:flex;align-items:center;justify-content:center;gap:6px;font-family:var(--hl);font-weight:600;font-size:14px}
+@media (max-width:560px){
+  .mc-cuerpo{padding:20px}
+  .overlay{align-items:flex-end;padding:0}
+  .modal{border-radius:20px 20px 0 0;max-height:88vh}
+}
+.m-head{padding:22px 20px 16px;display:flex;flex-direction:column;gap:6px}
+.m-head .fila{display:flex;gap:12px;align-items:flex-start}
+.m-head h2{flex:1;font-family:var(--hl);font-weight:600;font-size:18px;line-height:26px;color:var(--verdinegro)}
+.m-head .cerrar{width:24px;height:24px;display:grid;place-items:center;font-family:var(--body);font-size:16px;color:var(--verdinegro)}
+.m-div{height:1px;background:var(--neutral-35)}
+.m-bloque{background:var(--lila-bloque);padding:16px 20px;display:flex;flex-direction:column;gap:10px}
+.m-bloque .et{font-family:var(--body);font-weight:500;font-size:13px;color:var(--gris-33)}
+.m-bloque .cifra{font-family:var(--hl);font-weight:600;font-size:32px;line-height:38px;color:var(--verdinegro);margin-top:2px}
+.m-ctx{display:flex;align-items:center;gap:6px;margin-top:2px}
+.m-ctx span{font-family:var(--body);font-weight:400;font-size:12.5px;color:var(--gris-33)}
+.m-linea{height:1px;background:var(--divider)}
+.m-fila{display:flex;align-items:center;gap:8px}
+.m-fila .l{display:flex;align-items:center;gap:7px}
+.m-fila .l span{font-family:var(--body);font-weight:400;font-size:12.5px;color:var(--gris-33)}
+.m-fila .val{margin-left:auto;font-family:var(--body);font-weight:500;font-size:13px;color:var(--verdinegro)}
+.m-total{padding:12px 20px 18px;display:flex;flex-direction:column;gap:8px}
+.m-total h3{font-family:var(--hl);font-weight:600;font-size:14px;line-height:20px;color:var(--verdinegro)}
+.m-barra{height:26px;border-radius:4px;overflow:hidden;display:flex}
+.m-barra i{display:flex;align-items:center;justify-content:center;font-family:var(--body);font-weight:500;font-size:11px;font-style:normal}
+.m-barra .s1{background:var(--vn-20);color:var(--verdinegro)}
+.m-barra .s2{background:var(--vn-45);color:var(--verdinegro)}
+.m-barra .s3{background:var(--verdinegro);color:#fff}
+.m-leyenda{padding-top:4px;display:flex;flex-direction:column;gap:7px}
+/* Muestras de color — enlazan cada fila con su tramo de la barra */
+.m-sw{flex:none;width:14px;height:14px;border-radius:4px}
+.m-sw.c1{background:var(--vn-20)}
+.m-sw.c2{background:var(--vn-45)}
+.m-sw.c3{background:var(--verdinegro)}
+.m-fila.suma .l{padding-left:22px}
+.m-fila.suma{padding-top:6px}
+.m-fila.suma .val{font-family:var(--hl);font-weight:600;font-size:16px;color:var(--verdinegro)}
+.m-fila.suma .l span{font-family:var(--body);font-weight:500;font-size:13px;color:var(--verdinegro)}
+/* CTA centrado */
+.m-cta{padding:0 20px 25px;display:flex;flex-direction:column;gap:12px;align-items:center;text-align:center}
+/* «Te acompañamos en el siguiente paso» · 565:69847 */
+.m-cta h3{font-family:var(--hl);font-weight:400;font-size:14px;line-height:23px;color:var(--tinta-cuota)}
+.m-cta .m-linea{width:100%}
+.m-cta .btn{width:100%;height:52px;border-radius:100px;background:var(--verdinegro);color:#fff;display:flex;align-items:center;
+  justify-content:center;gap:6px;font-family:var(--hl);font-weight:600;font-size:14px}
+.m-cta .empezar{font-family:var(--body);font-weight:500;font-size:12.5px;color:var(--verdinegro);text-decoration:underline}
+</style>
+</head>
+<body>
+<a class="skip" href="#principal">Saltar al contenido</a>
+
+<!-- =================================================================
+     VISTA 1-3 · CATÁLOGO
+     ================================================================= -->
+<div class="marco" id="vista-plp">
+
+  <header class="nav">
+    <span class="logo" aria-label="Logotipo Casa (placeholder)">logo</span>
+    <nav aria-label="Principal">
+      <a href="#">Simulador de hipoteca</a><a href="#">Valora tu inmueble</a>
+      <a href="#">Equipa tu hogar</a><a href="#">Únete como inmobiliaria</a>
+    </nav>
+    <a class="sesion" href="#">Iniciar sesión</a>
+  </header>
+
+  <nav class="crumbs" aria-label="Migas de pan">
+    <a href="#">Barcelona</a><span class="sep">›</span>
+    <a href="#">Barcelona</a><span class="sep">›</span>
+    <span class="actual" aria-current="page">Gràcia</span>
+  </nav>
+
+  <div class="titulo"><h1 id="titulo-plp">315 casas y pisos en Gràcia, Barcelona</h1></div>
+
+  <div class="maqueta" id="principal">
+
+    <aside class="col-filtros" aria-label="Filtros">
+      <button class="guardar"><span aria-hidden="true">♡</span>Guardar búsqueda</button>
+
+      <div class="filtros">
+
+        <!-- ===== Precio / Cuota ===== -->
+        <section>
+          <div class="cab">
+            <span class="t">Precio</span>
+            <span class="v" id="v-precio">Total</span>
+          </div>
+          <div class="seg" role="radiogroup" aria-label="Filtrar por precio total o por cuota mensual">
+            <label><input type="radio" name="modo" value="total" checked><span>Total</span></label>
+            <label><input type="radio" name="modo" value="cuota"><span>Cuota <span class="nuevo">NEW!</span></span></label>
+          </div>
+
+          <!-- modo total -->
+          <div id="panel-total">
+            <div class="par">
+              <div class="campo-dd"><label for="pt-desde">Desde</label>
+                <select id="pt-desde">
+                  <option value="">Mínimo</option><option value="100000">100.000 €</option>
+                  <option value="200000">200.000 €</option><option value="300000">300.000 €</option>
+                  <option value="400000">400.000 €</option><option value="500000">500.000 €</option>
+                  <option value="600000">600.000 €</option></select></div>
+              <div class="campo-dd"><label for="pt-hasta">Hasta</label>
+                <select id="pt-hasta">
+                  <option value="">Máximo</option><option value="300000">300.000 €</option>
+                  <option value="400000">400.000 €</option><option value="600000">600.000 €</option>
+                  <option value="800000">800.000 €</option><option value="1000000">1.000.000 €</option></select></div>
+            </div>
+          </div>
+
+          <!-- modo cuota -->
+          <div id="panel-cuota" hidden>
+            <div class="par">
+              <div class="campo-dd"><label for="pc-desde">Desde</label>
+                <select id="pc-desde">
+                  <option value="">Mínimo</option><option value="500">500</option><option value="750">750</option>
+                  <option value="1000">1000</option><option value="1250">1250</option><option value="1500">1500</option>
+                  <option value="2000">2000</option></select></div>
+              <div class="campo-dd"><label for="pc-hasta">Hasta</label>
+                <select id="pc-hasta">
+                  <option value="">Máximo</option><option value="1000">1000</option><option value="1500">1500</option>
+                  <option value="2000">2000</option><option value="2500">2500</option><option value="3000">3000</option>
+                  <option value="4000">4000</option></select></div>
+            </div>
+
+            <div class="sub">
+              <span class="et">TIN</span>
+              <div class="pills" role="radiogroup" aria-label="Tipo de interés">
+                <label><input type="radio" name="tin-plp" value="2.3"><span>2,3%</span></label>
+                <label><input type="radio" name="tin-plp" value="2.8" checked><span>2,8%</span></label>
+                <label><input type="radio" name="tin-plp" value="3.2"><span>3,2%</span></label>
+              </div>
+            </div>
+
+            <div class="sub">
+              <span class="et">Plazo</span>
+              <div class="pills" role="radiogroup" aria-label="Plazo">
+                <label><input type="radio" name="plazo-plp" value="20"><span>20 años</span></label>
+                <label><input type="radio" name="plazo-plp" value="25" checked><span>25 años</span></label>
+                <label><input type="radio" name="plazo-plp" value="30"><span>30 años</span></label>
+              </div>
+            </div>
+
+            <p class="nota-cuota">La cuota indicada es solo orientativa.
+              <button type="button" data-como>Cómo se calcula.</button></p>
+          </div>
+        </section>
+
+        <div class="div-f"></div>
+
+        <section>
+          <button class="cab" aria-expanded="true" aria-controls="b-tipo">
+            <span class="t">Tipo de inmueble <span class="chev" aria-hidden="true">⌄</span></span>
+            <span class="v">Piso, Ático</span>
+          </button>
+          <div class="cuerpo" id="b-tipo">
+            <p class="grupo-t">Piso</p>
+            <label class="op"><input type="checkbox" checked>Piso</label>
+            <label class="op"><input type="checkbox" checked>Ático</label>
+            <label class="op"><input type="checkbox">Dúplex</label>
+            <label class="op"><input type="checkbox">Estudio</label>
+            <p class="grupo-t">Casa</p>
+            <label class="op"><input type="checkbox">Casa rústica</label>
+            <label class="op"><input type="checkbox">Casa adosada</label>
+            <label class="op"><input type="checkbox">Casa independiente</label>
+          </div>
+        </section>
+
+        <div class="div-f"></div>
+
+        <section>
+          <button class="cab" aria-expanded="true" aria-controls="b-sup">
+            <span class="t">Superficie <span class="chev" aria-hidden="true">⌄</span></span>
+            <span class="v">Todo</span>
+          </button>
+          <div id="b-sup" class="cuerpo" style="padding:0">
+            <div class="par">
+              <div class="campo-in"><label for="s-desde">Desde</label><input id="s-desde" type="text" placeholder="Mínimo"></div>
+              <div class="campo-in"><label for="s-hasta">Hasta</label><input id="s-hasta" type="text" placeholder="Máximo"></div>
+            </div>
+          </div>
+        </section>
+
+        <div class="div-f"></div>
+
+        <section>
+          <button class="cab" aria-expanded="true" aria-controls="b-hab">
+            <span class="t">Habitaciones <span class="chev" aria-hidden="true">⌄</span></span>
+            <span class="v">+3</span>
+          </button>
+          <div class="cuerpo" id="b-hab">
+            <div class="pills" role="radiogroup" aria-label="Habitaciones">
+              <label><input type="radio" name="hab"><span>Todo</span></label>
+              <label><input type="radio" name="hab"><span>1+</span></label>
+              <label><input type="radio" name="hab"><span>2+</span></label>
+              <label><input type="radio" name="hab" checked><span>3+</span></label>
+              <label><input type="radio" name="hab"><span>4+</span></label>
+            </div>
+          </div>
+        </section>
+
+        <div class="div-f"></div>
+
+        <section>
+          <button class="cab" aria-expanded="true" aria-controls="b-ban">
+            <span class="t">Baños <span class="chev" aria-hidden="true">⌄</span></span>
+            <span class="v">+2</span>
+          </button>
+          <div class="cuerpo" id="b-ban">
+            <div class="pills" role="radiogroup" aria-label="Baños">
+              <label><input type="radio" name="ban"><span>Todo</span></label>
+              <label><input type="radio" name="ban"><span>1+</span></label>
+              <label><input type="radio" name="ban" checked><span>2+</span></label>
+              <label><input type="radio" name="ban"><span>3+</span></label>
+              <label><input type="radio" name="ban"><span>4+</span></label>
+            </div>
+          </div>
+        </section>
+
+        <div class="div-f"></div>
+
+        <section>
+          <button class="cab" aria-expanded="true" aria-controls="b-equip">
+            <span class="t">Equipamiento <span class="chev" aria-hidden="true">⌄</span></span>
+            <span class="v">Totalmente amueblado</span>
+          </button>
+          <div class="cuerpo" id="b-equip">
+            <label class="op"><input type="checkbox">Todo</label>
+            <label class="op"><input type="checkbox" checked>Totalmente amueblado</label>
+            <label class="op"><input type="checkbox">Parcialmente amueblado</label>
+            <label class="op"><input type="checkbox">Amueblado opcionalmente</label>
+            <label class="op"><input type="checkbox">Sin amueblar</label>
+          </div>
+        </section>
+
+        <div class="div-f"></div>
+
+        <section>
+          <button class="cab" aria-expanded="true" aria-controls="b-estado">
+            <span class="t">Estado <span class="chev" aria-hidden="true">⌄</span></span>
+            <span class="v">Obra nueva</span>
+          </button>
+          <div class="cuerpo" id="b-estado">
+            <label class="op"><input type="checkbox" checked>Obra nueva</label>
+            <label class="op"><input type="checkbox">Buen estado</label>
+            <label class="op"><input type="checkbox">A reformar</label>
+          </div>
+        </section>
+
+        <div class="div-f"></div>
+
+        <section>
+          <button class="cab" aria-expanded="true" aria-controls="b-carac">
+            <span class="t">Características <span class="chev" aria-hidden="true">⌄</span></span>
+            <span class="v">Ascensor, Garaje</span>
+          </button>
+          <div class="cuerpo" id="b-carac">
+            <label class="op"><input type="checkbox">Aire acondicionado</label>
+            <label class="op"><input type="checkbox" checked>Ascensor</label>
+            <label class="op"><input type="checkbox" checked>Garaje</label>
+            <label class="op"><input type="checkbox">Piscina común</label>
+            <label class="op"><input type="checkbox">Piscina privada</label>
+            <label class="op"><input type="checkbox">Jardín</label>
+            <label class="op"><input type="checkbox">Balcón</label>
+            <label class="op"><input type="checkbox">Terraza</label>
+          </div>
+        </section>
+
+        <div class="div-f"></div>
+
+        <section>
+          <button class="cab" aria-expanded="true" aria-controls="b-otros">
+            <span class="t">Otros filtros <span class="chev" aria-hidden="true">⌄</span></span>
+            <span class="v">De bancos</span>
+          </button>
+          <div class="cuerpo" id="b-otros">
+            <label class="op"><input type="checkbox" checked>De bancos</label>
+            <label class="op"><input type="checkbox">Rebajados</label>
+          </div>
+        </section>
+
+      </div>
+    </aside>
+
+    <div class="col-contenido">
+      <div class="tabs" role="tablist" aria-label="Operación">
+        <button role="tab" aria-selected="true">Comprar</button>
+        <button role="tab" aria-selected="false">Alquilar</button>
+      </div>
+
+      <div class="menu">
+        <label class="et" for="orden">Ordenar por:</label>
+        <select id="orden"><option>Relevancia</option><option>Precio más bajo</option>
+          <option>Precio más alto</option><option>Más recientes</option></select>
+        <div class="vistas" role="radiogroup" aria-label="Tipo de vista">
+          <label><input type="radio" name="vista" checked><span class="b" aria-hidden="true">▤</span><span class="sr">Lista</span></label>
+          <label><input type="radio" name="vista"><span class="b" aria-hidden="true">▦</span><span class="sr">Cuadrícula</span></label>
+          <label><input type="radio" name="vista"><span class="b" aria-hidden="true">◍</span><span class="sr">Mapa</span></label>
+        </div>
+      </div>
+
+      <div class="catalogo" id="catalogo" aria-live="polite"></div>
+
+      <div class="paginador">
+        <nav class="pags" aria-label="Paginación">
+          <button aria-current="page">1</button><button>2</button><button>3</button>
+          <button>4</button><span aria-hidden="true">...</span><button>12</button>
+        </nav>
+        <span class="resultados" id="resultados">1 - 12 de 315 resultados</span>
+      </div>
+
+    </div>
+  </div>
+
+  <footer>
+    <nav class="foot-nav" aria-label="Enlaces de Casa">
+      <a href="#">Simulador de hipoteca</a><a href="#">Valora tu inmueble</a><a href="#">Vende con agencia</a>
+      <a href="#">Únete como inmobiliaria</a><a href="#">Equipa tu hogar</a><a href="#">Contacto</a><a href="#">Sobre nosotros</a>
+    </nav>
+    <p class="foot-legal">Facilitea Selectplace, S.A.U. Gran Via de les Corts Catalanes, 159, pl. 8, 08014 Barcelona
+      Registro Mercantil de Barcelona, tomo 9373, folio 52, hoja B-50420, inscr. 1ª - NIF A-58481730.
+      Inscrita en el Registro del Banco de España como intermediario de crédito inmobiliario vinculado
+      en exclusiva a CaixaBank, S.A. ("CaixaBank"), con el número E579.</p>
+    <nav class="foot-links" aria-label="Legal">
+      <a href="#">Aviso legal</a><a href="#">Política de privacidad</a><a href="#">Política de cookies</a>
+      <a href="#">Términos y condiciones</a><a href="#">Responsabilidad corporativa</a><a href="#">Accesibilidad</a>
+    </nav>
+  </footer>
+</div>
+
+<!-- =================================================================
+     VISTA 4-5 · FICHA
+     ================================================================= -->
+<div class="marco pdp" id="vista-pdp" hidden>
+
+  <header class="nav">
+    <span class="logo" aria-label="Logotipo Casa (placeholder)">logo</span>
+    <nav aria-label="Principal">
+      <a href="#">Simulador de hipoteca</a><a href="#">Valora tu inmueble</a>
+      <a href="#">Equipa tu hogar</a><a href="#">Únete como inmobiliaria</a>
+    </nav>
+    <a class="sesion" href="#">Iniciar sesión</a>
+  </header>
+
+  <nav class="crumbs" aria-label="Migas de pan">
+    <button id="volver">Viviendas en Barcelona</button><span class="sep">›</span>
+    <span class="actual" aria-current="page">Gràcia</span>
+  </nav>
+
+  <div class="galeria">
+    <div class="gal-main" role="img" aria-label="Fotografía principal del inmueble"></div>
+    <div class="gal-lado">
+      <div role="img" aria-label="Salón"></div>
+      <div role="img" aria-label="Cocina"><button class="ver-todas">Ver todas</button></div>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <div class="columna">
+
+      <section class="tarjeta">
+        <div class="tit-fila">
+          <h1 id="pdp-titulo">Venta Piso en Gràcia, Barcelona</h1>
+          <div class="acc-tit"><button aria-label="Compartir">↗</button><button aria-label="Favoritos">♡</button></div>
+        </div>
+
+        <div>
+          <p class="et-precio">Precio de venta</p>
+          <p class="precio-g" id="pdp-precio">600.000 €</p>
+        </div>
+
+        <!-- fin wrap -->
+        <div class="fin" id="pdp-fin">
+          <div class="fin-cols">
+            <div>
+              <span class="lab">Cuota mensual estimada
+                <button type="button" class="ico-btn" data-modal
+                        aria-label="Ver cómo se calcula esta cuota"><i aria-hidden="true">i</i></button>
+              </span>
+              <p class="cuota-v"><span id="pdp-cuota">2.227</span> <small>€/mes</small></p>
+              <a class="btn-sim" href="#" target="_blank" rel="noopener"><span aria-hidden="true">⌂</span>Simula tu hipoteca con CaixaBank</a>
+            </div>
+            <div>
+              <div class="controles">
+                <div class="ctrl">
+                  <span class="et">Tipo de interés (TIN)
+                    <span class="tip-wrap">
+                      <button type="button" class="tip-btn" aria-expanded="false" aria-controls="tip-tin-pdp"
+                              aria-label="Más información sobre el TIN"><i aria-hidden="true">i</i></button>
+                      <span class="tip" id="tip-tin-pdp" role="dialog" aria-labelledby="tip-tin-pdp-h" hidden>
+                        <h4 id="tip-tin-pdp-h">¿Qué es el TIN?</h4>
+                        <p>Es el interés que cobra el banco por el dinero que te presta. Cuanto más alto, más pagas cada mes.</p>
+                      </span>
+                    </span>
+                  </span>
+                  <div class="pills" role="radiogroup" aria-label="Tipo de interés (TIN)">
+                    <label><input type="radio" name="tin-pdp" value="2.3"><span>2,3%</span></label>
+                    <label><input type="radio" name="tin-pdp" value="2.8" checked><span>2,8%</span></label>
+                    <label><input type="radio" name="tin-pdp" value="3.2"><span>3,2%</span></label>
+                  </div>
+                </div>
+                <div class="ctrl">
+                  <span class="et">Plazo (Años)</span>
+                  <div class="pills" role="radiogroup" aria-label="Plazo en años">
+                    <label><input type="radio" name="plazo-pdp" value="20"><span>20</span></label>
+                    <label><input type="radio" name="plazo-pdp" value="25" checked><span>25</span></label>
+                    <label><input type="radio" name="plazo-pdp" value="30"><span>30</span></label>
+                  </div>
+                </div>
+              </div>
+              <p class="nota">Importe de la hipoteca <span id="pdp-hipoteca">480.000 €</span>.<br>Financiación 80% del precio del inmueble.</p>
+              <button class="calc" data-combis>Todas mis opciones</button>
+            </div>
+          </div>
+          <div class="div"></div>
+          <p class="disclaimer">Esta cuota es solo una estimación orientativa que tú mismo configuras y no constituye
+            una oferta de préstamo. Puedes modificar libremente el tipo de interés y el plazo para hacer tus propias
+            simulaciones y poder hacerte una idea aproximada de lo que supondría financiar la compra de este inmueble.</p>
+        </div>
+
+        <hr class="divisor">
+        <ul class="tags" style="height:auto;flex-wrap:wrap">
+          <li class="tag">3 hab.</li><li class="tag">3 baños</li><li class="tag">111 m²</li>
+          <li class="tag">Planta 1ª</li><li class="tag">Ascensor</li><li class="tag">Garaje</li>
+        </ul>
+        <div style="display:flex;align-items:center;gap:12px">
+          <h2 style="font-size:18px">Gràcia, Barcelona</h2>
+          <button style="font-size:16px;text-decoration:underline">Mostrar en mapa</button>
+        </div>
+      </section>
+
+      <section class="tarjeta">
+        <p class="lista">Esta bonita vivienda familiar está situada en una tranquila calle semi peatonal de la Gràcia
+          más tradicional, en una zona eminentemente de barrio, conocida por su propio estilo y calidez vecinal. Esta
+          propiedad se ha reformado recientemente, y gracias al exquisito gusto de su propietaria el resultado ha sido
+          excelente, destacan la conservación de elementos originales conservando el carácter de las fincas de principios
+          del siglo pasado sintonizando en armonía con las ventajas del diseño actual.</p>
+        <hr class="divisor">
+        <div style="display:grid;grid-template-columns:355.5px 355.5px;gap:32px;align-items:start">
+          <div>
+            <h2>Características generales</h2>
+            <p class="lista" style="margin-top:16px">Subtipo de propiedad: Ático<br>Planta: 4<br>Habitaciones: 2<br>
+              Baños: 2<br>Amueblado<br>Cocina americana<br>Garaje<br>Armario empotrado<br>Orientación: Este<br>
+              Año de construcción: 1945</p>
+          </div>
+          <div>
+            <h2>Especificaciones técnicas</h2>
+            <p class="lista" style="margin-top:16px">Superficie construida: 71 m²<br>Superficie útil: 53 m²<br>
+              Tamaño del salón: 30 m²<br>Tamaño de la cocina: 20 m²<br>Tamaño de la terraza: 20 m²<br>
+              Tipo de suelo: Flotante<br>Medio de calentamiento: Central</p>
+
+            <h2 style="margin-top:32px">Certificado energético</h2>
+            <p class="lista" style="margin-top:16px">
+              Consumo: <span class="ico-e">E</span> 196 kWh/m² año<br>
+              Emisiones: <span class="ico-e">E</span> 41 kg CO2/m² año</p>
+            <p class="lista" style="margin-top:16px">Etiqueta de calificación energética</p>
+            <div class="escala" role="group" aria-label="Escala de la calificación energética, de A a G">
+              <div class="escala-cab">
+                <span class="t">ESCALA DE LA CALIFICACIÓN ENERGÉTICA</span>
+                <span class="c">Consumo de energía<br>kW h m² / año</span>
+                <span class="e">Emisiones<br>kg CO₂ m² / año</span>
+              </div>
+              <div class="banda"><span class="flecha b-a">A<em>más eficiente</em></span><span class="hueco"></span><span class="celda"></span><span class="celda"></span></div>
+              <div class="banda"><span class="flecha b-b">B</span><span class="hueco"></span><span class="celda"></span><span class="celda"></span></div>
+              <div class="banda"><span class="flecha b-c">C</span><span class="hueco"></span><span class="celda"></span><span class="celda"></span></div>
+              <div class="banda"><span class="flecha b-d">D</span><span class="hueco"></span><span class="celda"></span><span class="celda"></span></div>
+              <div class="banda on"><span class="flecha b-e">E</span><span class="hueco"></span>
+                <span class="celda">196.0</span><span class="celda">41.0</span></div>
+              <div class="banda"><span class="flecha b-f">F</span><span class="hueco"></span><span class="celda"></span><span class="celda"></span></div>
+              <div class="banda"><span class="flecha b-g">G<em>menos eficiente</em></span><span class="hueco"></span><span class="celda"></span><span class="celda"></span></div>
+              <p class="sr">Este inmueble tiene calificación E: consumo 196,0 kWh/m² año y emisiones 41,0 kg CO₂/m² año.</p>
+            </div>
+            <p class="lista" style="font-size:14px;margin-top:10px">Información facilitada por el anunciante</p>
+          </div>
+        </div>
+        <ul class="tags" style="height:auto;flex-wrap:wrap">
+          <li class="tag">Ascensor</li><li class="tag">Garaje</li><li class="tag">Aire Acondicionado</li>
+        </ul>
+      </section>
+
+      <section class="tarjeta">
+        <h2>Precio</h2>
+        <div class="fila-dato">
+          <p class="desglose">
+            <span class="k">Precio del inmueble:<br>Precio por m²:</span>
+            <span class="v" id="pdp-precio-det">600.000 €<br>8.451 €/m²</span>
+          </p>
+          <button class="btn-fantasma" style="width:257px">Avísame si baja de precio</button>
+        </div>
+      </section>
+
+      <div class="accion simulador">
+        <span class="ico" aria-hidden="true">★</span>
+        <div class="texto">
+          <h3>Simulador de hipotecas CaixaBank</h3>
+          <p>Puedes simular la cuota con la calculadora de hipotecas CaixaBank.</p>
+        </div>
+        <span class="ir" aria-hidden="true">→</span>
+      </div>
+
+      <section class="tarjeta">
+        <h2>Ubicación</h2>
+        <div class="fila-dato">
+          <p class="lista">Carrer D'astúries, Vila de Gràcia, Barcelona Capital</p>
+          <button class="btn-fantasma" style="width:290px">Preguntar la dirección exacta</button>
+        </div>
+        <div class="mapa" role="img" aria-label="Mapa aproximado de la zona"></div>
+        <p class="lista" style="font-size:14px">Dirección aproximada por deseo del anunciante.</p>
+      </section>
+
+      <div class="accion facilitea">
+        <span class="ico" aria-hidden="true">⌂</span>
+        <div class="texto">
+          <h3>Equipa tu vivienda con Facilitea</h3>
+          <p>¿Ya elegiste tu hogar ideal? Equipa tu hogar con todo lo que necesitas para convertirlo en un espacio
+            acogedor y funcional.</p>
+        </div>
+        <span class="ir" aria-hidden="true">→</span>
+      </div>
+    </div>
+
+    <aside class="rail">
+      <form class="form" onsubmit="return false" aria-labelledby="h-form">
+        <h2 id="h-form">Contactar</h2>
+        <div class="campo"><label for="c-nom">Nombre</label><input id="c-nom" type="text"></div>
+        <div class="campo"><label for="c-mail">Correo electrónico</label><input id="c-mail" type="email"></div>
+        <div class="campo"><label for="c-tel">Número móvil</label><input id="c-tel" type="tel"></div>
+        <div class="campo"><label for="c-mot">Motivo de contacto</label>
+          <select id="c-mot"><option>Seleccione el motivo de contacto</option><option>Quiero visitar la vivienda</option>
+            <option>Quiero más información</option></select></div>
+        <label class="acepto"><input type="checkbox"><span>He leído y acepto la <a href="#" style="text-decoration:underline">Política de Privacidad</a></span></label>
+        <button type="submit" class="enviar">Enviar</button>
+        <hr>
+        <p class="pie">Ofrecido por Inmobika</p>
+      </form>
+    </aside>
+  </div>
+
+  <footer style="margin-top:48px">
+    <nav class="foot-nav" aria-label="Enlaces de Casa">
+      <a href="#">Simulador de hipoteca</a><a href="#">Valora tu inmueble</a><a href="#">Vende con agencia</a>
+      <a href="#">Únete como inmobiliaria</a><a href="#">Equipa tu hogar</a><a href="#">Contacto</a><a href="#">Sobre nosotros</a>
+    </nav>
+    <p class="foot-legal">Facilitea Selectplace, S.A.U. Gran Via de les Corts Catalanes, 159, pl. 8, 08014 Barcelona
+      Registro Mercantil de Barcelona, tomo 9373, folio 52, hoja B-50420, inscr. 1ª - NIF A-58481730.</p>
+    <nav class="foot-links" aria-label="Legal">
+      <a href="#">Aviso legal</a><a href="#">Política de privacidad</a><a href="#">Política de cookies</a>
+      <a href="#">Términos y condiciones</a><a href="#">Accesibilidad</a>
+    </nav>
+  </footer>
+</div>
+
+<!-- =================================================================
+     PASO 6 · MODAL con overlay al 50 %
+     ================================================================= -->
+<div class="overlay" id="overlay" hidden>
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="m-titulo" id="modal">
+
+    <div class="m-head">
+      <div class="fila">
+        <h2 id="m-titulo">Así se calcula tu cuota</h2>
+        <button class="cerrar" id="m-cerrar" aria-label="Cerrar">✕</button>
+      </div>
+    </div>
+    <div class="m-div"></div>
+    <div class="m-div"></div>
+
+    <div class="m-bloque">
+      <div>
+        <span class="et">Tu cuota mensual estimada</span>
+        <p class="cifra" id="m-cuota">2.227 €</p>
+        <div class="m-ctx">
+          <span id="m-contexto">durante 25 años, con un TIN del 2,8 %</span>
+          <span class="tip-wrap">
+            <button type="button" class="tip-btn" aria-expanded="false" aria-controls="tip-tin"
+                    aria-label="Más información sobre el TIN"><i aria-hidden="true">i</i></button>
+            <span class="tip" id="tip-tin" role="dialog" aria-labelledby="tip-tin-h" hidden>
+              <h4 id="tip-tin-h">¿Qué es el TIN?</h4>
+              <p>Es el interés que cobra el banco por el dinero que te presta. Cuanto más alto, más pagas cada mes.</p>
+            </span>
+          </span>
+        </div>
+      </div>
+
+      <div class="m-linea"></div>
+
+      <div class="m-fila">
+        <span class="l"><span>Importe de la hipoteca</span>
+          <span class="tip-wrap">
+            <button type="button" class="tip-btn" aria-expanded="false" aria-controls="tip-hip"
+                    aria-label="Más información sobre el importe de la hipoteca"><i aria-hidden="true">i</i></button>
+            <span class="tip" id="tip-hip" role="dialog" aria-labelledby="tip-hip-h" hidden>
+              <h4 id="tip-hip-h">Importe de la hipoteca</h4>
+              <p>El dinero que te ha prestado, que devuelves poco a poco con cada cuota.</p>
+            </span>
+          </span>
+        </span>
+        <span class="val" id="m-hipoteca">480.000 €</span>
+      </div>
+
+      <div class="m-fila">
+        <span class="l"><span>Porcentaje de financiación</span>
+          <span class="tip-wrap">
+            <button type="button" class="tip-btn" aria-expanded="false" aria-controls="tip-fin"
+                    aria-label="Más información sobre el porcentaje de financiación"><i aria-hidden="true">i</i></button>
+            <span class="tip" id="tip-fin" role="dialog" aria-labelledby="tip-fin-h" hidden>
+              <h4 id="tip-fin-h">Porcentaje de financiación</h4>
+              <p>Como máximo el 80 % del precio de la vivienda. Es el dinero sobre el que se calculan los intereses y la cuota.</p>
+            </span>
+          </span>
+        </span>
+        <span class="val">80%</span>
+      </div>
+    </div>
+
+    <div class="m-total">
+      <h3>Cómo se paga</h3>
+      <div class="m-barra" role="img" aria-labelledby="m-leyenda">
+        <i class="s1" id="m-s1" style="width:14%">14 %</i>
+        <i class="s2" id="m-s2" style="width:9%">9 %</i>
+        <i class="s3" id="m-s3" style="width:77%">77 %</i>
+      </div>
+
+      <div class="m-leyenda" id="m-leyenda">
+        <div class="m-fila">
+          <span class="l"><i class="m-sw c1" aria-hidden="true"></i><span>Entrada inicial</span>
+            <span class="tip-wrap">
+              <button type="button" class="tip-btn" aria-expanded="false" aria-controls="tip-ent"
+                      aria-label="Más información sobre la entrada inicial"><i aria-hidden="true">i</i></button>
+              <span class="tip" id="tip-ent" role="dialog" aria-labelledby="tip-ent-h" hidden>
+                <h4 id="tip-ent-h">Entrada inicial</h4>
+                <p>El dinero que tienes que poner tú al comprar equivalente al 20 % del precio del inmueble
+                (no cubierto por la hipoteca). Es un mínimo y no se puede financiar: hay que tenerlo ahorrado.</p>
+              </span>
+            </span>
+          </span>
+          <span class="val" id="m-entrada">120.000 €</span>
+        </div>
+
+        <div class="m-fila">
+          <span class="l"><i class="m-sw c2" aria-hidden="true"></i><span>Impuestos y gastos</span>
+            <span class="tip-wrap">
+              <button type="button" class="tip-btn" aria-expanded="false" aria-controls="tip-gas"
+                      aria-label="Más información sobre impuestos y gastos"><i aria-hidden="true">i</i></button>
+              <span class="tip" id="tip-gas" role="dialog" aria-labelledby="tip-gas-h" hidden>
+                <h4 id="tip-gas-h">Impuestos y gastos</h4>
+                <p>Varían según la comunidad autónoma y según si la vivienda es nueva o de segunda mano:
+                normalmente están entre el 12 % y el 15 % del precio. Aquí se calculan con el 13 %.</p>
+              </span>
+            </span>
+          </span>
+          <span class="val" id="m-gastos">78.000 €</span>
+        </div>
+
+        <div class="m-fila">
+          <span class="l"><i class="m-sw c3" aria-hidden="true"></i><span>Importe total adeudado</span>
+            <span class="tip-wrap">
+              <button type="button" class="tip-btn" aria-expanded="false" aria-controls="tip-tot"
+                      aria-label="Más información sobre el importe total adeudado"><i aria-hidden="true">i</i></button>
+              <span class="tip" id="tip-tot" role="dialog" aria-labelledby="tip-tot-h" hidden>
+                <h4 id="tip-tot-h">Importe total adeudado</h4>
+                <p>Es la suma del préstamo y los intereses que pagarás durante toda la hipoteca.
+                No incluye la entrada ni los gastos de compra.</p>
+              </span>
+            </span>
+          </span>
+          <span class="val" id="m-adeudado">667.979 €</span>
+        </div>
+
+        <div class="m-fila suma">
+          <span class="l"><span>Coste total con hipoteca</span></span>
+          <span class="val" id="m-coste">865.979 €</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="m-cta">
+      <div class="m-linea"></div>
+      <h3>Te acompañamos en el siguiente paso</h3>
+      <a class="btn" href="#" target="_blank" rel="noopener"><span aria-hidden="true">⌂</span>Simula tu hipoteca con CaixaBank</a>
+      <button class="empezar">¿No sabes por donde empezar?</button>
+    </div>
+  </div>
+</div>
+
+<!-- =================================================================
+     MODAL · Así cambia tu cuota (565:69853) — las 9 combinaciones
+     ================================================================= -->
+<div class="overlay" id="overlay-combis" hidden>
+  <div class="modal combis" role="dialog" aria-modal="true" aria-labelledby="mc-titulo" id="modal-combis">
+    <div class="mc-head">
+      <div class="fila">
+        <h2 id="mc-titulo">Así cambia tu cuota</h2>
+        <button class="cerrar" id="mc-cerrar" aria-label="Cerrar">✕</button>
+      </div>
+      <p class="sub1" id="mc-sub1">Piso en Gràcia · 600.000 €</p>
+      <p class="sub2" id="mc-sub2">Importe de la hipoteca: 480.000€</p>
+    </div>
+    <div class="m-div"></div>
+    <div class="m-div"></div>
+
+    <div class="mc-cuerpo" id="mc-cuerpo" role="radiogroup" aria-labelledby="mc-titulo"></div>
+
+    <div class="mc-cta">
+      <div class="m-linea" style="width:100%"></div>
+      <h3>Te acompañamos en el siguiente paso</h3>
+      <a class="btn" href="#" target="_blank" rel="noopener"><span aria-hidden="true">⌂</span>Simula tu hipoteca con CaixaBank</a>
+      <p class="legal">Cálculo orientativo. No incluye seguros ni comisiones y no constituye una oferta.</p>
+    </div>
+  </div>
+</div>
+
+<!-- =================================================================
+     MODAL · ¿Cómo calculamos esta cuota? (586:105083) — solo catálogo
+     ================================================================= -->
+<div class="overlay" id="overlay-como" hidden>
+  <div class="modal como" role="dialog" aria-modal="true" aria-labelledby="mk-titulo" id="modal-como">
+    <div class="mk-head">
+      <h2 id="mk-titulo">¿Cómo calculamos esta cuota?</h2>
+      <button class="cerrar" id="mk-cerrar" aria-label="Cerrar">✕</button>
+    </div>
+    <div class="m-div"></div>
+
+    <div class="mk-cuerpo">
+      <p>Usamos el precio de esta vivienda, el 80 % que suele financiar el banco y el tipo de interés
+        y el plazo que eliges tú.</p>
+      <p>Con eso aplicamos el sistema francés, el de las hipotecas en España: la misma cuota cada mes,
+        al principio más intereses y al final más capital.</p>
+
+      <div class="mk-formula">
+        <code>cuota = C × i / (1 − (1 + i)⁻ⁿ)</code>
+        <span>C, importe de la hipoteca · i, tipo mensual · n, número de cuotas.</span>
+      </div>
+
+      <p class="menor">No incluye impuestos, gastos de compra, seguros ni comisiones.
+        Tampoco la TAE: solo puede calcularla el banco.</p>
+      <p class="menor">Tu cuota puede ser mayor. El tipo es una referencia de mercado, y el plazo y el
+        porcentaje que te financien dependen de tu perfil.</p>
+    </div>
+
+    <div class="m-div"></div>
+    <div class="mk-pie">
+      <a class="btn" href="#" target="_blank" rel="noopener">¿No sabes por donde empezar?</a>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  /* ============ estado compartido PLP ↔ PDP ============ */
+  var S = { modo:'total', tin:2.8, plazo:25,
+            min:null, max:null,        /* rango de CUOTA (€/mes) */
+            pmin:null, pmax:null,      /* rango de PRECIO total (€) */
+            inmueble:0 };
+  var LTV = .80, GASTOS = .13;
+
+  /* Límites del simulador de CaixaBank: fuera de este rango no se muestra cuota. */
+  var MIN_SIM = 30000, MAX_SIM = 1500000;
+
+  var TAGS_PISO   = ['3 hab.','3 baños','111 m²','Planta 1ª','Ascensor'];
+  var TAGS_GARAJE = ['12 m²','Planta -1','Cubierto','Acceso con mando'];
+  var TAGS_CASA   = ['5 hab.','4 baños','320 m²','Jardín','Piscina'];
+
+  /* Los casos límite van como cards normales del listado, con su casuística aplicada. */
+  var INMUEBLES = [
+    {p:600000, t:'Piso en Gràcia, Barcelona'},
+    {p:425000, t:'Piso en Gràcia, Barcelona'},
+    {p:null, t:'Piso en Gràcia, Barcelona', etiqueta:'Precio a consultar'},
+    {p:389000, t:'Piso en Gràcia, Barcelona'},
+    {p:550000, t:'Piso en Gràcia, Barcelona'},
+    {p:null, t:'Piso en alquiler en Gràcia, Barcelona', etiqueta:'1.450 €/mes', alquiler:true},
+    {p:310000, t:'Piso en Gràcia, Barcelona'},
+    {p:10000, t:'Plaza de garaje en Gràcia', tags:TAGS_GARAJE},
+    {p:725000, t:'Piso en Gràcia, Barcelona'},
+    {p:268000, t:'Piso en Gràcia, Barcelona'},
+    {p:1850000, t:'Casa en Gràcia, Barcelona', tags:TAGS_CASA},
+    {p:480000, t:'Piso en Gràcia, Barcelona'},
+    {p:915000, t:'Piso en Gràcia, Barcelona'}
+  ];
+
+  /* Solo se calcula cuota sobre una compra con precio publicado dentro del rango. */
+  function financiable(x){
+    return x.p !== null && !x.alquiler && x.p >= MIN_SIM && x.p <= MAX_SIM;
+  }
+  function etiquetaPrecio(x){ return x.etiqueta || (eur(x.p) + ' €'); }
+
+  /* formateo propio: no depende del ICU del navegador */
+  function eur(n){ return String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g, '.'); }
+  function cuota(precio, tin, anios){
+    var C = precio * LTV, i = tin/100/12, n = anios*12;
+    return C * i / (1 - Math.pow(1+i, -n));
+  }
+  function tinTxt(){ return S.tin.toFixed(1).replace('.', ',') + ' %'; }
+
+  /* ============ CATÁLOGO ============ */
+  var cat = document.getElementById('catalogo');
+
+  function pintaCatalogo(){
+    var visibles = INMUEBLES.map(function(x,k){
+      var f = financiable(x);
+      return {k:k, p:x.p, t:x.t, fin:f, etiqueta:etiquetaPrecio(x),
+              tags:x.tags || TAGS_PISO,
+              c:f ? cuota(x.p, S.tin, S.plazo) : null};
+    }).filter(function(x){
+      if(S.modo === 'cuota'){
+        /* sin cuota calculable no puede entrar en un filtro por cuota */
+        if(S.min !== null || S.max !== null){
+          if(x.c === null) return false;
+          if(S.min !== null && x.c < S.min) return false;
+          if(S.max !== null && x.c > S.max) return false;
+        }
+      } else {
+        if(S.pmin !== null || S.pmax !== null){
+          if(x.p === null) return false;
+          if(S.pmin !== null && x.p < S.pmin) return false;
+          if(S.pmax !== null && x.p > S.pmax) return false;
+        }
+      }
+      return true;
+    });
+
+    cat.innerHTML = '';
+    if(!visibles.length){
+      cat.innerHTML = '<p class="vacio">No hay inmuebles con una cuota en ese rango. Prueba a ampliarlo o a alargar el plazo.</p>';
+    }
+    visibles.forEach(function(x){
+      var art = document.createElement('article');
+      art.className = 'card';
+      art.dataset.ficha = x.k;          /* toda la card lleva a la ficha */
+      if(!x.fin) art.classList.add('sin-cuota');
+      art.innerHTML =
+        '<div class="foto" role="img" aria-label="Fotografía de ' + x.t + '">' +
+          '<div class="flechas"><button aria-label="Fotografía anterior">‹</button>' +
+          '<button aria-label="Fotografía siguiente">›</button></div></div>' +
+        '<div class="detalle"><div class="interior">' +
+          '<div class="cab-card"><div class="tp">' +
+            '<h3><button data-ficha="' + x.k + '">' + x.t + '</button></h3>' +
+            '<p class="precio">' + x.etiqueta + '</p></div>' +
+            '<span class="logo" aria-hidden="true">Inmobika</span></div>' +
+          (x.fin ?
+          '<div class="mod-cuota"><div class="fila-cuota">' +
+            '<span class="et">Cuota estimada</span>' +
+            '<button type="button" class="ico-card" data-modal data-card="' + x.k + '" ' +
+                    'aria-label="Ver cómo se calcula esta cuota"><i aria-hidden="true">!</i></button>' +
+            '<span class="chip">' + eur(x.c) + ' €/mes</span></div>' +
+            '<p class="supuestos">TIN ' + tinTxt() + ' · ' + S.plazo + ' años · Importe de la hipoteca: ' +
+              eur(x.p*LTV) + '€' +
+              '<br><span class="gris">Puedes modificar el TIN y el plazo en el panel de filtros.</span></p>' +
+            '<a class="enlace-sim" href="#" target="_blank" rel="noopener">Simula tu hipoteca con CaixaBank →</a></div>'
+          : '') +
+          '<div class="tags">' +
+            x.tags.map(function(t){ return '<span class="tag">' + t + '</span>'; }).join('') + '</div>' +
+          '<div class="acciones"><button class="btn-contactar">Contactar con agente</button>' +
+            '<button class="fav" type="button" aria-pressed="false" aria-label="Guardar en favoritos">' +
+              '<svg viewBox="0 0 24 24" aria-hidden="true">' +
+                '<path class="contorno" d="M12.62 20.81c-.34.12-.9.12-1.24 0C8.48 19.82 2 15.69 2 8.69 2 5.6 4.49 3.1 7.56 3.1c1.82 0 3.43.88 4.44 2.24a5.53 5.53 0 0 1 4.44-2.24C19.51 3.1 22 5.6 22 8.69c0 7-6.48 11.13-9.38 12.12Z" fill="none" stroke="currentColor" ' +
+                      'stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>' +
+                '<path class="relleno" d="M12.62 20.81c-.34.12-.9.12-1.24 0C8.48 19.82 2 15.69 2 8.69 2 5.6 4.49 3.1 7.56 3.1c1.82 0 3.43.88 4.44 2.24a5.53 5.53 0 0 1 4.44-2.24C19.51 3.1 22 5.6 22 8.69c0 7-6.48 11.13-9.38 12.12Z" fill="currentColor"/>' +
+              '</svg></button></div>' +
+        '</div></div>';
+      cat.appendChild(art);
+    });
+
+    var filtrado = (S.modo === 'cuota')
+      ? (S.min !== null || S.max !== null)
+      : (S.pmin !== null || S.pmax !== null);
+    document.getElementById('titulo-plp').textContent =
+      (filtrado ? visibles.length : 315) + ' casas y pisos en Gràcia, Barcelona';
+    document.getElementById('resultados').textContent = filtrado
+      ? '1 - ' + visibles.length + ' de ' + visibles.length + ' resultados'
+      : '1 - 12 de 315 resultados';
+  }
+
+  /* ---- paso 2: activar el modo cuota ---- */
+  document.querySelectorAll('input[name="modo"]').forEach(function(r){
+    r.addEventListener('change', function(){
+      S.modo = r.value;
+      document.getElementById('panel-total').hidden = (S.modo === 'cuota');
+      document.getElementById('panel-cuota').hidden = (S.modo !== 'cuota');
+      document.getElementById('v-precio').textContent = (S.modo === 'cuota') ? 'Cuota' : 'Total';
+      pintaCatalogo();
+    });
+  });
+
+  /* ---- paso 3: rango + TIN + plazo ---- */
+  function leeRango(){
+    var d = document.getElementById('pc-desde').value;
+    var h = document.getElementById('pc-hasta').value;
+    S.min = d ? parseInt(d,10) : null;
+    S.max = h ? parseInt(h,10) : null;
+    document.getElementById('pc-desde').classList.toggle('puesto', !!d);
+    document.getElementById('pc-hasta').classList.toggle('puesto', !!h);
+  }
+  document.getElementById('pc-desde').addEventListener('change', function(){ leeRango(); pintaCatalogo(); });
+  document.getElementById('pc-hasta').addEventListener('change', function(){ leeRango(); pintaCatalogo(); });
+
+  /* ---- paso 1: el filtro de precio total también recalcula ---- */
+  function leePrecio(){
+    var d = document.getElementById('pt-desde'), h = document.getElementById('pt-hasta');
+    S.pmin = d.value ? parseInt(d.value,10) : null;
+    S.pmax = h.value ? parseInt(h.value,10) : null;
+    d.classList.toggle('puesto', !!d.value);
+    h.classList.toggle('puesto', !!h.value);
+  }
+  document.getElementById('pt-desde').addEventListener('change', function(){ leePrecio(); pintaCatalogo(); });
+  document.getElementById('pt-hasta').addEventListener('change', function(){ leePrecio(); pintaCatalogo(); });
+
+  document.querySelectorAll('input[name="tin-plp"]').forEach(function(r){
+    r.addEventListener('change', function(){ S.tin = parseFloat(r.value); sincroniza(); });
+  });
+  document.querySelectorAll('input[name="plazo-plp"]').forEach(function(r){
+    r.addEventListener('change', function(){ S.plazo = parseInt(r.value,10); sincroniza(); });
+  });
+
+  /* ---- paso 5: TIN / plazo desde la ficha ---- */
+  document.querySelectorAll('input[name="tin-pdp"]').forEach(function(r){
+    r.addEventListener('change', function(){ S.tin = parseFloat(r.value); sincroniza(); });
+  });
+  document.querySelectorAll('input[name="plazo-pdp"]').forEach(function(r){
+    r.addEventListener('change', function(){ S.plazo = parseInt(r.value,10); sincroniza(); });
+  });
+
+  /* ---- la configuración se mantiene al ir y volver ---- */
+  function sincroniza(){
+    document.querySelector('input[name="tin-plp"][value="'   + S.tin   + '"]').checked = true;
+    document.querySelector('input[name="plazo-plp"][value="' + S.plazo + '"]').checked = true;
+    document.querySelector('input[name="tin-pdp"][value="'   + S.tin   + '"]').checked = true;
+    document.querySelector('input[name="plazo-pdp"][value="' + S.plazo + '"]').checked = true;
+    pintaCatalogo();
+    pintaFicha();
+    pintaModal();
+    if(!document.getElementById('overlay-combis').hidden) pintaCombis();
+  }
+
+  /* ============ FICHA ============ */
+  function pintaFicha(){
+    var x = INMUEBLES[S.inmueble];
+    var f = financiable(x);
+    document.getElementById('pdp-titulo').textContent =
+      (x.alquiler ? '' : 'Venta ') + x.t;
+    document.getElementById('pdp-precio').textContent = etiquetaPrecio(x);
+    /* sin precio financiable no hay cuota que enseñar: se oculta el módulo entero */
+    document.getElementById('pdp-fin').hidden = !f;
+    document.getElementById('pdp-precio-det').innerHTML = (x.p === null)
+      ? etiquetaPrecio(x)
+      : eur(x.p) + ' €<br>' + eur(x.p/71) + ' €/m²';
+    if(!f) return;
+    document.getElementById('pdp-cuota').textContent = eur(cuota(x.p, S.tin, S.plazo));
+    document.getElementById('pdp-hipoteca').textContent = eur(x.p*LTV) + ' €';
+  }
+
+  /* ---- paso 4: entrar a la ficha ---- */
+  /* el corazón alterna entre guardado y no guardado */
+  cat.addEventListener('click', function(ev){
+    var f = ev.target.closest('.fav');
+    if(f){
+      var on = f.getAttribute('aria-pressed') === 'true';
+      f.setAttribute('aria-pressed', on ? 'false' : 'true');
+      f.setAttribute('aria-label', on ? 'Guardar en favoritos' : 'Quitar de favoritos');
+    }
+  });
+
+  cat.addEventListener('click', function(ev){
+    /* los controles propios de la card no navegan */
+    if(ev.target.closest('.flechas, .btn-contactar, .fav, .enlace-sim, .tip-wrap, .tip, .ico-card')) return;
+    var o = ev.target.closest('[data-ficha]');
+    if(!o) return;
+    S.inmueble = parseInt(o.dataset.ficha, 10);
+    pintaFicha(); pintaModal();
+    document.getElementById('vista-plp').hidden = true;
+    document.getElementById('vista-pdp').hidden = false;
+    window.scrollTo(0,0);
+    document.getElementById('pdp-titulo').focus();
+  });
+
+  document.getElementById('volver').addEventListener('click', function(){
+    document.getElementById('vista-pdp').hidden = true;
+    document.getElementById('vista-plp').hidden = false;
+    window.scrollTo(0,0);
+  });
+
+  /* ============ MODAL ============ */
+  function pintaModal(otro){
+    var x = otro || INMUEBLES[S.inmueble];
+    if(!financiable(x)) return;
+    var c = cuota(x.p, S.tin, S.plazo);
+    var adeudado = c * S.plazo * 12;
+    var entrada = x.p * (1 - LTV);
+    var gastos = x.p * GASTOS;
+    var coste = adeudado + entrada + gastos;
+
+    document.getElementById('m-cuota').textContent = eur(c) + ' €';
+    document.getElementById('m-contexto').textContent =
+      'durante ' + S.plazo + ' años, con un TIN del ' + tinTxt();
+    document.getElementById('m-hipoteca').textContent = eur(x.p*LTV) + ' €';
+    document.getElementById('m-entrada').textContent = eur(entrada) + ' €';
+    document.getElementById('m-gastos').textContent = eur(gastos) + ' €';
+    document.getElementById('m-adeudado').textContent = eur(adeudado) + ' €';
+    document.getElementById('m-coste').textContent = eur(coste) + ' €';
+
+    var p1 = entrada/coste*100, p2 = gastos/coste*100, p3 = adeudado/coste*100;
+    var s1 = document.getElementById('m-s1'), s2 = document.getElementById('m-s2'), s3 = document.getElementById('m-s3');
+    s1.style.width = p1+'%'; s1.textContent = Math.round(p1)+' %';
+    s2.style.width = p2+'%'; s2.textContent = Math.round(p2)+' %';
+    s3.style.width = p3+'%'; s3.textContent = Math.round(p3)+' %';
+  }
+
+  /* ============ MODAL · Así cambia tu cuota (9 combinaciones) ============ */
+  var TINS = [2.3, 2.8, 3.2], PLAZOS = [20, 25, 30];
+  var ovC = document.getElementById('overlay-combis');
+  var mdC = document.getElementById('modal-combis');
+  var cuerpoC = document.getElementById('mc-cuerpo');
+
+  function pintaCombis(){
+    var x = INMUEBLES[S.inmueble];
+    document.getElementById('mc-sub1').textContent = x.t.replace(' en Gràcia, Barcelona',' en Gràcia') + ' · ' + eur(x.p) + ' €';
+    document.getElementById('mc-sub2').textContent = 'Importe de la hipoteca: ' + eur(x.p*LTV) + '€';
+    cuerpoC.innerHTML = '';
+
+    function opcion(t, a, activa){
+      var b = document.createElement('button');
+      b.type = 'button';
+      b.className = 'mc-op';
+      b.setAttribute('role','radio');
+      b.setAttribute('aria-checked', activa ? 'true' : 'false');
+      b.setAttribute('aria-current', activa ? 'true' : 'false');
+      b.dataset.tin = t; b.dataset.plazo = a;
+      b.innerHTML =
+        '<span class="datos">' +
+          (activa ? '<span class="ref">TU SELECCIÓN ACTUAL</span>' : '') +
+          '<span class="comb">TIN ' + t.toFixed(1).replace('.', ',') + ' % · ' + a + ' años</span>' +
+        '</span>' +
+        '<span class="cuota"><b>' + eur(cuota(x.p, t, a)) + ' €</b><em>/mes</em></span>';
+      return b;
+    }
+
+    /* La selección actual encabeza la lista; el resto va debajo, tras un divisor. */
+    var resto = [];
+    TINS.forEach(function(t){
+      PLAZOS.forEach(function(a){
+        if(Math.abs(t - S.tin) < .001 && a === S.plazo) cuerpoC.appendChild(opcion(t, a, true));
+        else resto.push([t, a]);
+      });
+    });
+
+    var sep = document.createElement('div');
+    sep.className = 'mc-sep';
+    sep.setAttribute('aria-hidden','true');
+    sep.innerHTML = '<span class="linea"></span><span class="txt">Otras combinaciones</span><span class="linea"></span>';
+    cuerpoC.appendChild(sep);
+
+    resto.forEach(function(c){ cuerpoC.appendChild(opcion(c[0], c[1], false)); });
+  }
+
+  cuerpoC.addEventListener('click', function(ev){
+    var b = ev.target.closest('.mc-op');
+    if(!b) return;
+    S.tin = parseFloat(b.dataset.tin);
+    S.plazo = parseInt(b.dataset.plazo, 10);
+    sincroniza();
+  });
+
+  var ultC = null;
+  document.addEventListener('click', function(ev){
+    if(ev.target.closest('[data-combis]')){
+      ultC = document.activeElement;
+      pintaCombis();
+      ovC.hidden = false;
+      document.body.style.overflow = 'hidden';
+      document.getElementById('mc-cerrar').focus();
+    }
+  });
+  function cierraCombis(){
+    ovC.hidden = true;
+    document.body.style.overflow = '';
+    if(ultC) ultC.focus();
+  }
+  document.getElementById('mc-cerrar').addEventListener('click', cierraCombis);
+  ovC.addEventListener('click', function(ev){ if(ev.target === ovC) cierraCombis(); });
+
+  /* ============ MODAL · ¿Cómo calculamos esta cuota? (solo catálogo) ============ */
+  var ovK = document.getElementById('overlay-como');
+  var mdK = document.getElementById('modal-como');
+  var ultK = null;
+  document.addEventListener('click', function(ev){
+    if(ev.target.closest('[data-como]')){
+      ultK = document.activeElement;
+      ovK.hidden = false;
+      document.body.style.overflow = 'hidden';
+      document.getElementById('mk-cerrar').focus();
+    }
+  });
+  function cierraComo(){
+    ovK.hidden = true;
+    document.body.style.overflow = '';
+    if(ultK) ultK.focus();
+  }
+  document.getElementById('mk-cerrar').addEventListener('click', cierraComo);
+  ovK.addEventListener('click', function(ev){ if(ev.target === ovK) cierraComo(); });
+
+  var ov = document.getElementById('overlay'), md = document.getElementById('modal'), ult = null;
+  function focos(){
+    var activo = !ovK.hidden ? mdK : (!ovC.hidden ? mdC : md);
+    return activo.querySelectorAll('button, a[href], [tabindex]:not([tabindex="-1"])');
+  }
+
+  document.addEventListener('click', function(ev){
+    var disp = ev.target.closest('[data-modal]');
+    if(disp){
+      ult = document.activeElement;
+      if(disp.dataset.card !== undefined){      /* abierto desde una card del catálogo */
+        S.inmueble = parseInt(disp.dataset.card, 10);
+        pintaFicha();
+      }
+      pintaModal();
+      ov.hidden = false;
+      document.body.style.overflow = 'hidden';
+      document.getElementById('m-cerrar').focus();
+    }
+  });
+  function cierraModal(){
+    cierraTips();
+    ov.hidden = true;
+    document.body.style.overflow = '';
+    if(ult) ult.focus();
+  }
+  document.getElementById('m-cerrar').addEventListener('click', cierraModal);
+  ov.addEventListener('click', function(ev){ if(ev.target === ov) cierraModal(); });
+
+  /* ============ TOGGLE-TIPS · button, diana 24×24 ============ */
+  function cierraTips(){
+    document.querySelectorAll('.tip').forEach(function(t){
+      t.hidden = true;
+      var b = document.querySelector('[aria-controls="' + t.id + '"]');
+      if(b) b.setAttribute('aria-expanded','false');
+    });
+  }
+  /* mantiene el popover dentro de su contenedor: nunca se sale del modal ni de la pantalla */
+  function encaja(t){
+    t.style.left = '-8px';
+    var limite = t.closest('#modal') || document.documentElement;
+    var lim = limite.getBoundingClientRect();
+    var r = t.getBoundingClientRect();
+    var margen = 12, desvio = 0;
+    if(r.right > lim.right - margen) desvio = (lim.right - margen) - r.right;
+    if(r.left + desvio < lim.left + margen) desvio = (lim.left + margen) - r.left;
+    if(desvio) t.style.left = (-8 + desvio) + 'px';
+  }
+
+  document.addEventListener('click', function(ev){
+    var abre = ev.target.closest('.tip-btn'),
+        dentro = ev.target.closest('.tip');
+    if(abre && abre.getAttribute('aria-controls')){
+      ev.stopPropagation();
+      var t = document.getElementById(abre.getAttribute('aria-controls'));
+      var abierto = !t.hidden;
+      cierraTips();
+      if(!abierto){ t.hidden = false; abre.setAttribute('aria-expanded','true'); encaja(t); }
+      return;
+    }
+    if(!dentro) cierraTips();
+  });
+
+  document.addEventListener('keydown', function(ev){
+    if(ev.key === 'Escape'){
+      var algunTip = Array.prototype.some.call(document.querySelectorAll('.tip'), function(t){ return !t.hidden; });
+      if(algunTip){ cierraTips(); return; }
+      if(!ovK.hidden){ cierraComo(); return; }
+      if(!ovC.hidden){ cierraCombis(); return; }
+      if(!ov.hidden) cierraModal();
+      return;
+    }
+    if(ev.key === 'Tab' && (!ov.hidden || !ovC.hidden || !ovK.hidden)){
+      var f = focos(); if(!f.length) return;
+      var a = f[0], z = f[f.length-1];
+      if(ev.shiftKey && document.activeElement === a){ ev.preventDefault(); z.focus(); }
+      else if(!ev.shiftKey && document.activeElement === z){ ev.preventDefault(); a.focus(); }
+    }
+  });
+
+  /* ---- plegado de filtros ---- */
+  document.querySelectorAll('.cab[aria-controls]').forEach(function(b){
+    b.addEventListener('click', function(){
+      var c = document.getElementById(b.getAttribute('aria-controls'));
+      if(!c) return;
+      var ab = b.getAttribute('aria-expanded') === 'true';
+      b.setAttribute('aria-expanded', ab ? 'false' : 'true');
+      c.hidden = ab;
+    });
+  });
+
+  document.getElementById('pdp-titulo').setAttribute('tabindex','-1');
+  pintaCatalogo(); pintaFicha(); pintaModal();
+})();
+</script>
+</body>
+</html>

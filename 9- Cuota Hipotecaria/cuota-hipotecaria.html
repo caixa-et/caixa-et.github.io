@@ -448,9 +448,47 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
 .m-cta .btn{width:100%;height:52px;border-radius:100px;background:var(--verdinegro);color:#fff;display:flex;align-items:center;
   justify-content:center;gap:6px;font-family:var(--hl);font-weight:600;font-size:14px}
 .m-cta .empezar{font-family:var(--body);font-weight:500;font-size:12.5px;color:var(--verdinegro);text-decoration:underline}
+/* ============ Pantalla de acceso ============ */
+.acceso{position:fixed;inset:0;z-index:200;background:var(--pagina);
+  display:flex;align-items:center;justify-content:center;padding:24px}
+.acceso[hidden]{display:none}
+.acceso .caja{width:min(400px,100%);background:#fff;border-radius:16px;padding:36px 32px 32px;
+  display:flex;flex-direction:column;gap:8px;box-shadow:0 8px 32px rgba(0,60,70,.10)}
+.acceso h1{font-family:var(--hl);font-weight:600;font-size:22px;line-height:28px;color:var(--verdinegro)}
+.acceso label{margin-top:16px;font-family:var(--body);font-weight:500;font-size:12.5px;color:var(--gris-33)}
+.acceso input{margin-top:6px;width:100%;height:48px;padding:0 14px;border-radius:7.3px;
+  border:1px solid var(--divider);background:#fff;
+  font-family:var(--body);font-weight:400;font-size:15px;color:var(--tinta)}
+.acceso input:focus-visible{outline:2px solid var(--verdinegro);outline-offset:1px;border-color:var(--verdinegro)}
+.acceso input[aria-invalid="true"]{border-color:var(--rojo-100)}
+.acceso .error{margin-top:8px;display:flex;align-items:center;gap:7px;
+  font-family:var(--body);font-weight:400;font-size:12.5px;line-height:18px;color:var(--rojo-100)}
+.acceso .error[hidden]{display:none}
+.acceso .error i{flex:none;width:16px;height:16px;border-radius:50%;background:var(--rojo-100);color:#fff;
+  display:grid;place-items:center;font-style:normal;font-size:11px;font-weight:700}
+.acceso button{margin-top:20px;width:100%;height:52px;border-radius:100px;background:var(--verdinegro);
+  color:#fff;font-family:var(--hl);font-weight:600;font-size:16px;cursor:pointer}
 </style>
 </head>
 <body>
+<!-- =================================================================
+     PANTALLA DE ACCESO — prototipo interno, sin logo
+     ================================================================= -->
+<div class="acceso" id="acceso">
+  <form class="caja" id="acceso-form" autocomplete="off">
+    <h1>Cuota hipotecaria</h1>
+
+    <label for="acceso-clave">Clave de acceso</label>
+    <input type="password" id="acceso-clave" name="clave" required
+           autocomplete="off" autocapitalize="off" spellcheck="false"
+           aria-describedby="acceso-error">
+    <p class="error" id="acceso-error" role="alert" hidden>
+      <i aria-hidden="true">!</i><span>La clave no es correcta. Vuelve a intentarlo.</span>
+    </p>
+
+    <button type="submit">Entrar</button>
+  </form>
+</div>
 <a class="skip" href="#principal">Saltar al contenido</a>
 
 <!-- =================================================================
@@ -1146,6 +1184,46 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
     </div>
   </div>
 </div>
+
+<script>
+/* ============ Acceso al prototipo ============ */
+(function(){
+  var CLAVE = 'vamosfacilitea!';
+  var caja  = document.getElementById('acceso');
+  var form  = document.getElementById('acceso-form');
+  var campo = document.getElementById('acceso-clave');
+  var error = document.getElementById('acceso-error');
+
+  function abre(){
+    caja.hidden = true;
+    document.body.style.overflow = '';
+    try{ sessionStorage.setItem('fc-acceso','1'); }catch(e){}
+  }
+
+  /* si ya se validó en esta pestaña, no se vuelve a pedir */
+  var ok = false;
+  try{ ok = sessionStorage.getItem('fc-acceso') === '1'; }catch(e){}
+
+  if(ok){ caja.hidden = true; }
+  else {
+    document.body.style.overflow = 'hidden';
+    window.addEventListener('DOMContentLoaded', function(){ campo.focus(); });
+  }
+
+  form.addEventListener('submit', function(ev){
+    ev.preventDefault();
+    if(campo.value === CLAVE){ abre(); return; }
+    error.hidden = false;
+    campo.setAttribute('aria-invalid','true');
+    campo.select();
+  });
+
+  campo.addEventListener('input', function(){
+    error.hidden = true;
+    campo.removeAttribute('aria-invalid');
+  });
+})();
+</script>
 
 <script>
 (function(){

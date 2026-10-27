@@ -2432,14 +2432,14 @@
         <ref>test_disponibilidad_11</ref>
         <id_oficina>1060</id_oficina>
         <description>
-            <![CDATA[Casa espectacular con vistas a las montañas. Actualmente está alquilada. Sería una venta como inversión]]>
+            <![CDATA[Casa espectacular con vistas a las montañas. Actualmente está alquilada. Sería una venta como inversión.]]>
         </description>
         <unit_number/>
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
         <sale_rent>for_sale</sale_rent>
-        <list_selling_price_amount>63000</list_selling_price_amount>
+        <list_selling_price_amount>630000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
         <bedrooms>3</bedrooms>

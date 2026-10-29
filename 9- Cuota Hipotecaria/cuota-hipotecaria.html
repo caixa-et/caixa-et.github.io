@@ -27,6 +27,7 @@
   --pagina:#fafaf9;
   --neutral-35:#edece7;
   --divider:#cccccc;
+  --neutral-70:#999999;   /* casa/color/stroke/neutral-70 — trazo y glifo de la ⓘ */
   --gris-66:#666666;
   --gris-33:#333333;
   --gris-72:#727272;
@@ -40,9 +41,13 @@
   --seg-2:#8c8c8c;
   --seg-3:#1a1a1a;
   /* Modal «Así se calcula tu cuota» · 586:105202 */
-  --lila-bloque:#f2f3ff;   /* fondo del bloque de cuota */
-  --vn-20:#cfdde0;         /* verdinegro 20 % — entrada */
-  --vn-45:#93adb3;         /* verdinegro 45 % — gastos  */
+  --lila-bloque:#f2f3ff;   /* casa/color/bg/brand-20 */
+  --violeta-20:#f2f3ff;    /* Violeta/20  */
+  --violeta-60:#d7dbff;    /* Violeta/60  */
+  --violeta-100:#bdc3ff;   /* Violeta/100 */
+  --vn-10:#e5ebec;         /* Verdinegro/10 — fondo del botón en hover (953:103790) */
+  --vn-20:#ccd8da;         /* Verdinegro/20 — entrada */
+  --vn-40:#99b1b5;         /* Verdinegro/40 — gastos  */
   --hl:"RB Faktum Neue","Figtree",-apple-system,BlinkMacSystemFont,sans-serif;
   --body:"Roboto",-apple-system,BlinkMacSystemFont,sans-serif;
 }
@@ -73,7 +78,8 @@ a{color:inherit;text-decoration:none}
 .nav .sesion{font-family:var(--hl);font-weight:600;font-size:16px;color:var(--verdinegro);white-space:nowrap}
 
 /* ============ BREADCRUMBS ============ */
-.crumbs{height:81px;padding:24px 80px;display:flex;align-items:center;gap:8px}
+/* 946:55676 · el breadcrumb de la ficha nueva mide 57 con padding vertical 12 */
+.crumbs{height:57px;padding:12px 80px;display:flex;align-items:center;gap:8px}
 .crumbs a,.crumbs button{font-family:var(--body);font-weight:400;font-size:14px;color:var(--tinta)}
 .crumbs .sep{font-size:14px}
 .crumbs .actual{font-family:var(--body);font-weight:600;font-size:14px;color:var(--verdinegro);text-decoration:underline}
@@ -223,8 +229,8 @@ a{color:inherit;text-decoration:none}
 .tag{display:inline-flex;align-items:center;gap:4px;height:24px;padding:4px 8px;border-radius:16px;
   background:var(--neutros-25);font-family:var(--body);font-weight:500;font-size:14px;color:var(--tinta);white-space:nowrap}
 .acciones{margin-top:auto;height:51px;display:flex;align-items:center}
-.btn-contactar{width:212px;height:51px;border-radius:100px;background:var(--verdinegro);
-  font-family:var(--hl);font-weight:600;font-size:16px;color:#fff}
+.btn-contactar{min-width:212px;height:51px;padding:0 24px;border-radius:100px;background:var(--verdinegro);
+  font-family:var(--hl);font-weight:600;font-size:16px;color:#fff;white-space:nowrap}
 /* Favoritos (459:117794): círculo 32 en Rojo/10 con el heart de 18 en Rojo/100 */
 .fav{margin-left:auto;width:32px;height:32px;border-radius:50%;background:var(--rojo-10);
   display:grid;place-items:center;color:var(--rojo-100)}
@@ -241,25 +247,40 @@ a{color:inherit;text-decoration:none}
 
 /* ============ TOGGLE-TIP (botón, diana 24×24) ============ */
 .tip-wrap{position:relative;display:inline-flex}
+/* ⓘ · área de pulsación 24 con el glifo de 15, según Figma */
 .tip-btn,.ico-btn,.ico-card{width:24px;height:24px;display:grid;place-items:center;border-radius:50%}
-.tip-btn i,.ico-btn i,.ico-card i{display:grid;place-items:center;width:16px;height:16px;border-radius:50%;
-  border:1px solid currentColor;font-style:normal;font-family:var(--body);font-weight:500;font-size:9px;line-height:1}
+.tip-btn i,.ico-btn i,.ico-card i{display:grid;place-items:center;width:15px;height:15px;border-radius:50%;
+  border:1px solid var(--neutral-70);color:var(--neutral-70);
+  font-style:normal;font-family:var(--body);font-weight:500;font-size:9px;line-height:1}
+/* dentro del modal la ⓘ es un punto más pequeña */
+#modal .tip-btn i,#modal .ico-btn i{width:14px;height:14px;font-size:8.5px}
+/* Contenedor del toggle-tip · popover del DS (544:46731):
+   280 de ancho, padding 12/14, radio 10, borde #d6d6d6 y sombra 0 3 12 al 10 %.
+   white-space normal: hereda nowrap de las etiquetas y el texto se salía de la caja. */
 .tip{position:absolute;z-index:60;left:-8px;top:30px;width:280px;max-width:calc(100vw - 32px);
-  background:#fff;border-radius:10px;padding:13px 15px 15px;
-  box-shadow:0 6px 24px rgba(0,60,70,.18);border:1px solid var(--neutral-35)}
-.tip h4{font-family:var(--body);font-weight:700;font-size:12.5px;color:var(--verdinegro);margin:0 0 6px}
-.tip p{font-family:var(--body);font-weight:400;font-size:12px;line-height:17px;color:var(--gris-33)}
-/* el toggle-tip se cierra con la propia ⓘ, con Escape o pulsando fuera */
+  box-sizing:border-box;display:flex;flex-direction:column;gap:5px;
+  background:#fff;border-radius:10px;padding:12px 14px;
+  box-shadow:0 3px 12px rgba(0,0,0,.1);border:1px solid var(--modal-div2);
+  white-space:normal;text-align:left}
+.tip-head{display:flex;align-items:flex-start;justify-content:space-between;gap:10px}
+.tip h4{flex:1;font-family:var(--body);font-weight:700;font-size:12.5px;line-height:17px;
+  color:var(--tinta-cuota);margin:0}
+.tip p{font-family:var(--body);font-weight:400;font-size:12px;line-height:17px;color:var(--gris-33);margin:0}
+/* es un toggletip, no un tooltip de hover: se cierra con su ✕, con la propia ⓘ, con Escape o pulsando fuera */
+.tip-x{flex:none;width:16px;height:16px;display:grid;place-items:center;background:none;border:0;
+  font-family:var(--body);font-weight:400;font-size:10.5px;line-height:15px;color:#6b6b6b;cursor:pointer}
 
 /* ============ PDP ============ */
 .pdp .galeria{max-width:1440px;margin:0 auto;padding:0 80px;display:grid;grid-template-columns:791fr 465fr;gap:24px}
-.pdp .gal-main{height:542px;border-radius:24px;background:rgba(0,0,0,.14);position:relative}
-.pdp .gal-lado{display:grid;grid-template-rows:259px 259px;gap:24px}
+/* 946:55676 · Image and Details Container mide 410, con las dos secundarias a 193 */
+.pdp .gal-main{height:410px;border-radius:24px;background:rgba(0,0,0,.14);position:relative}
+.pdp .gal-lado{display:grid;grid-template-rows:193px 193px;gap:24px}
 .pdp .gal-lado div{border-radius:16px;background:rgba(0,0,0,.14);position:relative}
 .pdp .ver-todas{position:absolute;right:24px;bottom:24px;width:126px;height:40px;border-radius:100px;background:#fff;
   font-family:var(--hl);font-weight:600;font-size:14px;color:var(--verdinegro);box-shadow:0 2px 8px rgba(0,0,0,.16)}
-.pdp .wrap{max-width:1440px;margin:0 auto;padding:24px 80px 48px;display:grid;grid-template-columns:791fr 465fr;gap:24px;align-items:start}
-.pdp .columna{display:flex;flex-direction:column;gap:32px;min-width:0}   /* Summary Container · gap 32 */
+/* Main Content · gap 20 entre galería y contenido, padding 0/80/48 */
+.pdp .wrap{max-width:1440px;margin:0 auto;padding:20px 80px 48px;display:grid;grid-template-columns:791fr 465fr;gap:24px;align-items:start}
+.pdp .columna{display:flex;flex-direction:column;gap:24px;min-width:0}   /* Summary Container · gap 24 */
 .pdp .rail{position:sticky;top:24px;display:flex;flex-direction:column;gap:24px}
 .pdp .tarjeta{background:#fff;border-radius:24px;padding:24px;display:flex;flex-direction:column;gap:24px}
 .pdp .tarjeta h2{font-family:var(--hl);font-weight:600;font-size:24px;color:var(--verdinegro)}
@@ -275,7 +296,9 @@ a{color:inherit;text-decoration:none}
   border:2px solid var(--verdinegro);border-radius:100px;background:#fff;color:var(--verdinegro);
   font-family:var(--hl);font-weight:600;font-size:16px}
 /* CASA_Action Card · cada una con su color e icono (565:67345 y 565:67358) */
-.pdp .accion{border-radius:24px;padding:32px 24px;display:flex;align-items:center;gap:24px}
+.pdp .accion{border-radius:24px;padding:32px 24px;display:flex;align-items:center;gap:24px;
+  text-decoration:none;color:inherit}
+a.pdp-accion:focus-visible,.pdp a.accion:focus-visible{outline:3px solid var(--verdinegro);outline-offset:2px}
 .pdp .accion.simulador{background:#f2f3ff}
 .pdp .accion.facilitea{background:#f1f1ed}
 .pdp .accion .ico{flex:0 0 80px;width:80px;height:80px;border-radius:40px;display:grid;place-items:center;
@@ -343,6 +366,47 @@ a{color:inherit;text-decoration:none}
 .fin .calc{margin-top:8px;font-family:var(--body);font-size:12.5px;color:var(--tinta);text-decoration:underline;display:inline-block}
 .fin .div{height:1px;background:var(--divider);margin:24px 0 20px}
 .fin .disclaimer{font-family:var(--body);font-size:12px;line-height:18px;color:var(--gris-33)}
+
+/* ============ GALERÍA COMPLETA · 953:103479 ============ */
+.gal{width:1440px;margin:0 auto;background:var(--pagina);padding-bottom:160px}
+/* 586:105106 · el bloque va centrado, no repartido a los extremos */
+.gal-cab{position:sticky;top:0;z-index:30;background:#fff;padding:24px 80px;
+  display:flex;align-items:center;justify-content:center;gap:10px}
+.gal-cab .bloque{display:flex;align-items:center;gap:16px;min-width:0;max-width:1280px}
+.gal-cab .atras{width:24px;height:24px;flex:none;display:grid;place-items:center;color:var(--verdinegro)}
+.gal-cab h1{font-family:var(--hl);font-weight:400;font-size:24px;line-height:29px;color:var(--verdinegro);
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.gal-cab .acc{display:flex;gap:8px;flex:none}
+.gal-cab .acc button{width:32px;height:32px;border-radius:50%;display:grid;place-items:center}
+.gal-cab .acc .compartir{background:var(--pagina);color:var(--verdinegro)}
+.gal-cab .acc .fav{background:var(--rojo-10);color:var(--rojo-100)}
+.gal-cuerpo{padding:20px 242px 0;display:flex;flex-direction:column;align-items:center;gap:24px}
+.gal-cuerpo .foto{background:rgba(0,0,0,.14)}
+.gal-cuerpo .grande{width:956px;height:660px}
+.gal-fila{display:grid;grid-template-columns:466px 466px;gap:24px}
+.gal-fila .foto{height:322px}
+
+/* ============ Barra resumen sticky · 953:103462 ============ */
+.barra-resumen{position:fixed;left:50%;bottom:0;z-index:45;width:1440px;height:83px;
+  transform:translate(-50%,100%);opacity:0;visibility:hidden;
+  transition:transform .22s ease,opacity .22s ease,visibility .22s;
+  background:#fff;border-top:1px solid var(--neutral-35);box-shadow:0 -4px 10px rgba(0,0,0,.1);
+  padding:16px 242px;display:flex;align-items:center;gap:24px}
+.barra-resumen.visible{transform:translate(-50%,0);opacity:1;visibility:visible}
+.br-izq{display:flex;align-items:center;gap:20px;min-width:0}
+.br-mini{width:48px;height:48px;flex:none;border-radius:8px;background:rgba(0,0,0,.14)}
+.br-inm{display:flex;flex-direction:column;gap:4px}
+.br-inm .p{font-family:var(--hl);font-weight:600;font-size:17px;line-height:23px;color:#363636;white-space:nowrap}
+.br-inm .s{font-family:var(--body);font-weight:400;font-size:14px;line-height:16px;color:var(--gris-66);white-space:nowrap}
+.br-div{width:1px;height:48px;flex:none;background:var(--neutral-35)}
+.br-fin{display:flex;flex-direction:column;align-items:center;gap:6px}
+.br-chip{padding:4px 10px;border-radius:57px;background:var(--brand-40);
+  font-family:var(--body);font-weight:500;font-size:16px;line-height:20px;color:var(--tinta-cuota);white-space:nowrap}
+.br-fin .s{font-family:var(--body);font-weight:400;font-size:13px;line-height:16px;color:var(--gris-66);white-space:nowrap}
+.br-sim{font-family:var(--hl);font-weight:600;font-size:12px;line-height:16px;color:var(--verdinegro);
+  text-decoration:underline;white-space:nowrap}
+.br-cta{margin-left:auto;flex:none;min-width:310px;height:48px;padding:0 48px;border-radius:100px;
+  background:var(--verdinegro);font-family:var(--hl);font-weight:600;font-size:16px;color:#fff;white-space:nowrap}
 
 /* ============ FOOTER ============ */
 footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;flex-direction:column;gap:32px}
@@ -413,41 +477,108 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
 .m-head h2{flex:1;font-family:var(--hl);font-weight:600;font-size:18px;line-height:26px;color:var(--verdinegro)}
 .m-head .cerrar{width:24px;height:24px;display:grid;place-items:center;font-family:var(--body);font-size:16px;color:var(--verdinegro)}
 .m-div{height:1px;background:var(--neutral-35)}
-.m-bloque{background:var(--lila-bloque);padding:16px 20px;display:flex;flex-direction:column;gap:10px}
-.m-bloque .et{font-family:var(--body);font-weight:500;font-size:13px;color:var(--gris-33)}
-.m-bloque .cifra{font-family:var(--hl);font-weight:600;font-size:32px;line-height:38px;color:var(--verdinegro);margin-top:2px}
+.m-bloque{background:var(--lila-bloque);border-radius:24px;padding:16px 20px;display:flex;flex-direction:column;gap:10px}
+.m-bloque .et{font-family:var(--body);font-weight:400;font-size:14px;line-height:16px;color:var(--gris-33)}
+.m-bloque .cifra{font-family:var(--hl);font-weight:600;font-size:32px;line-height:38px;color:var(--tinta);margin-top:2px}
+/* «/mes» va dentro de la cifra, a 16 px · 639:121090 */
+.m-bloque .cifra .mes{font-size:16px}
 .m-ctx{display:flex;align-items:center;gap:6px;margin-top:2px}
-.m-ctx span{font-family:var(--body);font-weight:400;font-size:12.5px;color:var(--gris-33)}
+.m-ctx span{font-family:var(--body);font-weight:400;font-size:14px;line-height:16px;color:var(--gris-33)}
 .m-linea{height:1px;background:var(--divider)}
 .m-fila{display:flex;align-items:center;gap:8px}
 .m-fila .l{display:flex;align-items:center;gap:7px}
-.m-fila .l span{font-family:var(--body);font-weight:400;font-size:12.5px;color:var(--gris-33)}
-.m-fila .val{margin-left:auto;font-family:var(--body);font-weight:500;font-size:13px;color:var(--verdinegro)}
-.m-total{padding:12px 20px 18px;display:flex;flex-direction:column;gap:8px}
-.m-total h3{font-family:var(--hl);font-weight:600;font-size:14px;line-height:20px;color:var(--verdinegro)}
-.m-barra{height:26px;border-radius:4px;overflow:hidden;display:flex}
+.m-fila .l span{font-family:var(--body);font-weight:400;font-size:14px;line-height:16px;color:var(--gris-33)}
+.m-fila .val{margin-left:auto;font-family:var(--body);font-weight:500;font-size:14px;line-height:16px;color:var(--verdinegro)}
+/* dentro del bloque de cuota las filas van en tinta, no en verdinegro */
+.m-bloque .m-fila .l span,.m-bloque .m-fila .val{color:var(--tinta)}
+.m-total{padding:12px 20px 18px;display:flex;flex-direction:column;gap:12px}
+.m-total h3{font-family:var(--body);font-weight:600;font-size:14px;line-height:16px;color:var(--verdinegro)}
+.m-barra{height:26px;border-radius:4px;overflow:hidden;display:flex;border:1px solid var(--divider)}
 .m-barra i{display:flex;align-items:center;justify-content:center;font-family:var(--body);font-weight:500;font-size:11px;font-style:normal}
-.m-barra .s1{background:var(--vn-20);color:var(--verdinegro)}
-.m-barra .s2{background:var(--vn-45);color:var(--verdinegro)}
-.m-barra .s3{background:var(--verdinegro);color:#fff}
-.m-leyenda{padding-top:4px;display:flex;flex-direction:column;gap:7px}
+.m-barra .s1{background:var(--violeta-20);color:var(--verdinegro)}
+.m-barra .s2{background:var(--violeta-60);color:var(--verdinegro)}
+.m-barra .s3{background:var(--violeta-100);color:var(--verdinegro)}
+.m-leyenda{padding-top:4px;display:flex;flex-direction:column;gap:12px}
 /* Muestras de color — enlazan cada fila con su tramo de la barra */
-.m-sw{flex:none;width:14px;height:14px;border-radius:4px}
-.m-sw.c1{background:var(--vn-20)}
-.m-sw.c2{background:var(--vn-45)}
-.m-sw.c3{background:var(--verdinegro)}
-.m-fila.suma .l{padding-left:22px}
+.m-sw{flex:none;width:14px;height:14px;border-radius:4px;border:1px solid var(--divider)}
+.m-sw.c1{background:var(--violeta-20)}
+.m-sw.c2{background:var(--violeta-60)}
+.m-sw.c3{background:var(--violeta-100)}
 .m-fila.suma{padding-top:6px}
-.m-fila.suma .val{font-family:var(--hl);font-weight:600;font-size:16px;color:var(--verdinegro)}
-.m-fila.suma .l span{font-family:var(--body);font-weight:500;font-size:13px;color:var(--verdinegro)}
+.m-fila.suma .val{font-family:var(--body);font-weight:600;font-size:14px;line-height:16px;color:var(--verdinegro)}
+.m-fila.suma .l span{font-family:var(--body);font-weight:600;font-size:14px;line-height:16px;color:var(--verdinegro)}
 /* CTA centrado */
-.m-cta{padding:0 20px 25px;display:flex;flex-direction:column;gap:12px;align-items:center;text-align:center}
+.m-cta{padding:0 20px 20px;display:flex;flex-direction:column;gap:16px;align-items:center;text-align:center}
 /* «Te acompañamos en el siguiente paso» · 565:69847 */
-.m-cta h3{font-family:var(--hl);font-weight:400;font-size:14px;line-height:23px;color:var(--tinta-cuota)}
+.m-cta h3{font-family:var(--body);font-weight:400;font-size:14px;line-height:16px;color:var(--gris-33)}
 .m-cta .m-linea{width:100%}
-.m-cta .btn{width:100%;height:52px;border-radius:100px;background:var(--verdinegro);color:#fff;display:flex;align-items:center;
-  justify-content:center;gap:6px;font-family:var(--hl);font-weight:600;font-size:14px}
-.m-cta .empezar{font-family:var(--body);font-weight:500;font-size:12.5px;color:var(--verdinegro);text-decoration:underline}
+.m-cta .btn{width:100%;height:52px;border-radius:100px;background:#fff;border:2px solid var(--verdinegro);
+  color:var(--verdinegro);display:flex;align-items:center;justify-content:center;gap:12px;
+  font-family:var(--hl);font-weight:600;font-size:16px}
+.m-cta .empezar{font-family:var(--hl);font-weight:600;font-size:14px;color:var(--verdinegro);text-decoration:underline}
+
+/* ============ Módulo de precio en ficha · 922:75768 ============ */
+.pdp .tarjeta.mp{background:#fff;border-radius:24px;padding:20px 24px;display:flex;flex-direction:column;gap:18px}
+.mp-top{display:flex;align-items:center;gap:24px}
+.mp-tags{flex:1;display:flex;flex-wrap:wrap;gap:12px;margin:0;padding:0;list-style:none}
+.mp-tag{height:24px;padding:6px 12px;border-radius:16px;background:#e5ebec;
+  font-family:var(--body);font-weight:500;font-size:12px;line-height:12px;color:var(--tinta);
+  display:inline-flex;align-items:center;white-space:nowrap}
+.mp-acc{flex:none;display:flex;gap:8px}
+.mp-acc button{width:32px;height:32px;border-radius:50%;background:var(--pagina);
+  display:grid;place-items:center;color:var(--verdinegro);cursor:pointer}
+.mp-acc .fav{background:var(--rojo-10);color:var(--rojo-100)}
+.mp-acc svg{width:18px;height:18px;display:block}
+.mp-titulo{font-family:var(--hl);font-weight:400;font-size:32px;line-height:38px;color:var(--verdinegro)}
+.mp-titulo:focus{outline:none}
+.mp-titulo:focus-visible{outline:none}
+.mp-resumen{display:flex;flex-direction:column;gap:20px}
+.mp-fila{display:flex;gap:24px;align-items:flex-start}
+.mp-col{flex:1;min-width:0;display:flex;flex-direction:column}
+.mp-et{font-family:var(--body);font-weight:400;font-size:14px;line-height:16px;color:var(--gris-66)}
+.mp-cifra{font-family:var(--hl);font-weight:600;font-size:38px;line-height:46px;color:var(--verdinegro);margin-top:4px}
+.mp-cuota{display:flex;align-items:center;gap:8px;margin-top:4px}
+/* en esta fila la etiqueta va en tinta, no en gris · 922:75489 */
+.mp-cuota .mp-et{color:var(--tinta)}
+.mp-chip{padding:4px 10px;border-radius:57px;background:var(--brand-40);
+  font-family:var(--body);font-weight:500;font-size:20px;line-height:20px;color:var(--tinta);white-space:nowrap}
+.mp-sup{margin-top:16px;font-family:var(--body);font-weight:400;font-size:14px;line-height:20px;color:var(--tinta)}
+.mp-link{margin-top:16px;align-self:flex-start;font-family:var(--hl);font-weight:500;font-size:14px;
+  line-height:17px;color:var(--verdinegro);text-decoration:underline;cursor:pointer}
+.mp-card{width:400px;flex:none;background:#fff;border:1px solid var(--neutral-35);border-radius:12px;
+  padding:18px 20px;display:flex;flex-direction:column;gap:20px}
+.mp-card h3{font-family:var(--body);font-weight:600;font-size:14px;line-height:16px;color:var(--verdinegro)}
+.mp-cab{display:flex;flex-direction:column;gap:12px}
+.mp-ctrls{display:flex;gap:20px}
+.mp-ctrls .ctrl{flex:1 1 0;min-width:0}
+.mp-ctrls .et{display:flex;align-items:center;gap:2px;min-height:24px;white-space:nowrap;
+  font-family:var(--body);font-weight:400;font-size:14px;line-height:16px;color:var(--tinta);margin-bottom:6px}
+/* el segmentado del componente mide 30 de alto */
+.mp-card .pills span{height:30px}
+.mp-btn{width:100%;height:52px;border-radius:100px;background:#fff;border:2px solid var(--verdinegro);
+  color:var(--verdinegro);display:flex;align-items:center;justify-content:center;gap:12px;
+  font-family:var(--hl);font-weight:600;font-size:16px;cursor:pointer}
+/* 953:103790 · hover del botón «Simula tu hipoteca con CaixaBank»:
+   mismo trazo y mismo texto, el relleno pasa de blanco a Verdinegro/10. */
+.mp-btn,.m-cta .btn{transition:background-color .15s ease}
+@media (hover:hover){
+  .mp-btn:hover,.m-cta .btn:hover{background:var(--vn-10)}
+}
+.mp-btn:focus-visible,.m-cta .btn:focus-visible{outline:3px solid var(--verdinegro);outline-offset:2px}
+.mp-disc{font-family:var(--body);font-weight:400;font-size:12px;line-height:16px;color:var(--gris-33)}
+.mp-div{height:1px;background:var(--divider)}
+/* 922:75534 · Location and Badge · gap 12, centrado.
+   Va con el prefijo .pdp .tarjeta porque si no gana «.pdp .tarjeta h2» (24/600/verdinegro). */
+.pdp .tarjeta .mp-loc{display:flex;align-items:center;gap:12px}
+.pdp .tarjeta .mp-loc h2{font-family:var(--hl);font-weight:400;font-size:18px;line-height:22px;
+  color:var(--tinta);margin:0}
+.pdp .tarjeta .mp-loc button{height:31px;padding:6px 0;font-family:var(--hl);font-weight:600;font-size:16px;
+  line-height:19px;color:var(--verdinegro);text-decoration:underline;cursor:pointer}
+@media (max-width:980px){
+  .mp-titulo{font-size:28px;line-height:34px}
+  .mp-fila{flex-direction:column;gap:24px}
+  .mp-card{width:100%;padding:18px 12px}
+}
 /* ============ Pantalla de acceso ============ */
 .acceso{position:fixed;inset:0;z-index:200;background:var(--pagina);
   display:flex;align-items:center;justify-content:center;padding:24px}
@@ -798,30 +929,39 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
   <div class="wrap">
     <div class="columna">
 
-      <section class="tarjeta">
-        <div class="tit-fila">
-          <h1 id="pdp-titulo">Venta Piso en Gràcia, Barcelona</h1>
-          <div class="acc-tit"><button aria-label="Compartir">↗</button><button aria-label="Favoritos">♡</button></div>
+      <section class="tarjeta mp">
+
+        <div class="mp-top">
+          <ul class="mp-tags">
+            <li class="mp-tag">2 hab.</li><li class="mp-tag">2 baños</li><li class="mp-tag">71 m²</li>
+            <li class="mp-tag">Planta 4ª</li><li class="mp-tag">Ascensor</li><li class="mp-tag">Garaje</li>
+          </ul>
+          <div class="mp-acc">
+            <button type="button" aria-label="Compartir"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M13 4.5 20.5 11 13 17.5V13.5C7.5 13.5 4.5 15.5 3 19c.5-6 3.5-9.5 10-9.5Z"/></svg></button>
+            <button type="button" class="fav" aria-pressed="false" aria-label="Guardar en favoritos"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12.62 20.81c-.34.12-.9.12-1.24 0C8.48 19.82 2 15.69 2 8.69 2 5.6 4.49 3.1 7.56 3.1c1.82 0 3.43.88 4.44 2.24a5.53 5.53 0 0 1 4.44-2.24C19.51 3.1 22 5.6 22 8.69c0 7-6.48 11.13-9.38 12.12Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          </div>
         </div>
 
-        <div>
-          <p class="et-precio">Precio de venta</p>
-          <p class="precio-g" id="pdp-precio">600.000 €</p>
-        </div>
+        <div class="mp-resumen">
+        <h1 class="mp-titulo" id="pdp-titulo" tabindex="-1">Venta Piso en Gràcia, Barcelona</h1>
 
-        <!-- fin wrap -->
-        <div class="fin" id="pdp-fin">
-          <div class="fin-cols">
-            <div>
-              <span class="lab">Cuota mensual estimada
-                <button type="button" class="ico-btn" data-modal
-                        aria-label="Ver cómo se calcula esta cuota"><i aria-hidden="true">i</i></button>
-              </span>
-              <p class="cuota-v"><span id="pdp-cuota">2.227</span> <small>€/mes</small></p>
-              <a class="btn-sim" href="#" target="_blank" rel="noopener"><span aria-hidden="true">⌂</span>Simula tu hipoteca con CaixaBank</a>
+        <div class="mp-fila" id="pdp-fin">
+          <div class="mp-col">
+            <p class="mp-et">Precio de venta</p>
+            <p class="mp-cifra" id="pdp-precio">600.000 €</p>
+            <div class="mp-cuota">
+              <span class="mp-et">Cuota estimada</span>
+              <span class="mp-chip"><span id="pdp-cuota">2.227</span> €/mes</span>
             </div>
-            <div>
-              <div class="controles">
+            <p class="mp-sup">Financiación 80% del precio del inmueble.<br>
+              Entrada inicial <span id="pdp-entrada">120.000 €</span>.</p>
+            <button class="mp-link" data-modal aria-haspopup="dialog">Ver detalle del cálculo</button>
+          </div>
+
+          <div class="mp-card">
+            <div class="mp-cab">
+              <h3>Ajusta tu cuota</h3>
+              <div class="mp-ctrls">
                 <div class="ctrl">
                   <span class="et">Tipo de interés (TIN)
                     <span class="tip-wrap">
@@ -840,7 +980,16 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
                   </div>
                 </div>
                 <div class="ctrl">
-                  <span class="et">Plazo (Años)</span>
+                  <span class="et">Plazo (Años)
+                    <span class="tip-wrap">
+                      <button type="button" class="tip-btn" aria-expanded="false" aria-controls="tip-plazo-pdp"
+                              aria-label="Más información sobre el plazo"><i aria-hidden="true">i</i></button>
+                      <span class="tip" id="tip-plazo-pdp" role="dialog" aria-labelledby="tip-plazo-pdp-h" hidden>
+                        <h4 id="tip-plazo-pdp-h">¿Qué es el plazo?</h4>
+                        <p>Los años en los que devuelves el préstamo. A más años, menos pagas cada mes pero más intereses en total.</p>
+                      </span>
+                    </span>
+                  </span>
                   <div class="pills" role="radiogroup" aria-label="Plazo en años">
                     <label><input type="radio" name="plazo-pdp" value="20"><span>20</span></label>
                     <label><input type="radio" name="plazo-pdp" value="25" checked><span>25</span></label>
@@ -848,24 +997,21 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
                   </div>
                 </div>
               </div>
-              <p class="nota">Importe de la hipoteca <span id="pdp-hipoteca">480.000 €</span>.<br>Financiación 80% del precio del inmueble.</p>
-              <button class="calc" data-combis>Todas mis opciones</button>
             </div>
+            <a class="mp-btn" data-sim href="#" target="_blank" rel="noopener noreferrer" aria-label="Simula tu hipoteca con CaixaBank (se abre en una pestaña nueva)"><svg viewBox="0 0 24 24" aria-hidden="true" width="24" height="24" style="flex:none"><path d="M15 1.5c.9 3 1.1 5.6.6 7.9l6.4-3.3c-1.6 2.7-3.5 4.6-5.6 5.9l6.1 1.7c-3 .6-5.6.5-7.8-.2l2.6 5.9c-2.2-1.9-3.7-4-4.6-6.3l-2.1 6.2c-.5-3-.4-5.5.3-7.7L5.6 15c1.5-2.6 3.3-4.5 5.3-5.8L4.6 7.4c3-.5 5.6-.3 7.7.6L10 2.4c2.1 1.9 3.6 3.9 4.4 6.1Z" fill="#009ad8"/><circle cx="9" cy="17.6" r="1.9" fill="#e65a2b"/><circle cx="11.4" cy="21.3" r="1.3" fill="#f4c00e"/></svg>Simula tu hipoteca con CaixaBank</a>
           </div>
-          <div class="div"></div>
-          <p class="disclaimer">Esta cuota es solo una estimación orientativa que tú mismo configuras y no constituye
-            una oferta de préstamo. Puedes modificar libremente el tipo de interés y el plazo para hacer tus propias
-            simulaciones y poder hacerte una idea aproximada de lo que supondría financiar la compra de este inmueble.</p>
+        </div>
         </div>
 
-        <hr class="divisor">
-        <ul class="tags" style="height:auto;flex-wrap:wrap">
-          <li class="tag">3 hab.</li><li class="tag">3 baños</li><li class="tag">111 m²</li>
-          <li class="tag">Planta 1ª</li><li class="tag">Ascensor</li><li class="tag">Garaje</li>
-        </ul>
-        <div style="display:flex;align-items:center;gap:12px">
-          <h2 style="font-size:18px">Gràcia, Barcelona</h2>
-          <button style="font-size:16px;text-decoration:underline">Mostrar en mapa</button>
+        <p class="mp-disc">Esta cuota es solo una estimación orientativa que tú mismo configuras y no constituye
+          una oferta de préstamo. Puedes modificar libremente el tipo de interés y el plazo para hacer tus propias
+          simulaciones y poder hacerte una idea aproximada de lo que supondría financiar la compra de este inmueble.</p>
+
+        <div class="mp-div"></div>
+
+        <div class="mp-loc">
+          <h2>Gràcia, Barcelona</h2>
+          <button type="button">Mostrar en mapa</button>
         </div>
       </section>
 
@@ -929,14 +1075,15 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
         </div>
       </section>
 
-      <div class="accion simulador">
+      <a class="accion simulador" data-sim href="#" target="_blank" rel="noopener noreferrer"
+         aria-label="Simulador de hipotecas CaixaBank (se abre en una pestaña nueva)">
         <span class="ico" aria-hidden="true">★</span>
         <div class="texto">
           <h3>Simulador de hipotecas CaixaBank</h3>
           <p>Puedes simular la cuota con la calculadora de hipotecas CaixaBank.</p>
         </div>
         <span class="ir" aria-hidden="true">→</span>
-      </div>
+      </a>
 
       <section class="tarjeta">
         <h2>Ubicación</h2>
@@ -961,7 +1108,7 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
 
     <aside class="rail">
       <form class="form" onsubmit="return false" aria-labelledby="h-form">
-        <h2 id="h-form">Contactar</h2>
+        <h2 id="h-form">Contactar con el anunciante</h2>
         <div class="campo"><label for="c-nom">Nombre</label><input id="c-nom" type="text"></div>
         <div class="campo"><label for="c-mail">Correo electrónico</label><input id="c-mail" type="email"></div>
         <div class="campo"><label for="c-tel">Número móvil</label><input id="c-tel" type="tel"></div>
@@ -991,6 +1138,65 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
 </div>
 
 <!-- =================================================================
+     GALERÍA COMPLETA · 953:103479
+     Se abre desde «Ver todas». La barra resumen aparece al hacer scroll.
+     ================================================================= -->
+<div class="marco gal" id="vista-galeria" hidden>
+
+  <header class="gal-cab">
+    <div class="bloque">
+      <button type="button" class="atras" id="gal-volver" aria-label="Volver a la ficha del inmueble">
+        <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none" stroke="currentColor"
+             stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5"/><path d="m11 6-6 6 6 6"/></svg>
+      </button>
+      <h1 id="gal-titulo" tabindex="-1">Venta Piso en Gràcia, Barcelona</h1>
+      <div class="acc">
+        <button type="button" class="compartir" aria-label="Compartir"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M13 4.5 20.5 11 13 17.5V13.5C7.5 13.5 4.5 15.5 3 19c.5-6 3.5-9.5 10-9.5Z"/></svg></button>
+        <button type="button" class="fav" aria-pressed="false" aria-label="Guardar en favoritos"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M12.62 20.81c-.34.12-.9.12-1.24 0C8.48 19.82 2 15.69 2 8.69 2 5.6 4.49 3.1 7.56 3.1c1.82 0 3.43.88 4.44 2.24a5.53 5.53 0 0 1 4.44-2.24C19.51 3.1 22 5.6 22 8.69c0 7-6.48 11.13-9.38 12.12Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+      </div>
+    </div>
+  </header>
+
+  <div class="gal-cuerpo">
+    <div class="foto grande" role="img" aria-label="Fotografía 1 de 7 · salón"></div>
+    <div class="gal-fila">
+      <div class="foto" role="img" aria-label="Fotografía 2 de 7 · cocina"></div>
+      <div class="foto" role="img" aria-label="Fotografía 3 de 7 · dormitorio principal"></div>
+    </div>
+    <div class="gal-fila">
+      <div class="foto" role="img" aria-label="Fotografía 4 de 7 · segundo dormitorio"></div>
+      <div class="foto" role="img" aria-label="Fotografía 5 de 7 · baño"></div>
+    </div>
+    <div class="gal-fila">
+      <div class="foto" role="img" aria-label="Fotografía 6 de 7 · terraza"></div>
+      <div class="foto" role="img" aria-label="Fotografía 7 de 7 · portal del edificio"></div>
+    </div>
+  </div>
+</div>
+
+<!-- =================================================================
+     BARRA RESUMEN STICKY · 953:103462
+     Fija abajo. Solo en la galería y solo después de empezar a bajar.
+     ================================================================= -->
+<div class="barra-resumen" id="barra-resumen" aria-hidden="true">
+  <div class="br-izq">
+    <span class="br-mini" role="img" aria-label="Miniatura del inmueble"></span>
+    <div class="br-inm">
+      <p class="p" id="br-precio">600.000 €</p>
+      <p class="s" id="br-sub">Piso en Gràcia · 111 m²</p>
+    </div>
+    <span class="br-div" aria-hidden="true"></span>
+    <div class="br-fin" id="br-fin">
+      <span class="br-chip"><span id="br-cuota">2.227</span> €/mes</span>
+      <span class="s" id="br-cond">TIN 2,8 % · 25 años</span>
+    </div>
+    <a class="br-sim" data-sim href="#" target="_blank" rel="noopener noreferrer"
+       aria-label="Simula tu hipoteca con CaixaBank (se abre en una pestaña nueva)">Simula tu hipoteca con CaixaBank</a>
+  </div>
+  <button type="button" class="br-cta">Contactar con el anunciante</button>
+</div>
+
+<!-- =================================================================
      PASO 6 · MODAL con overlay al 50 %
      ================================================================= -->
 <div class="overlay" id="overlay" hidden>
@@ -1002,13 +1208,12 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
         <button class="cerrar" id="m-cerrar" aria-label="Cerrar">✕</button>
       </div>
     </div>
-    <div class="m-div"></div>
-    <div class="m-div"></div>
+    <!-- 850:91886 · el divider bajo la cabecera va oculto en el componente -->
 
     <div class="m-bloque">
       <div>
         <span class="et">Tu cuota mensual estimada</span>
-        <p class="cifra" id="m-cuota">2.227 €</p>
+        <p class="cifra" id="m-cuota">2.227 €<span class="mes">/mes</span></p>
         <div class="m-ctx">
           <span id="m-contexto">durante 25 años, con un TIN del 2,8 %</span>
           <span class="tip-wrap">
@@ -1117,7 +1322,7 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
     <div class="m-cta">
       <div class="m-linea"></div>
       <h3>Te acompañamos en el siguiente paso</h3>
-      <a class="btn" href="#" target="_blank" rel="noopener"><span aria-hidden="true">⌂</span>Simula tu hipoteca con CaixaBank</a>
+      <a class="btn" data-sim href="#" target="_blank" rel="noopener noreferrer" aria-label="Simula tu hipoteca con CaixaBank (se abre en una pestaña nueva)"><svg viewBox="0 0 24 24" aria-hidden="true" width="24" height="24" style="flex:none"><path d="M15 1.5c.9 3 1.1 5.6.6 7.9l6.4-3.3c-1.6 2.7-3.5 4.6-5.6 5.9l6.1 1.7c-3 .6-5.6.5-7.8-.2l2.6 5.9c-2.2-1.9-3.7-4-4.6-6.3l-2.1 6.2c-.5-3-.4-5.5.3-7.7L5.6 15c1.5-2.6 3.3-4.5 5.3-5.8L4.6 7.4c3-.5 5.6-.3 7.7.6L10 2.4c2.1 1.9 3.6 3.9 4.4 6.1Z" fill="#009ad8"/><circle cx="9" cy="17.6" r="1.9" fill="#e65a2b"/><circle cx="11.4" cy="21.3" r="1.3" fill="#f4c00e"/></svg>Simula tu hipoteca con CaixaBank</a>
       <button class="empezar">¿No sabes por donde empezar?</button>
     </div>
   </div>
@@ -1144,7 +1349,7 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
     <div class="mc-cta">
       <div class="m-linea" style="width:100%"></div>
       <h3>Te acompañamos en el siguiente paso</h3>
-      <a class="btn" href="#" target="_blank" rel="noopener"><span aria-hidden="true">⌂</span>Simula tu hipoteca con CaixaBank</a>
+      <a class="btn" data-sim href="#" target="_blank" rel="noopener noreferrer" aria-label="Simula tu hipoteca con CaixaBank (se abre en una pestaña nueva)"><svg viewBox="0 0 24 24" aria-hidden="true" width="24" height="24" style="flex:none"><path d="M15 1.5c.9 3 1.1 5.6.6 7.9l6.4-3.3c-1.6 2.7-3.5 4.6-5.6 5.9l6.1 1.7c-3 .6-5.6.5-7.8-.2l2.6 5.9c-2.2-1.9-3.7-4-4.6-6.3l-2.1 6.2c-.5-3-.4-5.5.3-7.7L5.6 15c1.5-2.6 3.3-4.5 5.3-5.8L4.6 7.4c3-.5 5.6-.3 7.7.6L10 2.4c2.1 1.9 3.6 3.9 4.4 6.1Z" fill="#009ad8"/><circle cx="9" cy="17.6" r="1.9" fill="#e65a2b"/><circle cx="11.4" cy="21.3" r="1.3" fill="#f4c00e"/></svg>Simula tu hipoteca con CaixaBank</a>
       <p class="legal">Cálculo orientativo. No incluye seguros ni comisiones y no constituye una oferta.</p>
     </div>
   </div>
@@ -1180,7 +1385,7 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
 
     <div class="m-div"></div>
     <div class="mk-pie">
-      <a class="btn" href="#" target="_blank" rel="noopener">¿No sabes por donde empezar?</a>
+      <a class="btn" data-sim href="#" target="_blank" rel="noopener noreferrer" aria-label="Simula tu hipoteca con CaixaBank (se abre en una pestaña nueva)">¿No sabes por donde empezar?</a>
     </div>
   </div>
 </div>
@@ -1258,6 +1463,29 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
     {p:915000, t:'Piso en Gràcia, Barcelona'}
   ];
 
+  /* ---- simulador de CaixaBank ----
+     Se abre en pestaña nueva. El precio del inmueble viaja en paramInPrecioVivienda;
+     el resto de parámetros son los del enlace de integración. */
+  var SIM_URL = 'https://www2.caixabank.es/apl/hipotecas/simulador/index_es.html' +
+    '?corp:nf-faciliteacasa:nm-fichainmueble&origen=faciliteacasa' +
+    '&paramInPrecioVivienda={PRECIO}&idApi=101600&api=Nadlan%20Zahav,%20S.L.' +
+    '&refInmueble=270778&tipoObra=segundamano&provincia=M%C3%A1laga';
+
+  function urlSimulador(x){
+    var precio = (x && typeof x.p === 'number') ? Math.round(x.p) : 579000;
+    return SIM_URL.replace('{PRECIO}', precio);
+  }
+
+  /* reparte la URL con el precio del inmueble abierto a todos los enlaces del simulador */
+  function pintaEnlacesSim(){
+    var u = urlSimulador(INMUEBLES[S.inmueble]);
+    document.querySelectorAll('a[data-sim]').forEach(function(a){
+      a.setAttribute('href', u);
+      a.setAttribute('target', '_blank');
+      a.setAttribute('rel', 'noopener noreferrer');
+    });
+  }
+
   /* Solo se calcula cuota sobre una compra con precio publicado dentro del rango. */
   function financiable(x){
     return x.p !== null && !x.alquiler && x.p >= MIN_SIM && x.p <= MAX_SIM;
@@ -1326,11 +1554,13 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
             '<p class="supuestos">TIN ' + tinTxt() + ' · ' + S.plazo + ' años · Importe de la hipoteca: ' +
               eur(x.p*LTV) + '€' +
               '<br><span class="gris">Puedes modificar el TIN y el plazo en el panel de filtros.</span></p>' +
-            '<a class="enlace-sim" href="#" target="_blank" rel="noopener">Simula tu hipoteca con CaixaBank →</a></div>'
+            '<a class="enlace-sim" href="' + urlSimulador(x) + '" target="_blank" rel="noopener noreferrer" ' +
+              'aria-label="Simula tu hipoteca con CaixaBank (se abre en una pestaña nueva)">' +
+              'Simula tu hipoteca con CaixaBank →</a></div>'
           : '') +
           '<div class="tags">' +
             x.tags.map(function(t){ return '<span class="tag">' + t + '</span>'; }).join('') + '</div>' +
-          '<div class="acciones"><button class="btn-contactar">Contactar con agente</button>' +
+          '<div class="acciones"><button class="btn-contactar">Contactar con el anunciante</button>' +
             '<button class="fav" type="button" aria-pressed="false" aria-label="Guardar en favoritos">' +
               '<svg viewBox="0 0 24 24" aria-hidden="true">' +
                 '<path class="contorno" d="M12.62 20.81c-.34.12-.9.12-1.24 0C8.48 19.82 2 15.69 2 8.69 2 5.6 4.49 3.1 7.56 3.1c1.82 0 3.43.88 4.44 2.24a5.53 5.53 0 0 1 4.44-2.24C19.51 3.1 22 5.6 22 8.69c0 7-6.48 11.13-9.38 12.12Z" fill="none" stroke="currentColor" ' +
@@ -1416,6 +1646,8 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
   function pintaFicha(){
     var x = INMUEBLES[S.inmueble];
     var f = financiable(x);
+    if(typeof pintaBarra === 'function') pintaBarra();
+    pintaEnlacesSim();
     document.getElementById('pdp-titulo').textContent =
       (x.alquiler ? '' : 'Venta ') + x.t;
     document.getElementById('pdp-precio').textContent = etiquetaPrecio(x);
@@ -1426,7 +1658,10 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
       : eur(x.p) + ' €<br>' + eur(x.p/71) + ' €/m²';
     if(!f) return;
     document.getElementById('pdp-cuota').textContent = eur(cuota(x.p, S.tin, S.plazo));
-    document.getElementById('pdp-hipoteca').textContent = eur(x.p*LTV) + ' €';
+    var ent = document.getElementById('pdp-entrada');
+    if(ent) ent.textContent = eur(x.p*(1-LTV)) + ' €';
+    var hip = document.getElementById('pdp-hipoteca');
+    if(hip) hip.textContent = eur(x.p*LTV) + ' €';
   }
 
   /* ---- paso 4: entrar a la ficha ---- */
@@ -1459,6 +1694,74 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
     window.scrollTo(0,0);
   });
 
+  /* ============ GALERÍA COMPLETA + BARRA RESUMEN STICKY ============ */
+  /* La barra repite precio, cuota y CTA mientras se recorre la galería.
+     Está siempre presente dentro de la galería; fuera de ella no se muestra nunca. */
+
+  function metros(x){
+    var t = (x.tags || TAGS_PISO).filter(function(s){ return /m²/.test(s); });
+    return t.length ? t[0] : null;
+  }
+
+  function pintaBarra(){
+    var x = INMUEBLES[S.inmueble];
+    var f = financiable(x);
+    document.getElementById('br-precio').textContent = etiquetaPrecio(x);
+    var m = metros(x);
+    document.getElementById('br-sub').textContent =
+      x.t.replace(', Barcelona', '') + (m ? ' · ' + m : '');
+    /* sin precio financiable no hay cuota: se cae el bloque, no se inventa un dato */
+    document.getElementById('br-fin').hidden = !f;
+    if(!f) return;
+    document.getElementById('br-cuota').textContent = eur(cuota(x.p, S.tin, S.plazo));
+    document.getElementById('br-cond').textContent = 'TIN ' + tinTxt() + ' · ' + S.plazo + ' años';
+  }
+
+  var barra = document.getElementById('barra-resumen');
+  var galeria = document.getElementById('vista-galeria');
+
+  function sincronizaBarra(){
+    var visible = !galeria.hidden;
+    barra.classList.toggle('visible', visible);
+    barra.setAttribute('aria-hidden', visible ? 'false' : 'true');
+  }
+
+  function abreGaleria(){
+    pintaBarra();
+    document.getElementById('gal-titulo').textContent =
+      document.getElementById('pdp-titulo').textContent;
+    document.getElementById('vista-pdp').hidden = true;
+    galeria.hidden = false;
+    window.scrollTo(0,0);
+    sincronizaBarra();
+    document.getElementById('gal-titulo').focus();
+  }
+
+  function cierraGaleria(){
+    galeria.hidden = true;
+    document.getElementById('vista-pdp').hidden = false;
+    window.scrollTo(0,0);
+    sincronizaBarra();
+    document.getElementById('pdp-titulo').focus();
+  }
+
+  var verTodas = document.querySelector('#vista-pdp .ver-todas');
+  if(verTodas) verTodas.addEventListener('click', abreGaleria);
+  document.getElementById('gal-volver').addEventListener('click', cierraGaleria);
+
+  /* el corazón de la cabecera de galería alterna igual que el de las cards */
+  galeria.addEventListener('click', function(ev){
+    var f = ev.target.closest('.fav');
+    if(!f) return;
+    var on = f.getAttribute('aria-pressed') === 'true';
+    f.setAttribute('aria-pressed', on ? 'false' : 'true');
+    f.setAttribute('aria-label', on ? 'Guardar en favoritos' : 'Quitar de favoritos');
+  });
+
+  document.addEventListener('keydown', function(ev){
+    if(ev.key === 'Escape' && !galeria.hidden) cierraGaleria();
+  });
+
   /* ============ MODAL ============ */
   function pintaModal(otro){
     var x = otro || INMUEBLES[S.inmueble];
@@ -1469,7 +1772,7 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
     var gastos = x.p * GASTOS;
     var coste = adeudado + entrada + gastos;
 
-    document.getElementById('m-cuota').textContent = eur(c) + ' €';
+    document.getElementById('m-cuota').innerHTML = eur(c) + ' €<span class="mes">/mes</span>';
     document.getElementById('m-contexto').textContent =
       'durante ' + S.plazo + ' años, con un TIN del ' + tinTxt();
     document.getElementById('m-hipoteca').textContent = eur(x.p*LTV) + ' €';
@@ -1608,6 +1911,22 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
   ov.addEventListener('click', function(ev){ if(ev.target === ov) cierraModal(); });
 
   /* ============ TOGGLE-TIPS · button, diana 24×24 ============ */
+  /* El popover del DS lleva ✕: es un toggletip, se abre y se cierra a propósito.
+     Se inyecta aquí para no repetir el mismo marcado en cada uno. */
+  document.querySelectorAll('.tip').forEach(function(t){
+    var h = t.querySelector('h4');
+    if(!h || t.querySelector('.tip-x')) return;
+    var head = document.createElement('span');
+    head.className = 'tip-head';
+    h.parentNode.insertBefore(head, h);
+    head.appendChild(h);
+    var x = document.createElement('button');
+    x.type = 'button'; x.className = 'tip-x';
+    x.setAttribute('aria-label', 'Cerrar');
+    x.textContent = '✕';
+    head.appendChild(x);
+  });
+
   function cierraTips(){
     document.querySelectorAll('.tip').forEach(function(t){
       t.hidden = true;
@@ -1629,7 +1948,15 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
 
   document.addEventListener('click', function(ev){
     var abre = ev.target.closest('.tip-btn'),
-        dentro = ev.target.closest('.tip');
+        dentro = ev.target.closest('.tip'),
+        cierra = ev.target.closest('.tip-x');
+    if(cierra){
+      ev.stopPropagation();
+      var dueno = document.querySelector('[aria-controls="' + cierra.closest('.tip').id + '"]');
+      cierraTips();
+      if(dueno) dueno.focus();
+      return;
+    }
     if(abre && abre.getAttribute('aria-controls')){
       ev.stopPropagation();
       var t = document.getElementById(abre.getAttribute('aria-controls'));

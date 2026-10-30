@@ -330,6 +330,10 @@ a.pdp-accion:focus-visible,.pdp a.accion:focus-visible{outline:3px solid var(--v
 
 .fin{background:#f2f3ff;border-radius:10px;padding:24px 28px}
 
+/* Características / Especificaciones + CCEE: dos columnas en escritorio, una en móvil.
+   Iba en estilo en línea y por eso en 375 la segunda columna se salía de pantalla. */
+.pdp .dos-col{display:grid;grid-template-columns:355.5px 355.5px;gap:32px;align-items:start}
+
 /* ---- certificado energético (PDP) ---- */
 .pdp .ico-e{display:inline-grid;place-items:center;width:24px;height:24px;border-radius:4px;vertical-align:-6px;
   background:#c0c0c0;color:#fff;font-family:var(--hl);font-weight:700;font-size:12px;margin:0 4px}
@@ -415,6 +419,256 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
 .foot-legal{font-family:var(--body);font-size:12px;line-height:1.4;color:var(--divider)}
 .foot-links{display:flex;flex-wrap:wrap;gap:8px 24px}
 .foot-links a{font-family:var(--body);font-size:12px;color:var(--divider)}
+
+/* ============ BARRA DE FORMATO (solo prototipo) ============ */
+body{padding-top:40px}
+.barra-formato{position:fixed;top:0;left:0;right:0;z-index:150;height:40px;
+  background:var(--verdinegro);display:flex;align-items:center;gap:8px;padding:0 16px}
+.bf-et{font-family:var(--body);font-weight:500;font-size:10px;letter-spacing:.09em;
+  text-transform:uppercase;color:rgba(255,255,255,.6)}
+.bf-b{height:26px;padding:0 14px;border-radius:100px;background:transparent;
+  border:1px solid rgba(255,255,255,.35);cursor:pointer;
+  font-family:var(--hl);font-weight:600;font-size:12px;color:#fff}
+.bf-b[aria-pressed="true"]{background:#fff;border-color:#fff;color:var(--verdinegro)}
+.bf-b:focus-visible{outline:2px solid #fff;outline-offset:2px}
+.bf-med{margin-left:auto;font-family:var(--body);font-weight:400;font-size:11px;color:rgba(255,255,255,.6)}
+/* la cabecera de galería se pega justo debajo de la barra */
+.gal-cab{top:40px}
+
+/* ============ MOCKUP DE IPHONE (solo versión móvil) ============ */
+/* En escritorio el armazón no existe: display:contents lo hace transparente. */
+#telefono,#pantalla,#lienzo{display:contents}
+#isla,#indicador,#statusbar{display:none}
+body.movil{background:#15181c}
+body.movil #telefono{display:block;position:relative;width:403px;margin:16px auto 24px;padding:14px;
+  background:#101214;border-radius:56px;box-shadow:0 24px 60px rgba(0,0,0,.45)}
+/* la carcasa no hace scroll: el que se mueve es #lienzo, así las barras se quedan quietas.
+   375 de ancho y 800 de alto como tope; si la ventana es más baja, el teléfono se ajusta
+   para que no se corte por abajo. */
+body.movil #pantalla{display:block;position:relative;width:375px;
+  height:min(800px, calc(100vh - 148px));overflow:hidden;
+  background:var(--pagina);border-radius:44px}
+body.movil #lienzo{display:block;position:absolute;inset:0;padding-top:47px;
+  overflow-y:auto;overflow-x:hidden}
+body.movil #statusbar{display:flex;position:absolute;top:0;left:0;right:0;z-index:90;height:47px;
+  align-items:center;justify-content:space-between;padding:0 28px 0 32px;background:#fff;
+  font-family:var(--body);font-weight:600;font-size:14px;color:var(--tinta)}
+body.movil #statusbar .iconos{display:flex;gap:5px;font-size:11px;letter-spacing:.5px}
+body.movil #isla{display:block;position:absolute;top:22px;left:50%;transform:translateX(-50%);
+  width:108px;height:30px;border-radius:20px;background:#101214;z-index:95}
+body.movil #indicador{display:block;position:absolute;bottom:8px;left:50%;transform:translateX(-50%);
+  width:134px;height:5px;border-radius:3px;background:rgba(0,0,0,.35);z-index:130}
+/* Barra del navegador: en el móvil real ocupa el bajo de la pantalla,
+   así que el bloque fijo tiene que quedar por encima de ella. */
+#navegador{display:none}
+body.movil #navegador{display:flex;position:absolute;left:0;right:0;bottom:0;z-index:125;
+  height:56px;align-items:center;gap:10px;padding:0 14px 10px;
+  background:#f6f6f7;border-top:1px solid #dcdcdd}
+body.movil #navegador .nv-ic{width:34px;height:34px;flex:none;border-radius:50%;background:#fff;
+  display:grid;place-items:center;font-family:var(--body);font-size:15px;color:#3c3c43;
+  box-shadow:0 1px 2px rgba(0,0,0,.12)}
+body.movil #navegador .nv-url{flex:1;min-width:0;height:34px;border-radius:17px;background:#fff;
+  display:flex;align-items:center;justify-content:center;gap:8px;padding:0 12px;
+  box-shadow:0 1px 2px rgba(0,0,0,.12);
+  font-family:var(--body);font-size:13px;color:var(--tinta);white-space:nowrap;overflow:hidden}
+body.movil #navegador .nv-url .mini{font-size:11px;color:#8a8a8e}
+/* dentro del mockup, lo fijo se ancla a la carcasa */
+body.movil .overlay{position:absolute;inset:0}
+body.movil .gal-cab{top:0}
+
+/* ============ VERSIÓN MÓVIL · 375 (937:93202) ============ */
+body.movil .marco{width:375px}
+/* 407:31714 · header-mobile: logo a la izquierda, cuenta y menú a la derecha */
+body.movil .nav{height:56px;padding:8px 24px;gap:24px;background:#fdfdfc}
+body.movil .nav nav{display:none}
+body.movil .nav .sesion{display:none}
+.nav-movil{display:none}
+body.movil .nav-movil{display:flex;margin-left:auto;align-items:center;gap:8px}
+body.movil .nav-movil button{width:40px;height:40px;display:grid;place-items:center;
+  color:var(--verdinegro);cursor:pointer;background:none}
+body.movil .nav-movil .cuenta{border:1px solid var(--verdinegro);border-radius:50%}
+body.movil .nav-movil button:focus-visible{outline:3px solid var(--verdinegro);outline-offset:2px}
+body.movil .crumbs{height:49px;padding:8px 24px;gap:8px}
+body.movil .titulo{height:auto;padding:20px 24px 0}
+body.movil .titulo h1{font-size:24px;line-height:30px}
+
+/* listado: filtros encima del contenido y cards en una sola columna */
+/* sin padding en la maqueta: cada bloque pone el suyo, si no las cards se quedan en 279 */
+body.movil .maqueta{flex-direction:column;padding:0;gap:0}
+body.movil .paginador{padding:0 24px 32px}
+body.movil .col-filtros,body.movil .col-contenido{width:100%;flex:1 1 auto}
+body.movil .guardar{width:100%}
+.btn-filtros{display:none}
+body.movil .btn-filtros{display:none}
+body.movil .tabs{display:none}       /* Comprar/Alquilar vive dentro del panel de filtros */
+body.movil .menu{display:none}       /* lo sustituye la barra pm-barra */
+
+/* ---- barra del catálogo móvil · 634:116242 / 425:34658 ---- */
+.pm-guardar-wrap,.pm-barra,.pf-cab,.pf-pie{display:none}
+body.movil .pm-guardar-wrap{display:block;padding:0 24px 16px}
+body.movil .pm-guardar{width:100%;height:48px;border-radius:8px;background:var(--verdinegro);
+  display:flex;align-items:center;justify-content:center;gap:8px;cursor:pointer;
+  font-family:var(--hl);font-weight:600;font-size:16px;color:#fff}
+body.movil .pm-barra{display:flex;position:sticky;top:0;z-index:70;align-items:center;gap:10px;
+  padding:16px 24px;background:#fff;border-bottom:1px solid var(--neutral-35)}
+body.movil .pm-filtros,body.movil .pm-mapa{display:flex;align-items:center;gap:8px;height:40px;
+  cursor:pointer;font-family:var(--hl);font-weight:500;font-size:15px;color:var(--verdinegro)}
+body.movil .pm-filtros{background:none;padding:0;flex:none}
+body.movil .pm-mapa{flex:none;padding:0 14px;border:1px solid var(--verdinegro);border-radius:8px;background:#fff}
+body.movil .pm-orden{flex:1;min-width:0;height:40px;padding:0 10px;border:1px solid var(--verdinegro);
+  border-radius:8px;background:#fff;font-family:var(--hl);font-weight:500;font-size:15px;color:var(--verdinegro)}
+body.movil .pm-filtros:focus-visible,body.movil .pm-mapa:focus-visible,
+body.movil .pm-guardar:focus-visible{outline:3px solid var(--verdinegro);outline-offset:2px}
+
+/* ---- panel de filtros a pantalla completa · 639:119991 ---- */
+body.movil .col-filtros{display:none}
+body.movil.filtros-abiertos #lienzo{overflow:hidden}
+body.movil.filtros-abiertos .col-filtros{display:block;position:absolute;top:47px;left:0;right:0;bottom:56px;
+  z-index:85;background:#fff;overflow-y:auto;margin:0;padding:0 24px}
+/* cabecera de la pantalla de filtros: nav, ✕ y pestañas, pegadas arriba */
+body.movil.filtros-abiertos .pf-cab{display:block;position:sticky;top:0;z-index:5;
+  margin:0 -24px;background:#fdfdfc}
+body.movil.filtros-abiertos .pf-nav{height:56px;padding:8px 24px;display:flex;align-items:center;gap:24px}
+body.movil.filtros-abiertos .pf-x{height:48px;padding:8px 24px 0;display:flex;justify-content:flex-end}
+body.movil.filtros-abiertos .pf-cerrar{width:40px;height:40px;display:grid;place-items:center;
+  background:none;cursor:pointer;color:var(--verdinegro)}
+body.movil.filtros-abiertos .pf-cerrar:focus-visible{outline:3px solid var(--verdinegro);outline-offset:2px}
+body.movil.filtros-abiertos .pf-tabs{display:flex;margin:0 24px;background:#fdfdfc}
+/* las secciones ya traen su propio padding de 24 para la columna de escritorio:
+   dentro del panel móvil sobra, porque el panel ya pone los 24 laterales */
+body.movil.filtros-abiertos .cab,
+body.movil.filtros-abiertos .cuerpo,
+body.movil.filtros-abiertos .seg,
+body.movil.filtros-abiertos .par{padding-left:0;padding-right:0}
+/* el segmentado y los desplegables ocupan los 327 del panel, no los 254 de la columna */
+body.movil.filtros-abiertos .seg label{flex:1 1 0}
+body.movil.filtros-abiertos .par{gap:16px}
+body.movil.filtros-abiertos .par .campo-dd{flex:1 1 0;width:auto}
+body.movil.filtros-abiertos .par .campo-dd select{width:100%}
+body.movil.filtros-abiertos .guardar{display:none}
+/* 407:31729 · Frame 2608714 · 96 de alto, padding 24, botón 327×48 */
+body.movil.filtros-abiertos .pf-pie{display:block;position:sticky;bottom:0;z-index:86;
+  margin:0 -24px;padding:24px;background:#fff;box-shadow:0 -4px 10px rgba(0,0,0,.1)}
+body.movil.filtros-abiertos .pf-cta{width:100%;height:48px;border-radius:100px;background:var(--verdinegro);
+  cursor:pointer;font-family:var(--hl);font-weight:600;font-size:16px;color:#fff}
+body.movil .tabs{gap:20px;overflow-x:auto}
+body.movil .menu{height:auto;margin-top:24px;flex-wrap:wrap;gap:8px}
+body.movil .menu select{width:100%}
+body.movil .vistas{margin-left:0}
+body.movil .resultados{margin-left:0;font-size:14px}
+body.movil .catalogo{margin-top:24px;gap:16px}
+body.movil .card,body.movil .card.sin-cuota{width:100%;height:auto;flex-direction:column;align-items:stretch}
+body.movil .card .foto,body.movil .card.sin-cuota .foto{width:100%;flex:none;height:205px;border-radius:16px 16px 0 0}
+body.movil .card .foto .flechas{left:16px;right:16px;top:90px}
+body.movil .card .detalle,body.movil .card.sin-cuota .detalle{width:100%;flex:none;height:auto;padding:16px}
+body.movil .card .interior,body.movil .card.sin-cuota .interior{width:100%;height:auto}
+body.movil .cab-card{min-height:0;flex-direction:column;gap:8px}
+body.movil .cab-card .tp{width:100%}
+body.movil .cab-card .logo{margin-left:0}
+body.movil .mod-cuota{height:auto}
+body.movil .tags{height:auto;flex-wrap:wrap}
+/* 425:34658 · divisor y CTA a ancho completo bajo las etiquetas */
+body.movil .acciones{height:auto;margin-top:16px;padding-top:16px;gap:12px;
+  border-top:1px solid var(--neutral-35)}
+body.movil .btn-contactar{flex:1 1 auto;min-width:0;padding:0 16px}
+body.movil .card .detalle,body.movil .card.sin-cuota .detalle{padding:20px 16px}
+body.movil .catalogo{padding:0 24px 32px;gap:24px}
+body.movil .card,body.movil .card.sin-cuota{border-radius:16px;overflow:hidden}
+
+/* ficha: una columna, módulos a sangre */
+body.movil .pdp .galeria{padding:0;grid-template-columns:1fr;gap:0}
+body.movil .pdp .gal-main{height:205px;border-radius:0}
+body.movil .pdp .gal-lado{display:none}
+.pdp .ver-todas.solo-movil{display:none}
+body.movil .pdp .ver-todas.solo-movil{display:block}
+body.movil .pdp .ver-todas{right:16px;bottom:16px}
+body.movil .pdp .wrap{padding:12px 0 48px;grid-template-columns:1fr;gap:12px}
+body.movil .pdp .columna,body.movil .pdp .rail{gap:12px}
+body.movil .pdp .rail{position:static}
+body.movil .pdp .tarjeta{border-radius:0;padding:24px}
+body.movil .pdp .tarjeta.mp{border-radius:0}
+/* ---- 922:75766 · dimensiones del módulo en móvil ---- */
+body.movil .pdp .tarjeta.mp{border-radius:24px;padding:20px 24px;gap:18px}
+body.movil .mp-titulo{font-size:28px;line-height:34px}        /* Title · Faktum Regular 28 */
+body.movil .mp-cifra{font-size:28px;line-height:34px}          /* 600.000 € · SemiBold 28 */
+body.movil .mp-resumen{gap:12px}                               /* Summary Content · gap 12 */
+body.movil .mp-fila{flex-direction:column;gap:24px}            /* Price Container · gap 24 */
+body.movil .mp-card{width:100%;padding:18px 12px;gap:20px;border-radius:12px}
+body.movil .mp-cab{gap:12px}
+body.movil .mp-ctrls{flex-direction:row;gap:14px}              /* TIN y plazo siguen lado a lado */
+/* columnas al contenido: con flex:1 1 0 la etiqueta del TIN se come la del plazo */
+body.movil .mp-ctrls .ctrl{flex:0 1 auto;min-width:0}
+body.movil .mp-ctrls .et{font-size:14px;line-height:16px;gap:0}
+body.movil .mp-btn{height:52px;min-height:0;padding:14px 24px;gap:12px;
+  font-size:14px;line-height:17px;text-align:center}
+body.movil .pdp .accion{border-radius:0;padding:24px;gap:16px}
+body.movil .pdp .accion .ico{flex:0 0 56px;width:56px;height:56px;font-size:22px}
+body.movil .pdp .accion h3{font-size:18px;line-height:22px}
+/* 937:93202 · en la ficha móvil el formulario no está: el contacto va en el bloque fijo */
+body.movil .pdp .form{display:none}
+/* una sola columna y nada de botones empujados al centro */
+body.movil .pdp .dos-col{grid-template-columns:1fr;gap:32px}
+body.movil .pdp .fila-dato{flex-direction:column;align-items:stretch;gap:16px}
+body.movil .pdp .fila-dato .btn-fantasma{margin-left:0;width:100% !important}
+body.movil .pdp .desglose{gap:24px}
+body.movil .pdp .escala{max-width:100%}
+body.movil .pdp .banda .celda{width:46px;flex:0 0 46px}
+body.movil .pdp .escala-cab .c,body.movil .pdp .escala-cab .e{width:46px;flex:0 0 46px}
+body.movil .pdp .b-a{width:58px}body.movil .pdp .b-b{width:68px}body.movil .pdp .b-c{width:78px}
+body.movil .pdp .b-d{width:88px}body.movil .pdp .b-e{width:98px}body.movil .pdp .b-f{width:108px}
+body.movil .pdp .b-g{width:118px}
+body.movil footer{height:auto;padding:32px 24px}
+body.movil .foot-nav{flex-direction:column;gap:12px}
+
+/* galería completa */
+body.movil .gal{width:375px;padding-bottom:200px}
+body.movil .gal-cab{padding:16px 24px}
+body.movil .gal-cab h1{font-size:18px;line-height:22px}
+body.movil .gal-cuerpo{padding:12px 0 0;gap:12px}
+body.movil .gal-cuerpo .grande{width:375px;height:260px}
+body.movil .gal-fila{grid-template-columns:1fr;gap:12px}
+body.movil .gal-fila .foto{width:375px;height:260px}
+
+/* en móvil manda el bloque fijo propio, no la barra de escritorio */
+body.movil .barra-resumen{display:none}
+
+/* ---- bloque fijo inferior de la ficha móvil (967:104685 / 967:104714) ---- */
+.mov-fijo{display:none}
+/* por encima de la barra del navegador, que es lo que pasa en el móvil real */
+body.movil .mov-fijo{display:block;position:absolute;bottom:56px;left:0;right:0;z-index:120}
+body.movil .mov-fijo[hidden]{display:none}
+/* Barra resumen · 375×74. Entra deslizándose desde detrás del bloque de contacto,
+   igual que la de escritorio, en vez de aparecer de golpe. */
+.mov-resumen{position:absolute;left:0;right:0;bottom:100%;z-index:1;height:74px;
+  background:#fff;border-top:1px solid var(--neutral-35);box-shadow:0 -4px 10px rgba(0,0,0,.1);
+  padding:10px 16px;display:flex;align-items:center;gap:12px;
+  transform:translateY(100%);opacity:0;visibility:hidden;
+  transition:transform .26s cubic-bezier(.22,.61,.36,1),opacity .2s ease,visibility .26s}
+.mov-resumen.visible{transform:translateY(0);opacity:1;visibility:visible}
+.mr-mini{width:40px;height:40px;flex:none;border-radius:6px;background:rgba(0,0,0,.14)}
+.mr-inm{display:flex;flex-direction:column;gap:2px;min-width:0}
+.mr-inm .p{font-family:var(--hl);font-weight:600;font-size:17px;line-height:23px;color:#363636;white-space:nowrap}
+.mr-inm .s{font-family:var(--body);font-weight:400;font-size:11.5px;line-height:16px;color:var(--gris-66);white-space:nowrap}
+.mr-fin{margin-left:auto;display:flex;flex-direction:column;align-items:flex-end;gap:2px}
+.mr-chip{padding:2px 8px;border-radius:57px;background:var(--brand-40);
+  font-family:var(--body);font-weight:500;font-size:16px;line-height:20px;color:var(--tinta-cuota);white-space:nowrap}
+.mr-fin .s{font-family:var(--body);font-weight:400;font-size:11.5px;line-height:16px;color:var(--gris-66);white-space:nowrap}
+/* Contact Actions · 375×112 (967:104706), presente desde que entras */
+.mov-acciones{position:relative;z-index:2;background:var(--pagina);box-shadow:0 -4px 10px rgba(0,0,0,.1);
+  padding:16px 20px 18px;display:flex;flex-direction:column;align-items:center;gap:8px}
+.mov-cta{width:335px;max-width:100%;height:40px;border-radius:100px;background:var(--verdinegro);
+  font-family:var(--hl);font-weight:600;font-size:16px;color:#fff;cursor:pointer}
+.mov-cta:focus-visible,.mov-sim:focus-visible{outline:3px solid var(--verdinegro);outline-offset:2px}
+.mov-sim{height:24px;display:flex;align-items:center;
+  font-family:var(--hl);font-weight:600;font-size:12px;line-height:16px;
+  color:var(--verdinegro);text-decoration:underline}
+/* hueco para el bloque fijo (112 + 74) más la barra del navegador (56) */
+body.movil #vista-pdp,body.movil #vista-galeria{padding-bottom:270px}
+
+/* modales como hoja inferior */
+body.movil .overlay{align-items:flex-end;padding:0}
+body.movil .modal,body.movil .modal.combis,body.movil .modal.como{width:375px;border-radius:20px 20px 0 0;max-height:86vh}
+body.movil .mc-cuerpo{padding:20px}
 
 /* ============ MODAL · overlay 50 % ============ */
 .overlay{position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:300;display:flex;align-items:center;justify-content:center;padding:16px}
@@ -625,6 +879,16 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
 <!-- =================================================================
      VISTA 1-3 · CATÁLOGO
      ================================================================= -->
+<!-- =================================================================
+     BARRA DE FORMATO · solo del prototipo, no forma parte del producto
+     ================================================================= -->
+<div class="barra-formato" id="barra-formato" role="group" aria-label="Formato de visualización">
+  <span class="bf-et">Formato</span>
+  <button type="button" class="bf-b" data-formato="desktop" aria-pressed="true">Escritorio</button>
+  <button type="button" class="bf-b" data-formato="movil" aria-pressed="false">Móvil</button>
+  <span class="bf-med" id="bf-med">1440 px</span>
+</div>
+
 <div class="marco" id="vista-plp">
 
   <header class="nav">
@@ -634,6 +898,10 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
       <a href="#">Equipa tu hogar</a><a href="#">Únete como inmobiliaria</a>
     </nav>
     <a class="sesion" href="#">Iniciar sesión</a>
+    <div class="nav-movil">
+      <button type="button" class="cuenta" aria-label="Mi cuenta"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><circle cx="12" cy="9" r="3.4"/><path d="M5.5 19.2a6.8 6.8 0 0 1 13 0"/></svg></button>
+      <button type="button" aria-label="Menú"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><path d="M3 7h18M3 12h18M3 17h18"/></svg></button>
+    </div>
   </header>
 
   <nav class="crumbs" aria-label="Migas de pan">
@@ -644,9 +912,55 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
 
   <div class="titulo"><h1 id="titulo-plp">315 casas y pisos en Gràcia, Barcelona</h1></div>
 
+  <!-- Catálogo móvil · 634:116234. La barra de Filtros/Orden/Mapa se queda pegada
+       arriba al hacer scroll (425:34658). En escritorio este bloque no existe. -->
+  <div class="pm-guardar-wrap">
+    <button class="pm-guardar" type="button"><span aria-hidden="true">♡</span>Guardar búsqueda</button>
+  </div>
+  <div class="pm-barra" id="pm-barra">
+    <button type="button" class="pm-filtros" id="btn-filtros-mov" aria-expanded="false" aria-controls="col-filtros">
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="none" stroke="currentColor"
+           stroke-width="1.8" stroke-linecap="round"><path d="M3 7h12M19 7h2M3 17h4M11 17h10"/>
+        <circle cx="17" cy="7" r="2"/><circle cx="9" cy="17" r="2"/></svg>Filtros (6)
+    </button>
+    <label class="sr" for="orden-mov">Ordenar por</label>
+    <select id="orden-mov" class="pm-orden"><option>Relevancia</option><option>Precio más bajo</option>
+      <option>Precio más alto</option><option>Más recientes</option></select>
+    <button type="button" class="pm-mapa">
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="none" stroke="currentColor"
+           stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11Z"/><circle cx="12" cy="10" r="2.5"/></svg>Mapa
+    </button>
+  </div>
+
   <div class="maqueta" id="principal">
 
-    <aside class="col-filtros" aria-label="Filtros">
+    <!-- en móvil los filtros van plegados tras un botón, como en Filtros_Mobile -->
+    <button type="button" class="btn-filtros" id="btn-filtros" aria-expanded="false" aria-controls="col-filtros">
+      <span aria-hidden="true">☰</span>Filtros
+    </button>
+
+    <aside class="col-filtros" id="col-filtros" aria-label="Filtros">
+      <!-- 407:31712 · en móvil el panel es una pantalla completa: cabecera, ✕, pestañas y CTA -->
+      <div class="pf-cab">
+        <div class="pf-nav">
+          <span class="logo" aria-label="Logotipo Casa (placeholder)">logo</span>
+          <div class="nav-movil">
+            <button type="button" class="cuenta" aria-label="Mi cuenta"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><circle cx="12" cy="9" r="3.4"/><path d="M5.5 19.2a6.8 6.8 0 0 1 13 0"/></svg></button>
+            <button type="button" aria-label="Menú"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><path d="M3 7h18M3 12h18M3 17h18"/></svg></button>
+          </div>
+        </div>
+        <div class="pf-x">
+          <button type="button" class="pf-cerrar" id="pf-cerrar" aria-label="Cerrar filtros">
+            <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none" stroke="currentColor"
+                 stroke-width="1.7" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+          </button>
+        </div>
+        <div class="tabs pf-tabs" role="tablist" aria-label="Operación">
+          <button role="tab" aria-selected="true">Comprar</button>
+          <button role="tab" aria-selected="false">Alquilar</button>
+        </div>
+      </div>
       <button class="guardar"><span aria-hidden="true">♡</span>Guardar búsqueda</button>
 
       <div class="filtros">
@@ -851,6 +1165,7 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
         </section>
 
       </div>
+      <div class="pf-pie"><button type="button" class="pf-cta" id="pf-aplicar">Mostrar 315 resultados</button></div>
     </aside>
 
     <div class="col-contenido">
@@ -919,7 +1234,10 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
   </nav>
 
   <div class="galeria">
-    <div class="gal-main" role="img" aria-label="Fotografía principal del inmueble"></div>
+    <div class="gal-main" role="img" aria-label="Fotografía principal del inmueble">
+      <!-- en móvil no hay columna de secundarias, así que «Ver todas» va sobre la principal -->
+      <button class="ver-todas solo-movil">Ver todas</button>
+    </div>
     <div class="gal-lado">
       <div role="img" aria-label="Salón"></div>
       <div role="img" aria-label="Cocina"><button class="ver-todas">Ver todas</button></div>
@@ -1022,7 +1340,7 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
           excelente, destacan la conservación de elementos originales conservando el carácter de las fincas de principios
           del siglo pasado sintonizando en armonía con las ventajas del diseño actual.</p>
         <hr class="divisor">
-        <div style="display:grid;grid-template-columns:355.5px 355.5px;gap:32px;align-items:start">
+        <div class="dos-col">
           <div>
             <h2>Características generales</h2>
             <p class="lista" style="margin-top:16px">Subtipo de propiedad: Ático<br>Planta: 4<br>Habitaciones: 2<br>
@@ -1194,6 +1512,30 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
        aria-label="Simula tu hipoteca con CaixaBank (se abre en una pestaña nueva)">Simula tu hipoteca con CaixaBank</a>
   </div>
   <button type="button" class="br-cta">Contactar con el anunciante</button>
+</div>
+
+<!-- =================================================================
+     FICHA MÓVIL · bloque fijo inferior
+     Contact Actions (967:104685) siempre visible + barra resumen
+     (967:104714) que entra al pasar el módulo de cuota.
+     ================================================================= -->
+<div class="mov-fijo" id="mov-fijo" hidden>
+  <div class="mov-resumen" id="mov-resumen" aria-hidden="true">
+    <span class="mr-mini" role="img" aria-label="Miniatura del inmueble"></span>
+    <div class="mr-inm">
+      <p class="p" id="mr-precio">600.000 €</p>
+      <p class="s" id="mr-sub">Piso en Gràcia · 111 m²</p>
+    </div>
+    <div class="mr-fin" id="mr-fin">
+      <span class="mr-chip"><span id="mr-cuota">2.227</span> €/mes</span>
+      <span class="s" id="mr-cond">TIN 2,8 % · 25 años</span>
+    </div>
+  </div>
+  <div class="mov-acciones">
+    <button type="button" class="mov-cta">Contactar con el anunciante</button>
+    <a class="mov-sim" data-sim href="#" target="_blank" rel="noopener noreferrer"
+       aria-label="Simula tu hipoteca con CaixaBank (se abre en una pestaña nueva)">Simula tu hipoteca con CaixaBank</a>
+  </div>
 </div>
 
 <!-- =================================================================
@@ -1391,6 +1733,99 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
 </div>
 
 <script>
+/* ============ Barra de formato · escritorio / móvil ============ */
+/* Cambia el ancho del lienzo con una clase, no con media queries,
+   para poder ver la versión móvil desde un navegador de escritorio. */
+(function(){
+  var bar = document.getElementById('barra-formato');
+  if(!bar) return;
+  var med = document.getElementById('bf-med');
+
+  /* Armazón del iPhone. En escritorio es display:contents, así que no afecta al layout;
+     en móvil #pantalla lleva transform, lo que la convierte en el bloque contenedor de
+     los position:fixed y hace que barras y modales se queden dentro del teléfono. */
+  function armaTelefono(){
+    if(document.getElementById('telefono')) return;
+    var ref = document.getElementById('vista-plp');
+    if(!ref) return;
+    var tel = document.createElement('div'); tel.id = 'telefono';
+    var pan = document.createElement('div'); pan.id = 'pantalla';
+    var lie = document.createElement('div'); lie.id = 'lienzo';
+    var sb  = document.createElement('div'); sb.id = 'statusbar'; sb.setAttribute('aria-hidden','true');
+    sb.innerHTML = '<span>9:41</span><span class="iconos">▪▪▪ ⌁ ▰</span>';
+    var isla = document.createElement('div'); isla.id = 'isla'; isla.setAttribute('aria-hidden','true');
+    var ind  = document.createElement('div'); ind.id = 'indicador'; ind.setAttribute('aria-hidden','true');
+    var nav  = document.createElement('div'); nav.id = 'navegador'; nav.setAttribute('aria-hidden','true');
+    nav.innerHTML = '<span class="nv-ic">‹</span>' +
+      '<span class="nv-url"><span class="mini">aA</span>faciliteacasa.com<span class="mini">⟳</span></span>' +
+      '<span class="nv-ic">⋯</span>';
+
+    ref.parentNode.insertBefore(tel, ref);
+    tel.appendChild(pan);
+    pan.appendChild(sb);
+    pan.appendChild(lie);
+    /* las vistas se mueven dentro del lienzo, que es lo que hace scroll */
+    ['vista-plp','vista-pdp','vista-galeria'].forEach(function(id){
+      var e = document.getElementById(id);
+      if(e) lie.appendChild(e);
+    });
+    /* las barras y los modales se quedan en la carcasa, quietos */
+    ['barra-resumen','mov-fijo','overlay','overlay-combis','overlay-como'].forEach(function(id){
+      var e = document.getElementById(id);
+      if(e) pan.appendChild(e);
+    });
+    pan.appendChild(nav);
+    pan.appendChild(ind);
+    tel.appendChild(isla);
+  }
+  armaTelefono();
+
+  function aplica(f){
+    var movil = f === 'movil';
+    document.body.classList.toggle('movil', movil);
+    bar.querySelectorAll('.bf-b').forEach(function(b){
+      b.setAttribute('aria-pressed', b.getAttribute('data-formato') === f ? 'true' : 'false');
+    });
+    med.textContent = movil ? 'iPhone · 375 px' : '1440 px';
+    try{ sessionStorage.setItem('fc-formato', f); }catch(e){}
+    window.dispatchEvent(new CustomEvent('fc-formato', {detail:f}));
+  }
+
+  bar.addEventListener('click', function(ev){
+    var b = ev.target.closest('.bf-b');
+    if(b) aplica(b.getAttribute('data-formato'));
+  });
+
+  /* panel de filtros a pantalla completa en móvil */
+  var bf = document.getElementById('btn-filtros-mov');
+  var pfx = document.getElementById('pf-cerrar');
+  var pfa = document.getElementById('pf-aplicar');
+  var panel = document.getElementById('col-filtros');
+
+  function filtros(abrir){
+    document.body.classList.toggle('filtros-abiertos', abrir);
+    if(bf) bf.setAttribute('aria-expanded', abrir ? 'true' : 'false');
+    if(abrir){
+      var n = document.querySelectorAll('#catalogo .card').length;
+      if(pfa) pfa.textContent = 'Mostrar ' + n + ' resultado' + (n === 1 ? '' : 's');
+      if(panel) panel.scrollTop = 0;
+      if(pfx) pfx.focus();
+    } else if(bf) bf.focus();
+  }
+
+  if(bf)  bf.addEventListener('click', function(){ filtros(!document.body.classList.contains('filtros-abiertos')); });
+  if(pfx) pfx.addEventListener('click', function(){ filtros(false); });
+  if(pfa) pfa.addEventListener('click', function(){ filtros(false); });
+  document.addEventListener('keydown', function(ev){
+    if(ev.key === 'Escape' && document.body.classList.contains('filtros-abiertos')) filtros(false);
+  });
+  window.addEventListener('fc-formato', function(){ filtros(false); });
+
+  var guardado = 'desktop';
+  try{ guardado = sessionStorage.getItem('fc-formato') || 'desktop'; }catch(e){}
+  aplica(guardado);
+})();
+
 /* ============ Acceso al prototipo ============ */
 (function(){
   var CLAVE = 'vamosfacilitea!';
@@ -1647,6 +2082,7 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
     var x = INMUEBLES[S.inmueble];
     var f = financiable(x);
     if(typeof pintaBarra === 'function') pintaBarra();
+    if(typeof pintaMovFijo === 'function') pintaMovFijo();
     pintaEnlacesSim();
     document.getElementById('pdp-titulo').textContent =
       (x.alquiler ? '' : 'Venta ') + x.t;
@@ -1684,14 +2120,16 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
     pintaFicha(); pintaModal();
     document.getElementById('vista-plp').hidden = true;
     document.getElementById('vista-pdp').hidden = false;
-    window.scrollTo(0,0);
+    irArriba();
+    sincronizaMovil();
     document.getElementById('pdp-titulo').focus();
   });
 
   document.getElementById('volver').addEventListener('click', function(){
     document.getElementById('vista-pdp').hidden = true;
     document.getElementById('vista-plp').hidden = false;
-    window.scrollTo(0,0);
+    irArriba();
+    sincronizaMovil();
   });
 
   /* ============ GALERÍA COMPLETA + BARRA RESUMEN STICKY ============ */
@@ -1721,10 +2159,74 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
   var galeria = document.getElementById('vista-galeria');
 
   function sincronizaBarra(){
-    var visible = !galeria.hidden;
+    /* en móvil manda el bloque fijo propio de la ficha, no esta barra */
+    var visible = !galeria.hidden && !document.body.classList.contains('movil');
     barra.classList.toggle('visible', visible);
     barra.setAttribute('aria-hidden', visible ? 'false' : 'true');
   }
+
+  /* ---- bloque fijo inferior de la ficha móvil (967:104685 / 967:104714) ---- */
+  var movFijo = document.getElementById('mov-fijo');
+  var movResumen = document.getElementById('mov-resumen');
+
+  function pintaMovFijo(){
+    var x = INMUEBLES[S.inmueble];
+    var f = financiable(x);
+    document.getElementById('mr-precio').textContent = etiquetaPrecio(x);
+    var m = metros(x);
+    document.getElementById('mr-sub').textContent =
+      x.t.replace(', Barcelona', '') + (m ? ' · ' + m : '');
+    document.getElementById('mr-fin').hidden = !f;
+    if(!f) return;
+    document.getElementById('mr-cuota').textContent = eur(cuota(x.p, S.tin, S.plazo));
+    document.getElementById('mr-cond').textContent = 'TIN ' + tinTxt() + ' · ' + S.plazo + ' años';
+  }
+
+  /* dentro del mockup el «cero» de la pantalla no es el del navegador */
+  function lienzoMovil(){
+    var l = document.getElementById('lienzo');
+    return (l && getComputedStyle(l).display !== 'contents') ? l : null;
+  }
+
+  function topePantalla(){
+    var l = lienzoMovil();
+    return l ? l.getBoundingClientRect().top + 47 : 0;
+  }
+
+  function irArriba(){
+    var l = lienzoMovil();
+    if(l) l.scrollTop = 0;
+    window.scrollTo(0, 0);
+  }
+
+  function sincronizaMovil(){
+    var movil = document.body.classList.contains('movil');
+    var enPdp = !document.getElementById('vista-pdp').hidden;
+    var enGal = !galeria.hidden;
+    movFijo.hidden = !(movil && (enPdp || enGal));
+    /* en la galería va siempre, como en escritorio;
+       en la ficha entra al dejar atrás el módulo de cuota */
+    var mostrar = false;
+    if(movil && enGal) mostrar = true;
+    else if(movil && enPdp){
+      /* el disparador es el precio y el chip de cuota, no el módulo entero:
+         en cuanto dejan de verse, la barra los repite arriba del bloque fijo */
+      var fin = document.getElementById('pdp-fin');
+      if(fin && !fin.hidden) mostrar = fin.getBoundingClientRect().bottom < topePantalla();
+    }
+    movResumen.classList.toggle('visible', mostrar);
+    movResumen.setAttribute('aria-hidden', mostrar ? 'false' : 'true');
+  }
+
+  /* el scroll puede venir de la ventana o de la pantalla del mockup */
+  document.addEventListener('scroll', sincronizaMovil, true);
+  window.addEventListener('fc-formato', function(){ sincronizaBarra(); sincronizaMovil(); });
+
+  /* el CTA del bloque fijo lleva al formulario de contacto */
+  document.querySelector('.mov-cta').addEventListener('click', function(){
+    var h = document.getElementById('h-form');
+    if(h) h.scrollIntoView({block:'start'});
+  });
 
   function abreGaleria(){
     pintaBarra();
@@ -1732,21 +2234,25 @@ footer{height:250px;background:var(--verdinegro);padding:48px 80px;display:flex;
       document.getElementById('pdp-titulo').textContent;
     document.getElementById('vista-pdp').hidden = true;
     galeria.hidden = false;
-    window.scrollTo(0,0);
+    irArriba();
     sincronizaBarra();
+    sincronizaMovil();
     document.getElementById('gal-titulo').focus();
   }
 
   function cierraGaleria(){
     galeria.hidden = true;
     document.getElementById('vista-pdp').hidden = false;
-    window.scrollTo(0,0);
+    irArriba();
     sincronizaBarra();
+    sincronizaMovil();
     document.getElementById('pdp-titulo').focus();
   }
 
-  var verTodas = document.querySelector('#vista-pdp .ver-todas');
-  if(verTodas) verTodas.addEventListener('click', abreGaleria);
+  /* hay dos «Ver todas»: la de la columna de secundarias y la de móvil sobre la principal */
+  document.getElementById('vista-pdp').addEventListener('click', function(ev){
+    if(ev.target.closest('.ver-todas')) abreGaleria();
+  });
   document.getElementById('gal-volver').addEventListener('click', cierraGaleria);
 
   /* el corazón de la cabecera de galería alterna igual que el de las cards */

@@ -226,8 +226,8 @@ a{color:inherit;text-decoration:none}
 .enlace-sim{margin-top:8px;display:inline-flex;align-items:center;height:24px;
   font-family:var(--body);font-weight:700;font-size:12px;line-height:16px;color:var(--verdinegro);text-decoration:underline}
 .tags{margin-top:12px;height:24px;display:flex;gap:8px}
-.tag{display:inline-flex;align-items:center;gap:4px;height:24px;padding:4px 8px;border-radius:16px;
-  background:var(--neutros-25);font-family:var(--body);font-weight:500;font-size:14px;color:var(--tinta);white-space:nowrap}
+.tag{display:inline-flex;align-items:center;gap:4px;height:24px;padding:6px 12px;border-radius:16px;
+  background:#e5ebec;font-family:var(--body);font-weight:500;font-size:14px;color:#000;white-space:nowrap}
 .acciones{margin-top:auto;height:51px;display:flex;align-items:center}
 .btn-contactar{min-width:212px;height:51px;padding:0 24px;border-radius:100px;background:var(--verdinegro);
   font-family:var(--hl);font-weight:600;font-size:16px;color:#fff;white-space:nowrap}
@@ -446,7 +446,7 @@ body.movil #telefono{display:block;position:relative;width:403px;margin:16px aut
    375 de ancho y 800 de alto como tope; si la ventana es más baja, el teléfono se ajusta
    para que no se corte por abajo. */
 body.movil #pantalla{display:block;position:relative;width:375px;
-  height:min(800px, calc(100vh - 148px));overflow:hidden;
+  height:min(812px, calc(100vh - 148px));overflow:hidden;
   background:var(--pagina);border-radius:44px}
 body.movil #lienzo{display:block;position:absolute;inset:0;padding-top:47px;
   overflow-y:auto;overflow-x:hidden}
@@ -509,14 +509,14 @@ body.movil .pm-guardar-wrap{display:block;padding:0 24px 16px}
 body.movil .pm-guardar{width:100%;height:48px;border-radius:8px;background:var(--verdinegro);
   display:flex;align-items:center;justify-content:center;gap:8px;cursor:pointer;
   font-family:var(--hl);font-weight:600;font-size:16px;color:#fff}
-body.movil .pm-barra{display:flex;position:sticky;top:0;z-index:70;align-items:center;gap:10px;
+body.movil .pm-barra{display:flex;position:sticky;top:0;z-index:70;align-items:center;gap:8px;
   padding:16px 24px;background:#fff;border-bottom:1px solid var(--neutral-35)}
 body.movil .pm-filtros,body.movil .pm-mapa{display:flex;align-items:center;gap:8px;height:40px;
-  cursor:pointer;font-family:var(--hl);font-weight:500;font-size:15px;color:var(--verdinegro)}
+  cursor:pointer;font-family:var(--body);font-weight:500;font-size:15px;color:var(--verdinegro)}
 body.movil .pm-filtros{background:none;padding:0;flex:none}
-body.movil .pm-mapa{flex:none;padding:0 14px;border:1px solid var(--verdinegro);border-radius:8px;background:#fff}
-body.movil .pm-orden{flex:1;min-width:0;height:40px;padding:0 10px;border:1px solid var(--verdinegro);
-  border-radius:8px;background:#fff;font-family:var(--hl);font-weight:500;font-size:15px;color:var(--verdinegro)}
+body.movil .pm-mapa{flex:none;padding:0 12px;border:1px solid var(--verdinegro);border-radius:8px;background:#fff}
+body.movil .pm-orden{flex:1;min-width:0;height:40px;padding:0 6px 0 10px;border:1px solid var(--verdinegro);
+  border-radius:8px;background:#fff;font-family:var(--body);font-weight:500;font-size:15px;color:var(--verdinegro)}
 body.movil .pm-filtros:focus-visible,body.movil .pm-mapa:focus-visible,
 body.movil .pm-guardar:focus-visible{outline:3px solid var(--verdinegro);outline-offset:2px}
 
@@ -567,6 +567,7 @@ body.movil .cab-card .tp{width:100%}
 body.movil .cab-card .logo{margin-left:0}
 body.movil .mod-cuota{height:auto}
 body.movil .tags{height:auto;flex-wrap:wrap}
+body.movil .tag{font-size:12px}                /* MASTER_Tag en móvil va a 12 */
 /* 425:34658 · divisor y CTA a ancho completo bajo las etiquetas */
 body.movil .acciones{height:auto;margin-top:16px;padding-top:16px;gap:12px;
   border-top:1px solid var(--neutral-35)}
@@ -595,10 +596,10 @@ body.movil .mp-resumen{gap:12px}                               /* Summary Conten
 body.movil .mp-fila{flex-direction:column;gap:24px}            /* Price Container · gap 24 */
 body.movil .mp-card{width:100%;padding:18px 12px;gap:20px;border-radius:12px}
 body.movil .mp-cab{gap:12px}
-body.movil .mp-ctrls{flex-direction:row;gap:14px}              /* TIN y plazo siguen lado a lado */
-/* columnas al contenido: con flex:1 1 0 la etiqueta del TIN se come la del plazo */
-body.movil .mp-ctrls .ctrl{flex:0 1 auto;min-width:0}
-body.movil .mp-ctrls .et{font-size:14px;line-height:16px;gap:0}
+body.movil .mp-ctrls{flex-direction:row;gap:20px}              /* TIN y plazo lado a lado, gap del componente */
+/* las dos columnas miden lo mismo y ocupan todo el contenedor */
+body.movil .mp-ctrls .ctrl{flex:1 1 0;min-width:0}
+body.movil .mp-ctrls .et{font-size:12px;line-height:16px;gap:0}
 body.movil .mp-btn{height:52px;min-height:0;padding:14px 24px;gap:12px;
   font-size:14px;line-height:17px;text-align:center}
 body.movil .pdp .accion{border-radius:0;padding:24px;gap:16px}
@@ -806,9 +807,15 @@ body.movil .mc-cuerpo{padding:20px}
 .mp-ctrls{display:flex;gap:20px}
 .mp-ctrls .ctrl{flex:1 1 0;min-width:0}
 .mp-ctrls .et{display:flex;align-items:center;gap:2px;min-height:24px;white-space:nowrap;
-  font-family:var(--body);font-weight:400;font-size:14px;line-height:16px;color:var(--tinta);margin-bottom:6px}
-/* el segmentado del componente mide 30 de alto */
-.mp-card .pills span{height:30px}
+  font-family:var(--body);font-weight:400;font-size:12px;line-height:16px;color:var(--tinta);margin-bottom:6px}
+/* Segmentado de TIN y plazo (CROSS_Filters Selector): 30 de alto, texto 12,
+   relleno #fafaf9, borde #333333 y, seleccionado, verdinegro con texto blanco.
+   Mismo tratamiento en la ficha y en el panel de filtros del catálogo. */
+.mp-card .pills span,
+#panel-cuota .sub .pills span{height:30px;font-size:12px;
+  background:#fafaf9;border-color:#333333;color:#000}
+.mp-card .pills input:checked+span,
+#panel-cuota .sub .pills input:checked+span{background:var(--verdinegro);border-color:#333333;color:#fff}
 .mp-btn{width:100%;height:52px;border-radius:100px;background:#fff;border:2px solid var(--verdinegro);
   color:var(--verdinegro);display:flex;align-items:center;justify-content:center;gap:12px;
   font-family:var(--hl);font-weight:600;font-size:16px;cursor:pointer}
@@ -853,6 +860,37 @@ body.movil .mc-cuerpo{padding:20px}
   display:grid;place-items:center;font-style:normal;font-size:11px;font-weight:700}
 .acceso button{margin-top:20px;width:100%;height:52px;border-radius:100px;background:var(--verdinegro);
   color:#fff;font-family:var(--hl);font-weight:600;font-size:16px;cursor:pointer}
+
+/* paginación: flechas a los lados; en móvil, en dos filas centradas */
+.pags .pag-nav{width:32px;height:32px;border-radius:50%;display:grid;place-items:center;
+  font-size:18px;line-height:1;color:var(--verdinegro);background:#fff}
+.pags .pag-nav:first-child{box-shadow:0 1px 4px rgba(0,0,0,.08)}
+body.movil .paginador{flex-direction:column;align-items:center;gap:10px;height:auto}
+body.movil .pags{justify-content:center;gap:12px}
+body.movil .resultados{text-align:center;font-size:16px}
+
+/* ===== card móvil según card=mobile-list (15033:101911) ===== */
+body.movil .card,body.movil .card.sin-cuota{position:relative}
+body.movil .cab-card{gap:0}
+/* el sello de la inmobiliaria va sobre la foto, arriba a la izquierda */
+body.movil .cab-card .logo{position:absolute;top:12px;left:12px;margin:0;z-index:2;
+  width:auto;padding:0 10px;height:24px;background:#fff;box-shadow:0 1px 4px rgba(0,0,0,.14)}
+/* favoritos se retira del listado por ahora */
+body.movil .card .fav{display:none}
+body.movil .acciones{gap:0}
+body.movil .btn-contactar{width:100%;flex:1 1 auto}
+/* el texto de supuestos fluye a dos líneas, no se sale de la card */
+body.movil .supuestos{width:auto;height:auto}
+
+/* ===== ajustes pedidos sobre la referencia de Figma =====
+.mp .mp-tags{margin:20px 0 4px}                 /* los tags van bajo el aviso legal */
+/* título a la izquierda e iconos a la derecha, en la misma fila (modulo-precio) */
+.mp-cabecera{display:flex;align-items:flex-start;gap:24px}
+.mp-cabecera .mp-titulo{flex:1 1 auto;min-width:0}
+.mp-cabecera .mp-acc{margin-top:4px}
+body.movil .mp-cabecera{gap:12px}
+body.movil .mp-cabecera .mp-acc{margin-top:0}
+body.movil .mp-btn{font-size:12px}              /* CTA de CaixaBank: 12 en móvil, 16 en escritorio */
 </style>
 </head>
 <body>
@@ -924,8 +962,8 @@ body.movil .mc-cuerpo{padding:20px}
         <circle cx="17" cy="7" r="2"/><circle cx="9" cy="17" r="2"/></svg>Filtros (6)
     </button>
     <label class="sr" for="orden-mov">Ordenar por</label>
-    <select id="orden-mov" class="pm-orden"><option>Relevancia</option><option>Precio más bajo</option>
-      <option>Precio más alto</option><option>Más recientes</option></select>
+    <select id="orden-mov" class="pm-orden"><option>Relevancia</option><option>Precio/cuota ascendente</option>
+      <option>Precio/cuota descendente</option><option>Más recientes</option></select>
     <button type="button" class="pm-mapa">
       <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="none" stroke="currentColor"
            stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
@@ -943,13 +981,6 @@ body.movil .mc-cuerpo{padding:20px}
     <aside class="col-filtros" id="col-filtros" aria-label="Filtros">
       <!-- 407:31712 · en móvil el panel es una pantalla completa: cabecera, ✕, pestañas y CTA -->
       <div class="pf-cab">
-        <div class="pf-nav">
-          <span class="logo" aria-label="Logotipo Casa (placeholder)">logo</span>
-          <div class="nav-movil">
-            <button type="button" class="cuenta" aria-label="Mi cuenta"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><circle cx="12" cy="9" r="3.4"/><path d="M5.5 19.2a6.8 6.8 0 0 1 13 0"/></svg></button>
-            <button type="button" aria-label="Menú"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><path d="M3 7h18M3 12h18M3 17h18"/></svg></button>
-          </div>
-        </div>
         <div class="pf-x">
           <button type="button" class="pf-cerrar" id="pf-cerrar" aria-label="Cerrar filtros">
             <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none" stroke="currentColor"
@@ -969,15 +1000,15 @@ body.movil .mc-cuerpo{padding:20px}
         <section>
           <div class="cab">
             <span class="t">Precio</span>
-            <span class="v" id="v-precio">Total</span>
+            <span class="v" id="v-precio">Cuota mensual</span>
           </div>
           <div class="seg" role="radiogroup" aria-label="Filtrar por precio total o por cuota mensual">
-            <label><input type="radio" name="modo" value="total" checked><span>Total</span></label>
-            <label><input type="radio" name="modo" value="cuota"><span>Cuota <span class="nuevo">NEW!</span></span></label>
+            <label><input type="radio" name="modo" value="total"><span>Precio</span></label>
+            <label><input type="radio" name="modo" value="cuota" checked><span>Cuota <span class="nuevo">NEW!</span></span></label>
           </div>
 
           <!-- modo total -->
-          <div id="panel-total">
+          <div id="panel-total" hidden>
             <div class="par">
               <div class="campo-dd"><label for="pt-desde">Desde</label>
                 <select id="pt-desde">
@@ -994,40 +1025,92 @@ body.movil .mc-cuerpo{padding:20px}
           </div>
 
           <!-- modo cuota -->
-          <div id="panel-cuota" hidden>
+          <div id="panel-cuota">
             <div class="par">
               <div class="campo-dd"><label for="pc-desde">Desde</label>
                 <select id="pc-desde">
-                  <option value="">Mínimo</option><option value="500">500</option><option value="750">750</option>
-                  <option value="1000">1000</option><option value="1250">1250</option><option value="1500">1500</option>
-                  <option value="2000">2000</option></select></div>
+                  <option value="">Mínimo</option>
+                  <option value="200">200 €/mes</option>
+                  <option value="300">300 €/mes</option>
+                  <option value="400">400 €/mes</option>
+                  <option value="500">500 €/mes</option>
+                  <option value="600">600 €/mes</option>
+                  <option value="700">700 €/mes</option>
+                  <option value="800">800 €/mes</option>
+                  <option value="900">900 €/mes</option>
+                  <option value="1000">1.000 €/mes</option>
+                  <option value="1100">1.100 €/mes</option>
+                  <option value="1200">1.200 €/mes</option>
+                  <option value="1400">1.400 €/mes</option>
+                  <option value="1600">1.600 €/mes</option>
+                  <option value="1800">1.800 €/mes</option>
+                  <option value="2000">2.000 €/mes</option>
+                  <option value="2200">2.200 €/mes</option>
+                  <option value="2400">2.400 €/mes</option>
+                  <option value="2600">2.600 €/mes</option>
+                  <option value="2800">2.800 €/mes</option>
+                  <option value="3000">3.000 €/mes</option>
+                  <option value="3200">3.200 €/mes</option>
+                  <option value="3400">3.400 €/mes</option>
+                  <option value="3600">3.600 €/mes</option>
+                  <option value="3800">3.800 €/mes</option>
+                  <option value="4000">4.000 €/mes</option>
+                  <option value="4500">4.500 €/mes</option>
+                  <option value="5000">5.000 €/mes</option>
+                  <option value="7000">7.000 €/mes</option>
+                  <option value="10000">10.000 €/mes</option></select></div>
               <div class="campo-dd"><label for="pc-hasta">Hasta</label>
                 <select id="pc-hasta">
-                  <option value="">Máximo</option><option value="1000">1000</option><option value="1500">1500</option>
-                  <option value="2000">2000</option><option value="2500">2500</option><option value="3000">3000</option>
-                  <option value="4000">4000</option></select></div>
+                  <option value="">Máximo</option>
+                  <option value="200">200 €/mes</option>
+                  <option value="300">300 €/mes</option>
+                  <option value="400">400 €/mes</option>
+                  <option value="500">500 €/mes</option>
+                  <option value="600">600 €/mes</option>
+                  <option value="700">700 €/mes</option>
+                  <option value="800">800 €/mes</option>
+                  <option value="900">900 €/mes</option>
+                  <option value="1000">1.000 €/mes</option>
+                  <option value="1100">1.100 €/mes</option>
+                  <option value="1200">1.200 €/mes</option>
+                  <option value="1400">1.400 €/mes</option>
+                  <option value="1600">1.600 €/mes</option>
+                  <option value="1800">1.800 €/mes</option>
+                  <option value="2000">2.000 €/mes</option>
+                  <option value="2200">2.200 €/mes</option>
+                  <option value="2400">2.400 €/mes</option>
+                  <option value="2600">2.600 €/mes</option>
+                  <option value="2800">2.800 €/mes</option>
+                  <option value="3000">3.000 €/mes</option>
+                  <option value="3200">3.200 €/mes</option>
+                  <option value="3400">3.400 €/mes</option>
+                  <option value="3600">3.600 €/mes</option>
+                  <option value="3800">3.800 €/mes</option>
+                  <option value="4000">4.000 €/mes</option>
+                  <option value="4500">4.500 €/mes</option>
+                  <option value="5000">5.000 €/mes</option>
+                  <option value="7000">7.000 €/mes</option>
+                  <option value="10000">10.000 €/mes</option></select></div>
             </div>
 
             <div class="sub">
               <span class="et">TIN</span>
               <div class="pills" role="radiogroup" aria-label="Tipo de interés">
-                <label><input type="radio" name="tin-plp" value="2.3"><span>2,3%</span></label>
-                <label><input type="radio" name="tin-plp" value="2.8" checked><span>2,8%</span></label>
-                <label><input type="radio" name="tin-plp" value="3.2"><span>3,2%</span></label>
+                <label><input type="radio" name="tin-plp" value="2.35"><span>2,35%</span></label>
+                <label><input type="radio" name="tin-plp" value="2.85" checked><span>2,85%</span></label>
+                <label><input type="radio" name="tin-plp" value="3.35"><span>3,35%</span></label>
               </div>
             </div>
 
             <div class="sub">
-              <span class="et">Plazo</span>
-              <div class="pills" role="radiogroup" aria-label="Plazo">
-                <label><input type="radio" name="plazo-plp" value="20"><span>20 años</span></label>
-                <label><input type="radio" name="plazo-plp" value="25" checked><span>25 años</span></label>
-                <label><input type="radio" name="plazo-plp" value="30"><span>30 años</span></label>
+              <span class="et">Plazo (Años)</span>
+              <div class="pills" role="radiogroup" aria-label="Plazo en años">
+                <label><input type="radio" name="plazo-plp" value="20"><span>20</span></label>
+                <label><input type="radio" name="plazo-plp" value="25" checked><span>25</span></label>
+                <label><input type="radio" name="plazo-plp" value="30"><span>30</span></label>
               </div>
             </div>
 
-            <p class="nota-cuota">La cuota indicada es solo orientativa.
-              <button type="button" data-como>Cómo se calcula.</button></p>
           </div>
         </section>
 
@@ -1176,8 +1259,8 @@ body.movil .mc-cuerpo{padding:20px}
 
       <div class="menu">
         <label class="et" for="orden">Ordenar por:</label>
-        <select id="orden"><option>Relevancia</option><option>Precio más bajo</option>
-          <option>Precio más alto</option><option>Más recientes</option></select>
+        <select id="orden"><option>Relevancia</option><option>Precio/cuota ascendente</option>
+          <option>Precio/cuota descendente</option><option>Más recientes</option></select>
         <div class="vistas" role="radiogroup" aria-label="Tipo de vista">
           <label><input type="radio" name="vista" checked><span class="b" aria-hidden="true">▤</span><span class="sr">Lista</span></label>
           <label><input type="radio" name="vista"><span class="b" aria-hidden="true">▦</span><span class="sr">Cuadrícula</span></label>
@@ -1189,10 +1272,12 @@ body.movil .mc-cuerpo{padding:20px}
 
       <div class="paginador">
         <nav class="pags" aria-label="Paginación">
+          <button class="pag-nav" aria-label="Página anterior">‹</button>
           <button aria-current="page">1</button><button>2</button><button>3</button>
           <button>4</button><span aria-hidden="true">...</span><button>12</button>
+          <button class="pag-nav" aria-label="Página siguiente">›</button>
         </nav>
-        <span class="resultados" id="resultados">1 - 12 de 315 resultados</span>
+        <span class="resultados" id="resultados">1 - 13 de 315 resultados</span>
       </div>
 
     </div>
@@ -1235,12 +1320,10 @@ body.movil .mc-cuerpo{padding:20px}
 
   <div class="galeria">
     <div class="gal-main" role="img" aria-label="Fotografía principal del inmueble">
-      <!-- en móvil no hay columna de secundarias, así que «Ver todas» va sobre la principal -->
-      <button class="ver-todas solo-movil">Ver todas</button>
     </div>
     <div class="gal-lado">
       <div role="img" aria-label="Salón"></div>
-      <div role="img" aria-label="Cocina"><button class="ver-todas">Ver todas</button></div>
+      <div role="img" aria-label="Cocina"></div>
     </div>
   </div>
 
@@ -1249,19 +1332,14 @@ body.movil .mc-cuerpo{padding:20px}
 
       <section class="tarjeta mp">
 
-        <div class="mp-top">
-          <ul class="mp-tags">
-            <li class="mp-tag">2 hab.</li><li class="mp-tag">2 baños</li><li class="mp-tag">71 m²</li>
-            <li class="mp-tag">Planta 4ª</li><li class="mp-tag">Ascensor</li><li class="mp-tag">Garaje</li>
-          </ul>
+        <div class="mp-resumen">
+        <div class="mp-cabecera">
+          <h1 class="mp-titulo" id="pdp-titulo" tabindex="-1">Venta Piso en Gràcia, Barcelona</h1>
           <div class="mp-acc">
             <button type="button" aria-label="Compartir"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M13 4.5 20.5 11 13 17.5V13.5C7.5 13.5 4.5 15.5 3 19c.5-6 3.5-9.5 10-9.5Z"/></svg></button>
             <button type="button" class="fav" aria-pressed="false" aria-label="Guardar en favoritos"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12.62 20.81c-.34.12-.9.12-1.24 0C8.48 19.82 2 15.69 2 8.69 2 5.6 4.49 3.1 7.56 3.1c1.82 0 3.43.88 4.44 2.24a5.53 5.53 0 0 1 4.44-2.24C19.51 3.1 22 5.6 22 8.69c0 7-6.48 11.13-9.38 12.12Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
           </div>
         </div>
-
-        <div class="mp-resumen">
-        <h1 class="mp-titulo" id="pdp-titulo" tabindex="-1">Venta Piso en Gràcia, Barcelona</h1>
 
         <div class="mp-fila" id="pdp-fin">
           <div class="mp-col">
@@ -1269,11 +1347,10 @@ body.movil .mc-cuerpo{padding:20px}
             <p class="mp-cifra" id="pdp-precio">600.000 €</p>
             <div class="mp-cuota">
               <span class="mp-et">Cuota estimada</span>
-              <span class="mp-chip"><span id="pdp-cuota">2.227</span> €/mes</span>
+              <span class="mp-chip"><span id="pdp-cuota">2.239</span> €/mes</span>
             </div>
-            <p class="mp-sup">Financiación 80% del precio del inmueble.<br>
-              Entrada inicial <span id="pdp-entrada">120.000 €</span>.</p>
-            <button class="mp-link" data-modal aria-haspopup="dialog">Ver detalle del cálculo</button>
+            <p class="mp-sup">Financiación 80% del precio del inmueble. <span id="pdp-entrada" hidden></span></p>
+            <button class="mp-link" data-modal aria-haspopup="dialog">Detalle del cálculo de la cuota</button>
           </div>
 
           <div class="mp-card">
@@ -1292,9 +1369,9 @@ body.movil .mc-cuerpo{padding:20px}
                     </span>
                   </span>
                   <div class="pills" role="radiogroup" aria-label="Tipo de interés (TIN)">
-                    <label><input type="radio" name="tin-pdp" value="2.3"><span>2,3%</span></label>
-                    <label><input type="radio" name="tin-pdp" value="2.8" checked><span>2,8%</span></label>
-                    <label><input type="radio" name="tin-pdp" value="3.2"><span>3,2%</span></label>
+                    <label><input type="radio" name="tin-pdp" value="2.35"><span>2,35%</span></label>
+                    <label><input type="radio" name="tin-pdp" value="2.85" checked><span>2,85%</span></label>
+                    <label><input type="radio" name="tin-pdp" value="3.35"><span>3,35%</span></label>
                   </div>
                 </div>
                 <div class="ctrl">
@@ -1326,6 +1403,11 @@ body.movil .mc-cuerpo{padding:20px}
           simulaciones y poder hacerte una idea aproximada de lo que supondría financiar la compra de este inmueble.</p>
 
         <div class="mp-div"></div>
+
+        <ul class="mp-tags">
+          <li class="mp-tag">2 hab.</li><li class="mp-tag">2 baños</li><li class="mp-tag">71 m²</li>
+          <li class="mp-tag">Planta 4ª</li><li class="mp-tag">Ascensor</li><li class="mp-tag">Garaje</li>
+        </ul>
 
         <div class="mp-loc">
           <h2>Gràcia, Barcelona</h2>
@@ -1436,7 +1518,7 @@ body.movil .mc-cuerpo{padding:20px}
         <label class="acepto"><input type="checkbox"><span>He leído y acepto la <a href="#" style="text-decoration:underline">Política de Privacidad</a></span></label>
         <button type="submit" class="enviar">Enviar</button>
         <hr>
-        <p class="pie">Ofrecido por Inmobika</p>
+        <p class="pie">Ofrecido por Hogarcerca</p>
       </form>
     </aside>
   </div>
@@ -1496,23 +1578,7 @@ body.movil .mc-cuerpo{padding:20px}
      BARRA RESUMEN STICKY · 953:103462
      Fija abajo. Solo en la galería y solo después de empezar a bajar.
      ================================================================= -->
-<div class="barra-resumen" id="barra-resumen" aria-hidden="true">
-  <div class="br-izq">
-    <span class="br-mini" role="img" aria-label="Miniatura del inmueble"></span>
-    <div class="br-inm">
-      <p class="p" id="br-precio">600.000 €</p>
-      <p class="s" id="br-sub">Piso en Gràcia · 111 m²</p>
-    </div>
-    <span class="br-div" aria-hidden="true"></span>
-    <div class="br-fin" id="br-fin">
-      <span class="br-chip"><span id="br-cuota">2.227</span> €/mes</span>
-      <span class="s" id="br-cond">TIN 2,8 % · 25 años</span>
-    </div>
-    <a class="br-sim" data-sim href="#" target="_blank" rel="noopener noreferrer"
-       aria-label="Simula tu hipoteca con CaixaBank (se abre en una pestaña nueva)">Simula tu hipoteca con CaixaBank</a>
-  </div>
-  <button type="button" class="br-cta">Contactar con el anunciante</button>
-</div>
+<!-- La barra resumen al hacer scroll se retira del prototipo. -->
 
 <!-- =================================================================
      FICHA MÓVIL · bloque fijo inferior
@@ -1520,21 +1586,8 @@ body.movil .mc-cuerpo{padding:20px}
      (967:104714) que entra al pasar el módulo de cuota.
      ================================================================= -->
 <div class="mov-fijo" id="mov-fijo" hidden>
-  <div class="mov-resumen" id="mov-resumen" aria-hidden="true">
-    <span class="mr-mini" role="img" aria-label="Miniatura del inmueble"></span>
-    <div class="mr-inm">
-      <p class="p" id="mr-precio">600.000 €</p>
-      <p class="s" id="mr-sub">Piso en Gràcia · 111 m²</p>
-    </div>
-    <div class="mr-fin" id="mr-fin">
-      <span class="mr-chip"><span id="mr-cuota">2.227</span> €/mes</span>
-      <span class="s" id="mr-cond">TIN 2,8 % · 25 años</span>
-    </div>
-  </div>
   <div class="mov-acciones">
     <button type="button" class="mov-cta">Contactar con el anunciante</button>
-    <a class="mov-sim" data-sim href="#" target="_blank" rel="noopener noreferrer"
-       aria-label="Simula tu hipoteca con CaixaBank (se abre en una pestaña nueva)">Simula tu hipoteca con CaixaBank</a>
   </div>
 </div>
 
@@ -1555,9 +1608,9 @@ body.movil .mc-cuerpo{padding:20px}
     <div class="m-bloque">
       <div>
         <span class="et">Tu cuota mensual estimada</span>
-        <p class="cifra" id="m-cuota">2.227 €<span class="mes">/mes</span></p>
+        <p class="cifra" id="m-cuota">2.239 €<span class="mes">/mes</span></p>
         <div class="m-ctx">
-          <span id="m-contexto">durante 25 años, con un TIN del 2,8 %</span>
+          <span id="m-contexto">durante 25 años, con un TIN del 2,85 %</span>
           <span class="tip-wrap">
             <button type="button" class="tip-btn" aria-expanded="false" aria-controls="tip-tin"
                     aria-label="Más información sobre el TIN"><i aria-hidden="true">i</i></button>
@@ -1572,12 +1625,26 @@ body.movil .mc-cuerpo{padding:20px}
       <div class="m-linea"></div>
 
       <div class="m-fila">
-        <span class="l"><span>Importe de la hipoteca</span>
+        <span class="l"><span>Importe de compra</span>
+          <span class="tip-wrap">
+            <button type="button" class="tip-btn" aria-expanded="false" aria-controls="tip-com"
+                    aria-label="Más información sobre el importe de compra"><i aria-hidden="true">i</i></button>
+            <span class="tip" id="tip-com" role="dialog" aria-labelledby="tip-com-h" hidden>
+              <h4 id="tip-com-h">Importe de compra</h4>
+              <p>El precio del inmueble publicado en el anuncio. Es la base sobre la que se calcula todo lo demás.</p>
+            </span>
+          </span>
+        </span>
+        <span class="val" id="m-compra">600.000 €</span>
+      </div>
+
+      <div class="m-fila">
+        <span class="l"><span>Importe de financiación</span>
           <span class="tip-wrap">
             <button type="button" class="tip-btn" aria-expanded="false" aria-controls="tip-hip"
-                    aria-label="Más información sobre el importe de la hipoteca"><i aria-hidden="true">i</i></button>
+                    aria-label="Más información sobre el importe de financiación"><i aria-hidden="true">i</i></button>
             <span class="tip" id="tip-hip" role="dialog" aria-labelledby="tip-hip-h" hidden>
-              <h4 id="tip-hip-h">Importe de la hipoteca</h4>
+              <h4 id="tip-hip-h">Importe de financiación</h4>
               <p>El dinero que te ha prestado, que devuelves poco a poco con cada cuota.</p>
             </span>
           </span>
@@ -1585,27 +1652,14 @@ body.movil .mc-cuerpo{padding:20px}
         <span class="val" id="m-hipoteca">480.000 €</span>
       </div>
 
-      <div class="m-fila">
-        <span class="l"><span>Porcentaje de financiación</span>
-          <span class="tip-wrap">
-            <button type="button" class="tip-btn" aria-expanded="false" aria-controls="tip-fin"
-                    aria-label="Más información sobre el porcentaje de financiación"><i aria-hidden="true">i</i></button>
-            <span class="tip" id="tip-fin" role="dialog" aria-labelledby="tip-fin-h" hidden>
-              <h4 id="tip-fin-h">Porcentaje de financiación</h4>
-              <p>Como máximo el 80 % del precio de la vivienda. Es el dinero sobre el que se calculan los intereses y la cuota.</p>
-            </span>
-          </span>
-        </span>
-        <span class="val">80%</span>
-      </div>
     </div>
 
     <div class="m-total">
       <h3>Cómo se paga</h3>
       <div class="m-barra" role="img" aria-labelledby="m-leyenda">
-        <i class="s1" id="m-s1" style="width:14%">14 %</i>
-        <i class="s2" id="m-s2" style="width:9%">9 %</i>
-        <i class="s3" id="m-s3" style="width:77%">77 %</i>
+        <i class="s1" id="m-s1" style="width:14%">14%</i>
+        <i class="s2" id="m-s2" style="width:9%">9%</i>
+        <i class="s3" id="m-s3" style="width:77%">77%</i>
       </div>
 
       <div class="m-leyenda" id="m-leyenda">
@@ -1651,12 +1705,12 @@ body.movil .mc-cuerpo{padding:20px}
               </span>
             </span>
           </span>
-          <span class="val" id="m-adeudado">667.979 €</span>
+          <span class="val" id="m-adeudado">671.683 €</span>
         </div>
 
         <div class="m-fila suma">
           <span class="l"><span>Coste total con hipoteca</span></span>
-          <span class="val" id="m-coste">865.979 €</span>
+          <span class="val" id="m-coste">869.683 €</span>
         </div>
       </div>
     </div>
@@ -1665,7 +1719,7 @@ body.movil .mc-cuerpo{padding:20px}
       <div class="m-linea"></div>
       <h3>Te acompañamos en el siguiente paso</h3>
       <a class="btn" data-sim href="#" target="_blank" rel="noopener noreferrer" aria-label="Simula tu hipoteca con CaixaBank (se abre en una pestaña nueva)"><svg viewBox="0 0 24 24" aria-hidden="true" width="24" height="24" style="flex:none"><path d="M15 1.5c.9 3 1.1 5.6.6 7.9l6.4-3.3c-1.6 2.7-3.5 4.6-5.6 5.9l6.1 1.7c-3 .6-5.6.5-7.8-.2l2.6 5.9c-2.2-1.9-3.7-4-4.6-6.3l-2.1 6.2c-.5-3-.4-5.5.3-7.7L5.6 15c1.5-2.6 3.3-4.5 5.3-5.8L4.6 7.4c3-.5 5.6-.3 7.7.6L10 2.4c2.1 1.9 3.6 3.9 4.4 6.1Z" fill="#009ad8"/><circle cx="9" cy="17.6" r="1.9" fill="#e65a2b"/><circle cx="11.4" cy="21.3" r="1.3" fill="#f4c00e"/></svg>Simula tu hipoteca con CaixaBank</a>
-      <button class="empezar">¿No sabes por donde empezar?</button>
+      <button class="empezar">¿No sabes por dónde empezar?</button>
     </div>
   </div>
 </div>
@@ -1681,7 +1735,7 @@ body.movil .mc-cuerpo{padding:20px}
         <button class="cerrar" id="mc-cerrar" aria-label="Cerrar">✕</button>
       </div>
       <p class="sub1" id="mc-sub1">Piso en Gràcia · 600.000 €</p>
-      <p class="sub2" id="mc-sub2">Importe de la hipoteca: 480.000€</p>
+      <p class="sub2" id="mc-sub2">Importe de financiación: 480.000€</p>
     </div>
     <div class="m-div"></div>
     <div class="m-div"></div>
@@ -1780,13 +1834,25 @@ body.movil .mc-cuerpo{padding:20px}
   }
   armaTelefono();
 
+  /* el indicador canta la medida real: el teléfono es 375 × 812, pero si la ventana
+     es más baja se encoge para no cortarse y conviene que se vea */
+  function mide(){
+    var pan = document.getElementById('pantalla');
+    if(document.body.classList.contains('movil') && pan && getComputedStyle(pan).display !== 'contents'){
+      med.textContent = 'iPhone · 375 × ' + Math.round(pan.getBoundingClientRect().height);
+    } else {
+      med.textContent = '1440 px';
+    }
+  }
+  window.addEventListener('resize', mide);
+
   function aplica(f){
     var movil = f === 'movil';
     document.body.classList.toggle('movil', movil);
     bar.querySelectorAll('.bf-b').forEach(function(b){
       b.setAttribute('aria-pressed', b.getAttribute('data-formato') === f ? 'true' : 'false');
     });
-    med.textContent = movil ? 'iPhone · 375 px' : '1440 px';
+    requestAnimationFrame(mide);
     try{ sessionStorage.setItem('fc-formato', f); }catch(e){}
     window.dispatchEvent(new CustomEvent('fc-formato', {detail:f}));
   }
@@ -1868,7 +1934,7 @@ body.movil .mc-cuerpo{padding:20px}
 <script>
 (function(){
   /* ============ estado compartido PLP ↔ PDP ============ */
-  var S = { modo:'total', tin:2.8, plazo:25,
+  var S = { modo:'cuota', tin:2.85, plazo:25,
             min:null, max:null,        /* rango de CUOTA (€/mes) */
             pmin:null, pmax:null,      /* rango de PRECIO total (€) */
             inmueble:0 };
@@ -1885,18 +1951,20 @@ body.movil .mc-cuerpo{padding:20px}
   var INMUEBLES = [
     {p:600000, t:'Piso en Gràcia, Barcelona'},
     {p:425000, t:'Piso en Gràcia, Barcelona'},
-    {p:null, t:'Piso en Gràcia, Barcelona', etiqueta:'Precio a consultar'},
-    {p:389000, t:'Piso en Gràcia, Barcelona'},
-    {p:550000, t:'Piso en Gràcia, Barcelona'},
-    {p:null, t:'Piso en alquiler en Gràcia, Barcelona', etiqueta:'1.450 €/mes', alquiler:true},
     {p:310000, t:'Piso en Gràcia, Barcelona'},
-    {p:10000, t:'Plaza de garaje en Gràcia', tags:TAGS_GARAJE},
-    {p:725000, t:'Piso en Gràcia, Barcelona'},
+    {p:750000, t:'Piso en Gràcia, Barcelona'},
+    {p:189000, t:'Piso en Gràcia, Barcelona'},
+    {p:1100000, t:'Piso en Gràcia, Barcelona'},
     {p:268000, t:'Piso en Gràcia, Barcelona'},
-    {p:1850000, t:'Casa en Gràcia, Barcelona', tags:TAGS_CASA},
-    {p:480000, t:'Piso en Gràcia, Barcelona'},
-    {p:915000, t:'Piso en Gràcia, Barcelona'}
-  ];
+    {p:915000, t:'Piso en Gràcia, Barcelona'},
+    {p:1450000, t:'Piso en Gràcia, Barcelona'},
+    {p:355000, t:'Piso en Gràcia, Barcelona'},
+    {p:295000, t:'Piso en Gràcia, Barcelona'},
+    {p:330000, t:'Piso en Gràcia, Barcelona'},
+    /* casos límite documentados en Figma, van como cards normales del listado.
+       Fuera del rango del simulador (30.000 - 1.500.000 €) el inmueble no se publica. */
+    {p:null, t:'Piso en Gràcia, Barcelona', etiqueta:'Precio a consultar'}
+  ].filter(function(x){ return x.p === null || (x.p >= 30000 && x.p <= 1500000); });
 
   /* ---- simulador de CaixaBank ----
      Se abre en pestaña nueva. El precio del inmueble viaja en paramInPrecioVivienda;
@@ -1933,10 +2001,33 @@ body.movil .mc-cuerpo{padding:20px}
     var C = precio * LTV, i = tin/100/12, n = anios*12;
     return C * i / (1 - Math.pow(1+i, -n));
   }
-  function tinTxt(){ return S.tin.toFixed(1).replace('.', ',') + ' %'; }
+  function tinTxt(){ return S.tin.toFixed(2).replace('.', ',') + ' %'; }
 
   /* ============ CATÁLOGO ============ */
   var cat = document.getElementById('catalogo');
+
+  /* Ordenar por: en modo cuota y en modo precio el orden es el mismo, porque la cuota
+     es proporcional al precio. Los inmuebles sin precio publicado van siempre al final. */
+  var S_ORDEN = 'Relevancia';
+  function ordena(lista){
+    if(S_ORDEN === 'Relevancia') return lista;
+    if(S_ORDEN === 'Más recientes'){ lista.reverse(); return lista; }
+    var asc = /ascendente/.test(S_ORDEN);
+    lista.sort(function(a,b){
+      if(a.p === null && b.p === null) return a.k - b.k;
+      if(a.p === null) return 1;
+      if(b.p === null) return -1;
+      return asc ? a.p - b.p : b.p - a.p;
+    });
+    return lista;
+  }
+  function cambiaOrden(v){
+    S_ORDEN = v;
+    var d = document.getElementById('orden'), m = document.getElementById('orden-mov');
+    if(d) d.value = v;
+    if(m) m.value = v;
+    pintaCatalogo();
+  }
 
   function pintaCatalogo(){
     var visibles = INMUEBLES.map(function(x,k){
@@ -1962,6 +2053,8 @@ body.movil .mc-cuerpo{padding:20px}
       return true;
     });
 
+    ordena(visibles);
+
     cat.innerHTML = '';
     if(!visibles.length){
       cat.innerHTML = '<p class="vacio">No hay inmuebles con una cuota en ese rango. Prueba a ampliarlo o a alargar el plazo.</p>';
@@ -1979,14 +2072,14 @@ body.movil .mc-cuerpo{padding:20px}
           '<div class="cab-card"><div class="tp">' +
             '<h3><button data-ficha="' + x.k + '">' + x.t + '</button></h3>' +
             '<p class="precio">' + x.etiqueta + '</p></div>' +
-            '<span class="logo" aria-hidden="true">Inmobika</span></div>' +
+            '<span class="logo" aria-hidden="true">Hogarcerca</span></div>' +
           (x.fin ?
           '<div class="mod-cuota"><div class="fila-cuota">' +
             '<span class="et">Cuota estimada</span>' +
             '<button type="button" class="ico-card" data-modal data-card="' + x.k + '" ' +
                     'aria-label="Ver cómo se calcula esta cuota"><i aria-hidden="true">!</i></button>' +
             '<span class="chip">' + eur(x.c) + ' €/mes</span></div>' +
-            '<p class="supuestos">TIN ' + tinTxt() + ' · ' + S.plazo + ' años · Importe de la hipoteca: ' +
+            '<p class="supuestos">TIN ' + tinTxt() + ' · ' + S.plazo + ' años · Importe de financiación: ' +
               eur(x.p*LTV) + '€' +
               '<br><span class="gris">Puedes modificar el TIN y el plazo en el panel de filtros.</span></p>' +
             '<a class="enlace-sim" href="' + urlSimulador(x) + '" target="_blank" rel="noopener noreferrer" ' +
@@ -2013,8 +2106,13 @@ body.movil .mc-cuerpo{padding:20px}
       (filtrado ? visibles.length : 315) + ' casas y pisos en Gràcia, Barcelona';
     document.getElementById('resultados').textContent = filtrado
       ? '1 - ' + visibles.length + ' de ' + visibles.length + ' resultados'
-      : '1 - 12 de 315 resultados';
+      : '1 - ' + visibles.length + ' de 315 resultados';
   }
+
+  ['orden','orden-mov'].forEach(function(id){
+    var sel = document.getElementById(id);
+    if(sel) sel.addEventListener('change', function(){ cambiaOrden(sel.value); });
+  });
 
   /* ---- paso 2: activar el modo cuota ---- */
   document.querySelectorAll('input[name="modo"]').forEach(function(r){
@@ -2022,10 +2120,23 @@ body.movil .mc-cuerpo{padding:20px}
       S.modo = r.value;
       document.getElementById('panel-total').hidden = (S.modo === 'cuota');
       document.getElementById('panel-cuota').hidden = (S.modo !== 'cuota');
-      document.getElementById('v-precio').textContent = (S.modo === 'cuota') ? 'Cuota' : 'Total';
+      subtituloFiltro();
       pintaCatalogo();
     });
   });
+
+  /* El subtítulo de «Precio» repite el rango elegido; sin rango, el literal del modo. */
+  function subtituloFiltro(){
+    var cuotaModo = (S.modo === 'cuota');
+    var a = cuotaModo ? S.min : S.pmin, b = cuotaModo ? S.max : S.pmax;
+    var u = cuotaModo ? ' €/mes' : ' €';
+    var t;
+    if(a !== null && b !== null) t = eur(a) + u + ' - ' + eur(b) + u;
+    else if(a !== null)          t = 'Desde ' + eur(a) + u;
+    else if(b !== null)          t = 'Hasta ' + eur(b) + u;
+    else                         t = cuotaModo ? 'Cuota mensual' : 'Precio inmueble';
+    document.getElementById('v-precio').textContent = t;
+  }
 
   /* ---- paso 3: rango + TIN + plazo ---- */
   function leeRango(){
@@ -2036,8 +2147,8 @@ body.movil .mc-cuerpo{padding:20px}
     document.getElementById('pc-desde').classList.toggle('puesto', !!d);
     document.getElementById('pc-hasta').classList.toggle('puesto', !!h);
   }
-  document.getElementById('pc-desde').addEventListener('change', function(){ leeRango(); pintaCatalogo(); });
-  document.getElementById('pc-hasta').addEventListener('change', function(){ leeRango(); pintaCatalogo(); });
+  document.getElementById('pc-desde').addEventListener('change', function(){ leeRango(); subtituloFiltro(); pintaCatalogo(); });
+  document.getElementById('pc-hasta').addEventListener('change', function(){ leeRango(); subtituloFiltro(); pintaCatalogo(); });
 
   /* ---- paso 1: el filtro de precio total también recalcula ---- */
   function leePrecio(){
@@ -2047,8 +2158,8 @@ body.movil .mc-cuerpo{padding:20px}
     d.classList.toggle('puesto', !!d.value);
     h.classList.toggle('puesto', !!h.value);
   }
-  document.getElementById('pt-desde').addEventListener('change', function(){ leePrecio(); pintaCatalogo(); });
-  document.getElementById('pt-hasta').addEventListener('change', function(){ leePrecio(); pintaCatalogo(); });
+  document.getElementById('pt-desde').addEventListener('change', function(){ leePrecio(); subtituloFiltro(); pintaCatalogo(); });
+  document.getElementById('pt-hasta').addEventListener('change', function(){ leePrecio(); subtituloFiltro(); pintaCatalogo(); });
 
   document.querySelectorAll('input[name="tin-plp"]').forEach(function(r){
     r.addEventListener('change', function(){ S.tin = parseFloat(r.value); sincroniza(); });
@@ -2142,6 +2253,7 @@ body.movil .mc-cuerpo{padding:20px}
   }
 
   function pintaBarra(){
+    if(!document.getElementById('br-precio')) return;   /* la barra resumen ya no existe */
     var x = INMUEBLES[S.inmueble];
     var f = financiable(x);
     document.getElementById('br-precio').textContent = etiquetaPrecio(x);
@@ -2159,7 +2271,7 @@ body.movil .mc-cuerpo{padding:20px}
   var galeria = document.getElementById('vista-galeria');
 
   function sincronizaBarra(){
-    /* en móvil manda el bloque fijo propio de la ficha, no esta barra */
+    if(!barra) return;
     var visible = !galeria.hidden && !document.body.classList.contains('movil');
     barra.classList.toggle('visible', visible);
     barra.setAttribute('aria-hidden', visible ? 'false' : 'true');
@@ -2170,6 +2282,7 @@ body.movil .mc-cuerpo{padding:20px}
   var movResumen = document.getElementById('mov-resumen');
 
   function pintaMovFijo(){
+    if(!document.getElementById('mr-precio')) return;   /* el resumen móvil ya no existe */
     var x = INMUEBLES[S.inmueble];
     var f = financiable(x);
     document.getElementById('mr-precio').textContent = etiquetaPrecio(x);
@@ -2214,8 +2327,10 @@ body.movil .mc-cuerpo{padding:20px}
       var fin = document.getElementById('pdp-fin');
       if(fin && !fin.hidden) mostrar = fin.getBoundingClientRect().bottom < topePantalla();
     }
-    movResumen.classList.toggle('visible', mostrar);
-    movResumen.setAttribute('aria-hidden', mostrar ? 'false' : 'true');
+    if(movResumen){
+      movResumen.classList.toggle('visible', mostrar);
+      movResumen.setAttribute('aria-hidden', mostrar ? 'false' : 'true');
+    }
   }
 
   /* el scroll puede venir de la ventana o de la pantalla del mockup */
@@ -2281,6 +2396,7 @@ body.movil .mc-cuerpo{padding:20px}
     document.getElementById('m-cuota').innerHTML = eur(c) + ' €<span class="mes">/mes</span>';
     document.getElementById('m-contexto').textContent =
       'durante ' + S.plazo + ' años, con un TIN del ' + tinTxt();
+    document.getElementById('m-compra').textContent = eur(x.p) + ' €';
     document.getElementById('m-hipoteca').textContent = eur(x.p*LTV) + ' €';
     document.getElementById('m-entrada').textContent = eur(entrada) + ' €';
     document.getElementById('m-gastos').textContent = eur(gastos) + ' €';
@@ -2289,13 +2405,14 @@ body.movil .mc-cuerpo{padding:20px}
 
     var p1 = entrada/coste*100, p2 = gastos/coste*100, p3 = adeudado/coste*100;
     var s1 = document.getElementById('m-s1'), s2 = document.getElementById('m-s2'), s3 = document.getElementById('m-s3');
-    s1.style.width = p1+'%'; s1.textContent = Math.round(p1)+' %';
-    s2.style.width = p2+'%'; s2.textContent = Math.round(p2)+' %';
-    s3.style.width = p3+'%'; s3.textContent = Math.round(p3)+' %';
+    var e1 = Math.round(p1), e2 = Math.round(p2);
+    s1.style.width = p1+'%'; s1.textContent = e1+'%';
+    s2.style.width = p2+'%'; s2.textContent = e2+'%';
+    s3.style.width = p3+'%'; s3.textContent = (100-e1-e2)+'%';
   }
 
   /* ============ MODAL · Así cambia tu cuota (9 combinaciones) ============ */
-  var TINS = [2.3, 2.8, 3.2], PLAZOS = [20, 25, 30];
+  var TINS = [2.35, 2.85, 3.35], PLAZOS = [20, 25, 30];
   var ovC = document.getElementById('overlay-combis');
   var mdC = document.getElementById('modal-combis');
   var cuerpoC = document.getElementById('mc-cuerpo');
@@ -2303,7 +2420,7 @@ body.movil .mc-cuerpo{padding:20px}
   function pintaCombis(){
     var x = INMUEBLES[S.inmueble];
     document.getElementById('mc-sub1').textContent = x.t.replace(' en Gràcia, Barcelona',' en Gràcia') + ' · ' + eur(x.p) + ' €';
-    document.getElementById('mc-sub2').textContent = 'Importe de la hipoteca: ' + eur(x.p*LTV) + '€';
+    document.getElementById('mc-sub2').textContent = 'Importe de financiación: ' + eur(x.p*LTV) + '€';
     cuerpoC.innerHTML = '';
 
     function opcion(t, a, activa){
@@ -2317,7 +2434,7 @@ body.movil .mc-cuerpo{padding:20px}
       b.innerHTML =
         '<span class="datos">' +
           (activa ? '<span class="ref">TU SELECCIÓN ACTUAL</span>' : '') +
-          '<span class="comb">TIN ' + t.toFixed(1).replace('.', ',') + ' % · ' + a + ' años</span>' +
+          '<span class="comb">TIN ' + t.toFixed(2).replace('.', ',') + ' % · ' + a + ' años</span>' +
         '</span>' +
         '<span class="cuota"><b>' + eur(cuota(x.p, t, a)) + ' €</b><em>/mes</em></span>';
       return b;
@@ -2443,7 +2560,13 @@ body.movil .mc-cuerpo{padding:20px}
   /* mantiene el popover dentro de su contenedor: nunca se sale del modal ni de la pantalla */
   function encaja(t){
     t.style.left = '-8px';
-    var limite = t.closest('#modal') || document.documentElement;
+    /* en móvil el borde que manda es la pantalla del mockup, no el ancho del navegador */
+    var limite = t.closest('#modal');
+    if(!limite && document.body.classList.contains('movil')){
+      var pan = document.getElementById('pantalla');
+      if(pan && pan.getBoundingClientRect().width > 0) limite = pan;
+    }
+    if(!limite) limite = document.documentElement;
     var lim = limite.getBoundingClientRect();
     var r = t.getBoundingClientRect();
     var margen = 12, desvio = 0;

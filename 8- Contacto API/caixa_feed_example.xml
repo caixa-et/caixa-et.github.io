@@ -4353,7 +4353,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent></sale_rent>
         <list_selling_price_amount>100000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -4431,7 +4431,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent></sale_rent>
         <list_selling_price_amount></list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -4509,7 +4509,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>100000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -4570,7 +4570,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>100000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -4628,7 +4628,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_rent</sale_rent>
         <list_selling_price_amount></list_selling_price_amount>
         <list_rental_price_amount/>13000</list_rental_price_amount>
         <construction_stage/>
@@ -4706,7 +4706,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_rent</sale_rent>
         <list_selling_price_amount></list_selling_price_amount>
         <list_rental_price_amount/>13000</list_rental_price_amount>
         <construction_stage/>
@@ -4784,7 +4784,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>500000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -4862,7 +4862,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>500000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -4940,7 +4940,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>500000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -5018,7 +5018,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>500000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -5096,7 +5096,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>500000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -5160,7 +5160,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>500000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -5238,7 +5238,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>500000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -5316,7 +5316,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>500000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -5394,7 +5394,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>500000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -5472,7 +5472,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>500000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -5550,7 +5550,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>500000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -5628,7 +5628,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_rent</sale_rent>
         <list_selling_price_amount>
         <list_rental_price_amount/>2000</list_rental_price_amount>
         <construction_stage/>
@@ -5706,7 +5706,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>500000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>new_construction</construction_stage>
@@ -5784,7 +5784,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>500000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -5862,7 +5862,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>500000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -5940,7 +5940,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>500000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -6018,7 +6018,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>500000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -6096,7 +6096,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>500000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>new_construction</construction_stage>
@@ -6174,7 +6174,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>500000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -6252,7 +6252,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>500000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -6330,7 +6330,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>500000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -6408,7 +6408,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>POA</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -6486,7 +6486,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>POA</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -6564,7 +6564,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>POA</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -6642,7 +6642,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>POA</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -6720,7 +6720,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount></list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -6798,7 +6798,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount></list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -6876,7 +6876,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>500000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>
@@ -6954,7 +6954,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>500000</list_selling_price_amount>
         <list_rental_price_amount/>
         <construction_stage/>new_construction</construction_stage>
@@ -7032,7 +7032,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_rent</sale_rent>
         <list_selling_price_amount></list_selling_price_amount>
         <list_rental_price_amount/>3000</list_rental_price_amount>
         <construction_stage/>
@@ -7111,7 +7111,7 @@
         <property_type>house</property_type>
         <property_subtype>maisonette_house</property_subtype>
         <status/>
-        <sale_rent>e</sale_rent>
+        <sale_rent>for_sale</sale_rent>
         <list_selling_price_amount>400000</list_selling_price_amount>
         <list_rental_price_amount/>
         <bedrooms>3</bedrooms>

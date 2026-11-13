@@ -4630,7 +4630,7 @@
         <status/>
         <sale_rent>for_rent</sale_rent>
         <list_selling_price_amount></list_selling_price_amount>
-        <list_rental_price_amount/>13000</list_rental_price_amount>
+        <list_rental_price_amount>13000</list_rental_price_amount>
         <construction_stage/>
         <bedrooms>3</bedrooms>
         <bathrooms>1</bathrooms>
@@ -4708,7 +4708,7 @@
         <status/>
         <sale_rent>for_rent</sale_rent>
         <list_selling_price_amount></list_selling_price_amount>
-        <list_rental_price_amount/>13000</list_rental_price_amount>
+        <list_rental_price_amount>13000</list_rental_price_amount>
         <construction_stage/>
         <bedrooms>3</bedrooms>
         <bathrooms>1</bathrooms>

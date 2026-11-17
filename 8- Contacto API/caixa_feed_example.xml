@@ -6409,8 +6409,9 @@
         <property_subtype>maisonette_house</property_subtype>
         <status/>
         <sale_rent>for_sale</sale_rent>
-        <list_selling_price_amount>POA</list_selling_price_amount>
+        <list_selling_price_amount/>
         <list_rental_price_amount/>
+        <price_qualifier>poa</price_qualifier>
         <construction_stage/>
         <bedrooms>3</bedrooms>
         <bathrooms>1</bathrooms>
@@ -6487,7 +6488,8 @@
         <property_subtype>maisonette_house</property_subtype>
         <status/>
         <sale_rent>for_sale</sale_rent>
-        <list_selling_price_amount>POA</list_selling_price_amount>
+        <price_qualifier>poa</price_qualifier>
+        <list_selling_price_amount/>
         <list_rental_price_amount/>
         <construction_stage/>
         <bedrooms>3</bedrooms>
@@ -6565,7 +6567,8 @@
         <property_subtype>maisonette_house</property_subtype>
         <status/>
         <sale_rent>for_sale</sale_rent>
-        <list_selling_price_amount>POA</list_selling_price_amount>
+        <price_qualifier>poa</price_qualifier>
+        <list_selling_price_amount/>
         <list_rental_price_amount/>
         <construction_stage/>
         <bedrooms>3</bedrooms>
@@ -6643,7 +6646,8 @@
         <property_subtype>maisonette_house</property_subtype>
         <status/>
         <sale_rent>for_sale</sale_rent>
-        <list_selling_price_amount>POA</list_selling_price_amount>
+        <price_qualifier>poa</price_qualifier>
+        <list_selling_price_amount/>
         <list_rental_price_amount/>
         <construction_stage/>
         <bedrooms>3</bedrooms>
@@ -6721,7 +6725,8 @@
         <property_subtype>maisonette_house</property_subtype>
         <status/>
         <sale_rent>for_sale</sale_rent>
-        <list_selling_price_amount></list_selling_price_amount>
+        <price_qualifier>poa</price_qualifier>
+        <list_selling_price_amount/>
         <list_rental_price_amount/>
         <construction_stage/>
         <bedrooms>3</bedrooms>
@@ -6799,7 +6804,8 @@
         <property_subtype>maisonette_house</property_subtype>
         <status/>
         <sale_rent>for_sale</sale_rent>
-        <list_selling_price_amount></list_selling_price_amount>
+        <price_qualifier>poa</price_qualifier>
+        <list_selling_price_amount/>
         <list_rental_price_amount/>
         <construction_stage/>
         <bedrooms>3</bedrooms>

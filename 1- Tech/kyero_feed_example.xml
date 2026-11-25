@@ -22,7 +22,7 @@
 		<country>España</country>
 		<province>HUESCA</province>
 		<town>Montanuy</town>
-		<location_detail>Centro</location_detail>
+		<location_detail></location_detail>
 		<cp>22474</cp>
 		<postal_code>22474</postal_code>
 		<location>
@@ -50,7 +50,7 @@
 		</url>
 		<desc>
 			<es>
-				<![CDATA[ Casa ocupada. Os presentamos una casa de pueblo con terreno a la venta, ideal para casa de Turismo Rural, Hotel con encanto, Viviendas de alquiler, o si te gusta vivir en espacios grandes se puede destinar a vivienda.~~Te podemos ayudar en todo lo que necesites para rehabilitar la casa, facilitarte los técnicos y profesiones de la zona que sin duda te podrán aconsejar y sugerir las mejores soluciones. ~~Al ser una edificación muy grande se puede dividir en varias partes, con lo que seguro que podemos adaptarlo a tus necesidades, dependiendo de tu presupuesto y preferencias. ~~No dejes pasar ésta gran oportunidad y reserva una cita para visitarla. Estás muy cerca de tomar la mejor decisión de tu vida. ~~ ]]>
+				<![CDATA[ Os presentamos una casa de pueblo con terreno a la venta, la mejor casa del mundo. Estás muy cerca de tomar la mejor decisión de tu vida. ~~ ]]>
 			</es>
 		</desc>
 		<title_extra/>
@@ -63,7 +63,6 @@
 			<feature>Water</feature>
 			<feature>Ceilings</feature>
 			<feature>Pergola</feature>
-			<feature>All Foreign</feature>
 			<feature>Mirador</feature>
 			<feature>Terrace</feature>
 			<feature>Garage</feature>

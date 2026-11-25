@@ -4,7 +4,7 @@
 		<feed_version>3</feed_version>
 	</kyero>
 	<property>
-		<id>0027</id>
+		<id>1027</id>
 		<date>2026-02-02 11:21:17</date>
 		<agencia>Adelante Inversiones</agencia>
 		<email>i.adelanteinversiones.9951@inmovilla.com</email>
@@ -22,7 +22,7 @@
 		<country>España</country>
 		<province>HUESCA</province>
 		<town>Montanuy</town>
-		<location_detail>Montanuy</location_detail>
+		<location_detail></location_detail>
 		<cp>22474</cp>
 		<postal_code>22474</postal_code>
 		<location>

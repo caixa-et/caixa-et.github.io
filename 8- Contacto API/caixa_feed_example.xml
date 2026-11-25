@@ -6146,6 +6146,7 @@
         </media>
         <parking>0</parking>
         <elevator>0</elevator>
+        <new_build>1</new_build>
         <custom_balcony>0</custom_balcony>
         <custom_es_terrace>1</custom_es_terrace>
         <custom_es_garden>1</custom_es_garden>
